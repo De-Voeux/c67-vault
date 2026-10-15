@@ -1,0 +1,537 @@
+                                                                                              ORIGINAL RESEARCH PAPER
+                                                                             Received: 05 Aug. 2022 | Accepted: 12 Sep. 2022
+
+
+Effects of Acadian Marine Plant Extract Powder (AMPEP) and ammonium phosphate as nutrient en-
+            richment on the ice-ice disease occurrence and growth performance of seaweed
+                                          Kappaphycus striatus
+
+
+                  Albaris B. Tahiluddin*       , Abdurazis J. Andon          , Mardrina A. Burahim
+
+ College of Fisheries, Mindanao State University-Tawi-Tawi College of Technology and Oceanography, Sanga-Sanga, Bongao,
+ 7500 Tawi-Tawi, Philippines
+ *Corresponding author e-mail: albarist20@gmail.com
+
+
+
+
+ ABSTRACT
+ Due to the frequent ice-ice disease outbreak and stagnant growth of Kappaphycus species, farmers and researchers
+ have been considering nutrient enrichment as one way of easing these issues to increase production to meet the growing
+ demand for carrageenan in the world market. In this study, we determined the effects of Acadian Marine Plant Extract
+ Powder (AMPEP) and ammonium phosphate as nutrient enrichment on the ice-ice disease occurrence and growth
+ performance of seaweed Kappaphycus striatus. The study used three treatments: T1 group = AMPEP at 0.01 g L-1, T2
+ group = ammonium phosphate [(NH4)3PO4], 16-20-0 at 8.82 g L-1, and T3 group = control. Nutrient-enriched seaweed
+ K. striatus was planted using the fixed-off bottom method for 45 days. Findings revealed that the growth performance
+ of the T2 group (6.1±0.14 % day-1) was significantly higher (p<0.05) after 30 days compared to the T1 group (5.56±0.16
+ % day-1) and control group (5.45±0.17 % day-1). In terms of ice-ice occurrence, the T1 group (0.57±0 %) was signifi-
+ cantly lower after 45 days of culture compared to the control group (59.67±27.32 %) but not significant with the T2
+ group (23.22±12.83 %). Our study suggests that AMPEP could effectively reduce ice-ice disease occurrence, while
+ ammonium phosphate could enhance the growth performance of K. striatus.
+ KEYWORDS: AMPEP, Kappaphycus, ice-ice disease, inorganic fertilizer, biofertilizer, biostimulant
+
+
+
+                                                             How to cite this article: Tahiluddin, A.B., Andon, A.J., Burahim, M.A. (2022)
+                                                                                 Effects of Acadian Marine Plant Extract Powder (AMPEP)
+                                                                                    and ammonium phosphate as nutrient enrichment on the
+                                                                                       ice-ice disease occurrence and growth performance of
+                                                                                                              seaweed Kappaphycus striatus.
+                                                                                                                       MedFAR., 5(2):37-46.
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.                                     MedFAR (2022) 5(2): 37-46
+
+
+
+1. Introduction
+    Eucheumatoid species, such as Eucheuma              natural environment, Kappaphycus cultiva-
+spp. and Kappaphycus spp., are among the                tion typically relies on the natural fertility of
+important commercial seaweeds farmed                    the seawater (Luhan et al., 2015). With the
+globally, especially in tropical regions. Their         aim of skyrocketing the production of Kap-
+importance is due to the high content of car-           paphycus to meet the growing demand, the
+rageenan – a phycocolloid that has a vast ar-           application of biofertilizer/biostimulant, like
+ray of applications in food and non-food in-            AMPEP (Borlongan et al., 2011; Hurtado et
+dustries (Tahiluddin and Terzi, 2021).                  al., 2012; Loureiro et al., 2012; Hurtado and
+Roughly 11 million tons, or 34% of the total            Critchley, 2013; Loureiro et al., 2017; Ti-
+aquatic plants’ world production, came from             bubos et al., 2017; Hurtado and Critchley,
+eucheumatoid        production      in    2018          2018; Ali et al., 2018a; Ali et al., 2018b) and
+(FAO, 2020). About 5% of these aquatic                  seaweed liquid extract (Tahiluddin et al.,
+plants’ production is mainly contributed by             2022a), as well as inorganic fertilizers, such
+Kappaphycus species (FAO, 2020). Kap-                   as urea and sodium nitrate (Luhan et al.,
+paphycus striatus is one of the popularly cul-          2015; Sarri et al., 2022) and ammonium
+tivated eucheumatoid species globally (Tahi-            phosphate (Tahiluddin et al., 2021a; Tahilud-
+luddin et al., 2022a). However, numerous                din et al., 2021b; Tahiluddin et al., 2022b),
+factors have been determined to affect the              have been the focus of the previous and re-
+sustainability of eucheumatoid aquaculture.             cent studies, which provided promising re-
+Among these are stagnant growth due to less             sults in increasing the growth performance
+productive farms attributed to nutrient deple-          and reducing the occurrence of ice-ice dis-
+tion as well as the frequent outbreak of ice-           ease and epiphytes. Although inorganic ferti-
+ice disease occurrence (Luhan et al., 2015;             lizers facilitate easy access due to their avail-
+Tahiluddin and Terzi, 2021; Tahiluddin et al.,          ability as commonly used fertilizers for agri-
+2022b). Hence, farmers in the southern Phil-            cultural plants, their uses and practices may
+ippines have been incorporating inorganic               threaten the natural environment and com-
+nutrient enrichment to help ease these issues           promise the carrageenan quality of seaweeds
+(Tahiluddin et al., 2022b).                             (Robles, 2020; Tahiluddin et al., 2022b). In
+    Nutrient enrichment is usually applied to           this study, we determined the effects of bio-
+Kappaphycus micropropagation under labor-               fertilizer/biostimulant (AMPEP) and inor-
+atory conditions, either using biofertilizer/bi-        ganic fertilizer (ammonium phosphate, 16-
+ostimulant or inorganic fertilizer (Hurtado et          20-0) on the ice-ice disease occurrence and
+al., 2009; Luhan and Mateo, 2017). In the               growth performance of Kappaphycus stria-
+                                                        tus.
+
+2. Material and Methods
+Study Site, Duration and Seedlings                      Transporting and Conditioning of Seed-
+                                                        lings
+    This study was conducted on the coastal
+                                                           The seedlings were placed inside the
+water of Pasiagan, Bongao, Tawi-Tawi, Phil-
+                                                        styrofoam by adding the Sargassum sp. at the
+ippines (Figure 1), with a duration of 45 days
+                                                        bottom and top to avoid the stress of sea-
+from January 14 to February 27, 2019. The
+                                                        weeds during transportation. Upon arrival at
+healthy and untreated seedlings of K. striatus
+                                                        the farm site, seedlings inside the styrofoam
+were obtained from the farmer at the study
+                                                        were submerged gradually and planted for
+site.
+                                                        three days for acclimatization.
+
+
+
+
+                                                   38
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.                                   MedFAR (2022) 5(2): 37-46
+
+
+
+Preparation of Seedlings                               fertilizer (16-20-0) with a concentration of
+                                                       8.82 g L-1 (Tahiluddin et al., 2022b), and T3
+   Seedlings of K. striatus were prepared by
+                                                       group for control. Every three lines were
+cutting them into 50 g each. Using soft straw,
+                                                       dipped in each solution simultaneously for 30
+the seedlings were tied into a 5 m rope line at
+                                                       seconds and covered with canvas overnight
+an interval of 25 cm. There were 20 bunches
+                                                       (12-15 hours). Used fertilizers were dis-
+(seedlings) in each line, and a total of nine
+                                                       charged to an excavated land. Every 15 days
+lines were prepared to represent three repli-
+                                                       of culture, seaweeds were re-enriched with
+cates in each treatment.
+                                                       nutrients following the same procedure.
+Nutrient Enrichment of Seedlings
+                                                       Planting of Seedlings
+   Nutrient enrichment of seedlings was
+                                                          Seedlings were transported from the house
+done late in the afternoon following the pro-
+                                                       to the farm site within 10-15 minutes via a
+cedure of Tahiluddin et al. (2022b). Three
+                                                       small boat. Long exposure to the sun, rain,
+fertilizer solutions were prepared; T1 group
+                                                       and winds was avoided. Seedlings were
+represented by biofertilizer/biostimulant
+                                                       planted randomly using a fixed off-bottom
+(AMPEP) with a concentration of 0.1 g L-1
+                                                       method in a randomized complete block de-
+(Hurtado et al., 2012), T2 group for inorganic
+                                                       sign.
+
+
+
+
+Figure 1. Study site.
+
+
+Growth Sampling                                        smooth cloth to remove water from the
+                                                       thalli’s surface before weighing. Growth (µ),
+    The growth rate of seedlings was moni-
+                                                       expressed as the specific growth rate (SGR),
+tored every 15 days. This was done by weigh-
+ing 25% of the lines (5 bunches per line) for          was calculated using the following formula
+                                                       (Luhan et al., 2015).
+all treatments. Seaweeds were patted with a
+
+
+                                                  39
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.                               MedFAR (2022) 5(2): 37-46
+
+
+
+                In (Wf )-In (Wi )                          Where: Wf = final weigh
+           μ=                     ×100                            Wi = initial weight
+                 Days of culture
+                                                                  µ = specific growth rate
+
+
+Ice-ice Disease Occurrence Sampling                  Infected bundles were counted, and the per-
+                                                     cent ice-ice disease occurrence was calcu-
+  A sampling of ice-ice disease occurrence
+                                                     lated using the formula below (Largo et al.,
+was done every 15 days of culture. This was
+                                                     1995).
+done through visual inspection.
+
+                                            Number of infected bunches
+                      Ice-ice % occurrence = total number of bunches x 100
+
+
+Monitoring of Water Parameters and                   Data Analysis
+Maintenance                                             One-way analysis of variance (ANOVA)
+   On a weekly basis, the farm area was vis-         was used to test the significance among
+ited to maintain the farm's cleanliness. This        treatments in terms of growth performance
+was done by removing all attached silt, epi-         and ice-ice disease occurrence using IBM
+phytes, and predators. Water parameters              SPSS version 20. Post Hoc (Duncan) was
+such as temperature and salinity were deter-         used to rank the means of the treatments.
+mined every seven days using a thermome-
+ter and refractometer, respectively. Water
+current, pH, and depth were measured using
+an improvised drogue, pH meter (Smart
+Sensor), and calibrated rope, respectively.
+
+3. Results
+   On day 15, T1 group (AMPEP), T2 group             washed out due to an extensive ice-ice dis-
+(16-20-0), and T3 group (Control) obtained           ease outbreak.
+specific growth rates (SGR) of 5.31±0.28 %              The mean weight of K. striatus is shown
+days -1, 5.82±0.29 % day -1, and 5.62±0.22           in Figure 3. At 15 days of culture, there was
+% day -1, respectively (Figure 2). One-way           no significant difference (p>0.05) among
+ANOVA revealed that there was no signifi-            the treatments with mean weights of
+cant difference (p>0.05) among the treat-            112±4.23 g (T1 group), 121±4.95 g (T2
+ments. On day 30, T1, T2, and T3 groups              group), and 118±3.64 g (T3 group). On day
+gained SGRs of 5.56±0.16 % day -1,                   30, T1, T2, and T3 groups obtained mean
+6.1±0.14 % day -1, and 5.45±0.17 % day -1,           weights of 269±12.95 g, 320±13.31 g, and
+respectively. One-way ANOVA showed                   261±12.04 g, respectively. One-way
+that the T2 group was significantly higher           ANOVA revealed that the T2 group was sig-
+(p<0.05) than T1 and T3 groups. However,             nificantly higher (p<0.05) than T1 and T3
+on day 45, only T1 group subsamples re-              groups. At 45 days of culture, however,
+mained with an SGR of 4.27±0.01 % day-1.             only T1 group subsamples were left with a
+Subsamples of T2 and T3 groups were                  mean weight of 342±18.46 g.
+
+
+
+
+                                                40
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.                                                                    MedFAR (2022) 5(2): 37-46
+
+
+
+                                      7
+                                                     a                      a
+
+
+
+
+     Specific Growth Rate (% day-1)
+                                      6                      a     b
+                                               a                                  b
+                                      5
+
+                                      4
+                                                                                                                       T₁ = AMPEP
+                                      3                                                                                T₂ = 16-20-0
+                                                                                                                       T₃ = Control
+                                      2
+
+                                      1
+
+                                      0
+                                                   15 days              30 days                   45 days
+
+                                              Sampling period
+                                                                       -1
+Figure 2. Specific growth rate (% day ) of Kappaphycus striatus in every sampling. Bars with
+different letters are significantly different at p<0.05. Errors bars in SEM (standard error of the
+mean), n=14-15.
+
+
+                                      400
+
+                                      350                                                 a
+                                      300                                             b       b
+                                      250
+
+
+               Weight (g)
+                                                                                                                     T₁ = AMPEP
+                                      200
+                                                                                                                     T₂ = 16-20-0
+                                      150
+                                                                 a a a                                               T₃ = Control
+                                      100
+                                                   a a a
+                                          50
+
+                                           0
+                                                    Day 0        Day 15                Day 30          Day 45
+                                                                  Sampling period
+
+Figure 3. Mean weight of Kappaphycus striatus in every sampling. Bars with different letters
+are significantly different at p<0.05. Errors bars in SEM (standard error of the mean), n= 14-
+15.
+
+The ice-ice disease occurrence of cultivated                                              significant difference (p>0.05) among the
+nutrient-enriched K. striatus was not ob-                                                 treatments were detected. On day 45, the T1
+served after 15 days of culture. However, on                                              group (0.57±0 %) was significantly
+day 30, the ice-ice disease appeared, and the                                             (p<0.05) lower than the T3 group
+T2 group (5±0.36 %) recorded the lowest                                                   (59.67±27.32 %) but not significant as the
+ice-ice disease than the T1 group (12±0.77                                                T2 group (23.22±12.83 %) (Figure 4).
+%) and the T3 group (22±0.74 %), but no
+
+
+                                                                                  41
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.                                                   MedFAR (2022) 5(2): 37-46
+
+
+
+                                     100
+
+
+
+
+    Ice-ice disease occurrence (%)
+                                     90                                                    a
+                                     80
+                                     70
+                                     60
+                                     50                                                                T1 = AMPEP
+                                     40                            a                  ab               T2= 16-20-0
+                                     30                   a                                            T3=Control
+                                     20                       a
+                                     10                                           b
+                                           a a a
+                                      0
+                                            15                30                      45
+                                                   Sampling period (days)
+
+Figure 4. Ice-ice disease occurrence (%) of Kappaphycus striatus in every sampling. Bars with
+different letters are significantly different at p<0.05. Errors bars in SEM (standard error of the
+mean), n= 2-20.
+
+Physico-chemical Parameters of the K.                                   ranging from 0.15±0.23 m s-1 to 3.92±1.45
+striatus Farm                                                           m s-1. The water depth of the farm ranged
+                                                                        from 7.67±0.06 cm during low tide to
+   The temperature of the farm water varied
+                                                                        141±1.49 cm during high tide. These indi-
+during the culture period ranging from 26±0
+                                                                        cate that all water parameters were within
+o
+ C to 31±0.03 oC. The salinity fluctuated
+                                                                        the optimum condition for cultured sea-
+throughout the sampling period ranging
+                                                                        weed.
+from 32±0 to 35±0.03‰. pH ranged from
+8.18±0.09 to 8.26±0.01. Water current ve-
+locity varied depending on depth and tide,
+
+4. Discussion
+    Growth of K. striatus enriched with inor-                           sential for increasing the growth of sea-
+ganic fertilizer (16-20-0, N P K) was high-                             weed. In another study, the 12 hours of im-
+est (5.82±0.29 % day -1) at 30 days of the                              mersion of K. alvarezii in 0.01 g L-1 sodium
+culture. The concentration of inorganic fer-                            nitrate resulted in a significant specific
+tilizer (8.82 g L-1) was higher than the bio-                           growth rate (2.34 % day-1) cultured in a
+fertilizer/biostimulant (0.1 g L-1). A similar                          grow-out cage for 45 days (Luhan et al.,
+study revealed that inorganic fertilizer (16-                           2015).
+20-0) with a concentration of 8.82 g L-1 was                               Biofertilizer/biostimulant      (AMPEP)
+                                                                                                        -1
+effective in increasing the growth rate (4.5                            with a concentration of 0.1 g L after 15-30
+% day-1) after 28 days and consistently ob-                             days of farming did not affect the growth of
+tained a higher growth rate up to 49 days                               K. stiatus but remained higher in the num-
+(Tahiluddin et al., 2022b). Ammonium                                    ber of bunches after 45 days, with an SGR
+phosphate (16-20-0) at a concentration of 9                             of 4.27±0.01 % day-1. In the study of Hur-
+g L-1, when enriched to K. striatus, signifi-                           tado et al. (2012), they found out that the
+cantly improved the total nitrogen content                              AMPEP with a concentration of 1.0 g L-1
+(Tahiluddin et al., 2021); thereby, when                                dipped for 60 minutes obtained a higher
+planted, it provides additional nutrients es-                           growth rate (7.7±0 % day-1) in K. alvarezii
+                                                                        after 45 days. Similarly, Loureiro et al.
+
+
+                                                                   42
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.                                MedFAR (2022) 5(2): 37-46
+
+
+
+(2013) obtained a positive result on the              for this malaise (Tahiluddin et al., 2022b).
+growth rate (7.3±1.7 % day-1) of K. al-               In this study, biofertilizer /biostimulant
+varezii after 45 days of culture using AM-            (AMPEP) as nutrient enrichment for K. stri-
+PEP. Furthermore, K. alvarezii and K. stri-           atus was determined as effective in reduc-
+atus in a tank culture system enriched with           ing the ice-ice disease occurrence after 45
+AMPEP resulted in a significant growth rate           days. Loureiro et al. (2012) reported that
+(2.0±0.03 % day-1) after 40 days of culture           AMPEP could serve as protection to K. al-
+(Zuldin and Shapawi, 2015). Borlongan et              varezii from the ice-ice and epiphyte Ne-
+al. (2011) used AMPEP with a concentra-               osiphonia sp. (now Melanothamnus sp.) in
+tion of 0.1 g L−1 dipped for 30 minutes and           Kappaphycus varieties, which has a “vac-
+gained a significant growth rate of 1.3-4.1           cine-like effect.” Similarly, the percentage
+% day-1 in K. alvarezii after 45 days.                of ice-ice disease was significantly lower
+    Ice-ice disease in the Kappaphycus                (28%) in AMPEP-treated K. striatus com-
+farms has been attributed to changes in wa-           pared with the control (45%) after 45 days
+ter parameters, such as temperature, light            (Illud, 2020). It is thought that the mode of
+intensity, salinity, and/or the presence of           action of AMPEP’s efficacy in ameliorating
+opportunistic marine-derived fungi and ma-            damaging disease outbreak outcomes is via
+rine bacteria (Tahiluddin and Terzi, 2021a;           elicitating alga’s natural defense mecha-
+Tahiluddin and Terzi, 2021b; Bermil et al.,           nism against pathogenic microorganisms
+2022). In the Philippines, the ice-ice disease        (Hurtado and Critchley, 2013; Loureiro et
+is widespread in eucheumatoid farms (Fai-             al., 2017).
+san et al., 2021). In Tawi-Tawi, the ice-ice
+disease is a lingering issue in Kappaphycus
+farms, and nutrient enrichment using inor-
+ganic fertilizers is an emerging treatment
+
+5. Conclusion
+    The incorporation of nutrient enrichment          weed enriched with biofertilizer /biostimu-
+in the farming of red seaweed Kappaphycus             lant (AMPEP). Further studies need to be
+striatus renders an improved growth for               evaluated using different concentrations,
+seaweed enriched with inorganic fertilizer            soaking time, species, farm areas, and dura-
+(ammonium phosphate, 16-20-0) and re-                 tion. Carrageenan quality also needs to be
+duced ice-ice disease occurrence for sea-             determined using these fertilizers.
+
+
+Acknowledgments
+  The authors are grateful to Ainulyakin H.
+Imlani and Gerly-ayn J.Tupas for their com-
+ments and suggestions.
+
+
+
+
+                                                 43
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.                                  MedFAR (2022) 5(2): 37-46
+
+
+
+References
+
+Ali, M.K.M., Yasir, S.M., Critchley, A.T.,             Hurtado, A.Q., Critchley, A.T. (2013) Impact
+     Hurtado, A.Q. (2018) Impacts of                       of Acadian marine plant extract powder
+     Ascophyllum marine plant extract pow-                 (AMPEP) in Kappaphycus produc-
+     der (AMPEP) on the growth, incidence                  tion. Malaysian Journal of Science, 32:
+     of the endophyte Neosiphonia apiculata                239-252.
+     and associated carrageenan quality of             Hurtado, A.Q., Critchley, A.T. (2018) A re-
+     three commercial cultivars of Kappaphy-               view of multiple biostimulant and bioef-
+     cus. Journal of Applied Phycol-                       fector benefits of AMPEP, an extract of
+     ogy, 30(2): 1185-1195.                                the brown alga Ascophyllum nodosum,
+Ali, M.M., Sani, M.Z.B., Hi,K.K., Yasir,                   as applied to the enhanced cultivation
+     S.M., Critchley, A.T., Hurtado, A.Q.                  and micropropagation of the commer-
+     (2018) The comparative efficiency of a                cially important red algal carrageeno-
+     brown algal-derived biostimulant extract              phyte Kappaphycus alvarezii and its se-
+     (AMPEP), with and without supple-                     lected cultivars. Journal of Applied Phy-
+     mented PGRs: the induction of direct,                 cology, 30(5): 2859-2873.
+     axis shoots as applied to the propagation         Hurtado, A.Q., Joe, M., Sanares, R.C., Fan,
+     of vegetative seedlings for the successful            D., Prithiviraj, B., Critchley, A.T. (2012)
+     mass cultivation of three commercial                  Investigation of the application of Aca-
+     strains of Kappaphycus in Sabah, Malay-               dian Marine Plant Extract Powder (AM-
+     sia. Journal of Applied Phycol-                       PEP) to enhance the growth, phenolic
+     ogy, 30(3): 1913-1919.                                content, free radical scavenging, and iron
+Bermil, A.B., Hamisain, J.B.D., Tahiluddin,                chelating activities of Kappaphycus
+    A.B., Jumdain, R.T., Toring-Farquerbao,                Doty (Solieriaceae, Gigartinales, Rhodo-
+    M.L.B. (2022) Abundance of Marine-de-                  phyta). Journal of applied phycol-
+    rived Fungi in Nutrient-enriched Kap-                  ogy, 24(3): 601-611.
+    paphycus Species. Journal of Biometry              Hurtado, A.Q., Joe, M., Sanares, R.C., Fan,
+    Studies, 2(1): 1-6.                                    D., Prithiviraj, B., Critchley, A.T. (2012)
+    https://doi.org/10.29329/JofBS.2022.44                 Investigation of the application of Aca-
+    4.01                                                   dian Marine Plant Extract Powder (AM-
+Borlongan, I.A.G., Tibubos, K.R., Yunque,                  PEP) to enhance the growth, phenolic
+    D.A.T., Hurtado, A.Q., Critchley, A.T.                 content, free radical scavenging, and iron
+    (2011) Impact of AMPEP on the growth                   chelating activities of Kappaphycus
+    and occurrence of epiphytic Neosiphonia                Doty (Solieriaceae, Gigartinales, Rhodo-
+    infestation on two varieties of commer-                phyta). Journal of applied phycol-
+    cially cultivated Kappaphycus alvarezii                ogy, 24(3):601-611.
+    grown at different depths in the Philip-           Hurtado, A.Q., Yunque, D.A., Tibubos, K.,
+    pines. Journal of Applied Phycol-                      Critchley, A.T. (2009) Use of Acadian
+    ogy, 23(3): 615-621.                                   marine plant extract powder from
+Faisan, J.P., Luhan, M., Rovilla, J., Sibonga,             Ascophyllum nodosum in tissue culture
+    R.C., Mateo, J.P., Ferriols, V.M.E.N.,                 of Kappaphycus varieties. Journal of
+    Hurtado, A.Q. (2021) Preliminary sur-                  Applied Phycology, 21(6): 633-639.
+    vey of pests and diseases of eucheuma-
+    toid seaweed farms in the Philip-
+    pines. Journal of Applied Phycol-
+    ogy, 33(4): 2391-2405.
+
+
+
+
+                                                  44
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.                                  MedFAR (2022) 5(2): 37-46
+
+
+
+Illud, H. (2020) Effects of organic fertilizers        Sarri, J., Abdulmutalib, Y., Tilka, M.M.,
+     on the growth performance, “ice-ice”                   Terzi, E., Tahiluddin, A. (2022) Effects
+     disease occurrence and carrageenan                     of inorganic nutrient enrichment on the
+     quality of farmed seaweed Kappaphycus                  carrageenan yield, growth, and ice-ice
+     striatus (F. Schmitz) Doty Ex. P.C. Silva.             disease occurrence of red alga Kap-
+     International Journal of Mechanical and                paphycus striatus. Aquatic Research, 5
+     Production Engineering Research and                    (2), 99-109.
+     Development, 10(3): 12313-12330.                  Tahiluddin, A.B., Diciano, E.J., Robles,
+Loureiro, R.R., Hurtado, A.Q., Critchley,                  R.J.F., Akrim, J.P. (2021a) Influence of
+    A.T. (2017) Impacts of AMPEP on Epi-                   different concentrations of ammonium
+    phytes and Diseases in Kappaphycus and                 phosphate on nitrogen assimilation of red
+    Eucheuma Cultivation. In: Hurtado, A.,                 seaweed Kappaphycus striatus. Journal
+    Critchley, A., Neish, I. (eds) Tropical                of Biometry Studies, 1(2): 39-44.
+    Seaweed Farming Trends, Problems and                   https://doi.org/10.29329/JofBS.2021.34
+    Opportunities. Developments in Applied                 9.01
+    Phycology, vol 9. Springer, Cham.                  Tahiluddin, A.B., Nuñal, S.N., Luhan,
+    https://doi.org/10.1007/978-3-319-                     M.R.J., Santander–de Leon, S.M.S.
+    63498-2_6                                              (2021b) Vibrio and heterotrophic marine
+Loureiro, R.R., Reis, R.P., Berrogain, F.D.,               bacteria composition and abundance in
+    Critchley, A.T. (2012) Extract powder                  nutrient-enriched Kappaphycus striatus.
+    from the brown alga Ascophyllum                        Philippine Journal of Science, 150 (6B),
+    nodosum (Linnaeus) Le Jolis (AMPEP):                   1549-1761.
+    a “vaccine-like” effect on Kappaphycus             Tahiluddin, A.B., Terzi, E. (2021a) Ice-ice
+    alvarezii (Doty) Doty ex PC Silva. Jour-               disease in commercially cultivated sea-
+    nal of Applied Phycology, 24(3): 427-
+                                                           weeds Kappaphycus spp. and Eucheuma
+    432.                                                   spp.: A review on the causes, occurrence,
+Luhan, M.R.J., Mateo, J.P. (2017) Clonal                   and control measures. Marine Science
+    production of Kappaphycus alvarezii                    and Technology Bulletin, 10(3): 234-
+    (Doty) Doty in vitro. Journal of Applied               243.
+    Phycology, 29(5), 2339-2344.                           https://doi.org/10.33714/masteb.917788
+Luhan, M.R.J., Avañcena, S.S., Mateo, J.P.             Tahiluddin, A.B., Terzi, E. (2021b) An Over-
+    (2015) Effect of short-term immersion of               view of Fisheries and Aquaculture in the
+    Kappaphycus alvarezii (Doty) Doty in                   Philippines. Journal of Anatolian
+    high nitrogen on the growth, nitrogen as-              Environmental and Animal Science,
+    similation, carrageenan quality, and oc-               6(4):475-486.
+    currence of “ice-ice” disease. Journal of          Tahiluddin, A.B., Irin, S.S.H., Jumadil, K.S.,
+    Applied Phycology, 27(2): 917-922.                     Muddihil, R.S., Terzi, E. (2022a) Use of
+Robles, R.J.F. (2020) Effects of different con-            brown seaweed extracts as bio-fertilizers
+    centrations of ammonium phosphate on                   and their effects on the carrageenan
+    the yield and quality of carrageenan,                  yield, ice-ice disease occurrence, and
+    Kappaphycus striatus (Schmitz) Doty ex                 growth rate of the red seaweed Kap-
+    Silva. Journal of Fisheries, Livestock                 paphycus striatus. Yuzuncu Yil Univer-
+    and Veterinary Science, 1(1): 1-9.                     sity Journal of Agri cultural Sciences, 32
+                                                           (2): 436-447.
+
+
+
+
+                                                  45
+Tahiluddin, A.B., Andon, A.J., Burahim, M.A.        MedFAR (2022) 5(2): 37-46
+
+
+
+Tahiluddin, A.B., Nuñal, S.N., Santander–de
+    Leon, S.M.S. (2022b) Inorganic nutrient
+    enrichment of seaweed Kappaphycus:
+    Farmers’ practices and effects on growth
+    and ice-ice disease occurrence. Regional
+    Studies in Marine Science, 55:
+    102593.https://doi.org/10.1016/j.rsma.2
+    022.102593
+Tibubos, K.R., Hurtado, A.Q., Critchley,
+    A.T. (2017) Direct formation of axes in
+    new plantlets of Kappaphycus alvarezii
+    (Doty) Doty, as influenced by the use of
+    AMPEP K+, spindle inhibitors, and plant
+    growth hormones. Journal of Applied
+    Phycology, 29(5): 2345-2349.
+Zuldin, W.H., Shapawi, R. (2015) Perfor-
+    mance of red seaweed (Kappaphycus
+    sp.) cultivated using tank culture sys-
+    tem. Journal of Fisheries and Aquatic
+    Science, 10(1): 1.
+
+
+
+
+                                               46
+

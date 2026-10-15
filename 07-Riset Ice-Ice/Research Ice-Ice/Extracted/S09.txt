@@ -1,0 +1,611 @@
+       Mar. Sci. Tech. Bull. (2021) 10(3): 234-243                                                      dergipark.org.tr/en/pub/masteb
+       e–ISSN: 2147–9666                                                                                              www.masteb.com
+       info@masteb.com                                                                                   DOI: 10.33714/masteb.917788
+
+
+
+
+                                                          REVIEW PAPER
+
+   Ice-ice disease in commercially cultivated seaweeds Kappaphycus spp. and
+   Eucheuma spp.: A review on the causes, occurrence, and control measures
+
+   Albaris Beteh Tahiluddin1,2 *                    • Ertugrul Terzi3
+   1
+       Mindanao State University-Tawi-Tawi College of Technology and Oceanography, College of Fisheries, Sanga-Sanga, Bongao, 7500
+   Tawi-Tawi, Philippines
+   2
+       Kastamonu University, Institute of Science, Department of Aquaculture, 37200 Kastamonu, Turkey
+   3
+       Kastamonu University, Faculty of Fisheries, 37200 Kastamonu, Turkey
+
+   ARTICLE INFO                                  ABSTRACT
+      Article History:                               Kappaphycus spp. and Eucheuma spp. are two economically significant seaweed species
+   Received: 16.04.2021
+                                                 cultivated globally due to their carrageenan content with numerous commercial
+   Received in revised form: 26.05.2021
+                                                 applications. They are mainly cultivated in the Philippines, Indonesia, Malaysia, and
+   Accepted: 26.05.2021
+                                                 Tanzania. The culture of these seaweeds also provides income sources for many coastal
+   Available online: 07.06.2021
+                                                 dwellers. In 2018, the total global production from these seaweeds was about 11 million
+         Keywords:
+                                                 tonnes. One of the primary problems that affect seaweed production is the incidence of ice-
+   Eucheuma
+                                                 ice disease. In this article, we reviewed the reported scientific journals on the ice-ice disease
+   Ice-ice disease
+   Kappaphycus                                   of two commercially cultured seaweed species (Kappaphycus spp. and Eucheuma spp.),
+   Seaweed farming                               focusing mainly on causes, occurrence, and control measures. The ice-ice disease is caused
+                                                 by both abiotic and biotic factors manifested by the presence of white and soft parts in the
+                                                 infected seaweeds. The occurrence of this disease varies from species, places, and seasons.
+                                                 Control measures may include proper farm management, polyculture with other seaweeds,
+                                                 pre-soaking with antibacterial substances and nutrient enrichment before out-planting,
+                                                 and possibly using genetic engineering.
+
+            Please cite this paper as follows:
+
+            Tahiluddin, A. B., & Terzi, E. (2021). Ice-ice disease in commercially cultivated seaweeds Kappaphycus spp. and Eucheuma spp.: A
+            review on the causes, occurrence, and control measures. Marine Science and Technology Bulletin, 10(3), 234-243.
+            https://doi.org/10.33714/masteb.917788
+
+
+   Introduction                                                               carrageenan source, a phycocolloid, with various usage area in
+                                                                              commercial applications as a thickening, gelling, and binding
+   Commercial seaweed species like Kappaphycus spp. and                       agents in food products and sauces, as well as in experimental
+Eucheuma spp. are significant seaweed species used as a                       medicine, pharmaceutical cosmetics, formulations, and
+
+   * Corresponding author
+   E-mail address: albarist20@gmail.com (A. B. Tahiluddin)
+                                                                        234
+                         Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+industrial applications (Necas & Bartosikova, 2013; Loureiro et             particularly the causes, occurrence, and treatments. Thus, this
+al., 2017a). Nearly 90% of the world’s carrageenan comes from               paper reviewed all the reported papers on the ice-ice disease, its
+these seaweed species primarily cultured in Indonesia and the               causes, occurrence, and control measures, focusing on the
+Philippines (Campbell & Hotchkiss, 2017). The annual global                 Kappaphycus and Eucheuma species commonly cultivated
+production of carrageenan is over 60,000 tons with a gross                  worldwide.
+market value of US$ 626 million (Rhein-Knudsen et al., 2015).
+                                                                               Methods
+In many coastal tropical and sub-tropical countries, these
+seaweeds' farming is an essential livelihood source (Hayashi et
+                                                                               This study reviewed the available articles from the literature
+al., 2017). The combined world production of these seaweeds in
+                                                                            by searching keywords such as ice-ice disease, Kappaphycus,
+2018 was around 11 million metric tons comprising 34% of the
+                                                                            and Eucheuma in Scopus and Mendeley databases published
+total seaweed production globally (FAO, 2020).
+                                                                            from 1977 to 2021. Online and printed theses related to this
+    One of the main hurdles in the farming of these macroalgae              study were also considered. Articles published beyond the time
+is diseases, e.g., ice-ice disease and epiphyte infestation (Largo,         of writing this review were not included.
+2002). These diseases developed due to increased farm size and
+culture practices intensification (Vairappan, 2006). These are                 Occurrence of Ice-ice Disease
+responsible for many seaweed seedlings losses, influencing both
+                                                                               The occurrence of the ice-ice disease varies from place to
+biomass quantity and quality, which primarily affect
+                                                                            place and season. In Lian Bay, Hainan Province, China, the
+marginalized coastal villages relying on seaweed farming as a
+                                                                            outbreak pattern in Kappaphycus spp. mostly occur from May
+sole income source (Loureiro et al., 2017b).
+                                                                            to August, and October is the month where the outbreak
+    Ice-ice disease, in particular, is the most prevailing problem          pattern is the same with epiphyte Neosiphonia savatieri (Pang
+seen in the farming of eucheumatoids worldwide. This disease                et al., 2015). Similarly, the month of April, October, and
+is caused primarily by stressful environmental conditions, as               December noted the highest ice-ice incidence of Kappaphycus
+Largo et al. (1995a) demonstrated in laboratory experiments
+                                                                            alvarezii and Eucheuma denticulatum in Bais Bay, Negros
+and likewise observed in the farm field (Arisandi & Farid,
+                                                                            Oriental and Zamboanga del Norte, Philippines, which ranged
+2014). Pathogenic bacteria further degrade the diseased
+                                                                            from about 52 to 56% (Tisera & Naguit, 2009). Furthermore, in
+seaweeds lead to eventual thalli disintegration (Largo et al.,
+                                                                            Zamboanga City and Zamboanga del Sur, Philippines, the ice-
+1995b). Marine-derived fungi also play an important role in ice-
+                                                                            ice disease occurrence of K. alvarezii ranged from about 22 to
+ice disease induction (Solis et al., 2010). This disease is
+                                                                            40% observed during July to September (Alibon et al., 2019).
+characterized by the appearance of white and soft parts on the
+                                                                            Farmed K. alvarezii in Mannar Gulf and Palk Bay, Southern
+infected seaweeds’ thalli.
+                                                                            India, also experienced ice-ice occurrence in March and April
+    Disease problems (ice-ice disease and epiphyte infestations)            (Arasamuthu & Edward, 2018). Even in Zanzibar, Tanzania, the
+in eucheumatoid farming have resulted in shrinking culture                  development of ice-ice disease was tremendous during
+stocks and decreased quality of carrageenan, resulting in low               February – March (hot, dry season) and typically diminished
+market value and income and job opportunities losses,                       during May – June (wet season) by up to 99% (Largo et al.,
+especially for marginal seaweed farmers (Ward et al., 2020). In             2020). A month of May was also recorded a high ice-ice disease
+the Philippines, ice-ice disease occurrence and epiphyte                    incidence ranging from 70% to 87% in Calaguas Is., Camarines
+infestations have a drastic effect, causing 15% Kappaphycus                 Norte, Philippines (Hurtado et al., 2006). In South Sulawesi,
+production losses between 2011 and 2013 (Cottier-Cook et al.,               Indonesia, the ice-ice disease occurred in September – October
+2016). In Zanzibar, Tanzania, these diseases and pests become               (dry season) after the emergence of epiphytic infestation
+a menace to the commercially cultivated eucheumatoids,                      (Badraeni et al., 2020). The occurrence of this disease indicates
+affecting seaweed farmers (Largo et al., 2020). Ice-ice disease             that most of the mentioned months are associated with
+lowers the carrageenan quality of Kappaphycus striatus “sacol”              environmental factors such as elevated temperature and low
+strain; hence, removing the diseased portion is recommended                 salinity, which are separately discussed below.
+before drying (Mendoza et al., 2002).
+
+    Only a few reviews on cultivated seaweeds’ pests and
+diseases are available (Largo, 2002; Ward et al., 2020). No recent
+review articles are available that focus on ice-ice disease,
+
+                                                                      235
+                        Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+
+   Environmental Factors Causing Ice-Ice Diseases                          crowding due to overstocking of the branches in the lines and
+Development                                                                hindrance due to epiphytes presence, which may create an
+                                                                           artificial effect that is lethal. Hence, ice-ice disease development
+   Temperature                                                             in the farms is typically associated with epiphytes incidence
+                                                                           (Trono & Ohno, 1989; Uyenco et al., 1977). In Zanzibar,
+   It has been demonstrated in the laboratory experiment of
+                                                                           Tanzania, seaweeds, farmed in shallow intertidal lagoons nearly
+Largo et al. (1995a) that stressful environmental conditions are
+                                                                           in direct contact with seafloor bottom during low tides, received
+detrimental to cultivated K. alvarezii. In their temperature
+                                                                           extreme levels of light intensity and temperature caused ice-ice
+experiments, seaweeds incubated on the weekly interval in two
+                                                                           disease outbreak (Largo et al., 2020).
+sets of temperature regimes starting from 25°C up to 35°C and
+from 20°C down to 15°C in a stepwise manner and revealed that                 Nutrients
+extreme temperatures (33°C–35°C) caused extensive whitening
+                                                                               Seaweeds require an extensive array of nutrients for growth.
+resulting to total impairment of the thalli, and these damaged
+                                                                           In the most natural environment, seaweed growth and yields
+tissues resemble the ice-ice infected branches in seaweed farms.
+                                                                           are limited by the availability of two nutrients, nitrogen and
+The recent paper of Largo et al. (2020) indicated that intense
+                                                                           phosphorus (Harrison & Hurd, 2001; Roleda & Hurd, 2019).
+temperature (29.5°C–35.5°C) in seaweed farms in Zanzibar,
+Tanzania is one of the prime triggers of ice-ice development                   Kappaphycus cultivation depends chiefly on the sea's
+and epiphyte infestation. Whitening of the ice-ice infected thalli         natural fertility (Luhan et al., 2015). Hence, extensive farming
+in K. alvarezii affects its photosynthetic efficacy due to the             may result in the outbreak of ice-ice disease (Vairappan, 2006).
+significant reduction in photosynthetic pigment concentration              Maryunus (2018) reported that nutrient deficiency is the
+leading to sluggish growth before ice-ice occurrence (Ganzon-              primary factor triggering the ice-ice disease development, as
+Fortes et al., 1993). Similarly, high surface temperatures have            shown by the relationship between nutrient deficiency
+been associated with ice-ice disease and other pests (fouling and          (nitrogen and phosphorus) and the ice-ice disease outbreak.
+epiphytes), which caused a substantial decline in seaweed
+                                                                              Biological factors causing ice-ice disease
+production in Song Song Island, Tanzania (Msuya & Porter,
+2014).
+                                                                              Pathogenic Marine Bacteria as Secondary Causative
+   Salinity                                                                Agents
+    Kappahycus and Eucheuma are true marine red seaweeds;                     There are limited studies on the marine bacteria isolation
+hence, salinity fluctuations in the farms negatively affect                and identification from ice-ice diseased seaweeds Kappaphycus
+cultured seaweeds, including the ice-ice disease development.              and Eucheuma and undergoing into pathogenicity test. Table 1
+Laboratory experiments of Largo et al. (1995a) showed E.                   summarizes the previously reported works on the associated
+denticulatum exposed to salinity 25‰ and 35‰ responded                     and pathogenic bacteria isolated from the seaweeds infected
+positively. In contrast, the salinity of 20‰ below within a week           with the ice-ice disease.
+is considered deleterious, which led to the ice-ice ice disease               The mechanism of ice-ice disease-causing bacteria as
+development. The whitened parts have prominent similarities                secondary causative agents is still not fully clear and explored.
+to those noted in the seaweed farms.                                       Some studies (Largo et al., 1995b, 1998, 1999) have suggested
+                                                                           that pathogenic bacteria Vibrio sp. (P11) took advantage of the
+   Light Intensity
+                                                                           host thalli using its motile ability hence can immediately attach
+    The utmost significance of light to seaweeds is supplying the          and conquer seaweed tissue as an initial step of infection. Its
+energy for photosynthesis and is considered the most important             ability to utilize carrageenan in the seaweed thalli as a carbon
+abiotic factor affecting seaweeds (Hurd et al., 2014). Light               source by penetrating infected branches' medullary layer was
+intensity has been suspected as one inducer in ice-ice disease             another advantage that can cause ice-ice disease under stressful
+development (Largo et al., 1995a). To elucidate the effects, the           conditions.
+authors used an increasing light intensity beginning at 0, then               Similarly, the ability of Pseudoalteromonas carrageenovora
+elevated to 10, 20, 50, 100, and up to 125 mol photon m-2 s -1 at          to produce kappa-carrageenase enzyme and degrade kappa-
+the seven-day interval and concluded that less than 50 mol                 carrageenan in K. alvarezii indicated that this bacteria could
+photon m-2 s –1 light intensity led to ice-ice whitening. These            trigger ice-ice disease symptoms like whitening of the thalli
+conditions are comparable in the farms when the seaweeds are               (Riyaz et al., 2020).
+
+                                                                     236
+                       Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+
+Table 1. Associated and pathogenic bacteria isolated from ice-ice infected seaweeds
+                                                   Pathogenic bacteria      Method to
+                                                   (ice-ice disease         confirm as ice-
+  Seaweed            Associated bacteria                                                       Location           References
+                                                   promoters through        ice disease-
+                                                   pathogenicity test)      causing bacteria
+  Kappaphycus
+                     Cytophaga-
+  alvarezii and                                    Vibrio sp. (P11),        Pathogenicity                         (Largo et al.,
+                     Flavobacterium complex,                                                   Philippines
+  Eucheuma                                         Cytophaga sp. (P25)      test                                  1995b)
+                     Vibrio group
+  denticulatum
+                     Pseudomonas cepacia,
+                     Vibrio alginolyticus,
+                     Pseudomonas diminuta,                                  Pathogenicity
+  K. alvarezii                                     V. alginolyticus                            Indonesia          (Aris, 2011)
+                     Plesiomonas shigelloides,                              test
+                     Flavobacterium
+                     meningosepticum
+                     Shewanella haliotis,
+                     Stenotrophomonas
+                     maltophilia, V.
+                     alginolyticus, Arthrobacter
+                     nicotiannae,                  S. maltophilia,          Pathogenicity      South Sulawesi,    (Achmad et al.,
+  K. alvarezii
+                     Ochrobactrum anthropic,       V. alginolyticus         test               Indonesia          2016)
+                     Catenococcus thiocycli,
+                     Pseudomonas aeruginosa,
+                     Bacillus subtilis subsp.
+                     spizizenii
+                     Alteromonas macleodii,
+                     Bacillus oceanisediminis,
+                     Pseudomonas stutzeri,         Alteromonas
+                     Pseudoalteromonas             macleodii,
+                                                                                               Karimunjawa
+                     issachenkonii, B.             Pseudoalteromonas        Pathogenicity                         (Syafitri et al.,
+  K. alvarezii                                                                                 island,
+                     hunanensis, B.                issachenkonii,           test                                  2017a)
+                                                                                               Indonesia
+                     megaterium, Alteromonas       Aurantimonas
+                     marina, Aurantimonas          coralicida
+                     coralicida, Rhodococcus
+                     rhodochrous
+                     Vibrio sp., Halomonas sp.,
+                     Alteromonas sp.,
+                     Aestuariibacter sp.,                                   Agarolytic         Semporna, Sabah,   (Azizi et al.,
+  K. alvarezii                                     V. alginolyticus
+                     Primorskyibacter sp.,                                  analysis           Malaysia           2018)
+                     Thalassospira sp.,
+                     Pseudoalteromonas sp.
+                                                                                               Kottapatinam,
+                                                                                                                  (Riyaz et al.,
+  K. alvarezii       Vibrio, Bacillus              Not determined           Not confirmed      Rameswaram,
+                                                                                                                  2019)
+                                                                                               Thondi, India
+                     Dominant species:
+                     Rivularia,                                                                                   (Kopprio et al.,
+  E. denticulatum                                  Not determined           Not confirmed      Vietnam
+                     Marinagarivorans,                                                                            2021)
+                     Lewinella
+                     Dominant species: Vibrio,
+                                                                                                                  (Kopprio et al.,
+  K. striatus        Cobetia, Marinomonas,         Not determined           Not confirmed      Vietnam
+                                                                                                                  2021)
+                     Pseudoalteromonas
+
+
+                                                                      237
+                        Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+
+   Marine-Derived Fungi as Potential Causative Agents                             better resistant towards extreme temperatures of 30 and
+     Aside from marine bacteria, marine-derived fungi also play                   35 °C than farmed seaweeds (Azizi et al., 2018). Also, E.
+an essential role as ice-ice inducers. The only study that proved                 denticulatum is more resistant than K. alvarezii against
+that marine fungi are also involved in this disease was Solis et                  epiphyte infestation and ice-ice disease ( Tisera &
+al. (2010). They isolated 18 morphospecies of marine-derived                      Naguit, 2009; Pang et al., 2015; Ndobe et al., 2020).
+fungi from K. alvarezii and K. striatus gathered from Calatagan,                  Hence, these species/strains can be used as stocks for
+Batangas, Philippines. Ten marine-derived fungi were used in                      seaweed cultivation, especially in ice-ice outbreak times.
+the ice-ice disease induction assay. The study showed that three              f) In areas where the ice-ice disease outbreak is already
+isolates (Aspergillus terreus, A. ochraceus, and Phoma sp.)                      determined, avoidance of planting susceptible
+triggered ice-ice disease in healthy, non-axenic K. alvarezii                    species/strains during the ice-ice outbreak can be done
+cultures.                                                                        and instead engage in other livelihood sources for the
+                                                                                 meantime.
+   Control Measures
+                                                                              Polyculture With Other Seaweeds
+   Proper Farm Management and Intervention
+                                                                              Some studies show that the polyculture of Kappaphycus and
+    Malpractice of seaweed farming harms seaweed production,               Eucheuma with other seaweeds exhibits potential control
+leading to ice-ice disease development in the seaweed farms.               effects against ice-ice disease. These seaweeds are;
+Thus, proper farm management could potentially eliminate or,
+if not at least, minimize ice-ice disease occurrence. These are               a) Achantophota spiciformis. K. alvarezii can be co-
+the following management intervention as suggested in early                       cultured with A. spiciformis- owing to its antimicrobial
+studies;                                                                          property, and this alga protects against the ice-ice
+                                                                                  disease with only 0.062% ice-ice incidence compared to
+   a) Avoid overcrowding seaweeds in farming. Overstocking
+                                                                                  50% monoculture of K. alvarezii (Tokan et al., 2015).
+      seaweeds in the farm offers pathogenic bacteria
+      susceptibility and hinders light penetration (Largo,                    b) Laurencia majuscule. Polyculture of Kappaphycus or
+      2002).                                                                      Eucheuma with L. majuscule may be done since this
+                                                                                  species produce metabolites that can inhibit ice-ice
+   b) Stick within optimum conditions for seaweed
+                                                                                  disease-causing bacteria (Vairappan et al., 2010).
+      requirements. Changes drastically in water temperature
+      and salinity must be avoided (Largo, 2002).                             c) Eucheuma denticulatum. This species is readily available
+   c) During summer, especially El Niño seasons where light                      and economically farmed in many seaweed-producing
+      intensity is extreme, planted seaweeds are advised to                      countries. Pang et al. (2015) suggested that there was a
+      transfer to a deeper location where irradiance is enough                    reduction in ice-ice disease incidence and epiphytes N.
+      to prevent photoinhibition (Largo, 2002).                                   savatieri in Kappaphycus species during July – August
+                                                                                  when co-cultured with E. denticulatum – a species with
+   d) For Lian Bay, China, the seaweeds are suggested to be
+                                                                                  a more efficient defense mechanism against the diseases
+      planted in deeper areas from August- October during La
+                                                                                  owing to its volatile halocarbons production when
+      Niña years (Pang et al., 2015) related to salinity
+                                                                                  under intense irradiance and CO2-lacking conditions
+      fluctuations. This recommendation may apply to
+                                                                                  (Mtolera et al., 1996).
+      locations with similar weather conditions.
+
+   e) Identify and choose the species or strains that are
+                                                                              Using Antimicrobial Substances Extracted From
+      resistant to ice-ice disease. According to Hurtado et al.            Plants
+       (2008), K. striatus var. sacol is more resistant to ice-ice            Few authors have investigated the effectiveness of extracts
+       disease and even to epiphyte infestation than K. alvarezii          from some mangrove species against ice-ice disease-causing
+       var. tambalang. Brown varieties of Kappaphycus showed               bacteria in laboratory experiments. For instance, extract from
+       more resistance against ice-ice disease induced by Vibrio           the Avicennia marina leaves using methanol solvent exhibited
+       sp. pathogens than green varieties due to their higher              potential use as an antimicrobial against four ice-ice disease-
+       antimicrobial compounds (Irmawati & Sudirjo, 2017).                 causing bacteria, S. maltophilia, S. haliotis, V. alginolyticus, and
+       Tissue-cultured K. alvarezii produced from the                      P. aeruginosa (Rahman et al., 2020). Also, 500 ppm of
+       laboratory is also unsusceptible to ice-ice disease and             flavonoids extracts obtained from the fruits of Sonneratia alba
+                                                                     238
+                        Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+showed an antibacterial property against V. alginolyticus – one           significantly reduced the occurrence of ice-ice disease of up to
+of the opportunistic pathogens that trigger ice-ice development           42% compared to untreated (78%) during ice-ice disease season
+in K. alvarezii (Sulistijowati & Karim, 2020). Furthermore, the           parallel to what the farmers practiced and observed in the study
+extracts from the leave of S. alba at a concentration of 2.5 – 10         site (Tahiluddin, 2018). Acadian Marine Plant Extract Powder
+mg ml-1 have effectively hampered the growth of nine ice-ice              (AMPEP) as organic fertilizer enhanced growth and
+disease-causing bacteria such as Alteromonas macleodii,                   carrageenan and also not only efficient in reducing the
+Bacillus      oceanisediminis,      Pseudomonas         stutzeri,         epiphytes infestation (Borlongan et al., 2011; Hurtado &
+                                                                          Critchley, 2013; Loureiro et al., 2017b; Ali et al., 2020) but also
+Pseudoalteromonas issachenkonii, Bacillus hunanensis, Bacillus
+                                                                          lessening the ice-ice disease occurrence (Hurtado & Critchley,
+megaterium, Alteromonas marina, Aurantimonas coralicida,
+                                                                          2013; Illud, 2020) in Kappaphycus cultivation. The mode of
+and Rhodococcus rhodochrous (Syafitri et al., 2017b).
+                                                                          application for AMPEP in Kappaphycus varies, as
+   The use of common lantana (Lantana camara) extracts to                 demonstrated by studies. For example, to reduce epiphytic
+obstruct ice-ice disease and increase the growth of K. alvarezii          Neosiphonia infestation and increase growth rate, Borlongan et
+has been evaluated by Patadjai et al. (2019) in the field                 al. (2011) soaked the K. alvarezii seedling in 0.1 g L-1 AMPEP
+experiment. Based on their results, pre-soaking the seaweeds in           before out-planting. Illud (2020), on the other hand, used both
+a 500 ppm solution of common lantana extract for 30 minutes               0.01 g L-1 and 8.82 g L-1 of AMPEP enriched by following the
+before planting resulted in the absence of ice-ice disease                same method of Tahiluddin (2018). The action mode on the
+compared to untreated seaweeds. Hence, it is recommended to               efficacy of AMPEP in ameliorating deleterious outcomes of
+apply this strategy as ice-ice disease control.                           disease outbreaks is thought to be via elicitation of seaweed’s
+    All plant extracts tested by different authors with promising         natural defense mechanism against pathogens (Hurtado &
+results in inhibiting the growth of ice-ice disease-causing               Critchley, 2013; Loureiro et al., 2017b). However, precautions
+bacteria as well as those tested effective in the field                   must be taken into account as inorganic fertilizer such as
+reducing/eliminating ice-ice disease occurrence. This suggests            ammonium phosphate at a concentration of 6–9 g L-1
+that plant extracts may be useful and feasible as a treatment for         significantly reduced the carrageenan yield and viscosity of K.
+the disease through short immersion of the seaweeds to the                striatus by 4.81% and 1.83 cPs, respectively (Robles, 2020).
+extract solutions before out-planting to farms.
+                                                                             Using Genetic Engineering
+   Nutrient Enrichment                                                       Nowadays, in improving the horticultural crops, genetic
+    Since seaweeds are dependent on available natural nutrients           engineering approaches renders countless applications for
+in the farm, it is not deniable that seaweeds absorb these                abiotic (heat, drought, and salinity) and biotic (insect-pest and
+nutrients for growth and development. Once reach harvestable              pathogenic organisms) stress tolerance by using several genes
+size, the farmer harvests, dries, and then markets them. Because          like in providing immunity against biotic stress (Cry genes,
+of extensive farming here, nutrients are also being harvested             trypsin inhibitors, protease inhibitors, cystatin genes, chitinase,
+and not return to the natural environment, in contrast to when            osmotin, glucanase, defensin, pathogenesis-related genes, and
+the seaweeds are naturally rotting alone. These nutrients may             RNAi technique), and in giving protection against adverse
+become limited, resulting in low growth and even may result in            environmental stresses (genes encoding for stress biosynthesis
+ice-ice disease.                                                          protecting compounds such as glycine, betaine, mannitol, and
+                                                                          heat shock proteins, various transcription factors like mitogen-
+    Nutrient enrichment using both organic and inorganic
+                                                                          activated protein kinase (MAPK), WRKY, DREB1, etc.)
+fertilizers has been proven efficient in minimizing ice-ice
+                                                                          (Parmar et al., 2017).
+disease occurrence. In particular, when seaweed K. alvarezii
+immersed to 10 ppm of sodium nitrate for 12 hrs before                        However, the application of genetic engineering in seaweeds
+planting into the open sea for 45 days, not only growth and               for disease controls is still in its infancy. For instance, gene
+carrageenan yield was improved but also decreased the                     transformation to produce a seaweed resistant to abiotic stress
+occurrence of ice-ice disease to 8.75% compared with untreated            as a potential solution for the ice-ice disease has been tested by
+seaweed (97%) (Luhan et al., 2015). A similar study also                  Sulistiani et al. (2019) using the Gα gene extracted from
+revealed that K. striatus enriched with 8.82 g L-1 ammonium               soybean (Glycine max mar Slamet). Sulistiani et al. (2019)
+phosphate solution for about 5 seconds to 1 minute and left               introduced this gene into the K. alvarezii callus using
+covered overnight using canvass before out-planting                       Agrobacterium tumefaciens and regenerated modified callus
+
+                                                                    239
+                         Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+cells to transgenic plantlets. Results revealed that K. alvarezii           Ali, M. K. M., Critchley, A. T., & Hurtado, A. Q. (2020). The
+transgenic plantlets with Gα genes were successfully created.                      impacts of AMPEP K+(Ascophyllum marine plant
+Likewise, Handayani et al. (2014) established a binary plasmid                     extract, enhanced with potassium) on the growth rate,
+bearing chicken lysozyme gene and transferred it to K. alvarezii                   carrageenan quality, and percentage incidence of the
+thalli using A. tumefaciens and also successfully produced a                       damaging epiphyte Neosiphonia apiculata on four
+transgenic K. alvarezii. According to the authors, the Gα gene                     strains of the commercially important carrageenophyte
+encodes for the heterotrimeric G protein α subunit is a gene that                  Kappaphycus, as developed by micropropagation
+has an essential role in biotic and abiotic stress tolerance. Also,               techniques. Journal of Applied Phycology, 32(3), 1907-
+chicken lysozyme is a significant constituent of immune                           1916. https://doi.org/10.1007/s10811-020-02117-0
+defense against pathogenic bacterial diseases that can boost                Alibon, R. D., Gonzales, J. M. P., Ordoyo, A. E. T., & Echem, R.
+seaweed tolerance against pathogens.                                              T. (2019). Incidence of ice-ice disease associated with
+                                                                                   Kappaphycus alvarezii in the seaweed farms in
+    However, the authors of these two experiments did not
+evaluate the transgenic plantlets' efficacy in protecting against                  Zamboanga Peninsula, Mindanao, Philippines. SSR
+ice-ice disease. But their findings are beneficial for further                    Institute of International Journal of Life Sciences, 5(1),
+investigation in the level of tolerance against ice-ice disease-                  2148-2155.                 https://doi.org/10.21276/SSR-
+causing bacteria and abiotic stresses.                                            IIJLS.2019.5.1.6
+                                                                            Arasamuthu, A., & Edward, J. K. P. (2018). Occurrence of ice-
+   Conclusion                                                                      ice disease in seaweed Kappaphycus alvarezii at Gulf of
+                                                                                   Mannar and Palk Bay, Southeastern India. Indian
+    The ice-ice disease is a disease caused by drastic fluctuations
+                                                                                   Journal of Geo-Marine Sciences, 47(6), 1208-1216.
+of water parameters in the environment, further degrade the
+stressed branches by the attack of pathogenic microorganisms.               Aris, M. (2011). Identifikasi, patogenisitas bakteri dan
+The occurrence of this disease varies from species, places, and                    pemanfaatan gen 16s-rrna untuk deteksi penyakit ice-ice
+seasons (wet and dry). Control measures may include proper                         pada budidaya rumput laut (Kappaphycus alvarezii)
+farm management, polyculture with other seaweeds, pre-                             [Identification, pathogenicity of bacteria and the use of
+soaking with antibacterial substances, nutrient enrichment, and                    gene 16SrRNA for ice-ice detection on seaweed
+possibly using genetic engineering. Knowledge of this disease                     aquaculture (Kappaphycus alvarezii)]. [Ph.D. Thesis.
+may be helpful, especially for the farmers, to avoid production                   Bogor Agricultural University].
+losses and improve the seaweed industry.                                    Arisandi, A., & Farid, A. (2014). Dampak faktor ekologis
+                                                                                   terhadap sebaran penyakit ice-ice. Jurnal Kelautan:
+   Compliance with Ethical Standards
+                                                                                   Indonesian Journal of Marine Science and Technology,
+                                                                                    7(1), 20-25.
+   Authors’ Contributions
+                                                                            Azizi, A., Mohd Hanafi, N., Basiran, M. N., & Teo, C. H. (2018).
+   ABT and ET conceptualized the study, ABT wrote the first                         Evaluation of disease resistance and tolerance to
+draft of the manuscript and then ET edited the manuscript.                          elevated temperature stress of the selected tissue-
+Both authors read and approved the final manuscript.                               cultured Kappaphycus alvarezii Doty 1985 under
+   Conflict of Interest                                                           optimized laboratory conditions. 3 Biotech, 8(8), 321.
+                                                                                  https://doi.org/10.1007/s13205-018-1354-4
+   The authors declare that there is no conflict of interest.               Badraeni, B., Syamsuddin, R., Haryati, H., & Samawi, F. (2020).
+   Ethical Approval                                                               Weeds, epiphytes and ice-ice disease on green-strained
+                                                                                   Kappaphycus alvarezii (doty) in Takalar waters, South
+   For this type of study, formal consent is not required.
+                                                                                   Sulawesi in different seasons and locations of
+   References                                                                     cultivation. Plant Archives, 20(Supplement 2), 2327-
+                                                                                  2332.
+Achmad, M., Alimuddin, A., Widyastuti, U., Sukenda, S.,                     Borlongan, I. A. G., Tibubos, K. R., Yunque, D. A. T., Hurtado,
+       Suryanti, E., & Harris, E. (2016). Molecular identification                A. Q., & Critchley, A. T. (2011). Impact of AMPEP on
+       of new bacterial causative agent of ice-ice disease                         the growth and occurrence of epiphytic Neosiphonia
+       on    seaweed       Kappaphycus        alvarezii.     PeerJ                 infestation on two varieties of commercially cultivated
+       Preprints.                        https://doi.org/10.7287/                  Kappaphycus alvarezii grown at different depths in the
+       peerj.preprints.2016v1                                         240
+                         Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+     Philippines. Journal of Applied Phycology, 23(3), 615-                        Sjøtun, & M. Notoya (Eds.), Nineteenth international
+     621. https://doi.org/10.1007/s10811-010-9649-9                               seaweed symposium. Developments in applied phycology.
+Campbell, R., & Hotchkiss, S. (2017). Carrageenan industry                        vol 2. Springer.
+     market overview. In Anicia Q. Hurtado, Alan T.                         Hurtado, A. Q., Critchley, A. T., Trespoey, A., & Lhonneur, G.
+       Critchley, & Iain C. Neish (Eds.), Tropical seaweed                         B. (2006). Occurrence of Polysiphonia epiphytes in
+       farming trends, problems and opportunities (pp. 193-                        Kappaphycus farms at Calaguas Is., Camarines Norte,
+       205). Springer.                                                             Philippines. Journal of Applied Phycology, 18(3-5), 301-
+Cottier-Cook, E., Nagabhatla, N., Badis, Y., Campbell, M.,                         306. https://doi.org/10.1007/s10811-006-9032-z
+       Chopin, T., Dai, W., Fang, J., He, P., Hewitt, C., & Kim,            Illud, H. (2020). Effects of organic fertilizers on the growth
+       G. (2016). Safeguarding the future of the global seaweed                    performance, “ice-ice” disease occurrence and
+       aquaculture industry. United Nations University and                         carrageenan quality of farmed seaweed Kappaphycus
+       Scottish Association for Marine Science Policy Brief.                       striatus (F. Schmitz) Doty Ex. P.C. Silva. International
+       12p.                   Retrieved                     from                   Journal of Mechanical and Production Engineering
+       http://voices.nationalgeographic.com/files/2016/08/Fin
+                                                                                   Research and Development, 10(3), 12313-12330.
+       al-unu-seaweed-aquaculturepolicy-for-printing.pdf
+                                                                            Irmawati, Y., & Sudirjo, F. (2017). Infection Vibrio sp. bacteria
+FAO. (2020). The State of World Fisheries and Aquaculture,
+                                                                                   on Kappaphycus seaweed varieties brown and green.
+     2020. Sustainability in Action. Food & Agriculture
+                                                                                   IOP Conference Series: Earth and Environmental Science,
+     Organization.
+                                                                                  89,        012016.        https://doi.org/10.1088/1755-
+Ganzon-Fortes, E., Azanza-Corrales, R., & Aliaza, T. (1993).
+                                                                                  1315/89/1/012016
+       Kappaphycus alvarezii (Doty) Doty Using P vs I Curve.
+                                                                            Kopprio, G. A., Cuong, L. H., Luyen, N. D., Duc, T. M., Ha, T.
+     Botanica marina, 36, 503-506.
+                                                                                  H., Huong, L. M., & Gardes, A. (2021).
+Handayani, T., Alimuddin, A., Widyastuti, U., Suryati, E., &
+                                                                                  Carrageenophyte-attached and planktonic bacterial
+     Parenrengi, A. (2014). Binary vector construction and
+                                                                                  communities in two distinct bays of Vietnam:
+       Agrobacterium tumefaciens-mediated transformation of
+                                                                                  Eutrophication indicators and insights on ice-ice
+       lysozyme gene in seaweed Kappaphycus alvarezii.                             disease.    Ecological    Indicators,   121,   107067.
+      Biotropia, 21(2), 80-90.                                                     https://doi.org/10.1016/j.ecolind.2020.107067
+Harrison, P. J., & Hurd, C. L. (2001). Nutrient physiology of               Largo, D. B. (2002). Recent developments in seaweed diseases.
+      seaweeds: Application of concepts to aquaculture.                            In A. Q. Hurtado, N. G. Guanzon, Jr., T. R. de Castro-
+      Cahiers de Biologie Marine, 42(1-2), 71-82.                                  Mallare, & M. R. J. Luhan (Eds.), Proceedings of the
+Hayashi, L., Reis, R. P., dos Santos, A. A., Castelar, B., Robledo,                National Seaweed Planning Workshop. Philippines. pp.
+      D., de Vega, G. B., Msuya, F. E., Eswaran, K., Yasir, S.                     35-42.
+      M., & Ali, M. K. M. (2017). The cultivation of                        Largo, D. B., Fukami, K., Nishijima, T., & Ohno, M. (1995a).
+       Kappaphycus and Eucheuma in tropical and sub-tropical                       Laboratory-induced development of the ice-ice disease
+       waters. In Anicia Q. Hurtado, Alan T. Critchley, & Iain                     of the farmed red algae Kappaphycus alvarezii and
+       C. Neish (Eds.), Tropical seaweed farming trends,                           Eucheuma denticulatum (Solieriaceae, Gigartinales,
+      problems and opportunities (pp. 55-90). Springer.                            Rhodophyta). Journal of Applied Phycology, 7(6), 539-
+Hurd, C. L., Harrison, P. J., Bischof, K., & Lobban, C. S. (2014).                 543. https://doi.org/10.1007/Bf00003940
+      Seaweed ecology and physiology. Cambridge University                  Largo, D. B., Fukami, K., & Nishijima, T. (1995b). Occasional
+      Press.                                                                       pathogenic bacteria promoting ice-ice disease in the
+Hurtado, A. Q., & Critchley, A. T. (2013). Impact of Acadian                       carrageenan-producing red algae Kappaphycus alvarezii
+       marine plant extract powder (AMPEP) in Kappaphycus                          and Eucheuma denticulatum (Solieriaceae, Gigartinales,
+      production. Malaysian Journal of Sciences, 32(SCS                            Rhodophyta). Journal of Applied Phycology, 7(6), 545-
+      Supplement Issue), 239-252.                                                  554. https://doi.org/10.1007/Bf00003941
+Hurtado, A. Q., Critchley, A. T., Trespoey, A., & Bleicher-                 Largo, D. B., Fukami, K., & Nishijima, T. (1999). Time-
+      Lhonneur, G. (2008). Growth and carrageenan quality of                       dependent attachment mechanism of bacterial pathogen
+       Kappaphycus striatum var. sacol grown at different                          during ice-ice infection in Kappaphycus alvarezii
+       stocking densities, duration of culture and depth. In M.
+                                                                                   (Gigartinales,   Rhodophyta).     Journal    of   Applied
+       A. Borowitzka, A. T. Critchley, S. Kraan, A. Peters, K.
+
+                                                                      241
+                        Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+       Phycology,                 11,               129–136.               Mtolera, M. S. P., Collen, J., Pedersen, M., Ekdahl, A.,
+       https://doi.org/10.1023/A:1008081513451                                   Abrahamsson, K., & Semesi, A. K. (1996). Stress-
+Largo, D. B., Fukami, K., Adachi, M., & Nishijima, T. (1998).                    induced production of volatile halogenated organic
+       Immunofluorescent detection of ice-ice disease-                            compounds in Eucheuma denticulatum (Rhodophyta)
+       promoting bacterial strain Vibrio sp. P11 of the farmed                    caused by elevated pH and high light intensities.
+       macroalga,     Kappaphycus      alvarezii   (Gigartinales,                European Journal of Phycology, 31(1), 89-95.
+       Rhodophyta). Journal of Marine Biotechnology, 6(3),                       https://doi.org/10.1080/09670269600651241
+       178-182.                                                            Ndobe, S., Yasir, I., Salanggon, A.-I. M., Wahyudi, D., Adel, Y.
+Largo, D. B., Msuya, F. E., & Menezes, A. (2020). Understanding                  S., & Moore, A. M. (2020). Eucheumatoid seaweed
+       diseases and control in seaweed farming in Zanzibar.                      farming under global change-Tomini Bay seaweed trial
+       FAO Fisheries and Aquaculture Technical Paper (662),                       indicates Eucheuma denticulatum (spinosum) could
+       0_1-49.                                                                    contribute   to    climate   adaptation.    Aquaculture,
+Loureiro, R. R., Cornish, M., & Neish, I. C. (2017a).                            Aquarium, Conservation & Legislation, 13(5), 2452-
+       Applications of carrageenan: with special reference to                    2467.
+       iota and kappa forms as derived from the eucheumatoid               Necas, J., & Bartosikova, L. (2013). Carrageenan: A review.
+       seaweeds. In Anicia Q. Hurtado, Alan T. Critchley, &                      Veterinarni        Medicina,     58(4),     187-205.
+       Iain C. Neish (Eds.), Tropical seaweed farming trends,                    https://doi.org/10.17221/6758-VETMED
+       problems and opportunities (pp. 165-171). Springer                  Pang, T., Liu, J. G., Liu, Q., Li, H., & Li, J. P. (2015).
+Loureiro, R. R., Hurtado, A. Q., & Critchley, A. T. (2017b).                     Observations on pests and diseases affecting a
+       Impacts of AMPEP on epiphytes and diseases in                              eucheumatoid farm in China. Journal of Applied
+       Kappaphycus and Eucheuma cultivation. In Anicia Q.                        Phycology,                27(5),             1975-1984.
+       Hurtado, Alan T. Critchley, & Iain C. Neish (Eds.),                       https://doi.org/10.1007/s10811-014-0507-z
+       Tropical seaweed farming trends, problems and                       Parmar, N., Singh, K. H., Sharma, D., Singh, L., Kumar, P.,
+      opportunities (pp. 111-119). Springer.                                     Nanjundan, J., Khan, Y. J., Chauhan, D. K., & Thakur,
+Luhan, M. R. J., Avañcena, S. S., & Mateo, J. P. (2015). Effect of               A. K. (2017). Genetic engineering strategies for biotic
+       short-term immersion of Kappaphycus alvarezii (Doty)                      and abiotic stress tolerance and quality enhancement in
+       Doty in high nitrogen on the growth, nitrogen                              horticultural crops: A comprehensive review. 3 Biotech,
+       assimilation, carrageenan quality, and occurrence of                       7(4), 239. https://doi.org/10.1007/s13205-017-0870-y
+       “ice-ice” disease. Journal of Applied Phycology, 27(2),             Patadjai, R., Nur, I., & Kamri, S. (2019). Use of common lantana
+       917-922. http://dx.doi.org/10.1007/s10811-014-0365-8                       (Lantana camara Linn) extract to prevent ice-ice disease
+Maryunus, R. P. (2018). Pengendalian Penyakit Ice-ice                             and trigger growth rate of the seaweed Kappaphycus
+       Budidaya Rumput Laut, Kappaphycus alvarezii: Korelasi                      alvarezii.   IOP    Conference    Series:   Earth    and
+       Musim dan manipulasi Terbatas Lingkungan [“Ice-ice”                      Environmental          Science,        370,       012026.
+       disease control of seaweed cultivation, Kappaphycus                      https://doi.org/10.1088/1755-1315/370/1/012026
+       alvarezii: the correlation of season and limited                    Rahman, S. A., Mutalib, Y., Sangkia, F. D., Athirah, A., Kadir,
+       environmental      manipulation].     Jurnal    Kebijakan                M., & Pattirane, C. P. (2020). Evaluation of inhibitory
+
+     Perikanan Indonesia, 10(1), 1-10.                                            potential of mangrove leaves extract Avicennia marina
+Mendoza, W. G., Montaño, N. E., Ganzon-Fortes, E. T., &                           for bacteria causing ice-ice diseases in seaweed
+     Villanueva, R. D. (2002). Chemical and gelling profile of                    Kappaphycus alvarezii. IOP Conference Series: Earth and
+       ice-ice infected carrageenan from Kappaphycus striatum                    Environmental         Science,      564,         012056.
+       (Schmitz) Doty “sacol” strain (Solieriaceae, Gigartinales,                https://doi.org/10.1088/1755-1315/564/1/012056
+      Rhodophyta). Journal of Applied Phycology, 14(5), 409-               Rhein-Knudsen, N., Ale, M. T., & Meyer, A. S. (2015). Seaweed
+      418.                                                                       hydrocolloid production: An update on enzyme assisted
+Msuya, F. E., & Porter, M. (2014). Impact of environmental                        extraction and modification technologies. Marine
+      changes on farmed seaweed and farmers: the case of                          Drugs,                 13(6),                3340-3359.
+       Songo Songo Island, Tanzania. Journal of Applied                           https://doi.org/10.3390/md13063340
+       Phycology,               26(5),           2135-2141.
+       https://doi.org/10.1007/s10811-014-0243-4
+                                                                     242
+                          Tahiluddin and Terzi (2021) Marine Science and Technology Bulletin, 10(3): 234-243
+
+Riyaz, S. U. M., Nalini, S., Kavitha, G., Sutha, S. A. D., &                        (Sonneratia alba) in combating bacterial associated with
+       Inbakandan, D. (2019). Characterization and                                  ice–ice disease of seaweed (Kappaphycus alvarezii).
+       identification of isolated bacteria from ice-ice disease                    Advanced Science Letters, 23(7), 6413-6415.
+       infected seaweed Kappaphycus alvarezii. Indian Journal                      https://doi.org/10.1166/asl.2017.9639
+       of Geo Marine Sciences, 48(8), 1286-1290.                             Tahiluddin, A. B. (2018). Influence of fertilization on the
+Riyaz, S. U. M., Prabhu, N. S., Nalini, S., Tejaswini, G., Christy,                 occurrence of Vibrio, “ice-ice” disease and growth of
+       H. J., & Inbakandan, D. (2020). Microbiome                                   seaweed Kappaphycus striatus (F. Schmitz) Doty ex P.C.
+       identification from ice-ice disease infected Kappaphycus                     Silva. [M.Sc. Thesis. University of the Philippines
+       alvarezii using 16S rRNA gene sequence analysis and in                       Visayas].
+       silico docking studies against carrageenan degrading                  Tisera, W. L., & Naguit, M. R. A. (2009). Ice-ice disease
+       bacteria. Biocatalysis and Agricultural Biotechnology, 27,                   occurrence in seaweed farms in Bais Bay, Negros
+       101707. https://doi.org/10.1016/j.bcab.2020.101707                          Oriental and Zamboanga del Norte. The Threshold, 4, 1-
+Robles, R. J. F. (2020). Effects of different concentrations of                    16.
+       ammonium phosphate on the yield and quality of                        Tokan, M. K., Dirawan, G. D., & Imakulata, M. M. (2015).
+       carrageenan, Kappaphycus striatus (Schmitz) Doty ex                         Controlling of the ice-ice disease on seaweed through
+       Silva. Journal of Fisheries, Livestock and Veterinary                        polyculture cultivation techniques. Asian Journal of
+      Science,                 01(01),                01-09.                        Microbiology, Biotechnology & Environmental Sciences
+      https://doi.org/10.18801/jflvs.010120.01                                      Paper, 17(1), 7-15.
+Roleda, M. Y., & Hurd, C. L. (2019). Seaweed nutrient                        Trono, G., & Ohno, M. (1989). Seasonality in the biomass
+      physiology: Application of concepts to aquaculture and                        production of the Eucheuma strains in Northern Bohol,
+        bioremediation.        Phycologia,      58(5),     552-562.                 Philippines. In I. Umezaki (Ed.), Scientific Survey of
+        https://doi.org/10.1080/00318884.2019.1622920                               Marine Algae and Their Resources in the Philippine
+Solis, M. J. L., Draeger, S., & dela Cruz, T. E. E. (2010). Marine-                Islands. A Technical Report of the Ministry of
+       derived fungi from Kappaphycus alvarezii and K.                             Education, Science and Culture, Japan, pp. 71–80
+       striatum as potential causative agents of ice-ice disease             Uyenco, F. R., Saniel, L. S., & Gomez, E. D. (1977).
+        in farmed seaweeds. Botanica Marina, 53(6), 587-594.                        Microbiology of diseased Eucheuma striatum Schmitz.
+        https://doi.org/10.1515/Bot.2010.071                                       Journal of Phycology, 13(S 2), 3-78 (Abstract 403)
+Sulistiani, E., Suharsono, S., Supena, E. D. J., & Miftahudin, M.                  https://doi.org/10.1111/j.1529-8817.1977.tb02421.x
+       (2019).           Agrobacterium-mediated              genetic         Vairappan, C. S. (2006). Seasonal occurrences of epiphytic algae
+       transformation of seaweed Kappaphycus alvarezii using                        on the commercially cultivated red alga Kappaphycus
+       Gα gene and callus cultures. Biotropia, 26(1), 40-50.                        alvarezii   (Solieriaceae,   Gigartinales,   Rhodophyta).
+       https://doi.org/10.11598/btb.2019.26.1.989                                  Journal of Applied Phycology, 18(3-5), 611-617.
+Sulistijowati, R., & Karim, Z. (2020). The inhibition of Vibrio                    https://doi.org/10.1007/s10811-006-9062-6
+       alginolyticus by the flavonoid extract of Sonneratia alba             Vairappan, C. S., Anangdan, S. P., Tan, K. L., & Matsunaga, S.
+       fruit.     Aquaculture,   Aquarium,     Conservation       &                (2010). Role of secondary metabolites as defense
+       Legislation - International Journal of the Bioflux Society,                 chemicals against ice-ice disease bacteria in biofouler at
+        13(1), 28-35.                                                               carrageenophyte farms. Journal of Applied Phycology,
+Syafitri, E., Prayitno, S., Ma’ruf, W., & Radjasa, O. (2017a).                     22(3), 305-311. https://doi.org/10.1007/s10811-009-
+        Genetic diversity of the causative agent of ice-ice disease                9460-7
+       of       the   seaweed    Kappaphycus     alvarezii     from          Ward, G. M., Faisan Jr, J. P., Cottier‐Cook, E. J., Gachon, C.,
+       Karimunjawa Island, Indonesia. IOP Conference Series:                       Hurtado, A. Q., Lim, P. E., Matoju, I., Msuya, F. E., Bass,
+        Earth and Environmental Science, 55, 012044.                               D., & Brodie, J. (2020). A review of reported seaweed
+        https://doi.org/10.1088/1755-1315/55/1/012044                               diseases and pests in aquaculture in Asia. Journal of the
+Syafitri, E., Prayitno, S. B., Radjasa, O. K., & Ma’ruf, W. F.                      World     Aquaculture     Society,     51(4),    815-828.
+        (2017b). The performance of mangrove leaf extract                           https://doi.org/10.1111/jwas.12649
+
+
+
+
+                                                                       243
+

@@ -1,0 +1,698 @@
+Journal of Applied Phycology (2026) 38:1465–1477
+https://doi.org/10.1007/s10811-025-03776-7
+
+    RESEARCH
+
+
+
+Pathogenicity of culturable bacteria isolated
+from an ice‑ice‑disease‑infected Kappaphycus striatus green cultivar
+on the healthy brown cultivar
+Hasriani Ayu Lestari1 · Fahrurrozi Izzuddin1 · Wahyu Purbiantoro1 · Yanti Inneke Nababan1 ·
+Zaenal Arifin Siregar1 · Hikmaturrohmi Hikmaturrohmi2 · Eka Sunarwidhi Prasedya2,3 · Michael Y. Roleda1,4,5
+
+Received: 15 October 2025 / Revised: 7 December 2025 / Accepted: 25 December 2025 / Published online: 18 February 2026
+© The Author(s) 2026
+
+
+Abstract
+The ice-ice disease (IID) impacting the commercially important eucheumatoid seaweed Kappaphycus striatus is character-
+ized by thallus bleaching (whitening), softening, and subsequent disintegration of the affected tissue. The occurrence of
+IID is thought to be stress-related release of dissolve organic carbon exudates that are utilized as substrate for microbial
+growth. The presence of pathogenic bacteria can subsequently induce IID manifestations that can jeopardize crop health.
+In this study, we investigated the role of pathogenic bacteria isolated from diseased green cultivar of K. striatus in inducing
+IID symptoms in healthy non-axenic brown cultivar of the same species under controlled laboratory conditions. Healthy
+branches of K. striatus were exposed to four distinct bacterial strains: three isolated from the diseased K. striatus (Vibrio
+brasiliensis strain A8, V. brasiliensis strain B2 and V. chemaguriensis strain V1) and a positive control Cytobacillus solani
+strain-V2. Over a period of ten days, routine administration of each bacterium was conducted during the daily renewal of the
+filtered seawater medium. The occurrence of symptoms, i.e., typical of IID infection, was observed in samples subjected to
+additional bacterium but not under the control condition with natural microbiome. Our findings suggest that the presence of
+pathogenic bacteria, even under non-stressful laboratory conditions, can induce IID disease syndrome with various manifes-
+tations, including the development of wounds, abrasions, thallus bleaching, and fragmentation. The samples infected with
+the positive control C. solani strain-V2 exhibited the most severe bleaching at 80%, followed by V. brasiliensis strain-A8 at
+60%, while V. brasiliensis strain-B2 and V, chemaguriensis strain-V1 both induced 50% thallus bleaching.
+
+Keywords Bacteria · Bleaching · Cottonii seaweed · Eucheumatoid · Vibrio · Cytobacillus solani
+
+
+                                                                           Introduction
+* Hasriani Ayu Lestari
+  hasrianiayulestari93@gmail.com                                           The commercial cultivation of the eucheumatoid Kappa-
+* Michael Y. Roleda                                                        phycus (primarily K. alvarezii and K. striatus) is predomi-
+  myroleda@up.edu.ph                                                       nantly dependent on the vegetative (clonal) propagation of
+1
+                                                                           a few haplotypes (Dumilag et al. 2023; Roleda et al. 2024;
+     Research Center for Marine and Land Bioindustry, National
+                                                                           Gacura et al. 2026), leading to genetic uniformity among
+     Research and Innovation Agency, Lombok, Indonesia
+2
+                                                                           the cultivated populations. This homogeneity increases the
+     Department of Biology, Faculty of Mathematics and Natural             susceptibility of Kappaphycus to disease outbreaks, particu-
+     Sciences, University of Mataram, Mataram 83115, Indonesia
+3
+                                                                           larly ice-ice disease (IID), which is characterized by thallus
+     International Tropical Seaweed Center (ITSC), University              bleaching (whitening), softening, and subsequent disintegra-
+     of Mataram, Mataram 83115, Indonesia
+4
+                                                                           tion of the affected tissues. IID is commonly associated with
+     Division of Food Production and Society, Norwegian                    unfavorable alterations in environmental conditions, such as
+     Institute of Bioeconomy Research (NIBIO), P.O. Box 115,
+     1431 Ås, Norway                                                       increased seawater temperature, decreased salinity due to
+5                                                                          precipitation, and other stressors. These changes jeopardize
+     Algal Ecophysiology (AlgaE) Laboratory, College
+     of Science, The Marine Science Institute, University                  crop health, making seaweed more vulnerable to opportun-
+     of the Philippines, Diliman, 1101 Quezon City, Philippines            istic pathogenic microorganisms (Ward et al. 2022).
+
+
+                                                                                                                         Vol.:(0123456789)
+1466                                                                                Journal of Applied Phycology (2026) 38:1465–1477
+
+
+    While the specific causative agents of IID remain incon-      of bacteria was described below. The healthy samples of
+clusive, previous studies have identified multiple micro-         brown cultivar (Fig. 2b) were brought to the outdoor hatch-
+bial pathogens that contribute to disease symptoms. These         ery facility of BRIN in Pemenang, allowed to acclimate for
+include the bacteria Vibrio sp. P11 and Cytophaga sp. (Largo      2 days in a flow-through raceway before processing for the
+et al. 1995) and the marine fungi Aspergillus ochraceus, A.       pathogenicity experiment (see methods described below).
+terreus, and Phoma sp. (Solis et al. 2010). However, under        Both the green and brown Kappaphycus sp. cultivars were
+nutrient-enriched condition, eucheumatoids have shown             subjected to DNA barcoding (see methods described below)
+to exhibit reduced susceptibility to IID (Luhan et al. 2015;      and sequence analyses showed that both are K. striatus (see
+Muyong and Tahiluddin 2024). These studies highlight the          results). Hereafter, the specimen used will be referred to as
+complex, pathobiotic nature of IID, which involves a combi-       molecularly confirmed.
+nation of environmental stressors and microbial pathogens.
+However, most studies have focused on single bacterial
+                                                                  Kappaphycus species identification
+inoculations at the beginning of the experiment with lim-
+ited observation periods, typically lasting up to three weeks
+                                                                  Tissue of Kappaphycus sp. (3–5 cm) were kept in abso-
+under batch culture conditions (Largo et al. 1995; Azizi et al.
+                                                                  lute ethanol until subsequent analyses. Genomic DNA was
+2018). Similarly, investigations involving marine fungi used
+                                                                  extracted with the DNeasy Mini Kit (Qiagen, Germany)
+similar inoculation methods in nine-day observation period
+                                                                  following the manufacturer’s instructions. The purity and
+where disease symptoms progressively intensified from ini-
+                                                                  concentration of DNA were evaluated with a Nanodrop spec-
+tial bleaching (starting day 3) to severe fragmentation across
+                                                                  trophotometer (Thermo Fisher Scientific, USA), where an
+all infected thalli by day 9, demonstrating active disease pro-
+                                                                  absorbance ratio of ~1.8 was considered optimal for down-
+gression without healing (Solis et al. 2010).
+                                                                  stream molecular procedures.
+    The current study aims to address these gaps by testing
+                                                                     Polymerase chain reaction (PCR) was carried out using a
+the pathogenicity of specific bacteria previously isolated
+                                                                  SensoQuest thermal cycler (Germany) to amplify the mito-
+from IID-infected green cultivar of K. striatus on healthy,
+                                                                  chondrial marker the cytochrome oxidase subunit 2–3 spacer
+non-axenic brown cultivar of the same species. This experi-
+                                                                  (cox2-3s). PCR cycling conditions and primer sets followed
+ment involves the inoculation of four bacterial isolates: three
+                                                                  the protocol of (Lim et al. 2014). Successful amplicons were
+Vibrio strains isolated from the diseased K. striatus (V. bra-
+                                                                  purified and subjected to Sanger sequencing for nucleotide
+siliensis strain A8, V. brasiliensis strain B2 and V. chemagu-
+                                                                  determination.
+riensis strain V1) and a positive control Cytobacillus solani
+                                                                     Sequence chromatograms were edited and assembled
+strain-V2. Unlike the previous studies, we employ chronic
+                                                                  with ChromasPro v.2.1.10.1 (Technelysium, Australia). The
+exposure of healthy K. striatus to these bacterial pathogens
+                                                                  resulting FASTA sequences were aligned with Kappaphycus
+during the daily medium renewal over a 10-day period to
+                                                                  and Eucheuma reference sequences from GenBank using
+minimize the confounding effects of nutrient limitation. This
+                                                                  ClustalX v.2.0 (Larkin et al. 2007). Multiple sequence align-
+design simulates persistent exposure of cultivated seaweed
+                                                                  ments (MSAs) were then analyzed in IQ-TREE v.2.0.3 to
+to marine microbes under farming conditions.
+                                                                  select the best-fit Maximum Likelihood (ML) models based
+                                                                  on the Bayesian Information Criterion (BIC). For cox2-3s,
+                                                                  the HKY+F+I model was applied, with tree robustness
+Materials & methods                                               assessed by 10000 ultrafast bootstrap replicates and 1000
+                                                                  approximate likelihood ratio tests (aLRT) (Nguyen et al.
+Sample Collection
+                                                                  2015).
+The commercially cultivated Kappaphycus species were col-
+lected from East Lombok, Indonesia where seaweed farming          Bacteria Isolation
+is thriving in Awang Bay (Fig. 1a, b). The IID-infected green
+cultivar of Kappaphycus sp. (L1KS1) was collected on April        The presumptive pathogenic bacteria associated with IID-
+25, 2024, in Farm A (8° 50' 57.3"S, 116° 24' 40.2"E) and          infected green K. striatus cultivar was isolated upon arrival
+the healthy brown cultivar (L1M1) was collected on August         in the laboratory. After gently washing the tissue with steri-
+3, 2024, in Farm B (8° 51' 05.2"S, 116° 24' 43.3"E). These        lized seawater, 1 g was transferred into a 2-mL centrifuge
+farms are 248 m apart in the general vicinity of Batunam-         tube containing sterile seawater and ground using a Micro
+par, Jerowaru (Fig. 1c). The diseased sample green cultivar       Tissue Homogenizer (tissue grinder and pestle). Thereafter,
+(Fig. 2a) was contained in a 50-mL Falcon tube, packed            100 µL of serially diluted mixture samples were spread on
+inside a styrofoam box with ice to keep cool and immedi-          R-2A agar (Himedia, India) and TCBS agar (Merck, Ger-
+ately transported to the laboratory for processing. Isolation     many) plates and then incubated at 30 °C for 12 h.
+Journal of Applied Phycology (2026) 38:1465–1477                                                                               1467
+
+
+
+
+Fig. 1  Map of Lombok, Indonesia (A) where extensive seaweed farming is operating in Awang Bay (B). Diseased and healthy Kappaphycus
+striatus specimen were collected in Farm A [∆] and B [○], respectively (C)
+
+
+Fig. 2  Gross morphology of
+commercially cultivated Kappa-
+phycus striatus as molecularly
+confirmed, collected in Fig. 1.
+Ice-ice-disease-infected green
+cultivar (A) and healthy brown
+cultivar (B) collected in Farms
+A and B, respectively. Scale bar
+= 5 cm
+
+
+
+
+Bacteria molecular identification                                   plates (CHROMagar, France), a selective medium that dif-
+                                                                    ferentiates between species based on colony coloration.
+Among more than 50 bacterial strains isolated from the              The observed cream-colored colonies indicated the pres-
+diseased K. striatus, three strains were selected for patho-        ence of presumptive Vibrio alginolyticus, as previously
+genicity experiment. The two strains, designated A8 and             reported (Chang et al. 2011). Additionally, V2 bacterium
+B2, were selected based on their capacity to degrade agar           isolated from intestine of Litopaneus vannamei, was used
+while the third strain (V1) was selected following prelimi-         as the positive control in the pathogenicity tests.
+nary species identification using CHROMagar Vibrio agar
+1468                                                                              Journal of Applied Phycology (2026) 38:1465–1477
+
+   The taxonomic identity of the four bacteria was confirmed     in 10-L glass aquarium. Seawater was passed through a
+molecularly based on 16S rRNA gene sequencing. Genomic           sterile mixed cellulose ester (MCE) membrane filter with
+DNA of the two agar-degrading bacteria (A8 and B2), the          a pore size of 0.2 µm to obtain filtered ambient seawa-
+presumptive V. alginolyticus (V1) and bacterium isolated         ter. This process yields microbiologically sterile seawater
+from intestine of L. vannamei (V2) was extracted using the       while retaining the original chemical profile of the seawa-
+ZymoBIOMICS DNA Miniprep Kit (Zymo Research, USA),               ter. Selection criteria used were: (a) plants do not show
+following the manufacturer’s protocol., The 16S rRNA gene        visible spots (white, red, black); (b) no wounds and other
+was amplified using universal primers 27 F (5'-AGA​GTT​          visible tissue damage; and (c) no bleached tips. Branches
+TGATCMTGG​CTC​AG-3') and 1492R (5'-TAC​GGY​TAC​                  were then meticulously cleaned of visible epiphytes using
+CTT​GTT​ACG​ACTT-3'). Each 25 μL PCR reaction con-               a magnifying glass lamp (Rectal magnifier with lamp, type
+tained 12.5 μL of OneTaq 2x Master Mix (New England              9WG23). During the pathogenicity experiment, plants
+Biolabs, USA), 0.4 μL each of forward and reverse primers,       were monitored as a holobiont.
+12 μL of sterile DNase- and RNA-free water, and 3 μL of             To assess the pathogenic potential of the four bacterial
+DNA template. PCR products were verified by electropho-          isolates, a controlled infection assay was conducted using
+resis on a 1.2% (w/v) agarose gel in a 1x TBE buffer, and        healthy, nonaxenic K. striatus thallus. The bacterial iso-
+sequenced bidirectionally. The resulting sequences were          lates previously barcoded were molecularly confirmed as
+matched against bacterial DNA sequences from the NCBI            Vibrio brasiliensis strain-1 (A8), V. brasiliensis strain-2
+BLAST database (https://​www.​ncbi.​nlm.​nih.​gov/) for taxo-    (B2), V. alginolyticus (V1), and Cytobacillus solani (V2;
+nomic assignment. Sequences were aligned using ClustalW          see results section) hereafter designated as A8, B2, V1,
+in MEGA 11. Phylogenetic trees were reconstructed using          and V2, respectively. For each bacterial treatment and the
+the Neighbor-Joining method, with evolutionary distances         control, triplicates were prepared totaling to 15 experi-
+calculated by the Maximum Composite Likelihood model.            mental units.
+Bootstrap analysis was performed with 1000 replicates, and          The apical branches (4–5 g) were individually placed in
+branches supported by <50% bootstrap values collapsed in         1-L glass jars filled with 0.20 μm-filtered ambient seawa-
+the consensus trees. For Vibrio isolates (V1, A8, and B2),       ter. Each treatment group was subjected daily to 10⁷ CFU
+Aliivibrio fischeri, Photobacterium damselae subsp. damse-      ­mL−1 of the respective bacterial suspension over a 10-day
+lae, and Grimontia hollisae were used as a clade outgroup.       exposure period. Fresh bacterial inocula were prepared
+For the V2 isolate, Paenibacillus polymyxa and Staphylococ-      daily and introduced into each experimental unit during
+cus aureus were selected as outgroups.                           routine exchange of seawater medium to simulate chronic
+                                                                 exposure to potentially pathogenic bacteria.
+Pathogenicity experimental design                                   The cultures were maintained in a temperature-
+                                                                 controlled room set at 25 ± 1 °C under a 12:12 h light/
+From the healthy brown K. striatus cultivar, fifty apical        dark cycle. Light was provided by two Philips Essen-
+branches weighing approximately 4–5 grams were excised           tial SmartBright LEDtubes (1200 mm, 16 W, 6500 K),
+from the clonal plants and allowed to heal wounds over-          delivering 100–120 µmol photons ­m−2 ­s−1 of photosyn-
+night in an outdoor aquarium. Thereafter, plants were            thetically active radiation (PAR) (Fig. 3). Fresh filtered
+further selected and acclimated for 2 days under labora-         seawater was replenished daily to ensure stable supply of
+tory conditions at 25 °C using filtered ambient seawater         macronutrients.
+
+
+Fig. 3  Schematic diagram of
+the experimental setup with ran-
+domly arranged experimental
+units on a bank inside a temper-
+ature-controlled room at 25 °C,
+supplied with 12:12h light: dark
+photoperiod of 100–120 µmol
+­m−2 ­s−1 PAR. The experimental
+units are routinely gently shaken
+and haphazardly rearranged
+2–3× a day during the 10-day
+experimental duration
+Journal of Applied Phycology (2026) 38:1465–1477                                                                             1469
+
+
+Pathogenesis and physiological response                            The null hypothesis states that the medians of all groups are
+                                                                   equal ­(H0), against the alternative hypothesis that at least
+The development of disease was monitored by conduct-               one group median differs ­(H1) (Vargha and Delaney 1998;
+ing daily visual assessment of symptoms typical of IID             Sherwani et al. 2021; Niedoba et al. 2023). When significant
+syndrome such as depigmentation (bleaching), tissue sof-           differences were identified, post hoc pairwise comparisons
+tening, fragmentation, lesion formation, and structural            were conducted using Dunn’s test with Bonferroni correc-
+disintegration of the thalli. The different manifestations         tion to adjust for multiple testing. All analyses were per-
+were noted and scored as a percentage of change from               formed in R version 4.5.0 (R Core Team 2025), using the
+photographs taken.                                                 base stats package for the Kruskal–Wallis test and the FSA
+   On day 10, i.e., at the end of the experiment, the pH           package for Dunn’s post hoc analysis (Dino 2014; Ogle et al.
+of the culture medium in each jar was measured after the           2015). The significance threshold was set at α = 0.05.
+24-hour batch culture period during the light phase (i.e.,
+between 0900–1000h) using a portable digital pH meter              Results
+(Adwa AD12; www.​adwai​nstru​ments.​com). The change
+in the medium’s pH was used as a proxy for net meta-               Kappaphycus species molecular identification
+bolic activities of the holobiont. When the infected host
+tissue is decomposing, the higher microbial respiration            The cox2–cox3 sequence from L1KS1 (green cultivar; Fig. 4)
+can increase carbon dioxide and consequently lower pH              produced top BLAST hits with 100% identity and 100% query
+(Narvarte et al. 2020). A lower pH may indicate the degree         coverage (E = 0.0; Max/Total Score = 654) to multiple acces-
+of infection severity.                                             sions, including Kappaphycus sp. Aring-aring (KF687985.1)
+   Likewise, the relative growth rate was measured on              and several Kappaphycus striatus isolates (e.g., MZ170870.1,
+day 10. The blotted wet weight (WW) of each sample                 OL841130.1, MZ170853.1, MZ170867.1, OL841137.1). The
+was measured at the beginning (Day 0) and end (Day                 perfect alignment across a 363–376 bp region indicates no
+10) of the experiment using a Sartorius analytical bal-            mismatches between the query and subject sequences. The
+ance (BSA323S-CW). The percent relative growth rate                occurrence of both Kappaphycus sp. Aring-aring and K.
+(% RGR), expressed as % day⁻1, was calculated using the            striatus among the top matches reflects naming variations in
+following formula (Lin et al. 2010):                               GenBank records, where “Aring-aring” has been used in ear-
+          ((                 )                                     lier submissions for specimens now recognized as K. striatus.
+                    )1
+              WW f ∕ t                                             The molecular evidence strongly supports the identification
+%RGR =                    − 1 × 100                                of L1KS1 as K. striatus. The complete identity across inde-
+              WW i
+                                                                   pendent isolates deposited from different sampling campaigns
+where WW f and WW i represent the final and initial wet            confirms the robustness of this assignment. Unlike the L1M1
+weight of the thalli, respectively, and t is the duration of the   sequence (below, which showed 99.72% identity), L1KS1
+experiment in days (t = 10). RGR was used as an indicator          matches with absolute identity, suggesting it is representative
+of algal growth performance and tissue integrity.                  of a highly conserved haplotype within K. striatus.
+                                                                      The cox2–cox3 sequence from L1M1 (brown cultivar;
+                                                                   Fig. 4) produced exclusively significant alignments to K.
+Statistical analysis                                               striatus (syn. K. striatum), with 99.72% identity, 100% query
+                                                                   coverage, E = 1e-180, and Max/Total Score = 645 across
+The assumptions of normality and homogeneity of                    multiple GenBank records (e.g., OL841127.1, OL841125.1,
+variance of our data were not met. In this regard, the             OL841120.1, JX624079.1, OL841122.1; alignment length
+Kruskal–Wallis test (Kruskal and Wallis 1952) was                  ≈ 363 bp). No alternative Kappaphycus or Eucheuma taxa
+employed as a non-parametric alternative to one-way                appeared among the top hits, indicating an unambigu-
+ANOVA to evaluate differences among treatments, and                ous placement of L1M1 as K. striatus. The near-identical
+defined as:                                                        matches to diverse isolates (SLK, KRD, SIT, SCK series)
+                                                                   from different submissions suggest very low intraspecific
+         12 ∑ Ri
+                k
+                                                                   variation at this mitochondrial marker and reinforce the
+                    2
+H=                    − 3(n + 1)
+      n(n + 1) i=1 ni                                              robustness of the assignment. The sequences were depos-
+                                                                   ited to GenBank and are available under accession numbers
+where Ri is the sum of ranks in the i-th group, ni is the sam-     PX441407 (L1KS1) and PX441406 (L1M1).
+ple size of group i, and n is the total number of observations.
+1470                                                                                          Journal of Applied Phycology (2026) 38:1465–1477
+
+
+
+
+Fig. 4  Maximum likelihood phylogenetic tree of the cox2–cox3 inter-     values. The clade of K. alvarezii and other congeners (K. malesianus,
+genic spacer region showing the placement of L1KS1 (green cultivar)      K. inermis) are clearly separated, while Eucheuma denticulatum was
+and L1M1 (brown cultivar), both highlighted in red, within the Kap-      used as the outgroup. Bootstrap values >50% are shown at the nodes,
+paphycus striatus clade. Both sequences cluster tightly with reference   and the scale bar indicates substitutions per site
+accessions of K. striatus from GenBank, supported by high bootstrap
+
+
+Bacterial identification based on 16S rRNA gene                          and PX458080 for V. chemaguriensis (V1), V. brasiliensis
+sequencing                                                               (A8), V. brasiliensis (B2), Cytobacillus sp. (V2) bacteria,
+                                                                         respectively.
+The Neighbor-Joining phylogenetic tree based on 16S
+rRNA gene sequences (Fig. 5; Supplementary Data Fig. S1)                 Pathogenesis and physiological response
+showed that isolate V1 clustered with Vibrio chemaguriensis
+(bootstrap = 100%), whereas isolates A8 and B2 formed a                  Under the controlled laboratory conditions, growth rate
+clade with V. brasiliensis (bootstrap = 94%). Other refer-               of the control with natural microbial flora was minimal
+ence species, including V. parahaemolyticus, V. alginolyti-              at 0.09 ± 0.04 % ­d ay −1 while growth of all treatments
+cus, and V. natriegens, grouped separately with high sup-                treated with additional bacteria were negative (ranging
+port (89–99%). The tree was rooted with Aliivibrio fischeri,             from −1.77% to −0.13%; Fig. 7). Growth rate was signifi-
+Photobacterium damselae subsp. damselae, and Grimontia                   cantly higher in control and lowest in B2 (Kruskal-Wallis
+hollisae, clearly distinguishing the Vibrio ingroup.                     χ2 = 10.63, df = 4, p = 0.031; post hoc Dunn’s test; Control
+   The phylogenetic tree of Bacillaceae (Fig. 6; Supplemen-              > B2, adjusted p = 0.014). Growth rate under B2 was not
+tary Data Fig. S2) placed isolate V2 within the Cytobacil-               significantly different to A8, V1 and V2 (B2 ≤ A8 ≤ V1
+lus clade. V2 clustered closely with Cytobacillus solani and             ≤ V2), while Control ≥ V2 ≥ V1 ≥ A8. The end pH at
+C. praedii, supported by high bootstrap values (100%). This              day 10 after 24 h incubation reflects similar trend to the
+clade was distinct from other Bacillaceae members such                   growth rate where the lowest pH (7.8 ± 0.1) was measured
+as Bacillus mesophilum, Neobacillus bataviensis, and N.                  under B2, suggesting higher bacterial heterotrophic activi-
+pocheonensis. The tree was rooted with Paenibacillus poly-               ties impacting growth (Fig. 7). The control measured the
+myxa and Staphylococcus aureus, which formed a basal clade               highest pH at 8.3 ± 0.01. Despite the minimal increase in
+separate from Cytobacillus and Neobacillus.                              weight, the nonaxenic K. striatus under control (with its
+   Bacterial sequences were deposited in GenBank with                    natural microbiome) maintained its healthy, firm, and dark
+the accession numbers PX458025, PX458046, PX458079,                      pigmented appearance after 10 days (Fig. 8).
+Journal of Applied Phycology (2026) 38:1465–1477                                                                                        1471
+
+
+
+
+Fig. 5  Bootstrap consensus phylogenetic tree of Vibrio spp. (V1,      ite Likelihood method, based on 1555 nucleotide positions after pair-
+A8, and B2) and related taxa constructed using the Neighbor-Join-      wise deletion of ambiguous sites. The tree was rooted using Aliivibrio
+ing method in MEGA 11. The bootstrap consensus tree was inferred       fischeri, Photobacterium damselae subsp. damselae, and Grimontia
+from 1000 replicates; branches reproduced in less than 50% bootstrap   hollisae as a clade outgroup. Scale bar is not displayed due to soft-
+replicates are collapsed. Bootstrap values below 70% are not shown.    ware limitations; see Supplementary Figure S1 for the original tree
+Evolutionary distances were computed using the Maximum Compos-         with branch lengths
+
+
+Fig. 6  Bootstrap consensus
+phylogenetic tree of Cyto-
+bacillus sp. V2 and related
+taxa constructed using the
+Neighbor-Joining method
+in MEGA 11. The bootstrap
+consensus tree was inferred
+from 1000 replicates; branches
+reproduced in less than 50%
+bootstrap replicates are col-
+lapsed. Bootstrap values below
+70% are not shown. Evolution-
+ary distances were computed
+using the Maximum Composite
+Likelihood method, based on
+1564 nucleotide positions after
+pairwise deletion of ambigu-
+ous sites. The tree was rooted
+using Paenibacillus polymyxa
+and Staphylococcus aureus as
+a clade outgroup. Scale bar is
+not displayed due to software
+limitations; see Supplementary
+Figure S2 for the original tree
+with branch lengths
+1472                                                                                      Journal of Applied Phycology (2026) 38:1465–1477
+
+Fig. 7  Growth rate of Kap-
+paphycus striatus after 10 days
+exposure to additional mono-
+specific (A8, B2, V1 and V2)
+bacterial inoculum and corre-
+sponding end pH at day 10 after
+24 h incubation (mean ±SE, n
+= 3). Non-parametric Kruskal-
+Wallis test and the FSA package
+for Dunn’s post hoc analysis
+with significant threshold set at
+α = 0.05 showed significant dif-
+ference among treatments and
+different group(s) is designated
+by different letters
+
+
+
+
+                                                                       of tissue was also observed in V2 treatment. Erosion of
+                                                                       sharply pointed apical branches, i.e., highly meristematic,
+                                                                       was observed in all treatments (Figs. 9, 10, 11 and 12). This
+                                                                       tissue wasting phenomenon was observed after bleaching of
+                                                                       the meristematic tips.
+
+
+                                                                       Discussion
+
+                                                                       This study is, to our knowledge, the first to show that experi-
+                                                                       mentally manipulating the culture medium’s microbial com-
+                                                                       munity by adding bacteria isolated from different origins,
+                                                                       that subsequently affect the holobiont, can trigger mani-
+                                                                       festation of disease in K. striatus generally called ice-ice
+                                                                       disease (IID) syndrome. The bacterial species composition
+                                                                       and their relative density may control health and disease as
+Fig. 8  Gross morphology of a representative Kappaphycus striatus at   different Vibrio species can be found in both healthy and
+(A) the start of the experiment and (B) after the 10-day cultivation   diseased tissues of different eucheumatoid species (Aguilar
+under control condition with natural microbiome showing darkly pig-    RT and Roleda MY, unpublished data). On the other hand,
+mented, healthy and unblemished thallus integrity. Scale bars: A = 5
+cm, B = 3 cm                                                           the bacterium C. solani isolated from the gut of a shrimp
+                                                                       also triggered IID. Under benign laboratory condition, which
+                                                                       may be suboptimal, IID manifestation was solely triggered
+   With the addition of A8, B2, V1 and V2 bacteria into                by the introduced bacteria. Whether the pathogenicity of a
+the medium, all branches showed manifestation of disease               specific Vibrio species is dependent on its relative density in
+(Figs. 9, 10, 11 and 12) such as: depigmentation and subse-            the holobiont warrants further study by checking if the same
+quent bleaching, apical meristematic tip erosion, abrasions,           Vibrio species isolated from the diseased eucheumatoid are
+lesions, and softening of tissue and eventual fragmentation.           also present in the healthy plant or control.
+   The initial manifestations of disease started already                  Although abrasions and lesions are generally observed
+on day 3. On day 10, bleaching was most severe at 80%                  in primary and secondary branches which subsequently
+(including thallus depigmentation) in plants exposed to                lead to depigmentation, softening of the tissue and bleach-
+V2, followed by 60% in A8, and 50% in both B2 and V1.                  ing, leading to thallus fragmentation, it is remarkable that
+Pronounced secondary branch fragmentation after depig-                 the bacteria are effective in attacking the young apical tips
+mentation that subsequently led to bleaching and softening             that are highly meristematic. Among terrestrial plants, the
+Journal of Applied Phycology (2026) 38:1465–1477                                                                          1473
+
+Fig. 9  Gross morphology of
+a representative Kappaphycus
+striatus at the (A) start of the
+experiment and (B) after the
+10-day exposure to bacteria
+Vibrio brasiliensis strain-A8
+isolated from the diseased
+green cultivar of the same spe-
+cies. Zoom out images (C–E)
+highlight disease manifestations
+such as bleaching (C; black
+arrows point to tissue erosion
+after bleaching of the pointed
+apical meristematic branches),
+depigmentation, abrasions, and
+softening of the primary and
+secondary branches (D), and
+abrasion and softening of the
+basal thallus segment (E). Scale
+bars = 5 cm (A) and 3 cm (B)
+
+
+
+
+Fig. 10  Gross morphology of
+a representative Kappaphycus
+striatus at the (A) start of the
+experiment and (B) after the
+10-day exposure to bacteria
+Vibrio brasiliensis strain-B2
+isolated from the diseased
+green cultivar of the same spe-
+cies. Zoom out images (C–E)
+highlight disease manifestations
+such as tissue erosion after
+bleaching of the pointed apical
+meristematic branches (C and
+D; pointed by black arrows),
+depigmentation (D and E) and
+softening of the abraded pri-
+mary branch (E). Scale bars = 5
+cm (A) and 3 cm (B)
+
+
+
+
+relationship between age and disease susceptibility has been     by CHROMagar identification, underscoring the limitations
+investigated in many plant-pathogen systems, and older           of culture-based methods for closely related Vibrio species.
+leaves/plants have been shown to exhibit increased resist-       Isolates A8 and B2 clustered with V. brasiliensis, indicating
+ance or reduced susceptibility to pathogens (Kus et al. 2002).   a close evolutionary relationship that may reflect shared eco-
+Such age-related resistance (ARR) has not been explored          logical or pathogenic roles in IID. The selected outgroups
+among macroalgae.                                                (A. fischeri, P. damselae, G. hollisae) appropriately repre-
+   The phylogeny confirmed that isolate V1 is affiliated         sent external Vibrionaceae lineages, ensuring robust root-
+with V. chemaguriensis, not V. alginolyticus as suggested        ing. Meanwhile, isolate V2 grouped with Cytobacillus spp.,
+1474                                                                                 Journal of Applied Phycology (2026) 38:1465–1477
+
+Fig. 11  Gross morphology of
+a representative Kappaphycus
+striatus at the (A) start of the
+experiment and (B) after the
+10-day exposure to bacteria
+Vibrio chemaguriensis strain-
+V1 isolated from the diseased
+green cultivar of the same
+species. Zoom out images (C–F)
+highlight disease manifestations
+such as bleaching and tissue
+erosion of the sharply pointed
+apical meristematic branches
+(C and D; pointed by black
+arrows), depigmentation and
+abrasions on the primary and
+secondary axes (E) and soften-
+ing of the basal thallus segment
+(F). Scale bars = 5 cm (A) and
+3 cm (B)
+
+
+
+
+Fig. 12  Gross morphology of
+representative Kappaphycus
+striatus at the (A) start of the
+experiment and (B) after the
+10-day exposure to positive con-
+trol bacteria Cytobacillus solani
+strain-V2 isolated from the
+intestine of Litopenaeus van-
+namei. Zoom out images (C–F)
+highlight disease manifestations
+such as bleaching (C), tissue
+erosion of the sharply pointed
+apical meristematic tissue
+(D; pointed by black arrows),
+fragmentation of secondary
+branch after bleaching, soften-
+ing and erosion of tissue (E),
+and abrasions on the primary
+branch. Scale bars = 5 cm (A)
+and 3 cm (B)
+
+
+
+
+strongly supported by its proximity to C. solani and C. prae-      cultivar (Fig. 2A). This suggests that canonical IID syn-
+dii. This confirms its placement outside Bacillus, consistent      drome manifestation may require a complex of stress fac-
+with recent taxonomic revisions of Bacillaceae. The use of         tors and co-infecting microbes rather than a single pathogen.
+P. polymyxa and S. aureus as outgroups provided clear tree         Indeed, Ward et al. (2022) emphasize that IID is a multifac-
+orientation. Overall, 16S rRNA phylogeny provided higher           torial syndrome with no single causal agent identified. For
+taxonomic resolution than preliminary phenotypic identifica-       example, (Largo et al. 1995) isolated both a Vibrio sp. and
+tion, clarifying the affiliations of culturable bacteria associ-   a Cytophaga-related (Flavobacterium) strain from bleached
+ated with IID.                                                     Kappaphycus and showed that each could trigger premature
+   Our experiment showed that individual pathogenic bac-           whitening under stress. In our case, the atypical symptoms
+terial strains induced symptoms that are different from            from single-bacterium inoculation imply that classic IID
+the classic IID phenotype, e.g., diseased green K. striatus        bleaching (and tissue softening) may arise from synergistic
+Journal of Applied Phycology (2026) 38:1465–1477                                                                                         1475
+
+interactions of multiple pathogenic bacteria and fungi under      approaches may be researched and applied to protect eucheu-
+stress, whereas individual pathogen alone (i.e., in addition to   matoid crops.
+the natural microbiome) may cause different disease mani-            Rigorous implementation of seaweed farm biosecurity
+festations (e.g., lesions and abrasions) or these are early       thorough cleaning of lines and equipment, early disease
+warning signs and symptoms not commonly observed in               monitoring, etc., have been shown to dramatically cut IID
+the field due to monitoring limitations.                          incidence by ~60–75% (Kambey et al. 2021). In addition,
+    The severity of disease manifestations varied among           diversifying or rotating species (e.g., co-culturing with non-
+clones exposed to the same bacteria. The clonal variation         susceptible seaweeds that inhibit pathogens) could suppress
+observed may be associated with genetic and/or physiologi-        outbreak severity. For example, field studies in Hainan,
+cal (and associated biochemistry, e.g., pigments) differences     China demonstrated that co-cultivating Kappaphycus with
+among clones of the same cultivar that can affect traits such     the more resistant Eucheuma denticulatum resulted in
+as growth, biochemistry and resistance to disease (biotic)        markedly lower IID incidence, highlighting the potential of
+and abiotic stressors. The occurrence and accumulation            polyculture to mitigate disease outbreaks (Pang et al. 2015).
+of mutations among clones of the same cultivar also con-          More recently, Pang et al. (2025) reported that in the co-
+tribute to genetic variations. Thereafter, these mutations        cultivation of Gracilariopsis lemaneiformis and Saccharina
+are reproduced unmodified in subsequent cuttings of the           japonica, a bacterial species (V. alginolyticus) previously
+mutated clone. Due to the slow accumulation of muta-              considered beneficial to one host (S. japonica) was found
+tions, old cultivars have a greater probability of consisting     to be pathogenic to the other (G. lemaneiformis), providing
+of several clones, differing by one or more mutations. The        compelling evidence that bacterial-mediated interactions are
+presumptive variations in our clones of brown K. striatus         critical in determining compatibility and disease dynamics
+cultivars derived from several plants (i.e., bunches of farmed    in co-cultured seaweed systems. Overall, recognizing that
+eucheumatoid) from a seaweed farm may have contributed to         IID symptoms can arise from multiple bacteria and depend
+the differential susceptibility to and severity of the disease.   on host genotype means that integrated control (combin-
+Recently, Gacura and co-workers (2026) reported strain-spe-       ing resistant varieties, probiotic treatments, and strict farm
+cific susceptibility to IID among different K. alvarezii (novel   management) is needed to mitigate this disease.
+strains and commercially cultivated haplotypes) cultivars.           Interestingly, this study was able to disentangle the role
+The prevalence of IID was also reported to be higher during       of pathogenic bacteria and environmental factors in inducing
+dry compared to wet season (Tahiluddin and Terzi 2024).           IID. We showed that exposure to pathogenic bacteria iso-
+Among seaweed farmers in Tawi-Tawi, southern Philippines,         lated from an IID-infected cultivar can disrupt the microbi-
+they narrated that K. striatus are more susceptible to IID        ome and provoke IID syndrome among healthy plants under
+compared with K. alvarezii and E. denticulatum (Tahilud-          controlled and benign laboratory conditions.
+din and Eldani-Tahiluddin 2024). This narrative could vary           In seaweed farms, incidence of IID is considered a com-
+seasonally across different farm sites and may be subject         plex pathobiotic syndrome (Ward et al. 2022), not caused by
+to seaweed farmers’ bias. A well-designed common garden           a single pathogen, but rather by a multifactorial interaction
+experiment is necessary to test the relative susceptibility to    involving host susceptibility, opportunistic bacterial coloni-
+IID among different eucheumatoid species. This is impor-          zation, and environmental stress factors, the results of our
+tant because carrageenan yield and quality of IID-infected        study highlight the necessity of selecting disease-resistant
+crops can be severely compromised (Mendoza et al. 2002).          genotypes and carefully monitoring microbial loads in farm-
+Higher levels of accessory pigments (phycobiliproteins)           ing environments to mitigate IID outbreaks. Future studies
+and polyphenols among brown cultivars may inhibit bacte-          incorporating metagenomic and transcriptomic approaches
+rial enzymatic activity or enhance host immune responses.         are crucial to further elucidate the multifactorial etiology of
+Future research is needed to identify the specific pigments or    IID and to develop effective biocontrol strategies, ensuring
+secondary metabolites responsible for plant stress response.      the sustainability of seaweed aquaculture.
+    Farm management strategies, e.g., biosecurity interven-
+                                                                  Supplementary Information The online version contains supplemen-
+tion, and application of biotechnological techniques can help     tary material available at https://​doi.​org/​10.​1007/​s10811-​025-​03776-7.
+minimize pest and disease occurrence and severity. Selec-
+tion and use of robust cultivars is of prime importance. Bio-     Authors' contribution HA Lestari: Conceptualization, Methodology,
+technological techniques may provide further protection to        Investigation, Data Curation, Formal Analysis, Visualization, Writing-
+                                                                  Original Draft, Writing- Review and Editing. F Izzuddin: Conceptu-
+minimize crop failure due to pests and disease. For example,      alization, Resources, Writing- Review and Editing. W Purbiantoro:
+manipulation of the microbiome by introducing beneficial          Conceptualization, Methodology, Investigation, Data Curation, Formal
+bacteria offer promise. A recent study showed that a V. algi-     Analysis, Visualization, Writing- Review and Editing. YI Nababan:
+nolyticus probiotic strain can significantly reduce bleach-       Methodology, Investigation, Writing- Review and Editing. ZA Siregar:
+                                                                  Formal Analysis, Writing- Review and Editing. H Hikmaturrohmi,
+ing in farmed kelp (Ma et al. 2023). The same probiotic
+1476                                                                                                Journal of Applied Phycology (2026) 38:1465–1477
+
+ES Prasedya: Methodology, Resources, Writing- Review and Editing.             Gacura JRL, Hinaloc LAR, Oguira RN, Narvarte BCV, Aguilar RT,
+MY Roleda: Supervision, Conceptualization, Methodology, Resources,                 Mendoza EM, Projimo VZ, Roleda MY (2026) Exploiting the
+Visualization, Writing- Original Draft, Writing- Review and Editing.               untapped wild resources: developing new diploid tetrasporophyte
+                                                                                   Kappaphycus alvarezii cultivars from sporelings of wild cysto-
+Funding Open access funding provided by Norwegian Institute of Bio-                carpic parental plants. Aquaculture 610:742916
+economy Research The authors sincerely thank the Rumah Program,               Kambey CSB, Campbell I, Cottier-Cook EJ, Nor ARM, Kassim A,
+Research Organization for Earth Sciences and Maritime, National                    Sade A, Lim PE (2021) Seaweed aquaculture: a preliminary
+Research and Innovation Agency of Indonesia (BRIN), for financial                  assessment of biosecurity measures for controlling the ice-ice
+support under Grant No. 3/III.4/HK/2025. Additional funding was pro-               syndrome and pest outbreaks of a Kappaphycus farm. J Appl
+vided by the Riset dan Inovasi untuk Indonesia Maju (RIIM) Expedi-                 Phycol 33:3179–3197
+tion Program, Research Organization for Earth Sciences and Maritime,          Kruskal WH, Wallis WA (1952) Use of ranks in one-criterion variance
+National Research and Innovation Agency of Indonesia (BRIN), under                 analysis. J Am Stat Assoc 47:583
+Grant Nos. B-1106/II/7.5/3/2024 and V-1680/III.4/HK.01.00/3/2024.             Kus JV, Zaton K, Sarkar R, Cameron RK (2002) Age-related resistance
+MY Roleda received a 1-month Visiting Researcher Fellowship from                   in Arabidopsis is a developmentally regulated defense response to
+BRIN.                                                                              Pseudomonas syringae. Plant Cell 14:479–490
+                                                                              Largo DB, Fukami K, Nishijima T (1995) Occasional pathogenic
+Data availability The sequences of Kappaphycus striatus were depos-                bacteria promoting ice-ice disease in the carrageenan-producing
+ited to GenBank and are available under accession numbers PX441407                 red algae Kappaphycus alvarezii and Eucheuma denticulatum
+(L1KS1) and PX441406 (L1M1). Bacterial sequences were depos-                       (Solieriaceae, Gigartinales, Rhodophyta). J Appl Phycol 7:545–554
+ited in GenBank with the accession numbers PX458025, PX458046,                Larkin MA, Blackshields G, Brown NP, Chenna R, McGettigan PA,
+PX458079, and PX458080 for V. chemaguriensis (V1), V. brasiliensis                 McWilliam H, Valentin F, Wallace IM, Wilm A, Lopez R, Thomp-
+(A8), V. brasiliensis (B2), Cytobacillus sp. (V2) bacteria, respectively.          son JD, Gibson TJ, Higgins DG (2007) Clustal w and Clustal x
+                                                                                   version 2.0. Bioinformatics 23:2947–2948
+Declarations                                                                  Lim PE, Tan J, Phang SM, Nikmatullah A, Hong DD, Sunarpi H,
+                                                                                   Hurtado AQ (2014) Genetic diversity of Kappaphycus Doty and
+Conflicts of interests Michael Y. Roleda is an editorial board member              Eucheuma J. Agardh (Solieriaceae, Rhodophyta) in Southeast
+of Journal of Applied Phycology and co-author of this article. He was              Asia. J Appl Phycol 26:1253–1272
+excluded from editorial decision-making related to the acceptance of          Lin H-L, Lin C-C, Lin Y-J, Lin H-C, Shih C-M, Chen C-R, Huang
+this article for publication in the journal. All other authors declare no          R-N, Kuo T-C (2010) Revisiting with a relative-density calibration
+conflicts of interests.                                                            approach the determination of growth rates of microorganisms
+                                                                                   by use of optical density data from liquid cultures. Appl Environ
+Open Access This article is licensed under a Creative Commons Attri-               Microbiol 76:1683–1685
+bution 4.0 International License, which permits use, sharing, adapta-         Luhan MRJ, Avañcena SS, Mateo JP (2015) Effect of short-term
+tion, distribution and reproduction in any medium or format, as long               immersion of Kappaphycus alvarezii (Doty) Doty in high nitro-
+as you give appropriate credit to the original author(s) and the source,           gen on the growth, nitrogen assimilation, carrageenan quality, and
+provide a link to the Creative Commons licence, and indicate if changes            occurrence of “ice-ice” disease. J Appl Phycol 27:917–922
+were made. The images or other third party material in this article are       Ma M, Zhuang Y, Chang L, Xiao L, Lin Q, Qiu Q, Chen D, Egan
+included in the article’s Creative Commons licence, unless indicated               S, Wang G (2023) Naturally occurring beneficial bacteria Vibrio
+otherwise in a credit line to the material. If material is not included in         alginolyticus X-2 protects seaweed from bleaching disease. MBio
+the article’s Creative Commons licence and your intended use is not                14:e00065–23
+permitted by statutory regulation or exceeds the permitted use, you will      Mendoza WG, Montaño NE, Ganzon-Fortes ET, Villanueva RD (2002)
+need to obtain permission directly from the copyright holder. To view a            Chemical and gelling profile of ice-ice infected carrageenan from
+copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.           Kappaphycus striatum (Schmitz) Doty “sacol” strain (Solieriaceae,
+                                                                                   Gigartinales, Rhodophyta). J Appl Phycol 14:409–418
+                                                                              Muyong JS, Tahiluddin AB (2024) Interaction of nutrient enrichment
+                                                                                   and farming method on performance of the red seaweed Kappa-
+                                                                                   phycus alvarezii. Aquat Bot 191:103743
+References                                                                    Narvarte BCV, Nelson WA, Roleda MY (2020) Inorganic carbon
+                                                                                   utilization of tropical calcifying macroalgae and the impacts of
+                                                                                   intensive mariculture-derived coastal acidification on the physi-
+Azizi A, Mohd Hanafi N, Basiran MN, Teo CH (2018) Evaluation of
+                                                                                   ological performance of the rhodolith Sporolithon sp. Environ
+    disease resistance and tolerance to elevated temperature stress
+                                                                                   Pollut 266:115344
+    of the selected tissue-cultured Kappaphycus alvarezii Doty 1985
+                                                                              Nguyen L-T, Schmidt HA, von Haeseler A, Minh BQ (2015) IQ-tree:
+    under optimized laboratory conditions. 3 Biotech 8:321
+                                                                                   a fast and effective stochastic algorithm for estimating maximum-
+Chang C-I, Lee C-F, Wu C-C, Cheng TC, Tsai J-M, Lin K-J (2011) A
+                                                                                   likelihood phylogenies. Mol Biol Evol 32:268–274
+    selective and differential medium for Vibrio alginolyticus. J Fish
+                                                                              Niedoba T, Surowiak A, Hassanzadeh A, Khoshdast H (2023) Evalua-
+    Dis 34:227–234
+                                                                                   tion of the effects of coal jigging by means of Kruskal-Wallis and
+Dino A (2014) dunn.test: Dunn’s Test of Multiple Comparisons Using
+                                                                                   Friedman tests. Energies 16:1600
+    Rank Sums. https://​cran.r-​proje​ct.​org/​web/​packa​ges/​dunn.​test/​
+                                                                              Ogle DH, Doll JC, Wheeler AP, Dinno A (2015) FSA: Simple Fisher-
+    index.​html. Accessed 12 October 2025
+                                                                                   ies Stock Assessment Methods. https://​cran.​uni-​muens​ter.​de/​web/​
+Dumilag RV, Crisostomo BA, Aguinaldo Z-ZA, Hinaloc LAR, Liao
+                                                                                   packa​ges/​FSA/​FSA.​pdf
+    LM, Roa-Quiaoit HA, Dangan-Galon F, Zuccarello GC, Guil-
+                                                                              Pang T, Liu J, Liu Q, Li H, Li J (2015) Observations on pests and
+    lemin M-L, Brodie J, Cottier-Cook EJ, Roleda MY (2023) The
+                                                                                   diseases affecting a eucheumatoid farm in China. J Appl Phycol
+    diversity of eucheumatoid seaweed cultivars in the Philippines.
+                                                                                   27:1975–1984
+    Rev Fish Sci Aquacult 31:47–65
+Journal of Applied Phycology (2026) 38:1465–1477                                                                                            1477
+
+Pang T, Wang F, Guo Q, Zhang M, Sun Y, Liu J (2025) Vibrio algino-        Tahiluddin AB, Eldani-Tahiluddin (2024) Ice-ice disease in culti-
+     lyticus is the pathogen of “Baotou” disease causing serious dam-          vated eucheumatoid seaweeds: The perspectives of farmers. Eur
+     age to Gracilariopsis lemaneiformis cultivation in China. mBio            J Phycol 59: 423–435
+     16:e03120–24                                                         Tahiluddin AB, Terzi E (2024) Ice-ice disease prevalence and intensity
+R Core Team (2025) R: A language and environment for statistical               in eucheumatoid seaweed farms: seasonal variability and relation-
+     computing. R Foundation for Statistical Computing. R Foundation           ship with the physicochemical and meteorological parameters.
+     for Statistical Computing, Vienna, Austria. https://​www.r-​proje​        Plants 13:2157
+     ct.​org/                                                             Vargha A, Delaney HD (1998) The Kruskal-Wallis test and stochastic
+Roleda MY, Hinaloc LAR, Capacio IT, Jao MCB, Crisostomo BA                     homogeneity. J Educ Behav Stat 23:170–192
+     (2024) Reproductive biology and novel cultivar development of        Ward GM, Kambey CSB, Faisan JP, Tan P, Daumich CC, Matoju I,
+     the eucheumatoid Kappaphycus alvarezii. In: Critchley aT, Hur-            Stentiford GD, Bass D, Lim P, Brodie J, Poong S (2022) Ice-ice
+     tado AQ, Neish IC (eds) Tropical Phyconomy Coalition Devel-               disease: an environmentally and microbiologically driven syn-
+     opment: Focus on Eucheumatoid Seaweeds. Developments in                   drome in tropical seaweed aquaculture. Rev Aquacult 14:414–439
+     Applied Phycology 11. Springer, Cham, pp 41-45
+Sherwani RAK, Shakeel H, Awan WB, Faheem M, Aslam M (2021)                Publisher's Note Springer Nature remains neutral with regard to
+     Analysis of COVID-19 data using neutrosophic Kruskal Wallis          jurisdictional claims in published maps and institutional affiliations.
+     H test. BMC Med Res Methodol 21:215
+Solis MJL, Draeger S, dela Cruz TEE (2010) Marine-derived fungi
+     from Kappaphycus alvarezii and K. striatum as potential causative
+     agents of ice-ice disease in farmed seaweeds. Bot Mar 53:587–594
+

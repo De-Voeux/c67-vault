@@ -1,0 +1,111 @@
+ISF "Unlocking Indonesia's Blue Economy through Financing, Industry-Led Innovation and Scalable Partnerships
+blue economy = ekonomi yang utilize sumber daya laut
+Indonesia produces huge amounts of seaweed and fish but exports most of it raw and captures little value. The panel looked at what it takes to turn pilots into a real industry: industry needs steady, quality supply and guaranteed buyers; government is building model sites, training farmers and offering cheap loans; and banks say capital exists, but most blue economy businesses aren't "bankable" yet, partly because the DATA investors need doesn't exist. The moderator's closing definition of a scalable model: ecologically sustainable, financially investible, inclusive, MEASURABLE, and replicable.
+============================================================
+WHO WAS ON THE PANEL
+Each speaker covered one link in the chain: business → policy → getting products to market → finance.
+Anika Faisal – Chair, Sustainable Investment Task Force, APINDO (Indonesian Employers' Association). Business/industry view.
+Tb. Haeru Rahayu – Director General of Aquaculture, Ministry of Marine Affairs and Fisheries (KKP/MMAF). Policy view.
+Ibu Lia/Julia Indra – Government Relations Director, Babcock Indonesia (UK defense and shipbuilding company). Industrial partnership view. (Correction: Part 1's transcript said "Bank of Indonesia," but Part 2 makes clear it was BABCOCK Indonesia. Bank Indonesia was NOT on the panel.)
+Justin – Head of Transition Finance Advisory, ASEAN & South Asia, Standard Chartered. Finance view.
+Background: Standard Chartered is funding a seaweed initiative with APINDO, Conservation International and Konservasi Indonesia, and its foundation is exploring how the ocean economy can create jobs for young people.
+============================================================
+INDUSTRY: THE PROBLEM IS VALUE, NOT VOLUME (APINDO)
+Value capture problem
+Indonesia produces 10M+ tons of seaweed per year, but most is exported RAW. Other countries process it and keep the profit.
+Processing it domestically could raise its value 6–18x, depending on the product.
+Goal: move from "raw material supplier" to "seaweed processing industry."
+Chicken-and-egg problem
+Farmers won't invest in quality unless buyers pay a premium.
+Processors won't build factories unless supply is steady and reliable.
+Neither exists yet, so each side waits for the other.
+Jobs for coastal youth
+Build processing facilities NEAR the farms, so young people don't have to migrate to cities for work. => giving jobs to those who actually live there.
+APINDO's initiative: "Indonesian Seaweed Incorporation"
+Uses APINDO's corporate members as potential BUYERS (off-takers) and connects the chain: farmers → processors → corporate buyers.
+Product focus: seaweed BIOSTIMULANT, a natural seaweed-based product that helps crops grow and cope with stress. It's relatively low-tech, so it suits local facilities. It adds to existing carrageenan processing (carrageenan = seaweed thickener used in food and cosmetics).
+Global biostimulant market: ~USD 1.9 billion. Indonesia's share: under 1%.
+The pilot (supported by Standard Chartered and partners)
+Track 1: responsible farming and good-quality seedlings.
+Track 2: demo plots applying the biostimulant on several crops to PROVE it works.
+Universities and independent parties verify the results.
+First results expected early 2027, then a full "island model" (one complete working supply chain that can be copied elsewhere).
+What's needed to scale nationally
+MARKET: companies that host trials and then commit to buying.
+EVIDENCE: independent, university-verified data from MULTIPLE regions.
+REGULATION: a national product standard and registration for seaweed biostimulants, so buyers have a quality benchmark.
+SUPPLY ("supply, supply, supply"): farmer education, standard practices, good seedlings, more farmers.
+============================================================
+PART B – GOVERNMENT: WHAT KKP IS DOING (DG of Aquaculture)
+Context: KKP's Blue Economy policy has five pillars, from ocean health to plastic waste. Sustainable aquaculture is one of them and a direct presidential mandate.
+KKP is focusing on 5 priority aquaculture commodities: shrimp, tilapia, mud crab, SEAWEED and lobster. They chose these because the farming technology is already mastered and the market opportunity is strong.
+How the government supports them (5 actions):
+REGULATION – e.g., a new 2026 ministerial regulation (Permen KP No. 5/2026 (?)) supporting sustainable lobster aquaculture.
+MODELING SITES – one demonstration farm per commodity, used as "centers of excellence" where investors and stakeholders can come and see best practice:
+Shrimp: Kebumen, Central Java
+Tilapia: Karawang, West Java
+Mud crab: location unclear in transcript (?)
+SEAWEED: Wakatobi (?)
+Lobster: Batam → This is effectively his answer to "if an investor says yes tomorrow, where do I send them first?": go to these modeling sites.
+REVITALIZING OLD PONDS on Java's north coast (Pantura), starting in West Java with 2 of 4 planned regencies (likely Bekasi and Subang (?)). This means better infrastructure and facilities, higher productivity, and best-practice farming.
+EXTENSION OFFICERS – about 3,000–4,000 field officers who guide and assist farmers daily, especially micro and small businesses.
+ACCESS TO FINANCE – through a KKP public service agency (BLU LPMUKP, the Marine and Fisheries Business Capital Management Agency) that lends to micro and small farmers at competitive (low) interest rates.
+============================================================
+PART C – SCALABLE PARTNERSHIP: BABCOCK'S MARITIME PARTNERSHIP PROGRAMME
+Babcock is a UK defense and engineering company with a maritime footprint in Indonesia, Australia and the UK.
+The Maritime Partnership Programme (MPP) was signed by President Prabowo and the UK Prime Minister in January 2026 and is backed by about GBP 4 billion from UK Export Finance (the UK government's export credit agency). Babcock is the lead partner delivering it.
+Main focus: FOOD SECURITY (a Prabowo priority) through MODERNIZING FISHING VESSELS.
+Claimed benefits: • More and better fish for domestic nutrition, plus export potential • Better living conditions for fishermen on board (kitchens, rooms, toilets) • Longer-lasting vessels, so less waste • Shipyard and industrial jobs • Technology and knowledge transfer: scholarships, university R&D consortiums, partnerships with local shipbuilders along the supply chain
+Note: this is about capture fisheries (fishing boats), NOT aquaculture or seaweed.
+============================================================
+PART D – FINANCE: WHY "CAPITAL IS AVAILABLE BUT NOT READY" (Standard Chartered)
+The size of the opportunity
+A Standard Chartered report estimates the ocean economy could need/attract up to USD 2.5 trillion in investment across the region over the next decade: ~USD 1 trillion public, ~USD 1.5 trillion private.
+The problem is diversity and readiness, not money
+Indonesia alone has 17,000+ islands. Projects range from early ideas to mature businesses, and each stage has a different risk profile.
+"There's a lot of capital out there. But is it the RIGHT type of capital, with the right risk appetite? Are projects bankable?"
+Three types of finance, matched to stage
+Idea stage → project preparation / development capital (grants, technical support to get started)
+Emerging solution → venture capital, sometimes private equity
+Proven, scaling → debt: project finance, blue bonds/blue finance, etc. ("Bankable" = safe and profitable enough that a bank will lend to it.)
+The biggest mismatch is DATA (?)
+He said there's a mismatch between investors, project developers and people on the ground, and that one of the biggest gaps is data. The transcript is garbled here, but that's the most likely reading.
+What Standard Chartered is doing
+Involvement with the Earthshot Prize (Prince William's environmental prize) to find solutions.
+Launched a program through its FOUNDATION (not commercial banking money) last year, focused on Indonesia: • Project preparation and capacity building • Working with government and corporates to "aggregate" small enterprises (group them so they're big enough to finance) • Goal: move enterprises from early stage → investible → then hand them to commercial banking to scale across markets.
+⚠️ Important: the moderator asked "what SPECIFIC METRICS make an enterprise financeable for a commercial bank?" He did NOT give specific metrics. That question remains unanswered.
+============================================================
+CLOSING ROUND – "In one sentence, what must change first?"
+Standard Chartered: BANKABILITY. Public sector, technical partners and finance working together to make projects bankable.
+APINDO (?): the blue economy must work WITH coastal communities. Ask how they will benefit from every project.
+Babcock: the RIGHT VESSELS for the country.
+The moderator also asked how to reach young people and women. No panelist gave a concrete answer.
+Moderator's wrap-up:
+Indonesia doesn't lack opportunities. The challenge is connecting them with the right policy, industrial capability, commercial development and capital.
+A model is "scalable" when it is: ecologically sustainable, financially investible, inclusive, MEASURABLE, and replicable.
+Roles: government = enabling environment; industry = innovation, technology, market demand; finance = mobilize capital; conservation partners = science; communities = keep growth sustainable and inclusive.
+============================================================
+KEY NUMBERS
+10M+ tons: Indonesia's annual seaweed production (mostly exported raw)
+6–18x: value increase from domestic processing
+USD 1.9B: global seaweed biostimulant market; Indonesia's share <1%
+Early 2027: first APINDO pilot results
+5: KKP priority aquaculture commodities (seaweed is one)
+~3,000–4,000: KKP extension officers
+GBP ~4B: UK Export Finance backing for the Babcock MPP
+USD 2.5T: estimated regional ocean economy investment over the next decade (1T public / 1.5T private)
+============================================================
+RELEVANCE TO OUR NASA PROJECT (team note – seaweed farm focus)
+Strongest hooks:
+SUPPLY RELIABILITY – APINDO's #1 scaling condition. Buyers and processors need to trust that quality seaweed keeps arriving. Satellite data (sea surface temperature, chlorophyll, rainfall/salinity proxies) could flag heat stress or disease-prone conditions (e.g., ice-ice) before crops fail.
+DATA FOR BANKABILITY – Standard Chartered named data as a key investor–developer mismatch, and the moderator listed MEASURABLE as a scaling criterion. Independent, consistent, multi-region environmental data is exactly what satellites provide.
+REAL USERS OUTSIDE GOVERNMENT – APINDO's Seaweed Incorporation and its off-takers (sourcing decisions), farmers (planting/harvest timing), and potentially lenders (risk assessment).
+A REAL TEST SITE – KKP's seaweed modeling site (Wakatobi (?)) is a possible place to validate our tool against ground truth.
+Be careful in our pitch:
+Nobody on the panel asked for satellite monitoring. The link is our inference.
+Their biggest stated gaps (product standards, off-take contracts, processing plants) are things our tool cannot fix.
+Most seaweed lines are smaller than one satellite pixel, so we'd be reading bay-level conditions, not individual farms.
+"What metrics make an enterprise bankable" was asked and NOT answered. Don't claim the bank wants our data specifically; ask them.
+Suggested next steps:
+Contact APINDO's seaweed initiative / the Standard Chartered pilot team: how do they currently predict supply and crop losses across regions?
+Ask Standard Chartered's transition finance team which data they'd need to lend to a seaweed cooperative.

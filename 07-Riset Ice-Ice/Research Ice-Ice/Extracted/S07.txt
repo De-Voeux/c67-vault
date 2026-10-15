@@ -1,0 +1,382 @@
+                                                                         Hidrobiológica 2020, 30 (2): 155-161
+
+                                                                   HIDROBIOLÓGICA                                                                 OPEN ACCESS
+                                                                                                                                                Research Article
+                                                                            http:/hidrobiologica.izt.uam.mx                                        August, 2020
+                                                                                    ISSN: 2448-7333
+
+
+                Horizontal transmission of ice-ice disease in seaweed Kappaphycus alvarezii (Doty) L. M. Liao (Gigartinales, Rhodophyta)
+
+                     Transmisión horizontal de la enfermedad del hielo en Kappaphycus alvarezii (Doty) L. M. Liao (Gigartinales, Rhodophyta)
+                                                                                                              Muhammad Aris1* and Rusmawati Labenua2
+
+
+Recibido: 07 de mayo de 2020.                                     Aceptado: 15 de julio de 2020.                           Publicado: agosto de 2020.
+
+
+
+                                                                                                   ABSTRACT
+                                               Background: Kappaphycus alvarezii seaweed is a major commodity of important economic value fishery
+                                               cultivation that has been developed in many countries. The demand for K. alvarezii seaweed continues to
+                                               increase because it produces carrageenan which is commonly used as the main raw material in many indus-
+                                               trial activities. However, K. alvarezii seaweed farming is inseparable from several obstacles. In the seaweed
+                                               culture system, ice-ice disease is a major obstacle because it can harm the cultivation business. Ice-ice
+                                               disease causes a decrease in seaweed production. Bacteria play a role in the development of ice-ice disease
+                                               in seaweed cultivation. Aquatic organisms infected with bacteria indirectly cause damage to tissue. The
+                                               spread of bacterial diseases in aquatic organisms can occur vertically or horizontally. Goals: This research
+                                               aims to study the horizontal transmission of ice-ice disease on growth, carrageenan content, and changes in
+                                               the structure of the K. alvarezii seaweed tissue which were tested in-vivo. Methods: This study uses healthy
+1
+    Department of Aquaculture, Fisheries       seaweed thalus weighing 35g and seaweed thallus affected by ice-ice weighing 30g (A), 35g (B), 40g (C)
+    and Marine of Faculty, Khairun of Uni-     and 45g (D).The parameters observed were morphological changes, carrageenan content and tissue chan-
+    versity. Ternate, 97719. Indonesia         ges with histological analysis. Result: The results of this research indicate that the transmission of ice-ice
+                                               disease can occur horizontally from thallus affected by ice-ice to healthy thallus. This transmission causes
+2
+    Departement of Aquatic Resource Ma-        discoloration that shows symptoms of ice-ice attack on healthy seaweed K. alvarezii. This discoloration is
+    nagement, Fisheries and Marine of          accompanied by a decrease in thallus weight. Transmission also causes changes in the structure of the tissue
+    Faculty, Khairun of University. Ternate,   in the form of lysis in the tissue and reduce the content of carrageenan in K. alvarezii seaweed. Conclusions:
+    97719. Indonesia                           Based on this research, it can be concluded that the spread of ice-ice disease in seaweed causes color chan-
+                                               ge, weight loss, changes in tissue structure, and reduce the quality of carrageenan.
+*Corresponding author:
+Muhammad Aris: e-mail:                         Keywords: Kappaphycus alvarezii, ice-ice disease, horizontal transmission, histology, carrageenan content.
+amboasse100676@gmail.com
+To quote as:                                                                                       RESUMEN
+Aris, M. & R. Labenua. 2020. Horizontal
+transmission of ice-ice disease in seaweed     Antecedentes: Kappaphycus alvarezii es un importante producto en la acuicultura de valor económico en
+Kappaphycus alvarezii (Doty) L. M. Liao        muchos países. La demanda de algas K. alvarezii continúa aumentando porque produce carragenina, que
+(Gigartinales, Rhodophyta). Hidrobiológica     se usa comúnmente como la principal materia prima en muchas actividades industriales. Sin embargo, el
+30 (2): 155-161.                               cultivo de algas marinas de K. alvarezii es inseparable de varios obstáculos. En el sistema de cultivo de al-
+                                               gas marinas, la enfermedad de hielo-hielo una problemática importante porque puede dañar el negocio del
+DOI:10.24275/uam/izt/dcbs/hidro/2020v30n2/
+                                               cultivo. La enfermedad de hielo-hielo causa una disminución en la producción de algas. Las bacterias juegan
+Muhammad
+                                               un papel en el desarrollo de la enfermedad de hielo-hielo en el cultivo de algas. Los organismos acuáticos in-
+                                               fectados con bacterias causan daños indirectos en los tejidos. La propagación de enfermedades bacterianas
+                                               en organismos acuáticos puede ocurrir vertical u horizontalmente. Objetivos: Esta investigación tiene como
+                                               objetivo estudiar la transmisión horizontal de la enfermedad de hielo-hielo en el crecimiento, el contenido de
+                                               carragenina y los cambios en la estructura de la red de algas marinas K. alvarezii que se probaron in vivo.
+                                               Métodos: Este estudio utilizó talos de algas sanas que pesaron 35 g y talos de algas marinas afectadas por
+                                               la enfermedad del hielo-hielo que pesaron 30 g (A), 35 g (B), 40 g (C) y 45 g (D). Los parámetros observados
+                                               fueron cambios morfológicos, contenido de carragenano y cambios tisulares con análisis histológico. Resul-
+                                               tados: Los resultados de esta investigación indican que la transmisión de la enfermedad de hielo-hielo puede
+                                               ocurrir horizontalmente desde el talo afectado por el hielo hasta el talo sano. Esta transmisión provoca deco-
+                                               loración y una disminución en el peso del talo. La transmisión también provoca cambios en la estructura del
+                                               tejido en forma de lisis en la red y reduce el contenido de carragenina en las algas K. alvarezii. Conclusiones:
+                                               Con base en esta investigación, se puede concluir que la propagación de la enfermedad del hielo-hielo en
+
+
+
+Vol. 30 No. 2 • 2020
+156                                                                                                                            Aris M. and R. Labenua
+
+
+
+las algas marinas causa cambios de color, pérdida de peso, cambios en       Container Preparation
+la estructura de los tejidos y reducción de la calidad de la carragenina.
+                                                                            This test was carried out in vivo with an aquarium container of 45 cm x
+Palabras clave: Algas rojas, acuicultura, bacterias, carragenina, histo-    30 cm x 30 cm, the volume of seawater media used was 80 liters. The
+logía, morfología.                                                          values ​of each water quality parameter especially temperature, salinity,
+                                                                            and dissolved oxygen are maintained in an ideal range. Temperature
+                          INTRODUCTION                                      27-29oC, salinity 30-35 ppt, and dissolved oxygen 4.8-6.2 mg / L.
+
+Kappaphycus alvarezii (Doty) L. M. Liao seaweed is a major economi-         Seaweed Acclimatization
+cally important fishery commodity (Ask & Azanza, 2002; Bixler & Por-
+se, 2010; Bindu & Levine, 2011; Zuniga-Jara & Marin-Riffo, 2015).The        Before testing the transmission of ice-ice disease, seaweed was first
+development of the K. alvarezii culture is very fast due to the demand      acclimatized for 3 days.This acclimatization was carried out to adapt
+for carrageenan, which is commonly used as the main raw material            seaweed to new environmental conditions. During acclimatization, the
+in many industrial activities (Munoz et al., 2004; Yunque et al., 2011;     media were given liquid organic fertilizer (POC NASA) as much as 5 ml
+Barbosa et al., 2013; Hurtado et al., 2015; Porse & Rudolph, 2017).         per aquarium volume of 80 liters. The test container was equipped with
+                                                                            constant aeration.
+     Kappaphycus alvarezii is a seaweed commodity that has been de-
+veloped in many countries, such as Indonesia, Malaysia, the Philippines,    Observation of Clinical Symptoms
+Vietnam and several other countries (Hung et al., 2009; Nadirah et al.,
+2012; Hurtado et al., 2015; Kasim & Mustafa, 2017). In the seaweed          The determination of the health status was based on clinical signs ma-
+culture system, ice-ice disease is a major obstacle because it can harm     croscopically, which is characterized by changes in the thallus to be-
+cultivation efforts (Vairappan, 2006; Solis et al., 2010; Luhan et al.,     come rough, wilted and wrinkled followed by the appearance of white
+2015). Ice-ice disease causes a decrease in seaweed farming produc-         spots on the surface of the thallus seaweed. Thallus wet weight mea-
+tion ranging from 70%-100% (Loureiro et al., 2010).                         surements were carried out every hour for 5 days.
+
+     Outbreaks of ice-ice diseases attacking K. alvarezii cultivation de-
+                                                                            Carrageenan Content Analysis
+velopment activities have been reported in various regions of Indone-
+sia, including Karimunjawa Islands, East Java; Bungin Island and Muna       Determination of seaweed carrageenan concentration was expressed
+Island, Southeast Sulawesi; and Seribu Islands, DKI Jakarta (Porse &        in the percentage of carrageenan dry weight of seaweed following the
+Rudolph, 2017; Syafitri et al., 2017; Aeni et al., 2019).                   method of Hayashi et al.(2007). The analysis of carrageenan content
+                                                                            was performed on the seaweed thallus in each treatment, including the
+     Bacteria play a role in the development of ice-ice disease in          negative control.
+seaweed cultivation. The bacteria that cause ice-ice disease in K. alva-
+rezii are Vibrio, Aeromonas, Cytophaga, Flavobacterium, Pseudomonas
+                                                                            Histological examination
+and Bacilllus (Largo et al., 1995; Riyaz et al., 2019). Aquatic organisms
+infected with bacteria indirectly cause damage to tissue. Changes in        Histology observation is a microscopic observation to see changes
+tissue structure make aquatic organisms sick and even cause death           in tissue structure due to the transmission of ice-ice disease from
+(Korun & Timur, 2008; Oh et al., 2019).                                     seaweed which is attacked by ice-ice disease to healthy seaweed at
+                                                                            each treatment. Observation of the structure of the seaweed tissue
+     Disease transmission in aquatic organisms can occur vertically         was carried out for 5 consecutive days. Histological observation and
+or horizontally. Horizontal spread is the process of transferring patho-    the staining of Mayers Hematoxylin and Eosinfollowed the procedure
+gens from disease-infected organisms to healthy organisms (Manin            by Jaiswal et al. (2019).
+& Ransangan, 2011; Karthikeyan & Sudhakaran, 2018; Ben-Asher et
+al., 2019). This study aims to determine the horizontal transmission of
+                                                                            Data analysis
+ice disease on growth, carrageenan content and changes in the tissue
+structure of K. alvarezii seaweed.                                          This study used a Completely Randomized Design model. The effect of
+                                                                            the treatment was tested by using the Analysis of Variance, if there was
+                                                                            an effect, then Duncan’s further test analysis was carried out.
+                  MATERIALS AND METHODS
+                                                                                                          RESULTS
+Sample Collection
+Kappaphycus alvarezii seaweed samples used were healthy seaweed             The spread of ice-ice disease in cultivated seaweed organisms is clo-
+with a wet weight of 35 g obtained from the K. alvarezii seaweed aqua-      sely related to the process of transferring disease agents from thallus
+culture in Kupang, East Nusa Tenggara, Indonesia, whereas the wet           affected by ice-ice to healthy thallus. The symptoms of ice-ice disea-
+weight of seaweed that was attacked by ice-ice was 30 g (treatment A),      se are indicated by changes in the color of the thallus which leads to
+35 g (treatment B), 40 g (treatment C) and 45 g (treatment D) obtained      symptoms of the emergence of ice-ice disease.
+from the waters of Panggang Island, DKI Jakarta, Indonesia (S 05o44’             Analysis of variance showed that there was no significant inte-
+30,7’’ dan E 106036’04’’). In addition, there was also a negative control   raction between treatment and time with a value of 0.99 (p> 0.05),
+treatment as a comparison to treatment A, B, C and D. Negative control,     while the severity of the treatment of infected thallus to the trans-
+was a treatment with thallus free of ice-ice disease.                       mission of ice-ice disease showed a significant effect with a value of
+
+
+
+                                                                                                                                       Hidrobiológica
+Horizontal transmission of ice-ice disease in seaweed Kappaphycus alvarezii                                                                        157
+
+
+0.03 (p <0.05). Treatment with the transmission time level showed                  Changes in the thallus surface conditions and changes in color
+a significant influence on the appearance of ice-ice disease 0.01 (p          and the appearance of bleaching at the tip of the thallus were followed
+<0.05).The results of the statistical analysis did not show the effect        by changes in the wet weight of the thallus seaweed (gram). The
+of each treatment, but based on the observation time they showed a            relationship is shown by the tendency to decrease the fresh weight
+significant effect in each treatment. Based on Duncan’s test results, it      of seaweed thallus after transmission test (Fig.1). The change in color
+shows that the treatment on the fifth day has a lower value (28.0472)         and the decrease in wet weight cause changes in the conditions of the
+compared to the first (32.451), second (32.6769), third (32.2361), and
+                                                                              thallus tissue. According to the results of the histological observations,
+fourth (30.2365) days. This shows that over time the transmission pro-
+                                                                              the thallus tissue of the seaweed showed differences in the structure of
+cess of ice-ice pathogens increases in the thallus of healthy seaweed.
+                                                                              the tissue (Fig. 2). The healthy condition of seaweed tissue shows that
+     This can be further proven by the appearance of ice-ice disease          the components of the cells making up the tissue are intact such as
+symptoms from each treatment compared to negative controls that               cortical cells and modular cells are still compact, neatly arranged, while
+did not show ice-ice symptoms during the observation. The speed of            the seaweed tissue structure infected with ice-ice disease shows the
+transmission of ice-ice disease to healthy seaweed thallus shows di-          tissue structure from the first day to the fifth day showing changes in
+fferent results. In treatment A, transmission of ice-ice disease infection
+                                                                              cell degradation (cells making up damaged tissue or lysis).
+occurred on the fourth day. Treatment B, the transmission occurred on
+the third day. Treatment C, the transmission occurred on the fourth day.          Changes in carrageen an content of seaweed are different in a
+While treatment D, the transmission occurred on the second day.               healthy thallus condition with seaweed with ice-ice disease and can be
+     Transmission of ice-ice caused morphological changes in seaweed          seen in Table 1. According to the analysis of the carrageenan content of
+thallus showing the same symptoms in each treatment.The change be-            the seaweed thallus in the negative control, the values ranged between
+gins with a change in the condition of the thallus that has lost mucilage     28% and 35%. When compared with seaweed thallus content from the
+on the surface of the thallus. These conditions cause the surface of the      transmission test results, the range of carrageenan content values ​​is
+thallus to become rough and gradually change color.                           lower with a range of 2.9% - 4%.
+
+
+
+
+Figure 1. Changes in biomass during the experiment from day 1 to 5.
+
+
+
+Vol. 30 No. 2 • 2020
+158                                                                                                                                       Aris M. and R. Labenua
+
+
+
+     The transmission test shows that there is a change and causes a                                             DISCUSSION
+tendency to significantly decrease carrageenan levels with each treat-
+ment. Based on the analysis of carrageenan content of seaweed after                In fish, shrimp and seaweed cultivation activities, disease attacks are
+transmission test, show a tendency to decrease carrageenan levels                  the main obstacles (Loch & Faisal, 2015; Mohamad et al., 2019; Dey
+significantly from each treatment. Based on the results of the analysis            et al., 2019; Ward et al., 2019). The results of this study indicate that
+of variance (p<0.05), it shows an interaction of the level of severe treat-        the transmission of ice-ice disease to healthy seaweed thallus causes
+ment of infected thallus with the transmission test time to the response           discoloration and weight loss.
+to decrease in carrageenan content. The interaction of each treatment
+level was determined by further statistical tests with the Duncan test.                The phenomenon observed in the present study of ice-ice disease
+The results of the analysis show the differences of each interaction               has similarities with those reported by Ask et al. (2003), Yong et al.
+level of treatment before and after the ice-ice disease transmission test.         (2015) and Tsiresy et al. (2016), that the incidence of ice-ice disease in
+
+
+
+
+Figure 2. Photomicrograph of seaweed thallus tissue Kappaphycus alvarezii that is attacked by ice-ice disease (A = Day 0, B = Day 2, C = Day 3, D = Day 4, E = Day
+5) [Arrows in image B-E indicate the occurrence of cell death or lysis].
+
+
+
+                                                                                                                                                   Hidrobiológica
+Horizontal transmission of ice-ice disease in seaweed Kappaphycus alvarezii                                                                                 159
+
+
+Table 1. Results of carrageenan content analysis on day of the expe-                                         REFERENCES
+riment
+                                                                              Aeni, O. N., L. O. M. Aslan, W. Iba, A. B. Patadjai, M. Rahim & M. Balubi. Effect
+Treatment                                  Carrageenan content (%)                 of different seedling sources on growth and carrageenan yield of
+A                                                         4,0 %                    seaweed Kappaphycus alvarezii cultivated in Marobo Waters, Muna
+                                                                                   Regency, Southeast (Se) Sulawesi,Indonesia. IOP Conf. Series:
+B                                                         3,1 %                    Earth and Environmental Science 382: 1-9. DOI:10.1088/1755-
+C                                                         3,1 %                    1315/382/1/012015
+
+D                                                         2,9 %               Ask, E. I. & R. V. Azanza. 2002. Advances in cultivation technology of com-
+                                                                                   mercial eucheumatoid species: a review with suggestions for the
+Negative control                                          28-35 %
+                                                                                   future research. Aquaculture 206: 257-277. DOI:10.1016/S0044-
+                                                                                   8486(01)00724-4
+                                                                              Barbosa, M., L. Cavalcante, C. Souza & P. Gomez. 2013. Kappaphycus
+a seaweed cultivation region begins with changes in thallus that are ex-
+                                                                                  alvarezii (Gigartinales, Rhodophyta) cultivated in Brazil: is it onl-
+periencing stress, followed by bleaching and ultimately thallus damage.           yone species. Journal of Applied Phycology 25: 1143-1149. DOI:
+Stress characterized by changes in the color of the thallus is an early           10.1007/s10811-012-9952-8
+symptom of seaweed that has a disruption of ice-ice disease, along
+with the maintenance of the thallus tip turns white and finally porous        Ben-Asher, R., S. Ravid, M. Ucko, M.Smirnov & O. Lahav. 2019.Chlorine-ba-
+(Sulu et al., 2003).                                                              sed disinfection for controlling horizontal transmission of VNNin
+                                                                                  a seawater recirculating aquaculture system growing European
+     In addition, the transmission of ice-ice shows different tissue struc-       seabass. Aquaculture 510: 329-336. DOI:10.1016/j.aquacultu-
+tures in seaweed that show changes in the degradation of cells making             re.2019.06.001
+up the lysed tissue. Transmission of disease agents can cause changes
+                                                                              Bindu, M. S. & I. A. Levine. 2011. The commercial red seaweed Kappaphy-
+in tissue structure (Magi et al., 2009; Senapin et al., 2018). This is due
+                                                                                  cus alvarezii an overview on farming and environment. Journal of
+to the attachment of disease agents from the organism to the produc-              Applied Phycology 23: 789-796. DOI:10.1007/s10811-010-9570-2
+tion of extracellular substances, that is highly correlated with time and
+weight loss of the new hosts due to the lysis of new host cells (Salyers      Bixler, H. J. & H. Porse. 2010. A decade of change in the seaweed hy-
+& Whitt, 1994).                                                                    drocolloidsindustry. Journal of Applied Phycology 23: 321-335.
+                                                                                   DOI:10.1007/s10811-010-9529-3
+     Ice-ice infection also causes a decrease in carrageenan content in
+                                                                              Dey, B. K., G. H. Dugassa,S . M. Hinzano & P. Bossier. 2019.Causative agent,
+K. alvarezii seaweed (Rantetondok & Latama, 2017; Ward et al., 2019).
+                                                                                   diagnosis and management of white spotdisease in shrimp: A re-
+This is indicated by the loss of pigment due to lysis of the cells making
+                                                                                   view. Reviews in Aquaculture 12(2): 1-44. DOI:10.1111/raq.12352
+up seaweed tissue. Another impact of cell lysis is the occurrence of
+significant degradation of organic substances from the thallus tissue of      Hayashi, L., E. J. de Paula & F. Chow. 2007.Growth rate and carrageenan
+seaweed. The study of Mendoza et al. (2002), showed that the viscosity            analyses in four strains of Kappaphycus alvarezii (Rhodophyta, Gi-
+and carrageenan levels of K. alvarezii seaweed thallus decreased when             gartinales) farmed in the subtropical waters of São Paulo State,
+ice-ice infection occurred.                                                       Brazil. Journal of Applied Phycology 19: 393-399. DOI:10.1007/
+                                                                                  s10811-006-9135-6
+     This condition is in line with the results of research Hayashi et al.
+                                                                              Hayashi, L., N. S. Yokoya, S.Ostini, R. T. L. Pereira, E. S. Braga & E. C. Oliveira.
+(2010) that, the condition of seaweed thallus which experienced pig-
+                                                                                  2010. Nutrients removed by Kappaphycus alvarezii (Rhodophyta,
+ment loss and showed symptoms of ice-ice disease had a low carra-
+                                                                                  Solieriaceae) in integrated cultivation with fishes in re-circula-
+geenan content ranging from 0.5% - 25%. The quality of K. alvarezii
+                                                                                  tingwater. Aquaculture 277: 185-191. DOI:10.1016/j.aquacultu-
+seaweed is determined by carrageenan content which ranges from
+                                                                                  re.2008.02.024
+32% - 75%, and decreases its quality when it is below that range (Mu-
+noz & Sahoo, 2004). The content of carrageenan and gel strength de-           Hung, L. D., K. Hori, H. Q. Nang, T. Kha & L. T. Hoa. 2009. Seasonal chan-
+creased significantly when the symptoms of ice-ice disease began to               ges in growth rate, carrageenan yieldand lectin content in the red
+appear in the thallus, and decreased with time and the level of thallus           alga Kappaphycus alvarezii cultivated in Camranh Bay, Vietnam.
+damage. The decrease in carrageenan content is directly proportional              Journal of Applied Phycology 21: 265-272. DOI:10.1007/s10811-
+to the time of bacterial infection (Riyaz et al., 2020).                          008-9360-2
+                                                                              Hurtado, A. Q., I. C. Neish & A. T. Critchley. 2015. Developments in produc-
+                                                                                  tion technology of Kappaphycus in the Philippines: more than four
+                                CONCLUSION                                        decadesof farming. Journal of Applied Phycology 27: 1945-1961.
+The results of this study indicate that the transmission of ice-ice di-           DOI:10.1007/s10811-014-0510-4
+sease can occur horizontally from thallus affected by ice-ice to healthy      Jaiswal, L., S. Shankar & J. Rhim. 2019.Carrageenan-based functional hy-
+thallus. This transmission causes discoloration accompanied by a de-               drogel film reinforced with sulfurnanoparticles and grapefruit seed
+crease in thallus weight. Transmission also causes changes in tissue               extract for wound healing application. Carbohydrate Polymers 224:
+structure and decreases carrageenan content.                                       115-191. DOI:10.1016/j.carbpol.2019.115191
+
+
+
+Vol. 30 No. 2 • 2020
+160                                                                                                                                       Aris M. and R. Labenua
+
+
+
+Karthikeyan, K. & R. Sudhakaran. 2018.Experimental horizontal transmis-             ters of Yucatán, México. Aquaculture 239: 161-177. DOI: 10.1016/j.
+    sion of Enterocytozoon hepatopenaei in post-larvae of white leg                 aquaculture.2004.05.043
+    shrimp, Litopenaeus vannamei. Journal of Fish Diseases 42(3):
+                                                                               Munoz, J. & D. Sahoo. 2004. Impact of Large Scale Kappaphycus alvarezii
+    397-404. DOI:10.1111/jfd.12945
+                                                                                  Cultivation in Coastal Water of India. XIX th International seaweed
+Kasim, M. & A. Mustafa. 2017. Comparison growth of Kappaphycus al-                Symposium, Kobe,Japan, Program and abstracts. 121 p.
+    varezii (Rhodophyta, Solieriaceae) cultivation in floating cage and        Nadirah, M., H. H. Ruhil, K. C. A. Jalal & M. Najiah. 2012. Occurrence of
+    longline in Indonesia. Aquaculture Reports 6: 49-55. DOI:10.1016/j.            Plesiomonas shigelloides in cultured red hybrid tilapia (Oreochromis
+    aqrep.2017.03.004                                                              niloticus) from tropical rivers, east coast Malaysia. Pakistan Journal
+Korun, J. & G. Timur. 2008. Marine vibrios Associated with diseased sea            Biological Sciences 15: 600-603. DOI:10.3923/pjbs.2012.600.603
+    bass (Dicentrarchus labrax) In Turkey. Journal of Fisheries Sciences       Oh, W. T., J. H. Kim, J. W. Jun, S. S. Giri, S. Yun, H. J. Kim, S. G. Kim, S. W. Kim,
+    2(1): 66-76. DOI:10.3153/jfscom.2008007                                        S. J. Han, J. Kwon & S. C. Park. 2019. Genetic Characterization and
+Largo, D. B., F. Fukami,T. Nishijima & M. Olino. 1995. Laboratory induced          Pathological Analysis ofa Novel Bacterial Pathogen, Pseudomonas
+    development of the ice-ice disease of the farmed red algae Ka-                 tructae, in Rainbow Trout (Oncorhynchus mykiss). Microorganisms
+                                                                                   7(432): 01-12. DOI:10.3390/microorganisms7100432
+    ppaphycus alvarezii and Eucheuma denticulatum (Solieriaceae, Gi-
+    gartinales, Rhodophyta). Journal of Applied Phycology 7: 539-543.          Porse, H. & B. Rudolph. 2017. The seaweed hydrocolloid industry: 2016
+    DOI:10.1007/BF00003940                                                         updates, requirements, and outlook. Journal of Applied Phycology
+                                                                                   29: 2187-2200. DOI:10.1007/s10811-017-1144-0
+Loch, T. P. & M. Faisal. 2015. Emerging flavobacterial infections in
+    fish: A review. Journal of Advanced Research 41(5): 829-845.               Rantetondok, A. & G. Latama. 2017. Epiphytic and ice-ice diseases of
+    DOI:10.1016/j.jare.2014.10.009                                                 seaweed, Kappaphycus alvarezii and its effect on growth rate and
+                                                                                   carrageenan quality. International Journal of Aquaculture 7(21):
+Loureiro, R. R., R. P. Reis & A. T. Critchley. 2010. In vitro cultivation of       134-138. DOI:10.5376/ija.2017.07.0021
+    three Kappaphycus alvarezii (Rhodophyta, Areschougiaceae) va-
+    riants (green, redand brown) exposed to a commercial extract of            Riyaz, S. U. M., S. Nalini, G. Kavitha, S. A. D. Sutha & D. Inbakandan. 2019.
+    the brownalga Ascophyllum nodosum (Fucaceae, Ochrophyta).                       Characterization and identification of isolated bacteria from ice-ice
+    Journal of Applied Phycology 22: 101-104. DOI:10.1007/s10811-                   disease infected seaweed Kappaphycus alvarezii. Indian Journal of
+    009-9412-2                                                                      Geo Marine Sciences 48(08): 1286-1290.
+
+Luhan, M. R. J., S. Sheryll-Avañcena & P. M.Jonalyn. 2015.Effect of short-     Riyaz, S. U. M., N. S. Prabhu, S. Nalini, G. Tejaswini, H. J. Christy & D. Inbakan-
+                                                                                    dan. 2020. Microbiome identification from ice-ice disease infected
+    term immersion of Kappaphycus alvarezii (Doty)Doty in high nitro-
+    gen on the growth, nitrogen assimilation,carrageenan quality, and               Kappaphycus alvarezii using 16S rRNA gene sequence analy-
+    occurrence of “ice-ice” disease. Journal of Applied Phycology 27:               sis and in silico docking studies against carrageenan degrading
+    917-922. DOI:10.1007/s10811-014-0365-8                                          bacteria. Biocatalysis and Agricultural Biotechnology 27: 101870.
+                                                                                    DOI:10.1016/j.bcab.2020.101707
+Magi, G. E., S. Lopez-Romalde, B. Magariños, J. Lamas, A. E. Toranzo & J. L.
+                                                                               Salyers, A. A. & D. D. Whitt. 1994. Bacterial Pathogenesis: A Molecular
+    Romalde. 2009. Experimental Pseudomonas anguilliseptica infection
+                                                                                   Approach. ASM Press, Washington D.C.420 p.
+    in turbot Psettamaxima (L.): a histopathological and immunohis-
+    tochemical study. European Journalof Histochemistry 53: 73-80.             Senapin, S., H. T. Dong, W. Meemetta, W. Gangnonngiw, P. Sangsuriya, R. Vani-
+    DOI:10.4081/ejh.2009.e9                                                        chviriyakit, M. Sonthi & B.Nuangsaeng. 2018. Mortality from scale drop
+                                                                                   disease in farmed Lates calcarifer in Southeast Asia. Journal of Fish
+Manin, B. O. & J. Ransangan. 2011.Experimental evidence of horizontal
+                                                                                   Diseases 42(1): 119-127. DOI:10.1111/jfd.12915
+    transmission of Betanodavirus inhatchery-produced Asian seabass,
+    Lates calcarifer and brown-marbled grouper, Epinephelus fuscogu-           Solis,M. J. L., S. Draeger, E. E. Thomas & T. E. E. de la Cruz. 2010. Ma-
+    ttat us fingerling. Aquaculture 321: 157-165. DOI:10.1016/j.aqua-               rine derived fungi from Kappaphycus alvarezii and K. striatum as
+    culture.2011.08.021                                                             potentialcausative agents of ice-ice disease in farmed seaweeds.
+                                                                                    Botanica Marina 53: 587-594. DOI:10.1515/bot.2010.071
+Mendoza, W. G., N. E. Montano, E. T. G anzon-Fortes & E. R. D. Villanu.
+   2002. Chemicaland Gelling Profile of ice-ice Infected Carageenan            Sulu, R., L. Kumar, C. Hay & T. Pickering. 2003. Kappaphycus alvarezii in
+   from Kappaphycus striatum (Schmitz) Doty “Sacol” Strain Solieci-                the pacific: review of introductions and field testing proposed qua-
+   riciae, Gigartinales, Rhodophyta). Journal of Applied Phycology 14:             rantinem protocols. The Institute of Marine Resources (IMR), The
+   409-418. DOI:10.1023/A:1022178119120                                            University of the South Pacific. Also available at: http://marinea-
+                                                                                   gronomy.org/sites/default/files/Sulu.%202006.Kappaphycus%20
+Mohamad, N., M. N. Z. Amal, I. S. M. Yasin, M. Z. Saad,N. S. Nasruddin, N.         introductions%20%26%20quarantine.pdf
+   Al-saari, S. Mino & T. Sawabe. 2019. Vibriosis in cultured marine fi-
+                                                                               Syafitri, E., S. B. Prayitno, W. F. Ma’ruf & O. K. Radjasa. 2017. Gene-
+   shes: a review. Aquaculture 512: 01-17. DOI:10.1016/j.aquacultu-
+                                                                                    tic diversity of the causative agent of ice-ice disease of the
+   re.2019.734289
+                                                                                    seaweed Kappaphycus alvarezii from Karimunjawa island, Indo-
+Munoz, J., Y. Freile-Pelegrín & D. Robledo. 2004. Mariculture of Kappaphy-          nesia. IOP Conf. Series: Earth and Environmental Science 55: 1-8.
+   cus alvarezii (Rhodophyta, Solieriaceae) color strains intropical wa-            DOI:10.1088/1755-1315/55/1/012044
+
+
+
+                                                                                                                                                   Hidrobiológica
+Horizontal transmission of ice-ice disease in seaweed Kappaphycus alvarezii                                                                                  161
+
+
+Tsiresy, G., J. Preux, T. Lavitra, P. Dubois, G. Lepoint & I. Eeckhaut. 2016.Phe-   Yong, Y. S., W. T. L. Yong, V. Y. Thien, S. E. Ng, A. Anton & S. Yassir. 2015.
+     nology of farmed seaweed Kappaphycus alvarezii infestation by the                  Acclimatization of micropropagated Kappaphycus alvarezii (Doty)
+     parasitic epiphyte Polysiphonia sp. in Madagascar. Journal of Applied              Doty ex Silva (Rhodophyta, Solieriaceae) in outdoor nursery system.
+     Phycology 28: 2903-2914. DOI:10.1007/s10811-016-0813-8                             Journal of Applied Phycology 27: 413-419. DOI:10.1007/s10811-
+                                                                                        014-0289-3
+Vairappan, C. S. 2006. Seasonal occurrences of epiphytic algae on the-
+     commercially cultivated red alga Kappaphycus alvarezii (Solieria-              Yunque, D. A. T., K. R. Tibubos, A. Q. Hurtado & A. T. Critchley. 2011. Opti-
+                                                                                        mization of culture conditions for tissueculture production of young
+     ceae,Gigartinales, Rhodophyta). Journal of Applied Phycology 18:
+                                                                                        plantlets of carrageenophyte Kappaphycus. Journal of Applied Phy-
+     611-617. DOI:10.1007/978-1-4020-5670-3_46
+                                                                                        cology 23: 433-438. DOI:10.1007/s10811-010-9594-7
+Ward, G. M., J. P. Faisan-Jr, E. J. Cottier-Cook, C. Gachon, A. Q. Hurtado, P. E.   Zuniga-Jara, S. & M. Marin-Riffo. 2015. Bioeconomic analysis of sma-
+   Lim, I. Matoju, F. E. Msuya, D. Bass & J. Brodie. 2019.A review of repor-             ll-scale cultures of Kappaphycus alvarezii (Doty) Doty in India.
+   ted seaweed diseases and pestsin aquaculture in Asia. The Journal                     Journal of Applied Phycology 28: 133-1143. DOI:10.1007/s10811-
+   of the World Aquaculture Society 1: 1-14. DOI:10.1111/jwas.12649                      015-0616-3
+
+
+
+
+Vol. 30 No. 2 • 2020
+

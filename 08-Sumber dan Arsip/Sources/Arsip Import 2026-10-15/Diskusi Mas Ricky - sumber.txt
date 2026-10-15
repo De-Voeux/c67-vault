@@ -1,0 +1,40 @@
+
+
+- IoT : sistem yang membuat benda fisik bisa mengukur sesuatu, mengirimkan hasilnya, dan digunakan oleh aplikasi.
+- Konteks : hal yg paling effort dilakukan petani dan penyuluh --> menjaga agar ice ice di seaweed tidak menyebar
+- Parameter: Salinitas, ombak, suhu, jumlah paparan sinar matahari (UV)
+- Gimana cara detectnya dengan IoT.
+- Salinitas, gimana masangnya? kita kepikiran untuk 1 sensor aja cukup, karena petani akan melakuakn pengecekan secara berkala. Ada 2 opsi dan kita lebih cindng ke opsi kedua
+- Concern kita : data transfer, apakah bisa real-time ke app client kita, means butuh internet, haru scari acar supayabisa langsung kirim data ke app kita. klao tidak memungkinkan mungkin bisa bluetooth, tapi mesti dekat.yg kedua berarti ada ngaruh ke listrik, krn gamungkin, brrti harus pake baterai, dan ini air laut krn bisa mengakibatkan korosif.
+- Good starting point.
+- Riset harus mulai dari satu titik. Kita punya bayangan ideal.
+- Kita mau monitor kondisi lautnya bukan seaweednya.
+- Salinitas ada sendirnya dan bervariasi. 
+- Untuk kasusnya kalo dicelupkan ke laut, itu berpengaruh ke temperatur. Itu bisa langsung cover 2 hal, yaitu salinitas dan suhu. Semakin panas atau hangan suatu air , salinitas akan meningkat. 
+- Secara teknis namanya electrical conductivity (EC). range nya banyak, kualiytasnya banyak. kalo laut, perlu yg bis akena ir lalut terus menerus. Model yg ujungnya kaya kaca.
+- Sensor untuk ombak, lebih ke kecepatan arus. Seaweed bagusnya ketika airnya terus bersirkulasi. Pengaruhnya ketika air terus mengalir, jadi seaweed akan subur dan tumbuh dengan baik, karena nutrien dan oksigen terus mengalir. Kalo gabaik, maka akan stuck, dan akan menimbulkan ice ice lebih cepat.
+- pELAMPUNG DIKASIH AKSELEROMETER YG BISA MENDEKETKSI PERCEPATAN, YG MODERN BISA 3D YG DIIKAT KE PELAMPUBGN UNTUK DETECT NAIK TURUN OMBAK. Untuk melihat seberapa intens gelombang yg terbaca, ini adalah opsi termurah
+- Kalo untuk laut itu sebenarnya ada macem macem, ada yg kay angasih paddle atau baling baling. seberapa cepat dia berputar, dan itu cukup ideal tapi banyak mekanisme yg harus dipikirkan. teknisnya cukup berat.
+- Untuk pelampung yg dikasi sensor itu cukup mudah.
+- Untuk suhu, gaperlu ngukur suhu minus dan mendidih.
+- Untuk UV, belum mtau apa beda berbagai macam alat UV. Defining UV apa yg mau dipake dan menggunakna panjang gelombang yg berapa. apakah UV-A, UV-B, dll?
+- Kalo teryata butuhnya UV, cari yang panjang gelombangny sesuai. 
+- pEMASANGAN SENSOR BUTUH STRATEGI UNTUK PEMSANGANNYA, MISALNYA MUNGKIN SALINITAS, 1 METER DIBAWAH PERMUKAAN AIR LAUT.
+- Suhu bisa disatukand engan sensor salinitas atau bersebelahan.
+- UV, bisa alat yg muncul diatas permukaan laut untuk pemasangannya.
+- Kita mau sensornya berjalan cukup mandiri dan ga visible kalo narik listrik dari darat, biasanya dikasih solar panel dan dibantu dengan baterai backup.
+- Costnya eboh technical effort atau bisaya untuk solar panel? sOLAR PANEL DAN BATERAI GA SUSAH2 BANGET KLO UDAH DIITUNG. diitung dulu kebutuhan listrik sendir, arduino, untk radio modemnya. unutk komunikasinya blio kepikiran pake lora. itu yg nyambungin ke seluler.
+- Katakanlah ada 5-10 sensor, komunikasinya pake LoRa, per node.
+- Jadi satu paket yg udah ada solar panel, LoRa, dll.
+- butuh 1 station yg punya LoRa sebagai receiver
+- Flow : sensor ke darat, dari darat dikirimkan ke seluler
+- Ketika udah tau semua alatnya , harus dihitung rentang waktunya rentang per berapa menit/jam. akan memakan watt/jam kah atau gimana, itu harus diperhitungkan. dari situ kita tau berapa kebutuhan baterainya berapa, then kita juga tau berapa solar panel yg dibutuhkan berapa energinya.
+- LoRa receiver itu gimana cara kerjanya? bisa narik kabel listrik, kalo gabisa ya pake baterai dan solar panel yg ditaro di station, jangan ditanah, pa,ing tidak minimal di atas pohon.
+- bisa diatur strategi misalkan per semenit atau 30 detikan itu tergantung perhitungan kita.
+- Kalo untuk ombak itu harus nyala terus.
+- Apakah LoRa yg paling oke? bisa ga kita yg minta petani bawa alat? bisa pake baterai tanpa solar panel jad gausa LoRa. sensor, arduino, sama baterai aja. datanya sdisimpan dulu dialatnya then ketika petani pulang ke darat, baru diambil datanya. bisa dicoba mvp apakah visible apa engga.
+- Secara housing, perlukan dibungkus pake plastik tanpa celah atau aluminium karena air laut? pake aja bahan seadanya dan semurah mungkin, bisa menggunakan pipa paralon. waktu merakit jangan lupa pake lem yg bagus.
+- ketika nanti berhasil di deploy, perlu consider hpusing yg lebih baik lagi, agar bisa dibuka tutup secara berkala. ga cuma air laut, sinar ,atari juga berpengaruh.
+- Feasibility, ini make sense atau ada hal yg kita lewatin? selalu mulai dari mental model (nanti minta ke kak keke)
+- ketika melibatkan IoT, mesti mengevaluasi mesti mempertimbangkan skenario kita, mesti tau parameter apa aja yg perlu menggunakan IoT. conoth kita, suhu, saliitas, UV, ombak. cari tau dul apa yg dibutuhkan per parameter yg mau diukur.
+- Mental model : kita harus tau data yg mau diambil apa, dan IoT itu cuma mempermudah kita dalam mengembil data. Kalo secara manual visible, berarti cuma perlu pikirin cara kerja IoT nya aja. Don't worry too much.

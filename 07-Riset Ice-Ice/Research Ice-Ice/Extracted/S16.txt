@@ -1,0 +1,428 @@
+Aquaculture Studies, 23(5), AQUAST1137
+http://doi.org/10.4194/AQUAST1137
+
+
+
+
+RESEARCH PAPER
+
+
+
+Prevalence of Ice-Ice Disease in Kappaphycus spp. and
+Eucheuma denticulatum Farms in Sibutu, Tawi-Tawi,
+Philippines
+
+Albaris B. Tahiluddin1,* , Samiya U. Damsik2
+
+1Mindanao State University-Tawi-Tawi College of Technology and Oceanography, College of Fisheries, Sanga-Sanga, Bongao, 7500,
+
+ Tawi-Tawi, Philippines
+2Mindanao State University-Tawi-Tawi College of Technology and Oceanography, MSU Herbarium, Sanga-Sanga, Bongao, 7500,
+
+ Tawi-Tawi, Philippines
+
+
+How to cite
+Tahiluddin, A.B., Damsik, S.U. (2023). Prevalence of ice-ice disease in Kappaphycus spp. and Eucheuma denticulatum farms in Sibutu, Tawi-Tawi,
+Philippines, 23(5), AQUAST1137. http://doi.org/10.4194/AQUAST1137
+
+Article History                                Abstract
+Received 24 September 2022
+Accepted 14 December 2022                      Kappaphycus spp. and Eucheuma denticulatum are commercially farmed in the world,
+First Online 27 January 2023                   notably in tropical countries such as Indonesia, Philippines, and Malaysia. Diseases and
+                                               pests, particularly ice-ice disease, are the major hurdles in the sustainability of
+                                               eucheumatoid seaweed culture. In this study, ice-ice disease prevalence in
+Corresponding Author                           Kappaphycus and Eucheuma farms in Sibutu, Tawi-Tawi, Philippines, was assessed and
+Tel.: +639094260941                            compared according to species, farm depth, and time. Results revealed that in deep
+E-mail: albarist20@gmail.com                   water farms, ice-ice disease prevalence was significantly lower in K. striatus
+                                               (4.29±0.97%) than in K. alvarezii (10.53±2.64%) in July. In shallow water farms,
+                                               E. denticulatum had the highest ice-ice disease prevalence (21.97±1.73%) significantly
+Keywords                                       among the assessed seaweed species during August, and K. alvarezii had the lowest
+Eucheuma denticulatum                          ice-ice disease occurrence (5.43±1.98%) significantly during September. In terms of
+Kappaphycus alvarezii                          depth water farm and time comparison, ice-ice disease prevalence (7.41±1.50% -
+Kappaphycus striatus                           27.04±4.66%) in deep water (exceeding 2.47±0.16 m during low tide) did not differ
+Ice-ice disease                                significantly from that prevalence (11.35±1.69% - 12.91±1.93%) in shallow water farms
+Philippines                                    (0.61±0.29 m during low tide) across time. This study suggests that ice-ice disease is
+Prevalence                                     still a prevalent and persistent problem in eucheumatoid seaweed farming.
+
+
+
+
+Introduction                                                                 aquatic plants (FAO, 2020). In the Philippines, the most
+                                                                             extensively farmed eucheumatoid seaweeds are
+      The genus of Kappaphycus and Eucheuma,                                 Kappaphycus striatus and K. alvarezii due to the greater
+collectively called eucheumatoids, are among the most                        demand for kappa-carrageenan extracted from these
+popular cultivated seaweeds in the world, particularly                       red seaweeds, whereas iota-carrageenan is less in
+among coastal communities in tropical regions                                demand (Dumilag et al., 2022). Hence, the cultivation of
+(Tahiluddin & Terzi, 2021a). Eucheumatoids are                               E. denticulatum is not well-known due to its lower price
+commercially farmed for the production of                                    in the market. The Philippines is one of the top
+carrageenans –polysaccharides that are extensively                           eucheumatoid seaweed-producing countries, ranking
+utilized in the cosmetic, pharmaceutical, and food                           fourth in 2018 (FAO, 2020). However, the production of
+industries (Ward et al., 2022). The world eucheumatoid                       seaweeds (eucheumatoids) in the Philippines has
+seaweed production in 2018 was nearly 11 million tons,                       declined from 1.50 million tons in 2019 to 1.47 million
+that is, about 34% of the total world production of                          tons in 2020 (PSA, 2021). There are multiple factors in
+
+
+Published by Central Fisheries Research Institute (SUMAE) Trabzon, Turkey.
+Aquaculture Studies                                                                                          AQUAST1137
+
+ the production of farmed eucheumatoids; one of these                 In the Philippines, the occurrence of ice-ice disease
+ is the prevalence of ice-ice disease (Faisan et al., 2021;     is widespread in cultured eucheumatoid seaweeds,
+ Tahiluddin & Terzi, 2021a; Ward et al., 2022; Tahiluddin       notably in Mindanao (Faisan et al., 2021). Previous
+ et al., 2022a).                                                studies also reported that ice-ice disease is predominant
+       The ice-ice disease was initially reported by Uyenco     in eucheumatoid seaweed farming in different parts of
+ (1981) in the Philippines. Now, ice-ice disease is             the country (Uyenco et al., 1981; Largo et al., 1995;
+ considered a significant problem in eucheumatoid               Hurtado et al., 2006; Tisera & Naguit, 2009; Solis et al.
+ seaweed farming globally (Tahiluddin & Terzi, 2021a).          2010; Alibon et al., 2019; Tahiluddin et al., 2022a; Sarri
+ Unfavorable environmental conditions, i.e., high or low        et al., 2022; Tahiluddin et al., 2022b; Bermil et al., 2022;
+ temperature, salinity, and light intensity, as well as         Tahiluddin et al., 2022c) and worldwide (Tahiluddin &
+ nutrient deficiency, are the primary factors triggering        Terzi, 2021a). In Sibutu, Tawi-Tawi, Philippines, where
+ this disease (Largo et al., 1995a; Largo et al., 2002; Luhan   one of the largest eucheumatoid seaweed farms in the
+ et al., 2015; Tahiluddin & Terzi, 2021a; Tahiluddin &          country is situated, ice-ice disease is a long issue in
+ Terzi, 2021b; Tahiluddin et al., 2022a). Secondary factors     farmed eucheumatoid seaweeds (Tahiluddin et al.,
+ as causative biotic agents are opportunistic bacteria,         2022a) that cease the farmers from cultivating
+ taking advantage of the stress seaweeds (Largo et              sustainably. Usually, the farmers simply cut off the ice-
+ al.,1995b; Largo et al., 1999). Marine-derived fungi also      ice-diseased thalli and let the seemingly unaffected
+ caused ice-ice disease in the Kappaphycus species (Solis       branches continue to regenerate and regrow (Hurtado
+ et al., 2010). This disease is usually showing                 et al., 2019). However, this process seemed not to
+ depigmentation, whitening, or bleaching in the infected        wholly eradicate the disease. As a consequence, despite
+ thalli of seaweeds (Ward et al., 2022). As the disease         being discouraged by the Philippine National Standard
+ progresses, the infected thalli become weak and soft           in 2021, farmers were urged to incorporate inorganic
+ and eventually break off from the cultivation lines;           nutrient enrichment using inorganic fertilizers, mainly
+ hence losses are expected (Faisan et al., 2021). Ice-ice       ammonium phosphate, which seemed to be an effective
+ disease, along with epiphyte infestation, affects the          way of decreasing the occurrence of ice-ice disease and
+ sustainability of eucheumatoid seaweed farming as they         improving the growth of farmed eucheumatoid
+ have caused numerous problems, including reducing              seaweeds, thereby increasing the production
+ culture stocks and lowering carrageenan quality,               (Tahiluddin et al., 2022a). However, despite the
+ lowering income and job opportunities, particularly for        assistance of inorganic nutrient enrichment, ice-ice
+ marginalized seaweed farmers (Ward et al., 2020). The          disease is still a common problem in eucheumatoid
+ ice-ice disease is one of the main factors in the 15%          seaweed farming (Tahiluddin et al., 2022a). Hence, this
+ production losses of Kappaphycus in the Philippines            study assessed the prevalence of ice-ice disease in
+ between 2011 and 2013 (Cottier-Cook et al., 2016).             different     farms     of    eucheumatoid       seaweeds
+
+
+
+
+ Figure 1. Sampling sites.
+Aquaculture Studies                                                                                            AQUAST1137
+
+ (Kappaphycus species and Eucheuma denticulatum) in                 Ice-Ice Disease Assessment
+ Sibutu, Tawi-Tawi, Philippines, between July to
+ September 2022. The prevalence of ice-ice disease was                    Ice-ice disease was assessed on each farm through
+ compared according to farm depth (shallow and deep                 visual observation once a month. Any signs or
+ waters), species (Kappaphycus striatus, K. alvarezii, and          symptoms, such as showing white and soft thalli, are
+ Eucheuma denticulatum), and time (July, August, and                considered an ice-ice disease (Tahiluddin et al., 2022a).
+ September).                                                        Diseased thalli were counted per line (31-56 bundles per
+                                                                    line). The prevalence of ice-ice disease was calculated by
+ Materials and Methods                                              obtaining the quotient from counted ice-ice disease-
+                                                                    infected thalli and the total number of seaweed bundles
+ Sampling Sites                                                     per line (Faisan et al., 2021).
+
+       This study was conducted in the municipality of              Monitoring of Water Parameters
+ Sibutu, province of Tawi-Tawi, Philippines (Figure 1)
+ since this area has extensive eucheumatoid seaweed                       Water parameters, such as temperature and
+ farms and is considered as one of the major suppliers of           salinity, were respectively determined using a
+ dried eucheumatoid seaweeds in the Philippines. The                thermometer and refractometer during the assessment
+ study was carried out in July, August, and September               once a month. The surface water (7-12 cm depth) of the
+ 2022. The characteristics of the assessed farms can be             farms was measured (in triplicates) just beside the
+ seen in Table 1. Different farms according to depth                cultivated lines by submerging the thermometer and
+ (shallow and deep-water farms) and species                         obtaining the water sample for salinity measurement.
+ (Kappaphycus alvarezii and K. striatus) were assessed,
+ done in triplicate farms with five random lines in each            Statistical Analysis
+ farm for each species. However, for E. denticulatum, due
+ to limited farm availability as a result of its lower price,             The obtained data were expressed as mean±SE.
+ only one farm (shallow area) and five random lines were            Statistical analysis was performed using the IBM SPSS
+ assessed. As practiced by the farmers in the area, K.              version 20. Non-parametric one-way analysis of
+ alvarezii and K. striatus, both farmed in shallow and              variance (ANOVA) Kruskal-Wallis was utilized to
+ deep-water farms, were nutrient-enriched with                      determine significant differences among species at each
+ ammonium phosphate at a concentration ranging                      time. This was done after the data were found not to be
+ between 2.26 and 25 g L-1 by shortly dipping the                   normally distributed using Shapiro-Wilk’s test, and the
+ seaweeds in the fertilizer solution for 5-60 seconds,              variances were not homogeneous. In addition, to
+ gathered on the bamboo drying platform, covered with               compare the significant differences in ice-ice disease
+ canvas overnight, and planted the following day. Re-               prevalence between the depth (deep water and shallow
+ application was done after 7-10 days of the initial                water farms) and time (July, August, and September), a
+ planting (Tahiluddin et al., 2022a). On the other hand, E.         non-parametric Friedman’s two-way analysis of
+ denticulatum is untreated due to its lower market price.           variance (ANOVA) was used. The prevalence of ice-ice
+ Shallow water farms (0.61±0.29 m during low tide) used             disease and water parameters, i. e., temperature and
+ the modified fixed-off bottom method, while deep                   salinity, were also correlated using Pearson Correlation
+ water farms (exceeding 2.47±0.16 m during low tide)                analysis. The level of significance was set at p<0.05.
+ employed the floating method. A modified fixed-off
+ bottom method utilized stakes on both sides installed on           Results
+ the seabed with floaters (mainly empty plastic bottles),
+ while the floating method utilized floaters supported                   The prevalence of ice-ice disease of Kappaphycus
+ with anchored sinkers (mainly rocks or sacks filled with           species in deep water (floating method) can be seen in
+ sand) on both ends.                                                Table 2. In July, the ice-ice disease percentage of K.
+
+
+ Table 1. Characteristics of the assessed farms.
+                                                                                  Characteristics
+                         Depth              Farming method              No. of        No of          No. of       Inorganic
+                          (m)                                          assessed    assessed line    bunches        nutrient
+                                                                        farms        per farm       per line       enriched
+ Deep water
+    K. alvarezii       3.10±0.08                   Floating               3                5         31-47           Yes
+    K. striatus        2.85±0.17                   Floating               3                5         34-44           Yes
+ Shallow water
+    K. alvarezii       0.56±0.05       Modified fixed- off bottom         3                5         40-53           Yes
+    K. striatus        0.59±0.07       Modified fixed-off bottom          3                5         38-49           Yes
+    E.denticulatum     1.60±0.28       Modified fixed-off bottom          1                5         45-56           No
+Aquaculture Studies                                                                                                             AQUAST1137
+
+ striatus (4.29±0.97%) was significantly lower (p<0.05)                        August was lower in deep water farms (7.41±1.50 and
+ than K. alvarezii (10.53±2.64%). However, in August,                          7.89±1.13%, respectively) than in shallow water farms
+ albeit the ice-ice disease occurrence was lower in K.                         (11.35±1.69% and 10.50±1.47%, respectively). During
+ alvarezii (5.45±0.67%) than in K. striatus (10.33±2.00), it                   the month of September, deep water farms
+ was not significantly different (p>0.05). Also, in                            (27.04±4.66%) were greater than shallow water farms
+ September, there was no significant difference (p>0.05)                       (12.91±1.93%) (Table 3). However, Friedman’s two-way
+ between the ice-ice disease prevalence of K. striatus                         ANOVA revealed that no significant differences (p>0.05)
+ (21.69±6.54%) and K. alvarezii (32.39±6.58%).                                 were detected in the ice-ice disease prevalence
+       In shallow water (modified fixed-off bottom                             between depths and time.
+ method), the ice-ice disease prevalence is also shown in                           The physico-chemical parameters (temperature
+ Table 2. During July, ice-ice disease prevalence of E.                        and salinity) of the farms are shown in Table 4. In July,
+ denticulatum, K. striatus, and K. alvarezii were not                          an extreme temperature of nearly 33°C in Kappaphycus
+ statistically significant (p>0.05), with a prevalence of                      farms was recorded. For the months of August and
+ 15±4.33%, 12.59±1.97%, and 8.9±3.12%, respectively. In                        September, the temperature varied according to farm
+ August, ice-ice disease prevalence of E. denticulatum                         depth and species but generally ranged between
+ (21.97±1.73%) was statistically higher (p<0.05) when                          29.67±0.33 (E. denticulatum) to 32.78±0.49 (K. alvarezii,
+ compared with K. striatus (10.33±2.42%) and K. alvarezii                      deep water). For salinity, all farms were within the
+ (6.83±1.40%). In September, the percentage of ice-ice                         favorable salinity throughout the samplings, which
+ disease of K. alvarezii (5.43±1.98%) was significantly                        ranged from 31.00±0.24 (K. striatus, deep water) to
+ lower (p<0.05) than K. striatus (20.14±3.05%) but not                         34.00±0.00 (E. denticulatum). Pearson Correlation
+ significant (p>0.05) with E. denticulatum (7.73±2.17%).                       analysis revealed that temperature and salinity were not
+       According to water depth, the prevalence of ice-ice                     correlated with the prevalence of ice-ice disease
+ disease of eucheumatoid seaweed species in July and                           (Table 5).
+
+
+ Table 2. Ice-ice disease prevalence (%) of Kappaphycus and Eucheuma species farmed in deep and shallow waters.
+ Farm                                                                              Ice-ice disease prevalence (%)
+                                                               July                             Aug                            Sept
+ Deep water
+    K. alvarezii                                           10.53±2.64a                      5.45±0.67a                    32.39±6.58a
+    K. striatus                                            4.29±0.97b                       10.33±2.00a                   21.69±6.54a
+ Shallow water
+    K. alvarezii                                            8.9±3.12a                       6.83±1.40b                     5.43±1.98c
+    K. striatus                                            12.59±1.97a                      10.33±2.42b                   20.14±3.05ab
+    E. denticulatum                                         15±4.33a                        21.97±1.73a                    7.73±2.17bc
+ Note: Superscriptions of different letters in each time across farm depth were significant at 0.05.
+
+
+
+
+ Table 3. Ice-ice disease prevalence (%) of eucheumatoid seaweeds in different farm depths.
+ Farm depth                                                                    Ice-ice disease prevalence (%)
+                                                         July                                Aug                              Sept
+ Deep water                                          7.41±1.50a                           7.89±1.13a                      27.04±4.66a
+ Shallow water                                       11.35±1.69a                         10.50±1.47a                      12.91±1.93a
+ Note: Superscriptions with the same letter across farm depth and time are not significant at 0.05.
+
+
+
+
+ Table 4. Temperature and salinity of eucheumatoid seaweed farm waters.
+ Farm                                              Temperature (°C)                                             Salinity (‰)
+                                       July             Aug                   Sept                 July             Aug               Sept
+ Deep water
+    K. alvarezii                  33.11±0.11          31.89±0.11           32.44±0.18          33.44±0.29       33.67±0.29       33.67±0.17
+    K. striatus                   33.11±0.11          31.89±0.11           32.78±0.32          31.00±0.24       33.56±0.34       34.22±0.15
+ Shallow water
+    K. alvarezii                  33.00±0.24          32.00±0.00           32.78±0.49          33.56±0.24       33.44±0.24       33.89±0.26
+    K. striatus                   32.78±0.15          31.44±0.18           32.56±0.38          32.89±0.42       32.33±0.55       33.56±0.18
+    E. denticulatum               31.33±0.33          29.67±0.33           30.00±0.00          34.00±0.00       33.67±0.33       33.33±0.33
+Aquaculture Studies                                                                                                      AQUAST1137
+
+ Table 5. Pearson Correlation coefficients (r) and p values. Significant level was set at 0.05.
+                                                                    Temperature                               Salinity
+ Deep water
+    K. alvarezii                                                    0.121 (0.923)                          0.33 (0.780)
+    K. striatus                                                     -0.90 (0.943)                          0.876 (0.320)
+ Shallow water
+    K. alvarezii                                                     0.316 (0.795)                         0.969 (0.159)
+    K. striatus                                                      0.558 (0.623)                        -0.625 (0.570)
+    E. denticulatum                                                 -0.176 (0.887)                         0.518 (0.653)
+
+
+
+ Discussion                                                             (Largo et al., 1995a), and lack of nutrients (Luhan et al.,
+                                                                        2015; Tahiluddin et al., 2022a) have been linked to ice-
+       The present study revealed that the prevalence of                ice disease occurrence in eucheumatoid seaweeds
+ ice-ice disease varied significantly according to farmed               (Tahiluddin & Terzi, 2021a). The synergistic effect of
+ species, ranging between 4 and 32% from July to                        these stressful environmental conditions, together with
+ September. However, farm depth (deep and shallow                       the presence of opportunistic marine bacteria (Vibrio sp.
+ waters) and time had no significant effect on the ice-ice              P11 and Cytophaga sp. P25), have been shown to cause
+ disease occurrence. According to Tahiluddin & Terzi                    ice-ice disease in eucheumatoid seaweed species (Largo
+ (2021a), ice-ice disease occurrence may vary according                 et al., 199.5b). Marine-derived fungi have also triggered
+ to places, cultivation period, and farmed species. Ice-ice             ice-ice disease development (Solis et al., 2010), and their
+ disease is common in K. striatus in other parts of Tawi-               abundance was significantly higher in ice-ice diseased
+ Tawi, Philippines, with a percent occurrence ranging                   thalli of Kappaphycus species (Bermil et al., 2021).
+ between 24 and 64% farmed in Bongao municipality                       However, the exact nature of the complex interactions
+ (Sarri et al., 2022) and 5 and 65% in Panglima Sugala                  between biotic and environmental factors leading to ice-
+ municipality (Tahiluddin et al., 2022b). A similar study               ice disease remains mysterious (Faisan et al., 2021).
+ also reported that the farm of K. alvarezii in Zamboanga                      Every eucheumatoid seaweed species has different
+ City and Zamboanga del Sur, Philippines, was infected                  responses to ice-ice disease. As revealed in the present
+ with an ice-ice disease with a prevalence ranging from                 study, K. striatus had a lesser prevalence of ice-ice
+ 22 to 30% sampled during the month of July to                          disease, particularly in deep water farms. This is similar
+ September (Alibon et al., 2019), which is comparable to                to the previous reports. For example, K. alvarezii has
+ the results in the present study. In Bais Bay, Zamboanga               shown greater sensitivity to ice-ice disease when
+ del Norte, and Negros Oriental, Philippines, the highest               compared to K. striatus varieties (Tahiluddin and Toring,
+ prevalence of ice-ice disease (52-56%) was noticed                     2013). Also, Hurtado et al. (2008) emphasized that K.
+ during April, October, and December in the farms of K.                 striatus var. sacol is more resistant to ice-ice disease. In
+ alvarezii and E. denticulatum (Tisera & Naguit, 2009). A               terms of the number of marine-derived fungi – one of
+ massive occurrence of ice-ice disease (70-87%) was                     the causative biotic agents of ice-ice disease, K. striatus
+ recorded on the Kappahycus farm in Calaguas Is.,                       had 10-100 times lower than K. alvarezii, indicating that
+ Camarines Norte, Philippines (Hurtado et al., 2006). In                K. striatus has a higher resistance to potential ice-ice-
+ other countries, like in the study of Pang et al. (2015) in            causing marine-derived fungi (Bermil et al., 2022).
+ Lian Bay, Hainan Province, China, an ice-ice disease                   Although E. denticulatum is known to be resistant to ice-
+ outbreak of Kappaphycus species was notably observed                   ice disease due to the production of volatile
+ from May to August. In Mannar Gulf and Palk Bay,                       halocarbons, which provide a defense mechanism for
+ southern India, the ice-ice disease was noticed in K.                  diseases (Tahiluddin & Terzi, 2021a), the present study
+ alvarezii farm during March and April (Arasamuthu &                    showed the opposite finding. Kappaphycus species in
+ Edward, 2018). A prominent ice-ice disease of up to 99%                the present study were nutrient-enriched with inorganic
+ prevalence was observed in eucheumatoid seaweed                        fertilizers, while E. denticulatum, due to its low market
+ farms during the hot and dry season, typically from                    price, inorganic nutrient enrichment is not being
+ February to March in Zanzibar, Tanzania (Largo et al.,                 applied. A previous study revealed that inorganic
+ 2020). In South Sulawesi, Indonesia, ice-ice disease                   nutrient enrichment reduced ice-ice disease prevalence
+ occurred between September and October (Badraeni et                    significantly (Tahiluddin et al., 2022a). In terms of depth,
+ al., 2020).                                                            i.e., deep and shallow waters, the prevalence of ice-ice
+       Although there was no correlation between                        disease in the present study did not differ significantly,
+ temperature and salinity and ice-ice disease prevalence,               albeit shallow water was higher (11.35±1.69% and
+ the temperature of the assessed farms was generally                    10.50±1.47%) than deep water (7.41±1.50 and
+ high (nearly 33°C) in the present study, notably during                7.89±1.13%) during July and August, and deep water
+ July, which may have caused stress to the seaweeds.                    (27.04±4.66%) was much higher than shallow water
+ Changes in the environmental factors, such as a                        (12.91±1.93%) in September. This result was in
+ temperature of 33-35°C, a salinity of less than 20 ppt, a              agreement with the study of Faisan et al. (2021), where
+ low light intensity of less than 50 mol photon m –2 s –1               depth (shallow and deep-water farms) did not affect the
+Aquaculture Studies                                                                                              AQUAST1137
+
+ prevalence of ice-ice disease, although it was higher          Ethical Statement
+ (14.8%) in deep-water farms compared to shallow-
+ water farms (5.0%). It has been suggested that                       Not applicable.
+ prolonged low or high rainfall volume, high near-surface
+ temperature, and low wind speed in deep water farm             Funding Information
+ sites may contribute to the stress of seaweeds leading
+ to the development of ice-ice disease (Faisan et al.,                Not applicable.
+ 2021).
+       The assessed cultivated eucheumatoid seaweeds            Author Contribution
+ (K. alvarezii and K. striatus) in the present study were all
+ inorganic nutrient-enriched as a control measure and                 ABT conceptualization, data analysis, original draft
+ growth booster for seaweeds. Despite this, the                 preparation, writing - review and editing, SUD data
+ prevalence of ice-ice still occurred. Tahiluddin et al.        collection, data analysis.
+ (2022a) reported that inorganic nutrient enrichment did
+ not totally eliminate the disease but rather significantly     Conflict of Interest
+ reduced the prevalence of ice-ice disease and improved
+ the growth of cultivated Kappaphycus. This is maybe                 The authors declare that they have no conflict of
+ due to the higher nitrogen content in those exposed to         interest.
+ luxury nutrients during enrichment (Tahiluddin et al.,
+ 2021b). Apart from incorporating inorganic nutrient            Acknowledgements
+ enrichment, a practice being discouraged by the
+ Philippine National Standard, translocating the ice-ice             The authors are grateful to Sakiran S. Damsik, Lita
+ diseased seaweeds to nearshore – serves as a recovery          U. Damsik, Shameera U. Damsik, Alshadie L. Recto, and
+ area for the infected seaweeds is also done by the             Diohines Fabriga for their assistance during the field
+ seaweed farmers in the study site; hence recovery can          sampling.
+ be expected after few weeks of transferring (Pers.
+ Com.). The science behind the recovery is still unknown.       References
+ However, several authors have stressed the importance
+ of biosecurity measures, such as quarantine procedures         Alibon, R.D., Gonzales, J.M.P., Ordoyo, A.E.T., & Echem, R.T.
+ recommended to be implemented during translocating                   (2019). Incidence of ice-ice disease associated with
+ cultivars, notably in those major eucheumatoid                       Kappaphycus alvarezii in the seaweed farms in
+                                                                      Zamboanga Peninsula, Mindanao, Philippines. SSR
+ seaweed farms with greater prevalence of pests and
+                                                                      Institute of International Journal of Life Sciences, 5(1),
+ diseases, including ice-ice disease in order to hinder or
+                                                                      2148-2155.
+ reduce the disease and pest transmission among farms                 https://doi.org/10.21276/SSRIIJLS.2019.5.1.6
+ in a wider geographical range (Mateo et al., 2020;             Arasamuthu, A., & Edward, J.K.P. (2018). Occurrence of ice-ice
+ Kambey et al., 2020; Rusekwa et al., 2020; Ward et al.,              disease in seaweed Kappaphycus alvarezii at Gulf of
+ 2020; Faisan et al., 2021; Kambey et al., 2021; Mateo et             Mannar and Palk Bay, Southeastern India. Indian Journal
+ al., 2021; Tahiluddin & Terzi, 2021b; Ward et al., 2022).            of Geo-Marine Sciences, 47(6), 1208-1216.
+                                                                Dumilag, R.V., Crisostomo, B.A., Aguinaldo, Z.Z.A., Hinaloc,
+ Conclusion                                                           L.A.R., Liao, L. M., Roa-Quiaoit, H.A., ... & Roleda, M.Y.
+                                                                      (2022). The Diversity of Eucheumatoid Seaweed
+                                                                      Cultivars in the Philippines. Reviews in Fisheries Science
+       Ice-ice disease is indeed one of the lingering
+                                                                      & Aquaculture, 1-19.
+ problems in farmed eucheumatoid seaweeds. The                  FAO. (2020). The State of World Fisheries and Aquaculture,
+ present study showed that the prevalence of ice-ice                  2020. Sustainability in Action. Food & Agriculture
+ disease varied according to farmed species, ranging                  Organization.
+ from 4-32%. Kappaphycus striatus showed less                   Hurtado, A.Q., Critchley, A.T., Trespoey, A., & Lhonneur, G.B.
+ vulnerability to ice-ice disease, notably in deep water              (2006). Occurrence of Polysiphonia epiphytes in
+ farms. Both farm depths, i. e., deep and shallow waters,             Kappaphycus farms at Calaguas Is., Camarines Norte,
+ were infected with the ice-ice disease from July to                  Philippines. Journal of Applied Phycology, 18(3-5), 301-
+                                                                      306. https://doi.org/10.1007/s10811-006-9032-z
+ September. Inorganic nutrient enrichment seemed to
+                                                                Hurtado, A.Q., Neish, I.C., & Critchley, A.T. (2019). Phyconomy:
+ influence the ice-ice disease since untreated E.
+                                                                      the extensive cultivation of seaweeds, their
+ denticulatum had the highest prevalence of the disease.              sustainability and economic value, with particular
+ Hence, K. striatus is recommended to be used in                      reference to important lessons to be learned and
+ eucheumatoid seaweed farming as it has a high                        transferred from the practice of eucheumatoid farming.
+ tolerance to ice-ice disease when cultivated in deep                 Phycologia, 58(5), 472-483.
+ water. This study serves as baseline information for           Kambey, C.S., Campbell, I., Cottier-Cook, E.J., Nor, A.R., Kassim,
+ further investigating and understanding the ice-ice                  A., Sade, A., & Lim, P.E. (2021). Seaweed aquaculture: a
+ disease in eucheumatoid seaweed cultivation.                         preliminary assessment of biosecurity measures for
+                                                                      controlling the ice-ice syndrome and pest outbreaks of a
+Aquaculture Studies                                                                                                          AQUAST1137
+
+        Kappaphycus farm. Journal of Applied Phycology, 33(5),                 denticulatum. Journal of Agricultural Production, 2(2),
+        3179-3197.                                                             44-47.
+ Kambey, C.S., Campbell, I., Sondak, C.F., Nor, A.R., Lim, P.E., &       Tahiluddin, A.B., Diciano, E.J., Robles, R.J.F., & Akrim, J.P.
+        Cottier-Cook, E.J. (2020). An analysis of the current                  (2021b). Influence of different concentrations of
+        status and future of biosecurity frameworks for the                    ammonium phosphate on nitrogen assimilation of red
+        Indonesian seaweed industry. Journal of Applied                        seaweed Kappaphycus striatus. Journal of Biometry
+        Phycology, 32(4), 2147-2160.                                           Studies, 1(2), 39-44. https://doi.org/10.29329/JofBS.202
+ Largo, D.B. (2002). Recent developments in seaweed diseases.                  1.349.01
+        In A.Q. Hurtado, N.G. Guanzon, Jr., T.R. de Castro               Tahiluddin, A.B., Nuñal, S.N., Luhan, M.R.J., & Santander–de
+        Mallare, & M.R.J. Luhan (Eds.), Proceedings of the                     Leon, S.M.S. (2021c). Vibrio and heterotrophic marine
+        National Seaweed Planning Workshop. Philippines. pp.                   bacteria composition and abundance in nutrient-
+        35-42.                                                                 enriched Kappaphycus striatus. Philippine Journal of
+ Largo, D.B., Fukami, K., & Nishijima, T. (1995b). Occasional                  Science, 150(6B), 1751-1763.
+        pathogenic bacteria promoting ice-ice disease in the             Tahiluddin, A.B., Terzi, E. (2021a). Ice-ice disease in
+        carrageenan-producing red algae Kappaphycus alvarezii                  commercially cultivated seaweeds Kappaphycus spp.
+        and Eucheuma denticulatum (Solieriaceae, Gigartinales,                 and Eucheuma spp.: A review on the causes, occurrence,
+        Rhodophyta). Journal of Applied Phycology, 7(6), 545-                  and control measures. Marine Science and Technology
+        554. https://doi.org/10.1007/Bf00003941                                Bulletin, 10(3), 234-243.
+ Largo, D.B., Fukami, K., & Nishijima, T. (1999). Time-dependent               https://doi.org/10.33714/masteb.917788
+        attachment mechanism of bacterial pathogen during ice-           Tahiluddin, A.B., Terzi, E. (2021b). An overview of fisheries and
+        ice infection in Kappaphycus alvarezii (Gigartinales,                  aquaculture in the Philippines. Journal of Anatolian
+        Rhodophyta). In Sixteenth International Seaweed                        Environmental and Animal Sciences, 6(4), 475-486.
+        Symposium (pp. 643-650). Springer, Dordrecht.                    Tahiluddin, A.B., Nuñal, S.N., & Santander–de Leon, S.M.S.
+ Largo, D.B., Fukami, K., Nishijima, T., & Ohno, M. (1995a).                   (2022a). Inorganic nutrient enrichment of seaweed
+        Laboratory-induced development of the ice-ice disease                  Kappaphycus: Farmers’ practices and effects on growth
+        of the farmed red algae Kappaphycus alvarezii and                      and ice-ice disease occurrence. Regional Studies in
+        Eucheuma denticulatum (Solieriaceae, Gigartinales,                     Marine Science, 55, 102593.
+        Rhodophyta). Journal of Applied Phycology, 7(6), 539-                  https://doi.org/10.1016/j.rsma.2022.102593
+        543. https://doi.org/10.1007/Bf00003940                          Tahiluddin, A.B.., Irin, S.S.H., Jumadil, K.S., Muddihil, R.S., Terzi,
+ Mateo, J.P., Campbell, I., Cottier-Cook, E.J., Luhan, M.R.J.,                 E. (2022b). Use of brown seaweed extracts as
+        Ferriols, V.M.E.N., & Hurtado, A.Q. (2021).                            biofertilizers and their effects on the carrageenan yield,
+        Understanding biosecurity: knowledge, attitudes and                    ice-ice disease occurrence, and growth rate of the red
+        practices of seaweed farmers in the Philippines. Journal               seaweed Kappaphycus striatus. Yuzuncu Yil University
+        of Applied Phycology, 33(2), 997-1010.                                 Journal of Agricultural Sciences, 32(2), 436-447.
+ Mateo, J.P., Campbell, I., Cottier-Cook, E.J., Luhan, M.R.J.,           Tahiluddin, A.B.., Andon, A.J., & Burahim, M.A. (2022c). Effects
+        Ferriols, V.M.E.N., & Hurtado, A.Q. (2020). Analysis of                of Acadian Marine Plant Extract (AMPEP) and
+        biosecurity-related policies governing the seaweed                     ammonium phosphate as nutrient enrichment on the
+        industry of the Philippines. Journal of Applied Phycology,             ice-ice disease occurrence and growth performance of
+        32(3), 2009-2022.                                                      seaweed Kappaphycus striatus. Mediterranean Fisheries
+ Pang, T., Liu, J.G., Liu, Q., Li, H., & Li, J.P. (2015). Observations         and Aquaculture Research, 5(2), 37-46.
+        on pests and diseases affecting a eucheumatoid farm in           Tahiluddin, A.B. & Toring (2013). Effects of “ice-ice” disease on
+        China. Journal of Applied Phycology, 27(5), 1975-1984.                 the growth rate of                  Kappaphycus species.
+        https://doi.org/10.1007/s10811-014-0507-z                              [Undergraduate Thesis]. Mindanao State University-
+ PSA. (2021). Fisheries Statistics of the Philippines 2018–2020,               Tawi-Tawi College of Technology and Oceanography,
+        Vol. 29. Quezon City, Philippines, 320p.                               Tawi-Tawi, Philippines.
+ Rusekwa, S.B., Campbell, I., Msuya, F.E., Buriyo, A.S., & Cottier-      Tisera, W.L., & Naguit, M.R.A. (2009). Ice-ice disease
+        Cook, E.J. (2020). Biosecurity policy and legislation of the           occurrence in seaweed farms in Bais Bay, Negros
+        seaweed aquaculture industry in Tanzania. Journal of                   Oriental and Zamboanga del Norte. The Threshold, 4, 1-
+        Applied Phycology, 32(6), 4411-4422.                                   16.
+ Sarri, J.H., Abdulmutalib, Y.A., Mohammad Tilka, M.E., Terzi,           Uyenco, F.R. (1981). The ice-ice problem in seaweed farming.
+        E., & Tahiluddin, A.B. (2022). Effects of inorganic nutrient           In Proceedings, Xth International Seaweed Symposium.
+        enrichment on the carrageenan yield, growth, and ice-                  (pp. 625-630). Walter de Gruyter & Co.
+        ice disease occurrence of red alga Kappaphycus striatus.         Ward, G.M., Faisan Jr, J.P., Cottier‐Cook, E.J., Gachon, C.,
+        Aquatic Research, 5(2), 99-109.                                        Hurtado, A.Q., Lim, P.E., Matoju, I., Msuya, F.E., Bass, D.,
+ Solis, M.J.L., Draeger, S., & dela Cruz, T.E.E. (2010). Marine-               & Brodie, J. (2020). A review of reported seaweed
+        derived fungi from Kappaphycus alvarezii and K. striatum               diseases and pests in aquaculture in Asia. Journal of the
+        as potential causative agents of ice-ice disease in farmed             World      Aquaculture        Society,     51(4),    815-828.
+        seaweeds. Botanica Marina, 53(6), 587-594.                             https://doi.org/10.1111/jwas.12649
+        https://doi.org/10.1515/Bot.2010.071                             Ward, G.M., Kambey, C.S., Faisan Jr, J.P., Tan, P.L., Daumich,
+ Tahiluddin, A.B., Alawi, T.I., Hassan, N.S.A., Jaji, S.N.A., & Terzi,         C.C., Matoju, I., ... & Poong, S.W. (2022). Ice‐Ice disease:
+        E. (2021a). Abundance of culturable heterotrophic                      An environmentally and microbiologically driven
+        marine bacteria in Ulva lactuca associated with farmed                 syndrome in tropical seaweed aquaculture. Reviews in
+        seaweeds Kappaphycus                spp. and        Eucheuma           Aquaculture, 14(1), 414-439.
+

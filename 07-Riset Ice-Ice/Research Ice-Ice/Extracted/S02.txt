@@ -1,0 +1,724 @@
+www.nature.com/ismej
+
+
+
+
+ARTICLE
+Bacterial controlled mitigation of dysbiosis in a
+seaweed disease
+             1                                1                                  2,3,4                     1,5,6                         1                             1✉
+Jiasui Li        , Marwan E. Majzoub              , Ezequiel M. Marzinelli               , Zhicong Dai             , Torsten Thomas          and Suhelen Egan
+
+© The Author(s), under exclusive licence to International Society for Microbial Ecology 2021
+
+
+
+    Disease in the marine environment is predicted to increase with anthropogenic stressors and already affects major habitat-formers,
+
+
+
+
+                                                                                                                                                                                  Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+    such as corals and seaweeds. Solutions to address this issue are urgently needed. The seaweed Delisea pulchra is prone to a
+    bleaching disease, which is caused by opportunistic pathogens and involves bacterial dysbiosis. Bacteria that can inhibit these
+    pathogens and/or counteract dysbiosis are therefore hypothesised to reduce disease. This study aimed to identify such disease-
+    protective bacteria and investigate their protective action. One strain, Phaeobacter sp. BS52, isolated from healthy D. pulchra, was
+    antagonistic towards bleaching pathogens and signiﬁcantly increased the proportion of healthy individuals when applied before
+    the pathogen challenge (pathogen-only vs. BS52 + pathogen: 41–80%), and to a level similar to the control. However, no signiﬁcant
+    negative correlations between the relative abundances of pathogens and BS52 on D. pulchra were detected. Instead, inoculation of
+    BS52 mitigated pathogen-induced changes in the epibacterial community. These observations suggest that the protective activity
+    of BS52 was due to its ability to prevent dysbiosis, rather than direct pathogen inhibition. This study demonstrates the feasibility of
+    manipulating bacterial communities in seaweeds to reduce disease and that mitigation of dysbiosis can have positive health
+    outcomes.
+
+    The ISME Journal (2022) 16:378–387; https://doi.org/10.1038/s41396-021-01070-1
+
+
+
+
+INTRODUCTION                                                                                chemical defense, which is based on brominated furanones
+Global climate change and elevated anthropogenic pressures                                  [18, 19]. Inoculation with speciﬁc bacteria (e.g. Phaeobacter
+have been correlated with an increase in diseases in marine                                 italicus (formally, Nautella italica) R11 [18, 19], Phaeobacter
+systems, which are likely to become more frequent or severe in                              gallaeciensis LSS9 [20], Aquimarina sp. AD1 and BL5, Agarivorans
+the future [1–3]. Seaweeds (macroalgae) are critical and dominant                           sp. BL7 and Alteromonas sp. BL110 [12]) can reproduce the
+habitat formers in temperate coastal ecosystems, where they                                 disease phenotypes in chemically undefended individuals in the
+provide food and shelter for other marine organisms including                               laboratory [12, 19, 20] or in the ﬁeld [18]. Interestingly, chemically
+invertebrates and ﬁsh [4, 5]. Disease outbreaks in habitat-forming                          undefended seaweed individuals are frequently observed to be
+seaweeds have caused massive declines in their population [3]                               healthy in populations that generally suffer from bleaching
+and threatened species that rely on them [6, 7]. Recent reports                             disease [12], indicating that factors other than direct chemical
+have linked disease in marine hosts, including seaweeds, to                                 defense can mediate disease resistance. A recent study following
+opportunistic microbial pathogens [8, 9], and in some instances                             the succession of D. pulchra’s microbiome after a deliberate
+the causative agent(s) have been identiﬁed and virulence traits                             disturbance demonstrated that epiphytic microbial communities
+described [10–14]. However, up to now no effective strategies are                           could recover to a pre-disturbed state within a relatively short
+available for disease control. Given that opportunistic pathogens                           time frame. However, preventing the establishment of speciﬁc
+may originate from the host-associated microbiota and/or the                                bacterial colonists during the early succession compromised
+surrounding environment [15], effective disease management                                  disease resistance of the host in situ [21]. These ﬁndings show
+requires a holistic view considering the interplay between                                  that the composition or structure of the microbiota is an
+members of the host microbiota and the environment.                                         important factor in disease resistance and indicate that any
+   Delisea pulchra is one of the best-studied models for the                                imbalance, or dysbiosis, can contribute to disease development.
+interactions that occur between macroalgae, bacteria and the                                In fact, microbial communities of bleached D. pulchra have been
+environment in the context of disease [16, 17]. This red                                    found multiple times to be distinct from those of healthy
+macroalga suffers from a thallus bleaching disease, which is                                individuals in the ﬁeld [18, 22–24] and in vitro inoculation with
+more prevalent in summer months due to an increase in                                       speciﬁc pathogens appear to cause a destabilisation of the
+seawater temperatures and a reduction of the seaweed’s natural                              seaweed’s bacterial community structure [12].
+
+1
+ Centre for Marine Science and Innovation, School of Biological, Earth and Environmental Sciences, Faculty of Science, The University of New South Wales, Kensington, NSW,
+Australia. 2School of Life and Environmental Sciences, The University of Sydney, Sydney, NSW, Australia. 3Singapore Centre for Environmental Life Sciences Engineering, Nanyang
+Technological University, Singapore, Singapore. 4Sydney Institute of Marine Science, Mosman, NSW, Australia. 5Institute of Environment and Ecology, School of the Environment
+and Safety Engineering, Jiangsu University, Jiangsu, P. R. China. 6Jiangsu Collaborative Innovation Center of Technology and Material of Water Treatment, Suzhou University of
+Science and Technology, Suzhou 215009, P. R. China. ✉email: s.egan@unsw.edu.au
+
+Received: 24 October 2020 Revised: 13 July 2021 Accepted: 15 July 2021
+Published online: 2 August 2021
+                                                                                                  J. Li et al.
+                                                                                                                                                                                   379
+                     Controlled microbiota manipulation is increasingly recognised                D. pulchra infection assay
+                  as a tangible practice to improve host health and performance, in               Bacteria were tested in vivo for their ability to mitigate the bleaching
+                  particular in the area of human gut probiotics [25, 26] and in                  disease using a previously developed method [12]. Brieﬂy, healthy D.
+                  terrestrial crop production, e.g. plant growth-promoting micro-                 pulchra juveniles (ca. 6 cm in length, having dark-red thallus without any
+                  organisms [27, 28]. The use of probiotics has also been extended                signs of disease or fouling) were collected from Bare Island (33°59′54“S,
+                                                                                                  151°14′59“E), Sydney, at 3–4 m depths, from April 2018 to September 2019,
+                  to marine animals, like shrimp [29, 30], ﬁsh [31, 32] and more                  transported to the laboratory and cleaned following the procedure
+                  recently corals [33, 34]. Despite previous studies showing the                  described above. The cleaned thalli were transferred individually into
+                  disease-protective potential of bacteria associated with red                    sterile 25 cm2 Coring cell ﬂasks (Merck, Germany) with vented caps. Each
+                  seaweeds Gracilaria conferta [35] and Agarophyton vermiculophyl-                ﬂask was ﬁlled with 50 mL of Br-ASW. Flasks were routinely maintained at
+                  lum [13], probiotics or microbiota manipulation is still under-                 25 °C (60 rpm) and illuminated in a 14:10 h light-dark regime. Samples were
+                  studied for the control of macroalgal diseases and mechanistic                  maintained overnight under these conditions to acclimatise, and any dead,
+                  aspects are unknown.                                                            fading samples were excluded for the following inoculation experiments.
+                     Here, we hypothesise that manipulation of bacterial epibionts                   Bacteria that were from antibiotics producing taxa and exhibited in vitro
+                                                                                                  antagonistic effects against multiple pathogens were chosen as represen-
+                  will result in the prevention or mitigation of the bacterial-induced
+                                                                                                  tatives to screen for in vivo protective effects. For in vivo experiments,
+                  bleaching disease of D. pulchra. To test this hypothesis, we                    Aquimarina sp. AD1 was chosen as the model pathogen based on prior
+                  determined the antagonistic activities against known D. pulchra                 studies that indicate it is the most virulent [12, 44]. On day 1 healthy
+                  pathogens for over 400 strains of epiphytic bacteria. Antagonistic              juveniles were randomly assigned to one of four groups: (i) no bacterial
+
+
+
+
+                                                                                                                                                                                     Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+                  bacteria were then assessed for their ability to prevent disease                inoculation (control), (ii) inoculation with the pathogen Aquimarina sp.
+                  in vivo. We further compared the bacterial communities                          AD1, (iii) inoculation with a test bacterium, either Phaeobacter sp. BS52,
+                  associated with D. pulchra that were inoculated with either a                   Phaeobacter sp. BS23, Phaeobacter sp. BS34, Vibrio sp. BL95 or Pseudoalter-
+                  pathogen, a protective bacterium, a non-protective bacterium, or                omonas sp. PB2-1; and (iv) co-inoculation with each test bacterium and
+                  combinations thereof, to analyse the community shifts under-                    Aquimarina sp. AD1. Bacteria used in infection assay were cultured in
+                  pinning disease protection.                                                     Marine Broth 2216 (Difco) at 25 °C to reach log-phase growth. One millilitre
+                                                                                                  of bacteria cells (concentration: 107 cfu·mL−1) suspended in Br-ASW were
+                                                                                                  prepared following the procedures described in [12] to inoculate D.
+                                                                                                  pulchra. Test bacteria were inoculated at the start of the experiment with
+
+1234567890();,:
+                  MATERIALS AND METHODS                                                           pathogen challenges occurring on day 2 and 4. The seawater was replaced
+                  Collection and screening for pathogen-antagonistic bacteria                     with fresh Br-ASW before inoculations. On day 5, the juveniles were visually
+                  Healthy D. pulchra individuals were collected in February 2018 off the coast    inspected for bleaching or discoloration of algal thalli. For each test
+                  of Cronulla Beach (34°03′23“S, 151°09′26“E), Sydney, from a depth of 3–4 m      bacterium a total of three independent experiments were conducted with
+                  (permit: P13/0007-2.0 & OUT18/2054; New South Wales Department of               at least three biological replicates per treatment (see Table S2 for details).
+                  Primary Industries). Samples were transported to the laboratory and rinsed         To determine the effect of treatment on disease incidence, the data
+                  individually in 0.22 µm ﬁltered and autoclaved bromide-deﬁcient artiﬁcial       were ﬁtted to a Generalised Linear Mixed-effect Model (GLMM) assuming a
+                  seawater (Br-ASW) [36] to remove loosely attached epiphytic bacteria. Br-       binomial distribution using the glmer function in the lme4 R package [45].
+                  ASW was used in all experiments to reduce the seaweed’s bromide-                ‘Experiment’ was included as a random effect in the model. The glht
+                  furanone dependent chemical defense [36]. The thalli were swabbed using         function in the multcomp R package was used to further assess the
+                  sterile cotton swabs, which were then transferred to Br-ASW and vortexed        difference between treatments [46].
+                  vigorously. Each suspension was serially diluted and spread onto Difco
+                  Marine Broth 2216 agar (MA) plates. After 6 days of incubation at 25 °C,
+                  bacterial colonies were isolated. Bacterial isolates were stored at −80 °C in   Post-infection analysis of D. pulchra bacterial community
+                  30% glycerol.                                                                   Post-infection D. pulchra samples were rinsed with 15 mL 1 × PBS
+                     A diffusion-based agar plate bioassay [37] was used to assess the            (Phosphate-Buffered Saline) buffer twice to remove the loosely attached
+                  antagonistic activity of the bacteria isolated from healthy D. pulchra and      bacteria from their surfaces. Total bacterial community DNA was extracted
+                  bacteria previously isolated from marine surfaces (Table S1), against six       from algal samples using the DNeasy Powersoil Kit (Qiagen Australia,
+                  known bleaching pathogens: Phaeobacter italicus R11 [19], Phaeobacter           Chadstone, VIC, Australia) following the manufacturer’s instructions. The
+                  gallaeciensis LSS9 [20], Aquimarina sp. AD1 and BL5, Agarivorans sp. BL7        primers with Illumina overhang adapter sequences, 341 F: 5′-tcgtcggcagc
+                  and Alteromonas sp. BL110 [12]. All bacteria were obtained from the             gtcagatgtgtataagagacagCCTACGGGNGGCWGCAG-3′ and 785 R: 5′-gtctcgtg
+                  culture collection of the Centre for Marine Science and Innovation (CMSI,       ggctcggagatgtgtataagagacagGACTACHVGGGTATCTAATCC-3′ were used to
+                  UNSW Sydney). Stationary phase cultures of the pathogen were spread             amplify the V3-V4 regions of the 16S rRNA gene [47]. The reaction mixture
+                  onto MA plates and air-dried for 1 min at room temperature. Discs               (50 μL total volume per sample) consisted of Econo Taq PLUS GREEN 2×
+                  containing 12 μL of test strains (grown overnight at 25 °C and 180 rpm)         Master Mix (Astral Scientiﬁc, Gymea, NSW, Australia) (25 μL), Ambion
+                  were placed onto the plate, incubated at 25 °C for 48 h and zones of            nuclease-free water (Thermo Fisher Scientiﬁc, Australia) (15 μL), the primer
+                  growth inhibition were measured (an antagonistic effect was indicated by        pair 341 F and 785 R (2.5 μL of each; 10 μM) and DNA template (5 μL). The
+                  the zone of growth inhibition with a diameter ≥ 7 mm). For each test strain     PCR program consisted of an initial denaturation at 94 °C (2 min), followed
+                  vs. pathogen pair, six discs (containing independent cultures of the test       by 30 cycles of denaturation at 94 °C (30 s), annealing at 55 °C (30 s) and
+                  strain) were put on six different MA plates (spread with the pathogen) to       extension at 72 °C (40 s), and a ﬁnal extension of 72 °C (7 min). PCR
+                  estimate the variation associated with this method.                             products were then quantiﬁed using gel electrophoresis. Addition of
+                                                                                                  multiplexing indices and Illumina sequencing adapters, library preparation
+                                                                                                  and paired-end sequencing (2 × 300 bp) of the resulting 16S rRNA gene
+                  16S rRNA gene sequencing and analysis                                           amplicons was performed at the Ramaciotti Centre for Genomics, UNSW
+                  PCR ampliﬁcation of the 16S rRNA gene of pathogen-antagonistic bacteria         on a MiSeq platform (Illumina) as per the MiSeq System User Guide
+                  were performed using primers 27 F/1492 R as described previously [38].          (Illumina 2013).
+                  The PCR products were sequenced at the Ramaciotti Centre for Genomics,              Raw sequencing reads were processed using TRIMMOMATIC version 0.36
+                  UNSW, Australia (for detailed procedure see Supplementary information).         [48] and USEARCH version 11.0.667 [49] following the procedure described in
+                  Forward and reverse reads were assembled for each bacterium and                 [50]. Brieﬂy, sequences shorter than 100 bp were removed and the ends with
+                  compared against the National Centre for Biotechnology Information              a quality below 20 in a sliding window of 4 bp were trimmed. Contigs were
+                  (NCBI) NT database (July 2018) through the BLAST search [39]. The closest       made and the sequences with ambiguous or error bases, or with a length
+                  relatives were acquired, and all sequences were subject to phylogenetic         below 250 bp or exceeding 550 bp were removed. Filtered sequences were
+                  analyses following the protocol of Hall, (2013) [40]. Brieﬂy, sequences were    denoised and clustered into zero-radius operational taxonomic units (zOTUs)
+                  aligned using the MUSCLE algorithm [41] in the integrated program               [51] using the UNOISE algorithm implemented in USEARCH. Chimeric
+                  Molecular Evolutionary Genetics Analysis (MEGA) X [42]. A phylogenetic          sequences were removed with UCHIME [52] de novo during zOTU clustering
+                  tree was constructed using the Maximum Likelihood method [43] with              and subsequently with a reference-based comparison against the GTDB v89
+                  1000 bootstraps.                                                                database (https://gtdb.ecogenomic.org/). zOTUs were taxonomically
+
+
+
+                  The ISME Journal (2022) 16:378 – 387
+                                                                            J. Li et al.
+380
+      classiﬁed using a Bayesian Last Common Ancestor algorithm (BLCA) [53]                pathogens (the two Aquimarina spp. and Phaeobacter gallaeciensis
+      against the GTDB v89 database. All non‐bacterial zOTUs and singletons were           LSS9 or Agarivorans sp. BL7, see Fig. 1). None of the tested bacteria
+      removed. Finally, the processed sequences were mapped onto zOTU                      inhibited all six pathogens.
+      sequences to calculate the count distribution of each zOTU in every sample.
+      Only zOTUs occurring in more than two samples were considered for further            Identiﬁcation of bacteria that protect D. pulchra from
+      statistical analyses. The sequencing depth was visualised with rarefaction
+      curves and the sampling efﬁciency was estimated with Good’s coverage                 bleaching disease
+      indices using the R package vegan [54]. To account for the uneven                    Five bacterial strains (namely, Phaeobacter spp. BS23; BS34 and
+      sequencing depth, count data were subsampled to the lowest reads                     BS52, Vibrio sp. BL95 and Pseudoalteromonas sp. PB2-1) with
+      observed among samples (48 304) using USEARCH [49], and all further                  potential to antagonise multiple opportunistic pathogens (as
+      analyses were based on the subsampled data.                                          determined by both in vitro tests and their afﬁliations to
+         To investigate the presence of the inoculated bacteria (i.e. Aquimarina           antibiotics producing taxa) were selected for further in vivo
+      sp. AD1, Phaeobacter sp. BS52 and Phaeobacter sp. BS23) in our samples,              testing of their ability to protect D. pulchra from disease. To assess
+      the 16S rRNA gene sequences of the bacterial inocula were searched                   if the inoculation of D. pulchra with any of the single strains (i.e.
+      against the representative sequences of zOTUs using BLAST 2.2.30+ [39].
+                                                                                           Aquimarina sp. AD1, Phaeobacter spp. BS23; BS34 and BS52, Vibrio
+      zOTU sequences with 100% identity (across the full V3–V4 region of the
+      16S rRNA gene that was sequenced) were considered as being derived
+                                                                                           sp. BL95 and Pseudoalteromonas sp. PB2-1) had an impact on the
+      from the inoculum. The relative abundances of each zOTU in samples                   likelihood of disease, the proportions of healthy individuals after
+      treated or not treated with its corresponding inoculum were compared                 the experiment were compared to an uninoculated control. As
+
+
+
+
+                                                                                                                                                                         Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+      using a Generalised Linear Model (GLM) assuming a negative-binomial                  expected, treatment with the pathogen Aquimarina sp. AD1 alone
+      distribution, where ‘Experiment’ was included ﬁrst in the model to account           signiﬁcantly reduced the proportion of healthy individuals (post-
+      for potential variation among experimental trials, and the p values were             hoc tests on binomial GLMM, Df = 114, padjusted < 0.001) compared
+      calculated via 1000 parametric bootstraps [55].                                      to the uninoculated controls. However, there was no statistical
+         Spearman’s rank correlation tests were performed to assess the potential          support for a beneﬁcial or detrimental effect of the candidate
+      effect of Phaeobacter sp. BS52 and Phaeobacter sp. BS23 on the relative              protective bacteria on D. pulchra health in the absence of
+      abundance of Aquimarina sp. AD1. Subsequent bacterial community
+      analyses were performed after removal of sequences corresponding to the              pathogen challenge (Fig. 3, Table S5).
+      inocula. Alpha diversity indices, i.e. Shannon_e (the Shannon index logs to             Next, to determine whether any of the candidate protective
+      base e) for zOTU diversity and Chao1 for richness, were determined using             bacteria could reduce the pathogen-induced bleaching, we compared
+      USEARCH version 11.0.667 [49]. Analysis of variance (ANOVA) was                      the test strain+pathogen treatments with the pathogen challenge
+      performed to test the signiﬁcance of the effect of ‘treatment’ on diversity          treatment (Aquimarina sp. AD1-only). Co-inoculations with Phaeobac-
+      indices. ‘Experiment’ was included as a factor ﬁrst in the model to account          ter sp. BS52 or Pseudoalteromonas sp. PB2-1 signiﬁcantly increased the
+      for potential variation among experimental trials.                                   proportion of healthy D. pulchra samples compared to the AD1-only
+         The R package vegan [54] was used for distance-based community analyses.          treatment (post-hoc tests on binomial GLMM, Df = 76, padjusted =
+      To analyse the community structure, Bray–Curtis dissimilarity coefﬁcients were
+                                                                                           0.0486; Df = 81, padjusted = 0.0047, respectively; Fig. 3, Table S5). There
+      calculated for the square-root transformed relative abundance data. The effects
+      of ‘treatment’ on the community structure were tested by permutational
+                                                                                           was no support for a statistically signiﬁcant impact on disease
+      multivariate analysis of variance (PERMANOVA) and pairwise comparisons with          protection for the other strains tested (i.e. BS23, BS34 and BL95).
+      9999 random permutations within each experiment (strata), using the R
+      package pairwise.adonis2 [56]. The assumption of homogeneity of multivariate         Treatment with disease-protective bacteria mitigates
+      dispersion was tested using the betadisper function in the R package vegan. To       pathogen-induced microbiome shifts in D. pulchra
+      identify bacterial taxa that contributed to the community differences, zOTUs         We used a 16S rRNA gene-based community analysis to determine
+      were aggregated to different taxonomic levels (i.e. phylum to species). The          the relative abundance of selected disease-protective bacteria and
+      relative abundances of different taxa (with mean relative abundance: ≥1%)            to assess the effect of these strains on the overall bacterial
+      were compared among treatments and experiments using a multivariate                  community associated with D. pulchra. We chose to focus this
+      Generalised Linear Model (mGLM) assuming a negative-binomial distributio-
+      nand p values calculated via 1000 parametric bootstraps [55]. ‘Experiment’ was       analysis on the protective strain Phaeobacter sp. BS52, and a
+      included ﬁrst in the model to account for potential variation among                  closely related strain Phaeobacter sp. BS23 (Fig. 2), for which there
+      experimental trials. Where signiﬁcant treatment effects were detected, the           was no evidence of protection (Fig. 3). After quality ﬁltering, a total
+      argument ‘pairwise.comp’ in the function anova of R package stats was used to        of 5,681,299 sequences were generated for 52 seaweed samples
+      assess the difference between treatments. Signiﬁcance was determined with            (Table S6), which clustered into 1 488 zOTUs. Rarefaction curve
+      alpha = 0.05. All analyses and statistics were performed in R version 3.6.3 [57].    and Good’s coverage (>99.8%) indicated that the majority of the
+                                                                                           bacterial communities was recovered by the surveying effort
+                                                                                           (Table S7, Fig. S1).
+      RESULTS                                                                                 The sequences of three zOTUs (namely, zOTU258, zOTU2 and
+      Identiﬁcation of bacteria with antagonistic activities against                       zOTU5) matched perfectly and uniquely to the 16S rRNA gene of
+      pathogens                                                                            the inoculated bacteria (AD1, BS52 and BS23, respectively) and
+      A total of 260 bacterial strains isolated from healthy D. pulchra and                hence were assigned to these strains. This is further supported by
+      174 strains obtained from an in-house bacterial culture collection                   the observation that a signiﬁcant increase in the relative
+      (Table S1), were tested for antagonistic activities towards known                    abundance of zOTU258, zOTU2 or zOTU5 occurred in samples
+      bleaching pathogens. Of these 7.1% (31 different strains) inhibited the              treated with AD1, BS52 or BS23, respectively, compared to
+      growth of the pathogens Phaeobacter gallaeciensis LSS9, Aquimarina                   untreated samples (negative-binomial GLM; Deviance = 4.7, p =
+      sp. AD1 and/or BL5, Agarivorans sp. BL7 and/or Alteromonas sp. BL110                 0.034; Deviance = 155.8, p = 0.001; Deviance = 132.1, p = 0.001,
+      (Fig. 1).                                                                            respectively; Fig. S2).
+         In total 139 of the 434 tested bacteria have been classiﬁed (to a                    To test the hypothesis that there would be antagonistic
+      genus or lower taxonomic level, according to previous records in                     interaction in vivo between the disease protective bacterium
+      Table S1 and the 16S rRNA gene sequencing conducted in this                          and the pathogen, we performed Spearman’s rank correlation
+      study), and these 139 strains represented 27 genera (Table S3).                      analyses of their relative abundances. We did not ﬁnd statistical
+      The antagonistic bacteria belonged to seven genera, including 19                     support for a negative correlation between the relative abundance
+      Vibrio, six Phaeobacter, two Microbulbifer, one Bacillus, one                        of Aquimarina sp. AD1 and Phaeobacter sp. BS52 (Spearman’s rank
+      Photobacterium, one Pseudoalteromonas and one Pseudomonas                            correlation; rho = 0.08, p > 0.05).
+      (Fig. 2, Tables S1 and S4). Six Vibrio and four Phaeobacter bacterial                   We next tested the hypothesis that the addition of a protective
+      strains displayed growth inhibition towards three of the                             bacterium inﬂuenced the microbiota associated with D. pulchra,
+
+                                                                                                                                The ISME Journal (2022) 16:378 – 387
+                                                                             J. Li et al.
+                                                                                                                                                      381
+
+
+
+
+                                                                                                                                                        Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+
+
+
+
+Fig. 1 Antagonistic activities of disease-protective candidates against known Delisea pulchra bleaching pathogens, Phaeobacter italicus
+R11, Phaeobacter gallaeciensis LSS9, Aquimarina sp. AD1 and BL5, Agarivorans sp. BL7 and Alteromonas sp. BL110. The ×-axis shows the
+zone of growth inhibition (mean diameter ± standard error in mm, based on n = 6 biological replicates). The y axis shows the taxonomic
+afﬁliation and identiﬁcation number (ID) of test bacteria. An example plate viewed under natural light shows typical growth inhibition (inset
+plot at the bottom-right corner).
+
+which in turn may prevent the bleaching disease. While there was not         with the protective Phaeobacter sp. BS52 and Aquimarina sp. AD1
+statistical support for difference in the alpha diversity of the bacterial   differed from the control (i.e. no bacterial inoculation) (padjusted =
+communities associated with D. pulchra between the treatments                0.089), they were signiﬁcantly different from those treated with AD1
+(Table S8), an overall effect of treatments (PERMANOVA, pseudo-F5,44         alone (padjusted = 0.001) (Table S9). In contrast, we did not ﬁnd
+= 1.487, p = 0.002, Table S9) was observed on the bacterial                  statistical support for differences between the bacterial communities
+community structure based on Bray-Curtis dissimilarities (square-root        of D. pulchra co-inoculated with the non-protective Phaeobacter sp.
+transformed data). While pairwise comparisons showed no statistical          BS23 and Aquimarina sp. AD1 and the AD1-alone treatment (Table
+support that the bacterial communities of D. pulchra co-inoculated           S9). To further identify bacterial taxa that contributed to the
+
+
+The ISME Journal (2022) 16:378 – 387
+                                                                        J. Li et al.
+382
+                                                                                                   DP9
+                                                                                                   DP1-2
+                                                                                                   BL89
+                                                                                             87 BL95
+                                                                                                   DP1-1
+                                                                                            100    DP6-2
+                                                                                                   DP10
+                                                                                                    DP6-1
+                                                                                                   Vibrio neptunius strain LMG 20536
+                                                                                       74         Vibrio caribbeanicus strain N384
+                                                                                                   DP74
+                                                                                         98
+                                                                                              96 DP32-3
+                                                                                    99         96 DP21
+                                                                                               Vibrio tubiashii strain ATCC 19109
+                                                                                         100 Vibrio harveyi strain NCIMB1280
+                                                                                             BL118
+
+
+
+
+                                                                                                                                                                                 Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+                                                                                               R33-1
+                                                                                       80
+                                                                                               Vibrio jasicida strain TCFB 0772
+                                                                                                  Vibrio alginolyticus strain ATCC 17749            Gamma-
+                                                                                         99                                                         proteobacteria
+                                                                                                   BS46
+                                                                              100
+                                                                                                  DP88
+                                                                                                  DP68
+                      0.05                                                                  81 Vibrio alginolyticus strain ATCC 17749
+                                                                                               Vibrio natriegens strain ATCC 14048
+                                                               100                                DP87
+                                                                                                   DP84
+                                                                                                  DP80
+                                                                                                  Photobacterium lutimaris strain DF-42
+                                                                                         100     BS55
+                                      95                                                    Pseudoalteromonas arabiensis strain k53
+                                                                                  100 PB2-1
+                                                          BL83
+                                                    100
+                                                           BL52
+                                                          Microbulbifer echini strain AM134
+                                                                     BS35
+                                                                     Pseudomonas aeruginosa strain DSM 50071
+                                                             100 Pseudomonas aeruginosa strain ATCC 10145
+                                                                     Pseudomonas aeruginosa strain NBRC 12689
+                                                                         86 Phaeobacter gallaeciensis strain CIP 105210
+                                                                              Phaeobacter gallaeciensis strain NBRC16654
+                                                                              BS23
+                                                                              BS31                                                                  Alpha-
+                                                                        100
+                                                                              Phaeobacter inhibens strain T5                                        proteobacteria
+                                                                              BS52
+                                                                              BS34
+                                                                         87
+                                                                              BS02
+                                                                              BS01
+                                                                                                    Bacillus aerius strain 24K
+                                                                                                    Bacillus altitudinis strain 41KF2b              Firmicutes
+                                                                                             100 Bacillus stratosphericus strain 41KF2a
+                                                                                                 BS48
+
+      Fig. 2 Maximum likelihood tree constructed of the pathogen-antagonistic bacteria (bold) and the related sequences obtained from
+      GenBank (July 2018). The tree is based on an alignment of near full-length 16S rRNA gene sequences (1119–1373 bp) and percentage
+      bootstrap support (≥70% and based on 1000 replications) are given at the nodes. Scale bar shows the number of substitutions per site. The
+      classes and phyla are shown on the right.
+
+      community differences, zOTUs were aggregated to different taxo-                         detected only for the relative abundances of two species (i.e. with
+      nomic levels (i.e. phylum to species). Bacteria associated with D.                      mean relative read abundance ≥1%), Alteromonas alba [58] (GTDB
+      pulchra belonged to 18 classes, dominated by Gamma-proteobacteria                       identiﬁer Alteromonas_A sp002993365 and representing 56 zOTUs,
+      (mean relative read abundance: 39.7%), Alpha-proteobacteria (37.1%)                     Table S10; negative-binomial GLM, Deviance = 14.069, p = 0.028,
+      and Bacteroidia (22.4%). At the genus level, Alteromonas (13.1%),                       Table S11) and Cobetia marina [59] (representing three zOTUs, Table
+      Robiginitomaculum (12.3%) and Nonlabens (11.8%) were the dominant                       S10; negative-binomial GLM, Deviance = 18.839, p = 0.016, Table S11)
+      taxa (Fig. S3). Further, the bacteria could be classiﬁed to 389 species,                (Fig. 4). Further pairwise comparisons indicated that co-inoculation of
+      with only 19 species having a relative read abundance of ≥1% but                        BS52 + AD1, but not BS23 + AD1 signiﬁcantly increased the relative
+      accounting for >75% of the relative read abundance in the D. pulchra                    abundance of the A. alba compared to the AD1-only treatment
+      microbiome (Fig. S4). A signiﬁcant effect of the treatment was                          (padjusted = 0.040), with the relative abundance of this strain in the
+
+
+                                                                                                                                          The ISME Journal (2022) 16:378 – 387
+                                                                           J. Li et al.
+                                                                                                                                                      383
+
+
+
+
+                                                                                                                                                        Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+Fig. 3 Effect of bacterial treatments on Delisea pulchra health. a Proportion of healthy D. pulchra replicates in different treatments in
+independent replicate experiments. The x-axis shows the proportion of healthy replicates in each independent replicate experiment (each dot
+on graph represents one experiment, at least three are performed for each treatment, see Table S2 for detailed information). The cross
+represents the mean value calculated from replicate experiments. The y-axis shows the treatments: D. pulchra samples are treated by either
+the pathogen Aquimarina sp. AD1 (i.e. AD1, total number of replicates: n = 58), the candidate protective bacteria Pseudoalteromonas sp. PB2-1
+(PB2-1, n = 19), Phaeobacter sp. BS52 (BS52, n = 19), Phaeobacter sp. BS34 (BS34, n = 17), Phaeobacter sp. BS23 (BS23, n = 18), Vibrio sp. BL95
+(BL95, n = 17), the co-inoculation of one of the candidate protective bacteria and the pathogen, i.e. PB2-1 + AD1 (n = 25), BS52 + AD1 (n = 20),
+BS34 + AD1 (n = 23), BS23 + AD1 (n = 17), BL95 + AD (n = 19) or the Br-ASW as Control (n = 58). The statistical difference (p < 0.05) between
+single strain treatments (pathogen or test strain only) and the control is shown by a lowercase letter ‘a’, while differences between test strain
++pathogen and the pathogen only treatments are denoted by an uppercase ‘A’. b Representative images for the healthy (upper panel) and
+diseased (lower panel) D. pulchra in the infection assays. The disease was characterised by the localised loss of pigment around the mid-thallus
+(shown with the arrow).
+
+BS52 + AD1 treatment being similar to that of the control (Table S11,      of other coral-associated bacteria including the pathogens Vibrio
+Fig. 4). In addition, we found the AD1-alone treatment signiﬁcantly        coralliilyticus and Thallassomonas loyana [63, 64], and a decline of
+increased the relative abundance of C. marina compared to controls         antimicrobial Vibrio spp. and Pseudoalteromonas spp. within coral
+(padjusted = 0.046). The co-inoculation of BS52 + AD1 had a lower          mucus during an ocean warming event coincided with increased
+relative abundance of this strain compared to AD1-only, but this trend     coral bleaching [65]. Together these results further support the
+was not signiﬁcant (padjusted = 0.145, Table S11, Fig. 4).                 concept that the healthy microbiota of marine hosts possess
+                                                                           pathogen suppressing strains that might mitigate disease in situ.
+                                                                              Inoculation with Pseudoalteromonas sp. PB2-1 and Phaeobacter
+DISCUSSION                                                                 sp. BS52 resulted in reduced levels of bleaching disease in D.
+Seaweed health, development and growth is inﬂuenced by the                 pulchra upon pathogen challenge. There are several reports of the
+diverse bacterial communities they host [17, 60, 61]. However,             use of Pseudoalteromonas strains as potential probiotics in the
+despite bacterial symbionts being broadly recognised as impor-             aquaculture industry [66–68], including recent evidence suggest-
+tant for host defense against pathogens [62], few studies have             ing Pseudoalteromonas species protect the red alga Agarophyton
+investigated the disease protective potential of seaweed-                  vermiculophyllum from tip bleaching [13]. Phaeobacter spp. are
+associated bacteria [13, 35]. Moreover, nothing is known about             frequently isolated from marine aquaculture facilities, with studies
+the underlying mechanisms or interactions that contribute to               demonstrating reduced pathogen loads and improved survival of
+disease protection. To identify strains with potential disease-            pathogen challenged hosts, such as molluscs and ﬁsh larvae
+protective functions, we screened a collection of epiphytic                through the addition of selected Phaeobacter spp. to aquaculture
+bacteria for antagonistic activity towards known pathogens of D.           tanks [69–74].
+pulchra. While antagonistic bacteria were identiﬁed from a range              The ability to establish itself within a host microbiota is an
+of taxa, bacteria afﬁliated with the genera Phaeobacter, Vibrio and        important quality of a successful probiotic [75, 76]. Microbiome
+Pseudoalteromonas showed the highest level of antibacterial                analysis of D. pulchra individuals after inoculation showed a signiﬁcant
+activities and were sometimes even antagonistic against multiple           increase in the relative abundances of Phaeobacter sp. BS52,
+pathogens from different taxa. This result is in line with an earlier      demonstrating a successful bacterial delivery. It is noteworthy that
+study showing that seaweed-associated bacteria from these                  sequences identical to Phaeobacter sp. BS52 were also detected
+genera are potent antagonists for a range of gram-positive and/            (albeit in lower abundances) in uninoculated samples. This observa-
+or gram-negative opportunistic pathogens of humans and animals             tion not only provides further support that Phaeobacter sp. BS52 is a
+[38]. Similarly, bacteria isolated from healthy coral mucus                naturally occurring member of D. pulchra’s microbiota, but also
+belonging to these taxa were reported to inhibit a broad range             explains the successful establishment of this strain in the algal-
+
+
+The ISME Journal (2022) 16:378 – 387
+                                                                  J. Li et al.
+384
+                                                                                 for corals. The fact that members of genus Phaeobacter have been
+                                                                                 repeatedly identiﬁed as potent antagonists and that they can be
+                                                                                 stably maintained within the host microbiota, suggests that they
+                                                                                 function as natural probiotics in marine systems. However, two
+                                                                                 strains phylogenetically closely related to Phaeobacter sp. BS52,
+                                                                                 namely Phaeobacter sp. BS23 and BS34, displayed no or only
+                                                                                 moderate protection (Fig. 3). Moreover, the Phaeobacter gallae-
+                                                                                 ciensis LSS9 has been previously characterised as an opportunistic
+                                                                                 pathogen of D. pulchra [20]. These observations demonstrate that
+                                                                                 disease protective effects observed for the genus Phaeobacter very
+                                                                                 much depend on the species or even the speciﬁc strain.
+                                                                                 Differences in protective properties were also found in Phaeo-
+                                                                                 bacter strains when investigated for their potential as a probiotic
+                                                                                 for cod larvae. Speciﬁcally, D’Alvise et al. [81] challenged cod
+                                                                                 larvae with the pathogen Vibrio anguillarum and found that
+                                                                                 Phaeobacter gallaeciensis BS107 and Phaeobacter sp. M23-3.1
+                                                                                 could reduce larval mortality, whereas a related strain Phaeobacter
+
+
+
+
+                                                                                                                                                         Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+                                                                                 sp. 27-4 could not. Production of tropodithietic acid (TDA), which
+                                                                                 is known for its wide spectrum of inhibitory activity towards
+                                                                                 common marine pathogens [69, 73, 82], has previously been
+                                                                                 suggested as a contributing factor to strain difference in the
+                                                                                 protective traits of Phaeobacter species [83–86].
+                                                                                    However, production of this antibiotic alone is unlikely to be
+                                                                                 the sole contributor to disease protection in D. pulchra, as both
+                                                                                 the protective (BS52) and the non-protective (BS23) Phaeobacter
+                                                                                 strains are capable of TDA synthesis (Supplementary informa-
+                                                                                 tion). Moreover, while Phaeobacter sp. BS52 directly inhibited
+                                                                                 the growth of Aquimarina sp. AD1 in an in vitro bioassay, we did
+                                                                                 not ﬁnd evidence for a negative correlation in their relative
+                                                                                 abundances in vivo infection experiments, as would have been
+                                                                                 expected if direct antagonism occurred. One possible explana-
+                                                                                 tion for such observations could be that rather than destroying
+                                                                                 the pathogens, the protective strains might inhibit the activity
+                                                                                 or virulence of the pathogens—as has been suggested as one of
+                                                                                 the common modes of action for probiotics [87]. For example,
+                                                                                 Zhao et al. [88] reported that the oyster probiotics Phaeobacter
+                                                                                 inhibens S4Sm released secondary metabolites that hijack the
+                                                                                 ability of Vibrio coralliilyticus to communicate via quorum
+                                                                                 sensing, thereby downregulating transcription of genes
+                                                                                 involved in virulence.
+      Fig. 4 Two bacterial species that had signiﬁcantly different                  A second possibility of disease protection is that the presence
+      relative abundances in their bacterial communities (based on               of Phaeobacter sp. BS52 inﬂuences other members of the
+      sequencing the 16S rRNA gene V3–4 regions) associated with                 macroalgal microbiota to the extent that it mitigates the
+      Delisea pulchra of different treatments. The x-axes show the
+                                                                                 dysbiotic effect of a pathogen. We found that the microbiota
+      relative abundance of species: a Alteromonas alba (Family: Alter-
+      omonadaceae) and b Cobetia marina (Family: Halomonadaceae). The            associated with D. pulchra individuals inoculated with Phaeo-
+      y-axes show the treatments: D. pulchra samples are treated with            bacter sp. BS52 and the pathogen Aquimarina sp. AD1 closely
+      either AD1 (n = 9), BS52 + AD1 (n = 10), BS23 + AD1 (n = 9), BS52          resembled those of the uninoculated samples and both were
+      (n = 10), BS23 (n = 8) or the Br-ASW as Control (n = 6) from three         distinct from those exposed only to the pathogen. Speciﬁcally,
+      independent replicate experiments (see Table S6 for detailed               co-inoculation with Phaeobacter sp. BS52 and the pathogen AD1
+      replication information). The cross represents the mean value. A           (BS52 + AD1) resulted in a signiﬁcant increase in the relative
+      vertical reference line is drawn to indicate the zero relative             abundances of multiple OTUs corresponding to Alteromonas
+      abundance (i.e. absence). The statistical differences (p < 0.05)           alba [58] compared to the pathogen (AD1) only treatment,
+      between single strain treatments (pathogen or test strain only)
+                                                                                 reaching levels similar to that of the uninoculated controls.
+      and the control are shown by a lowercase letter ‘a’, while difference
+      between the test strain+pathogen and the pathogen only                     Members of the genus Alteromonas have been reported as
+      treatments is denoted by an uppercase ‘A’ (for details see Table S11).     potential probiotics for several mariculture hosts and corals, as
+                                                                                 they have antibacterial and quorum quenching activities [89],
+                                                                                 including activity against pathogens like Vibrio anguillarum,
+      associated microbial community. These results are consistent with          V. harveyi and Aeromonas hydrophilla [90–92]. It is possible that
+      observations based on other marine systems, e.g. in turbot larvae,         A. alba plays a similar beneﬁcial role for D. pulchra, and that the
+      microalgae and copepod nauplii [77], diatoms [78], and coccolitho-         treatment with Phaeobacter sp. BS52 enhances its growth and
+      phores [79], where Phaeobacter spp. were strong natural niche              thus indirectly reduces the pathogenic effects of Aquimarina sp.
+      competitors and could rapidly reach high relative abundances during        AD1. Conversely, compared to the pathogen-only treatment, a
+      artiﬁcial manipulation of the host microbiota.                             decrease in the relative abundance of three OTUs corresponding
+         However probiotic establishment is not always successful in             to Cobetia marina was observed when Phaeobacter sp. BS52 was
+      marine systems. For example, despite being recognised as native            inoculated in the presence of the pathogen (BS52 + AD1).
+      to the host, increased relative abundances were not observed               Strains of C. marina have been reported to be associated with
+      after the delivery of strains of Pseudoalteromonas sp., Halomonas          disease of the red alga Porphyra spp. [93]. C. marina strains are
+      taeanensis [34], Acinetobacter sp. [33], or Halobacteriovorax sp. [80]     also dominant members of the microbial community associated
+
+                                                                                                                  The ISME Journal (2022) 16:378 – 387
+                                                                                      J. Li et al.
+                                                                                                                                                                              385
+
+
+
+
+                                                                                                                                                                                Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+Fig. 5 A model for the bleaching disease pathogenesis of Delisea pulchra under a thermal stress and the concept of augmenting host
+disease resistance using probiotics. The solid lines represent experimentally evidenced interactions while dashed lines represent
+hypothesised processes. a Microbial interactions within a healthy D. pulchra holobiont are mitigated by the host chemical defense based on
+the release of furanones [98]. b Thermal stress can compromise host chemical defense and result in dysbiosis (increased detrimental
+interactions) in host microbiota, consequently inducing bleaching disease by opportunistic pathogens [12, 18–20, 22–24]. c We propose that
+probiotics can be used to promote beneﬁcial and reduce detrimental interactions in host microbiota and increase disease defense in D.
+pulchra under suboptimal environmental conditions [Ref. [21] and current study].
+
+with the degradation of the brown alga Fucus evanescens [94],                          3. Harvell CD, Kim K, Burkholder JM, Colwell RR, Epstein PR, Grimes DJ, et al.
+and while they appear not to directly hydrolyse this alga’s                               Emerging marine diseases - climate links and anthropogenic factors. Science
+polysaccharides, they beneﬁt from mono- and disaccharides                                 1999;285:1505–10.
+released after the initial degradation [94, 95]. Given these                           4. Steneck RS, Johnson CR. Kelp forests: dynamic patterns, processes, and feed-
+                                                                                          backs. In: Bertness MD, Bruno J, Silliman BR and Stachowicz JJ (eds). Marine
+previous observations, C. marina might have a role in accelerat-
+                                                                                          Community Ecology. Sinauer Associates: Sunderland, MA, USA, 2013, pp 315–36.
+ing disease progression by opportunistically scavenging on                             5. Jones CG, Lawton JH, Shachak M. Positive and negative effects of organisms as
+sugars or nutrients released from D. pulchra that has                                     physical ecosystem engineers. Ecology 1997;78:1946–57.
+been impacted by the infection with Aquimarina sp. AD1, which                          6. Gachon CM, Sime-Ngando T, Strittmatter M, Chambouvet A, Kim GH. Algal dis-
+is in line with the higher relative abundance of C. marina in the                         eases: spotlight on a black box. Trends Plant Sci. 2010;15:633–40.
+presence of AD1 compared to the control.                                               7. Campbell AH, Verges A, Steinberg PD. Demographic consequences of disease in a
+   While it is possible that changes in the relative abundances of A.                     habitat-forming seaweed and impacts on interactions between natural enemies.
+alba and C. marina are directly related to the action of the pathogen                     Ecology 2014;95:142–52.
+Aquimarina sp. AD1, our results show that the addition of                              8. Burge CA, Kim CJ, Lyles JM, Harvell CD. Special issue oceans and humans health:
+                                                                                          the ecology of marine opportunists. Micro Ecol. 2013;65:869–79.
+Phaeobacter sp. BS52 can mitigate the microbiota shifts associated
+                                                                                       9. Egan S, Gardiner M. Microbial dysbiosis: rethinking disease in marine ecosystems.
+with AD1. Given previous work has suggested that disease of D.                            Front Microbiol. 2016;7:991.
+pulchra is partly a result of bacterial dysbiosis [9, 12], we propose                 10. Egan S, Fernandes ND, Kumar V, Gardiner M, Thomas T. Bacterial pathogens,
+that through maintaining Alteromonas alba, and through preventing                         virulence mechanism and host defence in marine macroalgae. Environ Microbiol.
+the proliferation of the saprophyte C. marina, Phaeobacter sp. BS52                       2014;16:925–38.
+contributes (directly or indirectly) to the stability of the D. pulchra               11. Krediet CJ, Meyer JL, Gimbrone N, Yanong R, Berzins I, Alagely A, et al. Interac-
+microbiota thus protecting it from the bleaching disease (Fig. 5).                        tions between the tropical sea anemone Aiptasia pallida and Serratia marcescens,
+Such a role of probiotics on the homeostasis of host microbiota,                          an opportunistic pathogen of corals. Env Microbiol Rep. 2014;6:287–92.
+through directly or indirectly reducing the negative effect of biotic/                12. Kumar V, Zozaya-Valdes E, Kjelleberg S, Thomas T, Egan S. Multiple opportunistic
+                                                                                          pathogens can cause a bleaching disease in the red seaweed Delisea pulchra.
+abiotic stress have also been reported in terrestrial plants [96] and
+                                                                                          Environ Microbiol. 2016;18:3962–75.
+humans [97] and the work here further expands these concepts to                       13. Saha M, Weinberger F. Microbial “gardening” by a seaweed holobiont: surface
+the marine environment.                                                                   metabolites attract protective and deter pathogenic epibacterial settlement. J
+                                                                                          Ecol. 2019;107:2255–65.
+                                                                                      14. Zhou J, Lin ZJ, Cai ZH, Zeng YH, Zhu JM, Du XP. Opportunistic bacteria use
+DATA AVAILABILITY                                                                         quorum sensing to disturb coral symbiotic communities and mediate the
+The sequence data has been submitted to the BioProject database under accession           occurrence of coral bleaching. Environ Microbiol. 2020;22:1944–62.
+numbers PRJNA630012. Electronic supplementary information is available through:       15. Brown SP, Cornforth DM, Mideo N. Evolution of virulence in opportunistic
+https://doi.org/10.6084/m9.ﬁgshare.14815191.                                              pathogens: generalism, plasticity, and control. Trends Microbiol. 2012;20:336–42.
+                                                                                      16. Harder T, Campbell AH, Egan S, Steinberg PD. Chemical mediation of ternary
+                                                                                          interactions between marine holobionts and their environment as exempliﬁed by
+REFERENCES                                                                                the red alga Delisea pulchra. J Chem Ecol. 2012;38:442–50.
+ 1. Sanderson CE, Alexander KA. Unchartered waters: Climate change likely to          17. Egan S, Harder T, Burke C, Steinberg P, Kjelleberg S, Thomas T. The seaweed
+    intensify infectious disease outbreaks causing mass mortality events in marine        holobiont: understanding seaweed-bacteria interactions. FEMS Microbiol Rev.
+    mammals. Glob Change Biol. 2020;26:4284–301.                                          2013;37:462–76.
+ 2. Burge CA, Eakin CM, Friedman CS, Froelich B, Hershberger PK, Hofmann EE, et al.   18. Campbell AH, Harder T, Nielsen S, Kjelleberg S, Steinberg PD. Climate change and
+    Climate change inﬂuences on marine infectious diseases: implications for man-         disease: bleaching of a chemically defended seaweed. Glob Change Biol.
+    agement and society. Annu Rev Mar Sci. 2014;6:249–77.                                 2011;17:2958–70.
+
+
+
+The ISME Journal (2022) 16:378 – 387
+                                                                                   J. Li et al.
+386
+      19. Case RJ, Longford SR, Campbell AH, Low A, Tujula N, Steinberg PD, et al. Tem-           46. Hothorn T, Bretz F, Westfall P. Simultaneous inference in general parametric
+          perature induced bacterial virulence and bleaching disease in a chemically                  models. Biometrical J. 2008;50:346–63.
+          defended marine macroalga. Environ Microbiol. 2011;13:529–37.                           47. Klindworth A, Pruesse E, Schweer T, Peplies J, Quast C, Horn M, et al. Evaluation of
+      20. Fernandes N, Case RJ, Longford SR, Seyedsayamdost MR, Steinberg PD, Kjelleberg              general 16S ribosomal RNA gene PCR primers for classical and next-generation
+          S, et al. Genomes and virulence factors of novel bacterial pathogens causing                sequencing-based diversity studies. Nucleic Acids Res. 2013;41:e1.
+          bleaching disease in the marine red alga Delisea pulchra. PloS One. 2011;6:             48. Bolger AM, Lohse M, Usadel B. Trimmomatic: a ﬂexible trimmer for Illumina
+          e27387.                                                                                     sequence data. Bioinformatics 2014;30:2114–20.
+      21. Longford SR, Campbell AH, Nielsen S, Case RJ, Kjelleberg S, Steinberg PD. Inter-        49. Edgar RC. Search and clustering orders of magnitude faster than BLAST. Bioin-
+          actions within the microbiome alter microbial interactions with host chemical               formatics 2010;26:2460–1.
+          defences and affect disease in a marine holobiont. Sci Rep. 2019;9:1363.                50. Wemheuer B, Wemheuer F. Assessing bacterial and fungal diversity in the plant
+      22. Zozaya-Valdes E, Roth-Schulze AJ, Egan S, Thomas T. Microbial community                     endosphere. Methods Mol Biol. 2017;1539:75–84.
+          function in the bleaching disease of the marine macroalgae Delisea pulchra.             51. Prodan A, Tremaroli V, Brolin H, Zwinderman AH, Nieuwdorp M, Levin E. Com-
+          Environ Microbiol. 2017;19:3012–24.                                                         paring bioinformatic pipelines for microbial 16S rRNA amplicon sequencing. PLoS
+      23. Zozaya-Valdes E, Egan S, Thomas T. A comprehensive analysis of the microbial                One. 2020;15:e0227434.
+          communities of healthy and diseased marine macroalgae and the detection of              52. Edgar RC, Haas BJ, Clemente JC, Quince C, Knight R. UCHIME improves sensitivity
+          known and potential bacterial pathogens. Front Microbiol. 2015;6:146.                       and speed of chimera detection. Bioinformatics 2011;27:2194–200.
+      24. Fernandes N, Steinberg P, Rusch D, Kjelleberg S, Thomas T. Community structure          53. Gao X, Lin H, Revanna K, Dong Q. A Bayesian taxonomic classiﬁcation method for
+          and functional gene proﬁle of bacteria on healthy and diseased thalli of the red            16S rRNA gene sequences with improved species-level accuracy. BMC Bioinf.
+
+
+
+
+                                                                                                                                                                                               Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+          seaweed Delisea pulchra. PloS One. 2012;7:e50854.                                           2017;18:247.
+      25. Zhou Z, Chen X, Sheng H, Shen X, Sun X, Yan Y, et al. Engineering probiotics as         54. Oksanen J, Blanchet FG, Friendly M, Kindt R, Legendre P, McGlinn D, et al. vegan:
+          living diagnostics and therapeutics for improving human health. Micro Cell Fact.            community ecology package. R package version 2.5–7. 2020. https://CRAN.R-
+          2020;19:56.                                                                                 project.org/package=vegan.
+      26. Trush EA, Poluektova EA, Beniashvilli AG, Shifrin OS, Poluektov YM, Ivashkin VT.        55. Wang YI, Naumann U, Wright ST, Warton DI. mvabund - an R package for
+          The evolution of human probiotics: challenges and prospects. Probiotics Anti-               model-based analysis of multivariate abundance data. Methods Ecol Evol.
+          micro. 2020;12:1291–9.                                                                      2012;3:471–4.
+      27. Gouda S, Kerry RG, Das G, Paramithiotis S, Shin HS, Patra JK. Revitalization of plant   56. Martinez Arbizu P. pairwiseAdonis: pairwise multilevel comparison using adonis.
+          growth promoting rhizobacteria for sustainable development in agriculture.                  R package version 0.4. 2020. https://github.com/pmartinezarbizu/pairwiseAdonis.
+          Microbiol Res. 2018;206:131–40.                                                         57. R Core Team. R: a language and environment for statistical computing. R Foun-
+      28. Backer R, Rokem JS, Ilangumaran G, Lamont J, Praslickova D, Ricci E, et al. Plant           dation for Statistical Computing, Vienna, Austria. 2018.
+          growth-promoting rhizobacteria: context, mechanisms of action, and roadmap to           58. Sun C, Xamxidin M, Wu YH, Cheng H, Wang CS, Xu XW. Alteromonas alba sp. nov.,
+          commercialization of biostimulants for sustainable agriculture. Front Plant Sci.            a marine bacterium isolated from seawater of the West Paciﬁc Ocean. Int J Syst
+          2018;9:1473.                                                                                Evol Micr. 2019;69:278–84.
+      29. Kumar V, Roy S, Meena DK, Sarkar UK. Application of probiotics in shrimp                59. Romanenko LA, Tanaka N, Svetashev VI, Falsen E. Description of Cobetia
+          aquaculture: importance, mechanisms of action, and methods of administration.               amphilecti sp. nov., Cobetia litoralis sp. nov. and Cobetia paciﬁca sp. nov., classi-
+          Rev Fish Sci Aquac. 2016;24:342–68.                                                         ﬁcation of Halomonas halodurans as a later heterotypic synonym of Cobetia
+      30. Knipe H, Temperton B, Lange A, Bass D, Tyler CR. Probiotics and competitive                 marina and emended descriptions of the genus Cobetia and Cobetia marina. Int J
+          exclusion of pathogens in shrimp aquaculture. Rev Aquacult. 2021;13:324–52.                 Syst Evol Microbiol. 2013;63:288–97.
+      31. Pandiyan P, Balaraman D, Thirunavukkarasu R, George EG, Subaramaniyan K,                60. Singh RP, Reddy CR. Seaweed-microbial interactions: key functions of seaweed-
+          Manikkam S, et al. Probiotics in aquaculture. Drug Invent Today. 2013;5:55–9.               associated bacteria. FEMS Microbiol Ecol. 2014;88:213–30.
+      32. Newaj-Fyzul A, Austin B. Probiotics, immunostimulants, plant products and oral          61. Hollants J, Leliaert F, De Clerck O, Willems A. What we can learn from sushi: a
+          vaccines, and their role as feed supplements in the control of bacterial ﬁsh                review on seaweed–bacterial associations. FEMS Microbiol Ecol. 2013;83:1–6.
+          diseases. J Fish Dis. 2015;38:937–55.                                                   62. King KC. Defensive symbionts. Curr Biol. 2019;29:R78–80.
+      33. Damjanovic K, van Oppen MJ, Menéndez P, Blackall LL. Experimental inoculation           63. Kvennefors EC, Sampayo E, Kerr C, Vieira G, Roff G, Barnes AC. Regulation of
+          of coral recruits with marine bacteria indicates scope for microbiome manip-                bacterial communities through antimicrobial activity by the coral holobiont.
+          ulation in Acropora tenuis and Platygyra daedalea. Front Microbiol. 2019;10:1702.           Micro Ecol. 2012;63:605–18.
+      34. Rosado PM, Leite DC, Duarte GA, Chaloub RM, Jospin G, da Rocha UN, et al.               64. Nissimov J, Rosenberg E, Munn CB. Antimicrobial properties of resident coral
+          Marine probiotics: increasing coral resistance to bleaching through microbiome              mucus bacteria of Oculina patagonica. FEMS Microbiol Lett. 2009;292:210–5.
+          manipulation. ISME J. 2019;13:921–36.                                                   65. Ritchie KB. Regulation of microbial populations by coral surface mucus and
+      35. Weinberger F, Hoppe HG, Friedlander M. Bacterial induction and inhibition of a              mucus-associated bacteria. Mar Ecol Prog Ser. 2006;322:1–4.
+          fast mecrotic response in Gracilaria conferta (Rhodophyta). J Appl Phycol.              66. Offret C, Rochard V, Laguerre H, Mounier J, Huchette S, Brillet B, et al. Protective
+          1997;9:277–85.                                                                              efﬁcacy of a Pseudoalteromonas strain in European abalone, Haliotis tuberculata,
+      36. Dworjanyn SA, De Nys R, Steinberg PD. Localisation and surface quantiﬁcation of             infected with Vibrio harveyi ORM4. Probiotics Antimicro. 2019;11:239–47.
+          secondary metabolites in the red alga Delisea pulchra. Mar Biol. 1999;133:727–36.       67. Sorieul L, Wabete N, Ansquer D, Mailliez JR, Pallud M, Zhang C, et al. Survival
+      37. Hudzicki J. Kirby-Bauer disk diffusion susceptibility test protocol. Am Soc Micro-          improvement conferred by the Pseudoalteromonas sp. NC201 probiotic in Lito-
+          biol. 2009. https://asm.org/Protocols/Kirby-Bauer-Disk-Diffusion-Susceptibility-            penaeus stylirostris exposed to Vibrio nigripulchritudo infection and salinity stress.
+          Test-Pro.                                                                                   Aquaculture. 2018;495:888–98.
+      38. Penesyan A, Marshall-Jones Z, Holmstrom C, Kjelleberg S, Egan S. Antimicrobial          68. Fjellheim AJ, Klinkenberg G, Skjermo J, Aasen IM, Vadstein O. Selection of can-
+          activity observed among cultured marine epiphytic bacteria reﬂects their                    didate probionts by two different screening strategies from Atlantic cod (Gadus
+          potential as a source of new drugs. FEMS Microbiol Ecol. 2009;69:113–24.                    morhua L.) larvae. Vet Microbiol. 2010;144:153–9.
+      39. Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search        69. Grotkjær T, Bentzon-Tilia M, D’Alvise P, Dourala N, Nielsen KF, Gram L. Isolation of
+          tool. J Mol Biol. 1990;215:403–10.                                                          TDA-producing Phaeobacter strains from sea bass larval rearing units and their
+      40. Hall BG. Building phylogenetic trees from molecular data with MEGA. Mol Biol                probiotic effect against pathogenic Vibrio spp. in Artemia cultures. Syst Appl
+          Evol. 2013;30:1229–35.                                                                      Microbiol. 2016;39:180–8.
+      41. Edgar RC. MUSCLE: multiple sequence alignment with high accuracy and high               70. Grotkjær T, Bentzon-Tilia M, D’Alvise P, Dierckens K, Bossier P, Gram L. Phaeo-
+          throughput. Nucleic Acids Res. 2004;32:1792–7.                                              bacter inhibens as probiotic bacteria in non-axenic Artemia and algae cultures.
+      42. Kumar S, Stecher G, Li M, Knyaz C, Tamura K. MEGA X: molecular evolutionary                 Aquaculture 2016;462:64–9.
+          genetics analysis across computing platforms. Mol Biol Evol. 2018;35:1547–9.            71. Karim M, Zhao W, Rowley D, Nelson D, Gomez-Chiarri M. Probiotic strains for
+      43. Tamura K, Nei M. Estimation of the number of nucleotide substitutions in the                shellﬁsh aquaculture: protection of eastern oyster, Crassostrea virginica, larvae
+          control region of mitochondrial DNA in humans and chimpanzees. Mol Biol Evol.               and juveniles againsl bacterial challenge. J Shellﬁsh Res. 2013;32:401–8.
+          1993;10:512–26.                                                                         72. Kesarcodi-Watson A, Miner P, Nicolas JL, Robert R. Protective effect of four
+      44. Hudson J, Kumar V, Egan S. Comparative genome analysis provides novel insight               potential probiotics against pathogen-challenge of the larvae of three bivalves:
+          into the interaction of Aquimarina sp. AD1, BL5 and AD10 with their macroalgal              Paciﬁc oyster (Crassostrea gigas), ﬂat oyster (Ostrea edulis) and scallop (Pecten
+          host. Mar Genomics. 2019;46:8–15.                                                           maximus). Aquaculture. 2012;344:29–34.
+      45. Bates D, Mächler M, Bolker B, Walker S. Fitting linear mixed-effects models using       73. Prado S, Montes J, Romalde JL, Barja JL. Inhibitory activity of Phaeobacter strains
+          lme4. J Stat Softw. 2015;67:1–48.                                                           against aquaculture pathogenic bacteria. Int Microbiol. 2009;12:107.
+
+
+
+                                                                                                                                              The ISME Journal (2022) 16:378 – 387
+                                                                                               J. Li et al.
+                                                                                                                                                                                          387
+74. Porsby CH, Nielsen KF, Gram L. Phaeobacter and Ruegeria species of the Roseo-              93. Huang L, Yan X. Study on the red-rotting disease of Porphyra blades. J Shanghai
+    bacter clade colonize separate niches in a Danish turbot (Scophthalmus maximus)-               Ocean Univ. 2010;19:226–31.
+    rearing farm and antagonize Vibrio anguillarum under different growth condi-               94. Ivanova EP, Bakunina IY, Sawabe T, Hayashi K, Alexeeva YV, Zhukova NV, et al.
+    tions. Appl Environ Microbiol. 2008;74:7356–64.                                                Two species of culturable bacteria associated with degradation of brown algae
+75. Chauhan A, Singh R. Probiotics in aquaculture: a promising emerging alternative                Fucus evanescens. Micro Ecol. 2002;43:242–9.
+    approach. Symbiosis 2019;77:99–113.                                                        95. Ivanova EP, Christen R, Sawabe T, Alexeeva YV, Lysenko AM, Chelomin VP, et al.
+76. Vine NG, Leukes WD, Kaiser H. Probiotics in marine larviculture. FEMS Microbiol                Presence of ecophysiologically diverse populations within Cobetia marina strains
+    Rev. 2006;30:404–27.                                                                           isolated from marine invertebrate, algae and the environments. Microbes
+77. Dittmann KK, Rasmussen BB, Melchiorsen J, Sonnenschein EC, Gram L, Bentzon-                    Environ. 2005;20:200–7.
+    Tilia M. Changes in the microbiome of mariculture feed organisms after treat-              96. Zhang J, Wei L, Yang J, Ahmed W, Wang Y, Fu L, et al. Probiotic consortia:
+    ment with a potentially probiotic strain of Phaeobacter inhibens. Appl Environ                 reshaping the rhizospheric microbiome and its role in suppressing root-rot dis-
+    Micro. 2020;86:e00499–20.                                                                      ease of Panax notoginseng. Front Microbiol. 2020;11:701.
+78. Majzoub ME, Beyersmann PG, Simon M, Thomas T, Brinkhoff T, Egan S. Phaeo-                  97. Zhang J, Zhao J, Jin H, Lv R, Shi H, De G, et al. Probiotics maintain the intestinal
+    bacter inhibens controls bacterial community assembly on a marine diatom. FEMS                 microbiome homeostasis of the sailors during a long sea voyage. Gut Microbes.
+    Microbiol Ecol. 2019;95:ﬁz060.                                                                 2020;11:930–43.
+79. Thøgersen MS, Melchiorsen J, Ingham C, Gram L. A novel microbial culture chamber           98. Maximilien R, de Nys R, Holmström C, Gram L, Givskov M, Crass K, et al. Chemical
+    co-cultivation system to study algal-bacteria interactions using Emiliania huxleyi and         mediation of bacterial surface colonisation by secondary metabolites from the
+    Phaeobacter inhibens as model organisms. Front Microbiol. 2018;9:1705.                         red alga Delisea pulchra. Aquat Micro Ecol. 1998;15:233–46.
+
+
+
+
+                                                                                                                                                                                            Downloaded from academic.oup.com/ismej/article/16/2/378/7474187 by guest on 14 October 2026
+80. Welsh RM, Rosales SM, Zaneveld JR, Payet JP, McMinds R, Hubbs SL, et al. Alien vs.
+    predator: bacterial challenge alters coral microbiomes unless controlled by
+    Halobacteriovorax predators. PeerJ. 2017;5:e3315.
+                                                                                               ACKNOWLEDGEMENTS
+81. D’Alvise PW, Lillebø S, Wergeland HI, Gram L, Bergh Ø. Protection of cod larvae
+                                                                                               The authors are particularly grateful to Dr. Jadranka Nappi, Dr. Derrick Cruz,
+    from vibriosis by Phaeobacter spp.: a comparison of strains and introduction
+                                                                                               Madelaine Langley, Sophie Powell, Soﬁetje Voerman and Giulia Ferretto for
+    times. Aquaculture. 2013;384:82–6.
+                                                                                               helping with ﬁeld sampling. The authors thank Dr. Ben Maslen and Stats Central at
+82. Rasmussen BB, Erner KE, Bentzon-Tilia M, Gram L. Effect of TDA-producing
+                                                                                               UNSW for providing advice in statistics. LC-MS experiments were conducted by Dr.
+    Phaeobacter inhibens on the ﬁsh pathogen Vibrio anguillarum in non-axenic algae
+                                                                                               Russell Pickford at the Bioanalytical Mass Spectrometry Facility within the Mark
+    and copepod systems. Micro Biotechnol. 2018;11:1070–9.
+                                                                                               Wainwright Analytical Centre of the University of New South Wales. Jiasui Li
+83. Hjelm M, Bergh Ø, Riaza A, Nielsen J, Melchiorsen J, Jensen S, et al. Selection and
+                                                                                               acknowledges the receipt of the China Scholarship Council scholarship and the
+    identiﬁcation of autochthonous potential probiotic bacteria from turbot larvae
+                                                                                               UNSW Tuition Fee Scholarship. This work was supported by the Centre for Marine
+    (Scophthalmus maximus) rearing units. Syst Appl Microbiol. 2004;27:360–71.                 Science and Innovation (CMSI), UNSW, Australia.
+84. Planas M, Pérez-Lorenzo M, Hjelm M, Gram L, Fiksdal IU, Bergh Ø, et al. Probiotic effect
+    in vivo of Roseobacter strain 27-4 against Vibrio (Listonella) anguillarum infections in
+    turbot (Scophthalmus maximus L.) larvae. Aquaculture. 2006;255:323–33.
+85. Dogs M, Voget S, Teshima H, Petersen J, Davenport K, Dalingault H, et al. Genome           AUTHOR CONTRIBUTIONS
+    sequence of Phaeobacter inhibens type strain (T5T), a secondary metabolite                 JL, TT, and SE designed the study. JL and ZD performed the experiments. MEM, JL,
+    producing representative of the marine Roseobacter clade, and emendation of                and EMM performed the data analyses. JL and SE wrote the ﬁrst draft of the
+    the species description of Phaeobacter inhibens. Stand Genom Sci. 2013;9:334–50.           manuscript. All authors contributed to the writing of the ﬁnal version of the
+86. Thole S, Kalhoefer D, Voget S, Berger M, Engelhardt T, Liesegang H, et al.                 manuscript.
+    Phaeobacter gallaeciensis genomes from globally opposite locations reveal high
+    similarity of adaptation to surface life. ISME J. 2012;6:2229–44.
+87. Fuller R. Probiotics in man and animals. J Appl Bacteriol. 1989;66:365–78.
+88. Zhao W, Yuan T, Piva C, Spinard EJ, Schuttert CW, Rowley DC, et al. The probiotic
+                                                                                               COMPETING INTERESTS
+                                                                                               The authors declare no competing interests.
+    bacterium Phaeobacter inhibens downregulates virulence factor transcription in
+    the shellﬁsh pathogen Vibrio coralliilyticus by N-Acyl homoserine lactone pro-
+    duction. Appl Environ Micro. 2019;85:e01545–18.
+89. Torres M, Hong KW, Chong TM, Reina JC, Chan KG, Dessaux Y, et al. Genomic                  ADDITIONAL INFORMATION
+    analyses of two Alteromonas stellipolaris strains reveal traits with potential bio-        Supplementary information The online version contains supplementary material
+    technological applications. Sci Rep. 2019;9:1–4.                                           available at https://doi.org/10.1038/s41396-021-01070-1.
+90. Torres M, Rubio-Portillo E, Antón J, Ramos-Esplá AA, Quesada E, Llamas I.
+    Selection of the N-acylhomoserine lactone-degrading bacterium Alteromonas                  Correspondence and requests for materials should be addressed to S.E.
+    stellipolaris PQQ-42 and of its potential for biocontrol in aquaculture. Front
+    Microbiol. 2016;7:646.                                                                     Reprints and permission information is available at http://www.nature.com/
+91. Prem Anand T, Chellaram C, Kumaran S, Felicia Shanthini C. Screening for anti-             reprints
+    biotic producing marine bacteria against ﬁsh pathogens. IJPBS. 2011;2:314–25.
+92. Li J, Chi Z, Li H, Wang X. Characterization of a mutant of Alteromonas aurantia A18        Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims
+    and its application in mariculture. J Ocean U China. 2008;7:55–9.                          in published maps and institutional afﬁliations.
+
+
+
+
+The ISME Journal (2022) 16:378 – 387
+

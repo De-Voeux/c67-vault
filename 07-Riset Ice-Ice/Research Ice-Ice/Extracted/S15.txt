@@ -1,0 +1,856 @@
+Journal of Applied Phycology (2021) 33:2391–2405
+https://doi.org/10.1007/s10811-021-02481-5
+
+
+
+
+Preliminary survey of pests and diseases of eucheumatoid seaweed
+farms in the Philippines
+Joseph P. Faisan Jr 1,2 & Ma. Rovilla J. Luhan 2 & Rema C. Sibonga 2 & Jonalyn P. Mateo 2,3 &
+Victor Marco Emmanuel N. Ferriols 2 & Janina Brakel 4 & Georgia M. Ward 5,6 & Stuart Ross 6 & David Bass 5,6,7 &
+Grant D. Stentiford 6,7 & Juliet Brodie 5 & Anicia Q. Hurtado 2
+
+Received: 13 October 2020 / Revised and accepted: 22 April 2021 / Published online: 4 May 2021
+# The Author(s), under exclusive licence to Springer Nature B.V. 2021
+
+Abstract
+Farmed eucheumatoids are the top aquaculture commodity in the Philippines, contributing more than 60% of total national
+aquaculture production by volume. Despite significant production losses observed in recent years due to pests and diseases, data
+relating to the temporal and spatial geographic distribution, seasonality, prevalence, and etiology of these critical problems at the
+farm level are lacking. Here, we assessed the prevalence of pests and diseases at 16 farm sites within several major seaweed
+growing areas, including Luzon (Palawan), Visayas (Bohol), and Mindanao (Zamboanga City, Davao del Norte, and Tawi-
+Tawi). Prevalence of pests and diseases were recorded by assessment of individual seaweed plants in situ, comprising ≥5% of the
+total number of seaweed plants on each farm. Results from this survey revealed “ice-ice” disease (IID) at all sites, albeit at low
+prevalence rates of below 25%, the exception being one site where prevalence was 100%. No significant difference in the
+prevalence of IID was found between farms in shallow (≈0.5 m during low tide) and deep water sites (depths exceeding 4 m
+during the lowest tide) (p>0.05). Moderate prevalence (26–50%) of the macro-epiphyte pests Sargassum and Ulva was reported
+in Luzon. Further, epiphytic filamentous algae (EFA), black spots, and evidence of grazing were recorded in several farms with
+low prevalence (0.2–11.2%). The three farms with the highest prevalence of IID and EFA were evaluated to determine the
+severity of cover on the thallus of infected plants. A very high severity of IID (76–100% coverage) was observed on the
+secondary and primary branches, while for EFA, low severity (≤25%) was found in all regions of the thallus. Our results suggest
+the widespread occurrence of yield-limiting diseases and pests affecting eucheumatoid farms in the Philippines. Strategies for the
+diagnosis, surveillance, and management of yield-limiting pests and diseases are needed to ensure maintenance and sustainable
+expansion of this important aquaculture sector in the Philippines.
+
+Keywords Aquaculture . Eucheumatoids . Seaweed farming . Diseases . Pests
+
+
+
+Introduction                                                                 Gracilaria, Eucheuma, and Kappaphycus) have been com-
+                                                                             mercially exploited and successfully introduced to tropical
+Among the 6500 species of red algae (Rhodophyta) described                   and sub-tropical regions (Ask and Azanza 2002; Ask et al.
+worldwide (Guiry and Guiry 2020), only a few genera (e.g.,                   2003). Of these, Kappaphycus alvarezii (Doty) Doty ex.
+
+
+* Joseph P. Faisan, Jr                                                       3
+                                                                                  Institute of Marine Fisheries and Oceanology, College of Fisheries
+  jfaisan@seafdec.org.ph                                                          and Ocean Sciences, University of the Philippines Visayas, Miagao,
+                                                                                  5023 Iloilo, Philippines
+* Anicia Q. Hurtado
+                                                                             4
+  anicia.hurtado@gmail.com                                                        Scottish Association for Marine Science, Scottish Marine Institute,
+                                                                                  Dunbeg, Oban, Argyll PA37, UK
+1
+    Aquaculture Department, Southeast Asian Fisheries Development            5
+                                                                                  Department of Life Sciences, Natural History Museum,
+    Center, 5021 Tigbauan, Iloilo, Philippines                                    London SW7 5BD, UK
+                                                                             6
+2
+                                                                                  Centre for Environment, Fisheries and Aquaculture Science (Cefas),
+    Institute of Aquaculture, College of Fisheries and Ocean Sciences,            Weymouth Laboratory, Weymouth, Dorset DT4 8UB, UK
+    University of the Philippines Visayas, 5023 Miagao, Iloilo,              7
+    Philippines                                                                   Centre for Sustainable Aquaculture Futures, University of Exeter,
+                                                                                  Stocker Road, Exeter EX4 4QY, UK
+2392                                                                                                  J Appl Phycol (2021) 33:2391–2405
+
+
+P.C.Silva, Kappaphycus striatus (Schmitz) Doty ex P.C.Silva,        quality of carrageenan extracted from affected seaweed plants
+and Eucheuma denticulatum (Burman) Collins and Hervey               (Largo et al. 1995; Mendoza et al. 2002; Hurtado and
+are now cultivated in over 20 countries in Southeast Asia,          Critchley 2006; Hurtado et al. 2006a, 2019; Vairappan et al.
+the South Pacific, Latin America, and the Indian Ocean              2008; Ward et al. 2020). Such outbreaks and other factors
+(Sulu et al. 2004; Pickering 2006; Hurtado et al. 2014;             resulted in mean production losses of 16.8% per annum be-
+Msuya et al. 2014; Hayashi et al. 2017; Shanmugam et al.            tween 2012 and 2018 compared to the peak of production of
+2017; Alemañ et al. 2019). The exponential increase in pro-         1.84 Mt in 2011 (PSA 2013, 2015, 2019). However, in lieu of
+duction of these seaweeds over the past five decades is due to      official surveillance, data on the occurrence of IID and other
+an increased demand for carrageenan, an extract valued for its      pests of seaweeds at the farm level in Philippines is wanting. A
+hydrocolloid polysaccharides in the food, cosmetics, pharma-        better understanding of pests and disease is required in order
+ceutical, and nutraceutical industries (Bixler and Porse 2011;      to implement an effective biosecurity strategy to protect this
+Porse and Rudolph 2017). In 2018, farmed eucheumatoid               valuable commodity (Campbell et al. 2020). To address this,
+production reached 11 million tonnes (fresh weight), 34% of         we designed a sampling strategy to document signs of pests
+the total world production of aquatic plants (FAO 2020).            and diseases in several major eucheumatoid farming areas in
+    Seaweeds are an important aquaculture crop in the               the Philippines and quantified the occurrence of IID, EFA, and
+Philippines with production occurring in 15 of the 17 geo-          other observations, including macro-epiphytes, black spots
+graphical regions of the country (Bureau of Fisheries and           (black or brown raised lesions, c. 0.5 mm diameter, on the
+Aquatic Resources 2018). In 2018, seaweeds comprised                surface of the eucheumatoid thallus), and the evidence of graz-
+64% (equivalent to 1.48 Mt, fresh weight) of the total aqua-        ing. We also evaluated the severity of IID and EFA at selected
+culture production in the Philippines, making it the top aqua-      sites and report on significant potential for yield limitation due
+culture commodity by volume, and the second by value,               to these conditions within country.
+supporting an export industry for carrageenan worth US$
+207 million (BFAR 2018). Seaweed farming has also become
+a primary source of income and employment in several remote
+                                                                    Materials and methods
+areas of the country where livelihood opportunities, other than
+those provided by fishing, are limited (Hurtado 2013;
+                                                                    Sampling sites
+Valderrama et al. 2013); currently, more than 200,000 fami-
+lies are engaged in seaweed farming in the Philippines, mostly
+                                                                    Sixteen farming sites in different major seaweed producing
+in rural coastal areas, providing significant societal and eco-
+                                                                    areas of the Philippines were assessed (Table 1). The three
+nomic value to these communities (Pedrosa 2017).
+                                                                    geographical island groups of the country were represented:
+    Despite its historical position as the top producer globally,
+                                                                    Luzon—Palawan (n=5); Visayas—Bohol (n=5); and
+the past decade has seen a decline in production of
+                                                                    Mindanao—Zamboanga City, Davao del Norte, and Tawi-
+eucheumatoid seaweeds in the Philippines (Philippine
+                                                                    Tawi (n=6) (Fig. 1). Sampling activities were conducted with-
+Statistics Authority 2015, 2019). Factors such as unfavorable
+                                                                    in the period October 2018 to October 2019 and coincided
+weather conditions and political unrest in farming areas have
+                                                                    with the southwest monsoon season.
+resulted in a decline in production; in particular, typhoons
+have damaged seaweed farms several times in the last three
+decades, and changing weather patterns have prevented pro-          Sampling design and assessment
+duction throughout the year (Hurtado 2013). At the same time,
+outbreaks of pests and diseases such as “ice-ice” disease (IID)     Seaweed farms were chosen based on the biomass output in
+and epiphytic filamentous algae (EFA) infestation have exac-        the area (BFAR 2017), accessibility, and availability of assis-
+erbated production problems (Hurtado and Critchley 2006;            tance and a local person as a guide during assessment activi-
+Hurtado et al. 2006a; Vairappan et al. 2008).                       ties. The following information was gathered from the farm
+    Seaweeds affected by IID display a gradual loss of pigmen-      owners/operators: the culture technique, species farmed, the
+tation followed by softening of the thallus, and detachment of      number of cultivating lines per farm. Based on this informa-
+diseased plants from the cultivation lines used to anchor the       tion, four to five cultivating lines to which individual sea-
+seaweeds at farm sites (Doty and Alvarez 1975; Largo et al.         weeds were attached were randomly selected for assessment,
+1995; Arasamuthu and Edward 2018). EFA are red filamen-             representing at least 5% of the total individual seaweeds at
+tous algae that attach to the surface of the host seaweeds,         each farm site. In situ visual inspection for the presence of
+penetrating from the cortical to the medullary layers, causing      diseases, pests, and other abnormalities, including black spots
+damage to the host plant (Ask 1999; Vairappan 2006; Pang            and grazing, was made on plants from each line. Assessments
+et al. 2011; Tsiresy et al. 2016). Both IID and EFA outbreaks       were conducted during low tides for fixed off-bottom (shallow
+have been reported to affect biomass production and the             water) farms, and a motorized boat was used to access farms in
+Table 1   Sampling site locations in major seaweed farming areas in the Philippines, to include farming technique, seaweeds density, and species of seaweeds farmed (n=16)
+
+Sampling sites            Grid reference                      Farm location        Farming technique           Density seaweeds              Species farmed
+
+                                                                                                               Per line      Per meter       Kappaphycus          Kappaphycus   Eucheuma
+                                                                                                                                             alvarezii            striatus      denticulatum
+                                                                                                                                                                                               J Appl Phycol (2021) 33:2391–2405
+
+
+
+Luzon
+Palawan
+Puerto Princesa           9.97305° N, 118.944231° E           Deep water           Triangular                  3000          10              +                    -             -
+Balabac                   8.303103° N, 117.182876° E          Shallow water        Fixed off-bottom            92            4               +                    +             -
+Quezon                    9.347657° N, 118.115874° E          Deep water           Hanging long-line           425           4               +                    -             -
+Pamantolon, Taytay        10.89762° N, 119.499552° E          Deep water           Hanging long-line           495           4               +                    +             +
+Pularaquen, Taytay        10.959025° N, 119.510933° E         Deep water           Hanging long-line           300           4               +                    +             -
+Visayas
+Bohol
+Danahon Reef              10.278365° N, 124.5682° E           Shallow water        Fixed off-bottom            61            4               -                    -             +
+Mahanay                   10.231802° N, 124.260072° E         Shallow water        Fixed off-bottom            146           4               -                    +             +
+Guindacpan                10.224459° N, 124.286356° E         Deep water           Hanging long-line           224           4               -                    +             +
+Jao 1                     10.173747° N, 124.385620° E         Shallow water        Fixed off-bottom            155           4               -                    +             -
+Jao 2                     10.173747° N, 124.385619° E         Shallow water        Fixed off-bottom            202           4               -                    +             -
+Mindanao
+Zamboanga City
+Tigtabon                  6.898328° N, 122.173129° E          Deep water           Multiple raft, long-line    49            4               +                    +             +
+Layag-Layag               6.886975° N, 122.117179° E          Deep water           Multiple raft, long-line    124           4               -                    +             -
+Arena Blanco              6.913056° N, 122.163333° E          Deep water           Multiple raft, long-line    166           4               +                    +             -
+Davao del Norte
+Samal                     6.969799° N, 125.721994° E          Deep water           Multiple raft, long-line    108           4               +                    -             -
+Tawi-Tawi
+Simunul                   4.919157° N, 119.825235° E          Shallow water        Fixed off-bottom            97            4               -                    +             -
+Tundon                    4.912309° N, 119.944064° E          Shallow water        Fixed off-bottom            73            4               -                    +             -
+
+
+
+
+                                                                                                                                                                                               2393
+2394                                                                                                         J Appl Phycol (2021) 33:2391–2405
+
+
+
+
+Fig. 1 The Philippine map showing the sampling site locations in major seaweed growing areas in the Philippines. Luzon (Palawan; n=5), Visayas
+(Bohol; n=5), and Mindanao (Zamboanga City, Davao del Norte, and Tawi-Tawi; n=6)
+J Appl Phycol (2021) 33:2391–2405                                                                                           2395
+
+
+deeper waters. The prevalence of pests, diseases, and other       76–100%). The total score per region of tissue was divided by
+abnormalities was calculated:                                     the number of seaweeds assessed to obtain a per-plant severity
+                                                                  score: classified into four infection/infestation covers of low
+                                                                  (≤25%), moderate (26–50%), high (51–75%), and very high
+                          number of affected seaweeds
+Prevalence ð%Þ ¼                                          100    (76–100%).
+                       total number of seaweeds assessed
+                                                                  Pest identification
+   Prevalence was differentiated into low (≤25%), moderate
+(26–50%), high (51–75%), and very high (76–100%).                 Pests were categorized initially as macro-epiphyte alga, i.e.,
+   In addition, the severity cover (%) measured the degree of     seaweeds that grow on the surface of seaweed plants, or as
+infection or infestation on the different parts of the thallus.   epiphytic filamentous algae (EFA), i.e., seaweeds which grow
+Seaweed samples from the three farms with the highest prev-       from the cortical layer (Ask 1999). Epiphytes were further
+alence of IID (n=120), and EFA (n=84) were used in this           classified based on the mechanism of attachment (weak or
+assessment. For each sample, the apical, secondary branch,        strong), and penetration (outer or inner), as described by
+and the primary branch of an individual seaweed thallus were      Leonardi et al. (2006) and Ingle et al. (2018). Macro-
+assessed (Fig. 2a). The presence of IID and EFA was estimat-      epiphytes present in farms were identified through morpho-
+ed as percentage cover using a semi-quantitative scale of 1–5     logical characteristics and confirmed using reference manuals
+(1 = 1–10%, 2 = 11–25%, 3 = 26–50%, 4 = 51–75%, and 5 =           (Hurtado et al. 1992, 2006b). To determine the degree of epi-
+
+Fig. 2 Observations on the
+farmed seaweeds: (a) showing the
+                                              A
+different tissue regions of the
+seaweeds assessed, including the
+apex (A), the secondary (SB), and
+primary branches (PB) (arrows),
+(b) K. striatus affected by “ice-
+ice” disease (IID) in the primary
+branch (encircled), (c) filamen-
+tous green Ulva entangled loosely
+on K. striatus (arrows), (d)
+                                      SB
+E. denticulatum thallus affected
+by black spots (arrows), (e) epi-
+                                          a                         PB                b
+phytic filamentous algae (EFA)
+(arrows) affecting the thallus of
+K. striatus, inset showing the
+penetration of the epiphytes to the
+cortical and medullary tissues,
+and (f) grazing on K. alvarezii
+manifested by the absence of tips
+on the apex soft tissues
+(encircled) (Photos courtesy of
+AQ Hurtado and RC Sibonga)
+
+
+                                          c                                           d
+
+
+
+
+                                          e                                           f
+2396                                                                                                           J Appl Phycol (2021) 33:2391–2405
+
+
+phyte penetration to the host plant, fresh transverse-sections                was used to check significant differences among farms within
+(approx. 0.50 mm thick) of seaweeds affected by EFA were                      each island group as well as across the three island groups. A
+removed using a surgical blade and placed on a glass slide                    non-parametric Mann-Whitney U test was also used to com-
+before viewing under the light microscope (Olympus CX43,                      pare the difference between the location of farm sites (shallow
+Japan) connected to a camera (Olympus DP2-SAL, Japan).                        vs deep water) in relation to IID prevalence. A level of signif-
+   The observations of diseases and pests in this study were                  icance p ≤0.05 was used as the threshold for significant dif-
+categorized according to the nature of the association with the               ferences. All statistical tests were undertaken using SPSS ver.
+host seaweed: (1) IID and black spots (result in changes to                   23 (SPSS Inc., USA). No statistical analyses were conducted
+thallus tissue), (2) macro-epiphytes (non-penetrating, but at-                on the environmental water parameters since the sampling
+tached or entangled), (3) epiphytic filamentous algae, EFA                    was done only once during the assessment activity.
+(penetrating the thallus), and (4) grazing (mechanical damage
+or removal of tissues).
+                                                                              Results
+Environmental parameters
+                                                                              Farming sites and seaweed cultivars
+Water parameters analyzed in situ were dissolved oxygen and
+temperature (EcoSense DO200A, YSI, USA), irradiance (LI-                      Seaweed farms were found either in shallow or deep water
+250A Photometer LI-COR Biosciences, USA), depth                               areas. Both the shallow and deeper water farms were repre-
+(Hawkeye H22PX Handheld Sonar System, USA), salinity                          sented in each region. Four culture techniques were employed:
+( D i g i t al r ef r a c t o m e t e r M A 88 6 S o di u m C h l o r i d e   triangular (1 farm), fixed off-bottom (7 farms), hanging long-
+Refractometer, Milwaukee Instruments, Inc., USA) and pH                       line (4 farms), and multiple raft long-line (4 farms). Shallow
+(pH meter PH-200 HM Digital, USA). The collection of water                    water sites were accessed from the shoreline in a minimum
+parameters was conducted mainly in the morning except in                      water depth of 0.5 m during the lowest tide, while deeper sites
+Pularaquen, Taytay, and Simunul, Tawi-Tawi, when it was                       were generally in depths in excess of 4 m during the lowest
+conducted in the afternoon. Additional water samples were                     tide. The number of seaweeds varied from each farm and
+collected from each farm to be analyzed for nutrient levels,                  ranged from 49 to 3000 seaweeds per line depending on the
+including nitrite, nitrate, ammonia and phosphate (LaMotte                    length of the cultured line and the culture techniques
+test kits, USA). The samples were transported and stored on                   employed. Cultivation density (number of seaweeds per meter
+cool packs (4°C) in the dark (i.e., in an icebox) throughout the              of line) was 4 seaweeds per meter for all farm sites studied,
+sampling period until analysis. Monthly climatological data,                  with the exception of one farm in Palawan, where the cultiva-
+including amount of total rainfall, mean wind speed, and mean                 tion density was 10 seaweeds per meter. Kappaphycus
+near-surface temperature (Tmean), were collected from the                     alvarezii, K. striatus, and E. denticulatum were the common
+nearest synoptic station provided by the Department of                        seaweed species being cultured (Table 1).
+Science and Technology Philippine Atmospheric,
+Geophysical and Astronomical Services Administration                          Diseases and pests occurrence
+(DOST PAGASA) except for Tawi-Tawi farms with no near
+synoptic station. In Luzon (Palawan) farms, the nearest syn-                  “Ice-ice” disease (IID) and pests (macro-epiphytes and EFA)
+optic stations are located in Puerto Princesa and Coron. In                   were commonly observed, as were other abnormalities such as
+the Visayas (Bohol) farms, all the climatological data were                   black spots and grazing wounds (Table 2). The descriptions of
+collected from Mactan Station. While in Mindanao farms,                       the pest and disease observations are reported in Table 3.
+the closest synoptic stations are located in Davao City and
+Zamboanga City.                                                               “Ice-ice” disease (IID)
+
+Statistical analysis                                                          Seaweeds displaying IID were found to have lost pigmen-
+                                                                              tation in patches of the thallus. Depigmented regions ap-
+Farms were grouped depending on their geographical island                     peared light pink to white in color, notably at locations in
+group location: Luzon (Palawan; n=5), Visayas (Bohol; n=5),                   the middle and base of the thalli (Fig. 2b).
+and Mindanao (Zamboanga City, Davao del Norte, and Tawi-                      Depigmentation appeared to be a progressive condition,
+Tawi; n=6). Mean prevalence per farm and geographic area                      spreading to other regions of the thallus in many of the
+were expressed as percent mean ±SEM. After prevalence rates                   affected specimens observed. In more severe cases, soft-
+were found not to be normally distributed using Shapiro-                      ened, necrotic, and decomposing areas of tissue were ob-
+Wilk’s test and the variances were not homogeneous, non-                      served leading to loss of attachment of seaweeds from the
+parametric analysis of variance (ANOVA) Kruskal-Wallis test                   cultivation lines. In Luzon, the Quezon farm site showed
+J Appl Phycol (2021) 33:2391–2405                                                                                                            2397
+
+Table 2 Summary of diseases and pest prevalence (%) in farms across different geographic island groups: Luzon (n=5), Visayas (n=5), and Mindanao
+(n=6). Sampling sites with different superscripts within geographic group denotes significant difference at p<0.05. Means are expressed as ±SE
+
+Sampling                “Ice-ice”         Epiphytic filamentous       Macro-epiphytes                                  Black spots      Grazing
+sites                   disease (IID)     algae (EFA)
+                                                                      Sargassum         Ulva            Gracilaria
+
+Luzon
+Palawan
+Puerto Princesa         2.4±0.2ab         0b                          0.25.1±0.3ab      0.2±0.3ab       0              0                0
+                               ab           b                          b                 b
+Balabac                 1.3±1.3           0                           0                 0               0              0                0
+Quezon                  8.5±2.0a          0.2±0.0a                    0.1±0.1ab         0b              0              0                0
+                               ab           b                                 a                    ab
+Pamantolon, Taytay      0.3±0.0           0                           33.0±7.9          17.1±5.6        0              0                0
+Pularaquen, Taytay      0.2±0.1bc         0b                          41.3±9.5a         44.3±10.2a      0              0                0
+Visayas
+Bohol
+Danahon Reef            3.5±1.6ab         0b                          0                 0               0              0b               0b
+                               a            b                                                                           b
+Mahanay                 8.4±2.2           0                           0                 0               0              0                4.6±1.5a
+Guindacpan              0.7±0.3b          4.5±1.7a                    0                 0               0              1.7±0.6a         0b
+                               ab           b                                                                           b
+Jao 1                   2.2±0.7           0                           0                 0               0              0                0b
+Jao 2                   1.7±1.1ab         0b                          0                 0               0              0b               0b
+Mindanao
+Zamboanga City
+Tigtabon                0.4±0.4b          3.7±0.4ab                   0                 8.6±0.4a        0.8±0.5a       0                0b
+                               b            b                                            b               a
+Layag-Layag             0.6±0.2           0                           0                 0               0              0                0b
+                                   ab                a                                         ab        a
+Arena Blanco            10.2±0.0          11.2±0.4                    0                 0.8±0.2         0              0                0b
+Davao del Norte
+Samal                   100±0.0a          0b                          0                 0b              0a             0                0b
+Tawi-Tawi
+Simunul                 14.9±4.4ab        0b                          0                 0b              0a             0                4.8±2.4a
+                               b            b                                            b               b
+Tundon                  2.5±2.5           0                           0                 0               0              0                0b
+
+
+
+
+a significantly higher prevalence of IID compared with                     including Sargassum (brown alga), Ulva (green alga), and
+the farm in Pularaquen, Taytay (p=0.025), but did not                      Gracilaria (red alga), was observed in Luzon and Mindanao
+differ significantly with the other farms in the area. In                  farms; however, no macro-epiphytes were recorded on sea-
+the Visayas, Mahanay recorded a significantly higher                       weeds observed at the Visayas sites (Table 2). Sargassum was
+IID (p=0.015) compared with Guindacpan but not with                        present only in Luzon at four out of the five farms. Prevalence
+the farms in Jao 1, Jao 2, and Danahon Reef (p>0.05).                      rates were classified as moderate in Pamantolon and
+In Mindanao, the Samal farm recorded a very high IID                       Pularaquen, Taytay (26–50%). However, the results were not
+prevalence of 100±0.0%, significantly higher than at                       significantly different from the observations in farms in Puerto
+farms in Tigtabon, Layag-Layag, and Tundon (p<0.05),                       Princesa and Quezon. Filamentous Ulva species were observed
+but did not differ significantly to farms in Arena Blanco,                 in Luzon and Mindanao farms at three out of five, and two out
+and Simunul. Overall, prevalence rate was classified as                    of six farms, respectively. In Luzon, the farm in Pularaquen,
+low (≤25%) at all farm sites with the exception of the                     Taytay recorded a moderate prevalence rate (44.3±10.2%), but
+farm in Samal where prevalence was classified as very                      the prevalence did not differ significantly from the farms in
+high (100%).                                                               Pamantolon, Taytay and Puerto Princesa with low prevalence
+                                                                           rates (≤25%). In Mindanao, Ulva was observed attached to
+Macro-epiphytes                                                            seaweeds in Tigtabon and Arena Blanco farms (both in
+                                                                           Zamboanga City) with low prevalence rates (Fig. 2c).
+Macro-epiphytes were often found entangled but loosely at-                 Gracilaria was observed only in one farm in Mindanao with
+tached to farmed seaweeds. The presence of macro-epiphytes,                a low prevalence rate.
+2398                                                                                                            J Appl Phycol (2021) 33:2391–2405
+
+Table 3   Descriptions of important pests and diseases occurring in eucheumatoid crops in seaweed farms in the Philippines
+
+Association with   Pest or disease                       Description                                           References
+the host seaweed
+
+Type 1             “Ice-ice” disease (IID)               Loss of pigmentation followed by softening of the     Doty and Alvarez (1975); Largo
+                                                           thallus, and detachment of diseased plants from       et al. (1995); Arasamuthu and
+                                                           seaweed cultivation lines                             Edward (2018)
+Type 1             Black spots                           Black or brown raised spots, c. 0.5 mm diameter, on   This paper
+                                                           the surface of the eucheumatoid thallus
+Type 2             Macro-epiphyte algae                  Seaweeds that grow on the surface of seaweed          Leonardi et al. (2006); Ingle et al.
+                                                           plants (loosely attached or entangled), e.g.,         (2018)
+                                                           Sargassum, Ulva, Gracilaria
+Type 3             Epiphytic filamentous algae (EFA)     Red seaweeds that grow on the surface of seaweed      Ask (1999); Vairappan (2006); Pang
+                                                           plants, penetrating from the cortical to the          et al. (2011); Tsiresy et al. (2016)
+                                                           medullary layers, causing mechanical damage to
+                                                           the host plant, e.g., Melanothamnus (= previously
+                                                           known as Neosiphonia), Polysiphonia
+Type 4             Grazing                               Mechanical damage or absence of tips on the soft      Ask (1999); Pang et al. (2015)
+                                                           tissues at the apex of the thallus
+
+
+
+
+Epiphytic filamentous algae (EFA)                                          (2.5±0.8%) and Visayas (3.3±0.7%), but no significant differ-
+                                                                           ence among the regions. Also, no significant difference in IID
+Red epiphytic filamentous algae (EFA) were found attached                  prevalence was observed when shallow water (5.0±1.1%) and
+by holdfasts to host plants in several farms. Affected seaweeds            deeper water (14.8±5.1%) farm sites were compared (p>0.05)
+showed epiphytes penetrating the cortex and growing within                 (Fig. 4). The occurrence of pests, including macro-epiphytes
+medullary tissues (Fig. 2e). EFA were observed in four of the              and EFA, was observed in Luzon, Visayas, and Mindanao
+16 farms assessed, including Quezon (Luzon), Guindacpan                    regions. For the macro-epiphytes, Sargassum was observed
+(Visayas), and Tigtabon and Arena Blanco (Mindanao). All                   in Luzon at 14.9±4.8% but absent in Visayas and Mindanao
+the farms exhibited a low prevalence of EFA (≤25%).                        farms. Ulva was present in Luzon (12.3±4.5%) and Mindanao
+                                                                           farms (1.6±0.6%) only, and Gracilaria was recorded in one
+Black spots                                                                farm in Mindanao at 0.1±0.1%. For EFA, Mindanao recorded
+                                                                           the highest prevalence rate at 2.5±0.8%, followed by Visayas
+Black spots were defined as dark brown-black, irregular-                   and Luzon with 0.9±0.5%, and 0.1±0.0%, respectively. Black
+shaped lesions, generally of <1 mm in diameter, on the surface             spots were only recorded in Visayas at a prevalence of 0.3
+of the seaweed thallus (Fig. 2d). They were only observed on               ±0.2%. Signs of grazing were recorded in Visayas (0.9
+plants collected from one farm in the Visayas, with a low                  ±0.5%) and Mindanao (0.8±0.5%).
+prevalence rate (1.7±0.6%).
+                                                                           Severity of cover of IID and EFA
+Grazing
+                                                                           The three farms with the highest prevalence of IID were
+Signs of grazing by marine organisms were observed princi-                 located in Mindanao, including Samal (100±0.0%),
+pally on the soft tissues at the apex of the thallus. Signs of             Simunul (14.9±4.4%) and Arena Blanco (10.2±0.0%). A
+grazing were often manifested by the absence of tips (Fig. 2f).            very high severity cover of 76–100% was found affecting
+Signs of grazing were recorded in two shallow water farms,                 the secondary (3.3±1.4%) and primary branches (6.7
+one in the Visayas and the other one in Mindanao, though the               ±2.3%) of affected plants. A low cover of severity
+prevalence rate at farms in both areas was low (≤25%).                     (≤25%) was observed in all regions of the thalli: apex
+                                                                           (10.0±2.8%), secondary branch (2.5±1.4%), and primary
+Summary of prevalence rates                                                branch (2.5±1.4%) (Fig. 5). Farms with the highest prev-
+                                                                           alence of EFA were recorded in Arena Blanco (11.2
+When results from all farms were grouped according to geo-                 ±0.4%), Guindacpan (4.5±1.7%), and Tigtabon (3.7
+graphical locations, the prevalence rates for pests, diseases,             ±0.4%). All regions of the thalli, i.e., the apex (9.5
+and other abnormalities were generally categorized as low                  ±3.2%), secondary (16.7±4.1%), and primary (6.0±2.6%)
+(≤25%) (Fig. 3). The results for IID showed that Mindanao                  branches, were affected; however, the severity cover was
+had a higher (21.4±6.6%) prevalence compared with Luzon                    low (Fig. 6).
+J Appl Phycol (2021) 33:2391–2405                                                                                                                                    2399
+
+Fig. 3 Summary of the presence                                              30           a
+of “ice-ice” disease (IID),
+pests (macro-epiphytes and EFA),                                            25
+black spots, and grazing
+prevalence in 16 farms assessed:                                                                           a
+
+
+
+                                                           Prevalence (%)
+                                                                            20
+Luzon (n=5), Visayas (n=5), and                                                                                           a
+Mindanao (n=6). Error bars
+signify ±SEM. Different letters                                             15
+denote significant difference at
+p<0.05                                                                      10
+
+                                                                                                    a
+                                                                             5       a
+                                                                                 a                                                 a
+                                                                                              a a               bb             b            a a a     b a b     a
+                                                                                                                                                                    a a
+                                                                             0
+                                                                                 IID          EFA        Sargassum        Ulva            Gracilaria Black spots Grazing
+                                                                                                        Luzon        Visayas           Mindanao
+
+
+
+
+Environmental parameters                                                                     Discussion
+
+Environmental parameters varied between each farm                                            This preliminary survey is the first attempt to assess the prev-
+(Table 4). Seaweed were exposed during low tide in shallow                                   alence of major yield-limiting pests, diseases and other abnor-
+water farms, while for farms at deep water sites the depth                                   malities in eucheumatoid farming areas in the Philippines. Our
+ranged from 2.5 to 8.0 m during assessment. Irradiance ranged                                results revealed differential prevalence of major diseases such
+from 120 to 2670 μmol photons m−2 s−1, with salinity in the                                  as IID at farms across the country. Notably, IID is the most
+range from 27 to 34 psu, temperature from 27.3 to 32.2°C, pH                                 prevalent condition, affecting all farms assessed in this study,
+from 7.6 to 9.1, and dissolved oxygen from 5.3 to 9.2 ppm.                                   indicating the likely widespread occurrence of this at national
+The variation in readings of the different parameters will be                                level within the Philippines. This confirms previous reports of
+influenced by the time of day and weather conditions at the                                  IID occurrence in the country, but it is the first to examine the
+time of sampling: for example, irradiance readings in Bohol                                  prevalence of IID outside of specific provinces or regions
+were high because of intense heat and clear skies during the                                 (Uyenco et al. 1981; Largo et al. 1995; Hurtado et al. 2006a;
+sampling period. For the nutrient analyses at the farms, phos-                               Solis et al. 2010; Alibon et al. 2019). Although relatively low
+phate levels ranged from not detected (n.d.) to 0.15 ppm,                                    prevalence rates were recorded, it is of note that IID was
+nitrite (0.04–0.07 ppm), nitrate (0.10–0.38 ppm), and ammo-                                  observed in all the farms visited during the study, spanning
+nia (n.d. to 0.38 ppm). The highest volume of rainfall during                                an array of geographic locations, culture techniques
+the sampling month was recorded in Visayas farms (Bohol)                                     employed, cultivation densities and cultivars used. The exact
+with 223.6 mm, and the lowest monthly rainfall was observed                                  nature of the complex interactions between environmental and
+in Samal, Davao del Norte (Mindanao) with 60.8 mm. The                                       biotic factors leading to IID remains unknown; however, the
+mean monthly wind speed ranged from 2–3 m s−1. The near-                                     occurrence of IID across a range of cultivation techniques and
+surface air temperature (Tmean) ranged from 28.4 to 29.0, with                               water depths suggests these relationships are not straightfor-
+the highest recorded at Samal farm.                                                          ward. All sites surveyed are within highly productive seaweed
+                                                                                             cultivation areas in Luzon, Visayas, and Mindanao and the
+                     25                                                                      extent to which the presence of IID at one site influences the
+                     20
+                                                            a                                occurrence at sites close by remains to be determined. A very
+
+
+
+
+IID prevalence (%)
+                                                                                             high IID prevalence was observed in a deep water long line
+                     15                                                                      seaweed farm in Mindanao. Although the site was assessed
+                                                                                             only once, the low total monthly rainfall and wind speed re-
+                     10                                                                      corded in the area in comparison to the other farms assessed
+                                a
+                                                                                             might contribute to the exceptionally high IID prevalence.
+                     5
+                                                                                             Low rainfall volume might result in high surface water tem-
+                     0                                                                       perature and increased salinity, while low wind speed might
+                          Shallow waters               Deep waters                           result in slow water movement. High prevalence of IID has
+                                      Farming technique                                      previously been linked to high water temperature, salinity, and
+Fig. 4 “Ice-ice” disease (IID) % prevalence in relation to the farming                       pH (Arasamuthu and Edward 2018; Msuya and Porter 2014;
+techniques employed (n=16). Error bars signify ±SEM                                          Alibon et al. 2019).
+2400                                                                                                                        J Appl Phycol (2021) 33:2391–2405
+
+Fig. 5 “Ice-ice” disease (IID) se-                                          15
+verity cover (%) on the thallus
+regions of the infected seaweeds
+
+
+
+
+                                                IID infected seaweeds (%)
+(±SEM; n=120)
+                                                                            10
+
+
+
+
+                                                                             5
+
+
+
+
+                                                                             0
+                                                                                 1-10          11-25           26-50           51-75             76-100
+                                                                                                    Severity Index classes (%)
+
+                                                                                        Apex     Secondary Branch         Primary Branch
+
+
+
+   Macro-epiphyte pests, including Sargassum, Ulva, and                                 that could lead to the seasonal bloom of other macro-epi-
+Gracilaria, are the common macroalgae found on the cultiva-                             phytes, especially Ulva (Largo et al. 2004; Teichberg et al.
+tion lines. The prevalence of Sargassum was highest at sites in                         2010).
+Taytay (Luzon) in October 2019 (26–50%) where                                              A limiting factor in recording EFA, black spots, and graz-
+Kappaphycus is farmed in the lower intertidal area, in close                            ing in situ is the challenge of accessing seaweeds in deep
+proximity to Sargassum beds. In the Philippines, the annual                             water farms where the seaweeds remain below the water level
+vegetative growth peaks of Sargassum are observed during                                at all times. However, the low prevalence rates recorded for
+the months of October to December (Trono and Largo                                      EFA and grazing could be related to the seasonality in occur-
+2019), which coincides with high prevalence of pest fouling                             rence. For EFA, fluctuation in environmental conditions and
+of cultivated eucheumatoids in this area. This high prevalence                          other biotic factors may contribute to their low prevalence.
+of Sargassum was not observed in other farming sites in                                 The high volumes of rainwater during the wet season, which
+Visayas and Mindanao which utilized the same farming types                              coincides with the date of sampling activities (July–
+and were sampled at seasonally equivalent dates, suggesting                             November), may have contributed to a decrease in the salinity
+that other factors, including slow water movement and anthro-                           of waters around the farm and may account for the low
+pogenic eutrophication, might contribute to the proliferation                           prevalence of EFA. This observation is reflected in the study
+of macro-epiphytes. The location of the farms in Taytay                                 of Vairappan (2006) in Malaysia, where a lower prevalence of
+(Luzon) is within a bay which protects the farm sites from                              EFA was observed in September to November when seawater
+the strong currents and wind actions, preventing the macro-                             temperature dropped from 30 to 25°C and the salinity from 29
+epiphytes from dispersing once they are already entangled in                            to 27 psu. The incidence of EFA was observed to be higher
+the cultivation lines. Also, human settlements and effluent                             during the dry months (March–June), when the seawater tem-
+outflow may contribute to eutrophication in the farming sites                           perature and salinity increases from 27 to 31°C and from 28 to
+
+Fig. 6 Epiphytic filamentous                                                25
+
+
+
+
+                                                EFA infected seaweeds (%)
+algae (EFA) severity cover (%) on
+the thallus regions of the infected                                         20
+seaweeds (±SEM; n=84)
+                                                                            15
+
+                                                                            10
+
+                                                                             5
+
+                                                                             0
+                                                                                 1-10          11-25              26-50           51-75          76-100
+                                                                                                       Severity Index classes (%)
+
+                                                                                        Apex     Secondary Branch        Primary Branch
+Table 4 Summary of environmental parameters of different farms assessed in major seaweed              nearest synoptic station of the Philippine Atmospheric, Geophysical and Astronomical Services
+farming areas in the Philippines: Luzon (n=5), Visayas (n=5), and Mindanao (n=6). Monthly total       Administration (PAGASA)). n.c., no data collected; n.d., not detected; e.c., exposed culture lines;
+rainfall data, mean wind speed, and mean near-surface temperature (Tmean) were collected from the     ±SEM was not shown
+
+Sampling sites        Date            Time of Depth Irradiance Salinity Temp. pH DO                  Phosphate Nitrite Nitrate Ammonia Total rainfall                        Wind speed Near- surface
+                      assessed        sampling                                                                                         (monthly)                             (monthly)  air temp.
+                                                                                                                                                                                        (monthly)
+                                                  m       μmol        psu       °C            ppm ppm           ppm      ppm      ppm          1 month before Sampling       m s−1      Tmean
+                                                          photons                                                                              sampling       month                     °C
+                                                          m−2 s−1                                                                              mm             mm
+                                                                                                                                                                                                            J Appl Phycol (2021) 33:2391–2405
+
+
+Luzon
+Palawan
+Puerto Princesa       Oct 5, 2019     9:00 am     6.0     124         33        28.8    7.8   6.5    0.14       0.06     0.29     0.12         254.4            122.8        3             28.6
+Balabac               Oct 6, 2019     10:30 am    e.c.    n.c.        n.c.      n.c.    8.6   n.c.   0.13       0.06     0.20     0.08         254.4            122.8        3             28.6
+Quezon                Oct 7, 2019     10:00 am    2.5     120         34        32.2    7.8   7.2    0.15       0.05     0.37     0.06         254.4            122.8        3             28.6
+Pamantolon, Taytay    Oct 8, 2019     9:00 am     n.c.    131         33        n.c.    7.7   n.c.   0.08       0.07     0.38     n.d.         300.2            190.6        2             28.4
+Pularaquen, Taytay    Oct 9, 2019     3:00 pm     n.c.    n.c         n.c.      n.c.    n.c   n.c.   n.c.       n.c.     n.c.     n.c.         300.2            190.6        2             28.4
+Visayas
+Bohol
+Danahon Reef          Oct 14, 2018    8:00 am     e.c.    2656        31        29.3    7.6 5.3      0.04        0.04    0.17     0.38         195.7            223.6        3             28.6
+Mahanay               Oct 16, 2018    9:20 am     e.c.    1234        30        31.0    7.8   6.5    0.04        0.04    0.14     0.07         195.7            223.6        3             28.6
+Guindacpan            Oct 16, 2018    9:00 am     n.c.    1278        30        31.0    7.8   6.5    0.04        0.04    0.14     0.07         195.7            223.6        3             28.6
+Jao 1                 Oct 17, 2018    10:00 am    e.c.    2670        28        31.6    7.8   6.1    0.05        0.04    0.26     0.05         195.7            223.6        3             28.6
+Jao 2                 Oct 17, 2018    10:00 am    e.c     2670        28        31.6    7.8   6.1    0.05        0.04    0.26     0.05         195.7            223.6        3             28.6
+Mindanao
+Zamboanga City
+Tigtabon              Jul 24, 2019    11:40 am 4.7        n.c.        27        27.9    8.8 6.6      0.08        0.05    0.27     0.02         48.5             115.2        2             28.8
+Layag-Layag           Jul 23, 2019    10:00 am 8.0        n.c.        32        27.3    8.9 6.8      n.d.        0.07    0.31     0.09         48.5             115.2        2             28.8
+Arena Blanco          Jul 25, 2019    10:00 am 4.3        1685        30        27.3    9.1 6.2      0.08        0.07    0.33     0.07         48.5             115.2        2             28.8
+Davao del Norte
+Samal                 Nov 11, 2018 8:00 am        n.c.    n.c.        34        29.0    7.7 5.9      0.07        0.04    0.10     0.05         142.7            60.8         2             29.0
+Tawi-Tawi
+Simunul               Nov 14, 2018 12:10 pm e.c.          737         29        29.1    7.8 9.2      0.08        0.04    0.12     0.13         n.c              n.c.         n.c.          n.c.
+Tundon                Nov 13, 2018 11:00 am e.c.          2149        30        29.0    7.9 9.1      0.06        0.06    0.11     0.12         n.c.             n.c.         n.c.          n.c.
+
+
+
+
+                                                                                                                                                                                                            2401
+2402                                                                                                 J Appl Phycol (2021) 33:2391–2405
+
+
+34 psu, respectively. The same result was observed in the            Oscillation (ENSO). This information provided insights on
+study of Hurtado et al. (2006a), where outbreaks of EFA in           the effects of changing climate patterns to the occurrence of
+the Philippines were noticed in farms having high temperature        diseases and pests. Recently, Largo et al. (2017) discussed the
+coupled with high irradiance and slow water movement.                direct and indirect impacts of global climate change as well as
+Although no direct correlation was observed between the en-          the effects of El Niño and La Niña in farmed eucheumatoids.
+vironmental water parameters monitored and disease and pest          These climatic events resulted in fluctuations in environmen-
+prevalence in the present study, the variations in the data (e.g.,   tal parameters making the seaweeds more vulnerable to dis-
+higher, or lower levels of irradiance, temperature, and salinity)    ease and pest outbreaks. The occurrence of typhoons and
+could potentially trigger the occurrence of EFA. This further        strong storm surges in farming areas could further negatively
+supports the hypothesis that extreme fluctuations or abrupt,         affect production. In Tanzania, the recorded extreme increase
+significant environmental changes are predisposing factors           in surface water temperature correlates to a high incidence of
+for the occurrence of pests and diseases and have a direct           IID and EFA, leading to die-offs of seaweeds mostly located
+impact on the susceptibility of the cultured seaweeds to these       in shallow water farms (Msuya and Porter 2014; Largo et al.
+problems. The association of pest and disease prevalence re-         2020). Fluctuation in weather conditions brought about by
+lated to these time-point and seasonal variations in key envi-       climate change could further exacerbate factors associated
+ronmental parameters warrants more extensive investigation           with reduced health status in seaweeds, and this may prevent
+than was possible in the current study.                              year-long continuous seaweed production, resulting in a de-
+    The relatively high prevalence of IID observed in farms          creased biomass production and reduced income for
+located in deeper waters than in shallow water farms, albeit         stakeholders.
+not a significant result, was unexpected as the shallow water            IID was observed in different parts of the thallus, sug-
+farms are more exposed to fluctuations in environmental con-         gesting that any part of the seaweed is susceptible to IID.
+ditions. Many studies of IID to date report on the occurrence        Changes observed in affected seaweeds belong to associ-
+of the condition in shallow water farms, and there is a lack of      ation type 1 (changes to thallus tissue). IID-affected sea-
+information on the occurrence and progression of the condi-          weeds have previously been found to harbor purportedly
+tion in deeper water farms, and no information available on          pathogenic microbial complexes including gram-negative
+the occurrence of IID outside cultivation settings. It may be        bacteria (Vibrio sp., Cytophaga-Flavobacterium complex,
+that prolonged high or low rainfall volume, low wind speed           Alteromonas, Pseudoalteromonas, and Aurantomonas),
+and high near-surface temperature in deep water cultivation          and fungi (Aspergillus ochraceus, A. terreus, Phoma sp.)
+sites contribute to a stress response in seaweeds resulting in       (Largo et al. 1995; Solis et al. 2010; Syafitri et al. 2017).
+the development of disease signs. Changing weather patterns          Vibrio spp. have also been shown in vitro to induce more
+brought about by climate change may also influence seaweed           severe IID in healthy tissue in the presence of an environ-
+disease occurrence in deep water farms. The results of this          mental stressor, specifically low water salinity (Largo
+study may provide new insight that IID is no longer confined         et al. 1995) and elevated water temperature (Azizi et al.
+in shallow water farming areas but also occurs in deep water         2018). These results may imply that environmentally
+farms when unfavorable environmental conditions continue to          stressed seaweeds are more susceptible to colonization
+persist over an extended period of time.                             by pathogenic bacteria, however no data exist relating to
+    The presence of EFA and IID in the farms assessed sug-           the full diversity of microbial taxa associated with
+gests that these problems may occur regularly but have previ-        eucheumatoids (in either healthy or diseased states), and
+ously gone unreported. In this study, Mindanao reported the          the processes behind the development of IID signs remain
+highest prevalence of EFA and IID compared with Luzon and            unknown. Black spots were observed only in one farm,
+Visayas regions. High EFA prevalence and high IID preva-             and the occurrence and effect of this abnormality in
+lence was also observed in Zanzibar (Tanzania) (Largo et al.         farmed seaweeds is as yet unknown. To the best of our
+2020). Previous reports in the Philippines suggested that fluc-      knowledge, this is the first described incidence in the
+tuations in environmental conditions, including elevated sea-        Philippines. Black spots warrant further studies to fully
+water temperature, resulted in increased IID and EFA occur-          understand and establish whether their presence could be
+rences (Hurtado et al. 2006a; Alibon et al. 2019; Vince Cruz-        a potential problem for the seaweed industry in the future.
+Abeledo et al. 2019). Anecdotal reports of EFA and IID out-              Macroalgae including Sargassum, Ulva, and Gracilaria
+breaks on farms in the country have been noted, especially           belong to the association type 2, where the pest attaches
+during prolonged extreme environmental conditions (e.g., El          loosely to the surface of the host, but no damage is ob-
+Niño and La Niña). Pang and Liu (2019) described that IID            served (Leonardi et al. 2006; Ingle et al. 2018). However,
+and EFA outbreaks in eucheumatoid farms in China are di-             entangling of these macro-epiphytes may result in com-
+rectly related to these extreme environmental anomalies to-          promised growth of farmed seaweeds though competition
+gether with the data obtained from El Niño Southern                  for nutrient uptake from the water and photosynthesis
+J Appl Phycol (2021) 33:2391–2405                                                                                                      2403
+
+
+may occur. EFAs are categorized under the association             Conclusion and recommendations
+type 3 where the epiphytes penetrate the host seaweeds
+intercellularly, thereby injuring the cortical and medullary      This is the first study to compare the occurrence of im-
+cells (Ask 1999; Vairappan 2006; Pang et al. 2011;                portant eucheumatoid diseases and pests across major sea-
+Tsiresy et al. 2016). The EFA severity cover was ob-              weed farming areas in the Philippines. We also report the
+served to be low, affecting the whole thallus of the plant.       occurrence of black spots in farmed seaweeds for the first
+There was no difference in the severity cover between             time. IID occurred in all regions surveyed, and across all
+thallus regions, but Yamamoto et al. (2012) reported that         cultivation methods and cultivars sampled. In contrast,
+the soft tissues of the apex thallus are more susceptible to      macro-epiphytes and EFAs were not reported at all sites
+epiphyte colonization, suggesting that the initial entry of       and when present were typically at moderate to low
+the epiphytes is in young tissues. When observed micro-           levels. However, each site was sampled only once, and
+scopically, EFA penetrated up to the cortical cells and           therefore it remains to be seen how the prevalence of
+created injury to the host plant (Vairappan 2006), thereby        pests and diseases changes over growth cycles and sea-
+providing an entry point for pathogenic microbes,                 sons, and how this responds to fluctuations in environ-
+resulting in secondary infection. EFA outbreaks in sea-           mental conditions including salinity, water temperature,
+weed farms may result in biomass loss and compromised             and nutrient availability. It should be a priority for future
+carrageenan quality (Correa and McLachlan 1994;                   research to address this lack of knowledge. Further studies
+Hurtado et al. 2006; Vairappan et al. 2008; Ali et al.            should also aim to increase our understanding of the rela-
+2018, 2020).                                                      tionships between eucheumatoids and their associated mi-
+    Pang et al. (2015) observed the seasonal consumption of       crobial communities (including prokaryotes, protozoans,
+eucheumatoid crops by herbivorous fish, especially                fungi, and viruses), the structure and function of which
+siganids (rabbitfish). Absence of tips on the soft tissues at     may play a role in the development of disease signs. A
+the apex of the thallus is observed in the affected seaweeds      greater understanding of the factors influencing disease
+(Ask 1999). Grazing of the tips of seaweed thalli was also        and pest occurrence will inform proactive management
+observed in our study (association type 4), suggesting that       strategies, which are becoming increasingly important as
+juvenile herbivorous fish commonly consume seaweeds in            disease and pest outbreaks become more frequent.
+intertidal areas where the seaweed farms are located.                Biosecurity measures, such as quarantine procedures,
+Grazing damage to seaweed thalli has been shown in some           should be imposed when translocating cultivars, particu-
+cases to significantly shift microbial community structure        larly in major seaweed growing areas where the disease
+(Tan et al. 2020), which may reduce the health status of          and pest transmission potential are high, in order to pre-
+affected plants. Grazing also results in a loss of biomass        vent the transfer of unchecked cultivars to other farming
+and therefore a production decline in the farmed seaweeds.        sites around the country. The inclusion and the strict im-
+The protection of seaweed crops from grazing fish may be a        plementation thereafter of biosecurity protocols in the
+beneficial management intervention to protect stock from          Code of Good Aquaculture Practices for Seaweeds
+damage which leads to incursion of environmental patho-           (GAqP-S) (Philippine National Standards/Bureau of
+gens which further limit growth and yield.                        Fisheries Standards (PNS/BAFS 208: 2017)) will be an
+    Differences in the prevalence of diseases and pests between   important initial step in securing the future of the indus-
+the eucheumatoid species assessed in this study were not          try. Ongoing research and government initiatives coupled
+captured. However, the previous study of Pang et al. (2015)       with seaweed stakeholders’ support will help improve and
+identified E. denticulatum as being less susceptible to IID and   sustain the industry, not only benefiting the aquaculture
+EFA when compared to K. alvarezii and K. striatus. Also, in       sector but also most importantly protecting the livelihood
+the same study, it was observed that a lower incidence of IID     of thousands of farmers engaged in seaweed cultivation.
+and EFA in farms with co-cultured conditions (i.e.,
+Kappaphycus spp. with E. denticulatum). E. denticulatum
+has been found to release volatile halogenated compounds          Acknowledgements The authors are grateful to the seaweed farmers and
+                                                                  operators, Local Government Unit (LGU) staff, and the Bureau of
+(VHCs) under stressful conditions, which might aid as a de-
+                                                                  Fisheries and Aquatic Resources (BFAR) Regional Offices where sam-
+fense mechanism against potential harmful organisms (Collen       pling sites were done for extending their help in the successful conduct of
+et al. 1995; Mtolera et al. 1996). The VHCs produced by           this study.
+E. denticulatum might explain the high resistance of
+E. denticulatum to EFA and IID than Kappaphycus spp.              Funding This study was mainly supported by the United Kingdom
+                                                                  Research and Innovation–Global Challenges Research Fund (UKRI-
+(Pang et al. 2015). Multi-species methods of culturing sea-
+                                                                  GCRF) “GlobalSeaweedSTAR” Programme (Grant No. BB/P027806/
+weeds either in shallow and in deep water farms could poten-      1) and implemented in part at SEAFDEC/ AQD with a Study Code:
+tially minimize the occurrence of disease and pest problems.      FH-01-S2017T.
+2404                                                                                                                J Appl Phycol (2021) 33:2391–2405
+
+
+References                                                                    Guiry MD, Guiry GM (2020) AlgaeBase. World-wide electronic publi-
+                                                                                   cation, National University of Ireland, Galway. https://www.
+                                                                                   algaebase.org Accessed on 10 June 2020.
+Alemañ AE, Robledo D, Hayashi L (2019) Development of seaweed
+                                                                              Hayashi L, Reis RP, dos Santos AA, Castelar B, Robledo D, de Vega GB,
+     cultivation in Latin America: current trends and future prospects.
+                                                                                   Msuya FE, Eswaran K, Yasir SM, Ali MKM, Hurtado A (2017) The
+     Phycologia 58:462–471
+                                                                                   cultivation of Kappaphycus and Eucheuma in tropical and subtrop-
+Ali MKM, Yasir S, Critchley AT, Hurtado AQ (2018) Impacts of                       ical waters. In: Hurtado AQ, Critchley AT, Neish IC (eds) Tropical
+     Ascophyllum Marine Plant Extract Powder (AMPEP) on the growth,                seaweed farming trends, problems and opportunities. Springer,
+     incidence of the endophyte Neosiphonia apiculata and associated               Cham, pp 55–90
+     carrageenan quality of three commercial cultivars of Kappaphycus. J      Hurtado AQ (2013) Social and economic dimensions of carrageenan
+     Appl Phycol 30:1185–1195                                                      seaweed farming in the Philippines. In: Valderrama D, Cai J,
+Ali MKM, Critchley AT, Hurtado AQ (2020) The impacts of AMPEP                      Hishamunda N, Ridler N (eds) Social and economic dimensions of
+     K + (Ascophyllum marine plant extract, enhanced with potassium)               carrageenan seaweed farming. Fish Aquaculture Tech Paper No.
+     on the growth rate, carrageenan quality, and percentage incidence of          580. FAO, Rome pp 87-111
+     the damaging epiphyte Neosiphonia apiculata on four strains of the       Hurtado AQ, Critchley AT (2006) Seaweed industry of the Philippines
+     commercially important carrageenophyte Kappaphycus, as devel-                 and the problem of epiphytism in Kappaphycus farming. In: Siew-
+     oped by micropropagation techniques. J Appl Phycol 32:1907–1916               Moi P, Critchley AT, Ang Jr. Po, (eds) Advances on seaweed cul-
+Alibon RD, Gonzales JMP, Ordoyo AET, Echem RT (2019) Incidence of                  tivation and utilization in Asia. Kuala Lumpur, University of Malaya
+     ice-ice disease associated with Kappaphycus alvarezii in the sea-             Maritime Research Centre, pp 21-38
+     weed farms in Zamboanga Peninsula, Mindanao, Philippines. SSR            Hurtado AQ, Luhan MRJ, Guanzon Jr. NG (1992) Seaweeds of Panay.
+     Inst Int J Life Sci 5:2148–2155                                               Tigbauan, Iloilo, Philippines: Aquaculture Department, Southeast
+Arasamuthu A, Edward JKP (2018) Occurrence of ice-ice disease in                   Asian Fisheries Development Center. 114 p
+     seaweed Kappaphycus alvarezii at Gulf of Mannar and Palk Bay,            Hurtado AQ, Critchley AT, Trespoey A, Bleicher-Lhonneur G (2006a)
+     Southeastern India. Indian J Geo Mar Sci 47:489–492                           Occurrence of Polysiphonia epiphytes in Kappaphycus farms at
+Ask EI (1999) Cottonii and spinosum cultivation handbook. FMC Food                 Calaguas Is., Camarines Norte, Philippines. J Appl Phycol 18:
+     Ingredients Division, Philadelphia, 52 pp                                     301–306
+Ask E, Azanza RV (2002) Advance in cultivation technology of com-             Hurtado AQ, Luhan MRJ, Guanzon NG Jr (2006b) Seaweeds of Panay,
+     mercial eucheumatoid species: a review with suggestion for future             2nd edn. Aquaculture Department, Southeast Asian Fisheries
+     research. Aquaculture 206:257–277                                             Development Center, Tigbauan, Iloilo, Philippines, 50 p
+Ask EI, Batibasaga A, Zertuche-Gonzalez JA, De San M (2003) Three             Hurtado AQ, Gerung GS, Suhaimi Y, Critchley AT (2014) Cultivation of
+     decades of Kappaphycus alvarezii (Rhodophyta) introduction to                 tropical red seaweeds in the BIMP-EAGA region. J Appl Phycol 26:
+     non-endemic locations. In: Chapman ARO, Anderson RJ,                          707–718
+     Vreeland VJ, Davison IR (eds) Proceedings of the 17th                    Hurtado AQ, Neish IC, Critchley AT (2019) Phyconomy: the extensive
+     International Seaweed Symposium. Oxford University Press,                     cultivation of seaweeds, their sustainability and economic value,
+     Oxford, pp 49–57                                                              with particular reference to important lessons to be learned and
+Azizi A, Mohd Hanafi N, Basiran MN, Teo CH (2018) Evaluation of                    transferred from the practice of eucheumatoid farming. Phycologia
+     disease resistance and tolerance to elevated temperature stress of the        58:472–483
+     selected tissue-cultured Kappaphycus alvarezii Doty 1985 under           Ingle KN, Polikovsky M, Chemodanov A, Goldberg A (2018) Marine
+     optimized laboratory conditions. 3 Biotech 8:321                              integrated pest management (MIPM) approach for sustainable
+Bixler H, Porse H (2011) A decade of change in the seaweed hydrocol-               seagriculture. Algal Res 29:223–232
+     loids industry. J Appl Phycol 23:321–335                                 Largo DB, Fukami K, Nishijima T (1995) Occasional pathogenic bacteria
+                                                                                   promoting ice-ice disease in the carrageenan-producing red algae
+Bureau of Fisheries and Aquatic Resources BFAR (2017) Philippine
+                                                                                   Kappaphycus alvarezii and Eucheuma denticulatum (Solieriaceae,
+     Fisheries Profile 2017. Bureau of Fisheries and Aquatic
+                                                                                   Gigartinales, Rhodophyta). J Appl Phycol 7:545–554
+     Resources, Department of Agriculture, Quezon City, Philippines,
+                                                                              Largo DB, Sembrano J, Hiraoka M (2004) Taxonomic and ecological
+     71p https://www.bfar.da.gov.ph/publication.jsp?id=2365#post.
+                                                                                   profile of ‘green tide’ species of Ulva (Ulvales, Chlorophyta) in
+     Accessed on 21 Sept 2020
+                                                                                   central Philippines. Hydrobiologia 512:247–253
+Bureau of Fisheries and Aquatic Resources BFAR (2018) Philippine
+                                                                              Largo DB, Chung IK, Phang SM, Gerung GS, Sondak CFA (2017)
+     Fisheries Profile 2018. Bureau of Fisheries and Aquatic
+                                                                                   Impacts of climate change on Eucheuma-Kappaphycus Farming.
+     Resources, Department of Agriculture, Quezon City, Philippines,
+                                                                                   In: Hurtado A, Critchley A, Neish I (eds) Tropical Seaweed
+     70 p https://www.bfar.da.gov.ph/publication.jsp?id=2369#post.
+                                                                                   Farming Trends, Problems and Opportunities. Springer, Cham, pp
+     Accessed on 15 June 2020
+                                                                                   121–129
+Campbell I, Kambey C, Mateo J, Rusekwa SB, Hurtado A, Msuya F,                Largo DB, Msuya FE, Menezes A (2020) Understanding diseases and
+     Cottier-Cook EJ (2020) Biosecurity policy and legislation for the             control in seaweed farming in Zanzibar. FAO Fisheries and
+     global seaweed aquaculture industry. J Appl Phycol 32:2133–2146               Aquaculture Technical Paper No. 662. FAO, Rome
+Collen J, Mtolera M, Abrahamsson K, Semesi A, Pedersen M (1995)               Leonardi PI, Miravalles AB, Faugeron S, Flores V, Beltrán J, Correa JA
+     Farming and physiology of the red algae Eucheuma: growing com-                (2006) Diversity, phenomenology and epidemiology of epiphytism
+     mercial importance in East Africa. Ambio 24:497–501                           in farmed Gracilaria chilensis (Rhodophyta) in northern Chile. Eur
+Correa JA, McLachlan JL (1994) Endophytic algae of Chondrus crispus                J Phycol 41:247–257
+     (Rhodophyta). V. Fine structure of the infection by Acrochaete           Mendoza WG, Montano NE, Ganzon-Fortes ET, Villanueva RD (2002)
+     operculata (Chlorophyta). Eur J Phycol 29:33–47                               Chemical and gelling profile of ice–ice infected carrageenan from
+Doty MS, Alvarez VB (1975) Status, problems, advances and economics                Kappaphycus striatum (Schmitz) Doty “sacol” strain (Solieriaceae,
+     of Eucheuma farms. Mar Technol Soc 9:30–35                                    Gigartinales, Rhodophyta). J Appl Phycol 14:409–418
+Food and Agriculture Organization (2020) The State of World                   Msuya FE, Porter M (2014) Impact of environmental changes on farmed
+     Fisheries and Aquaculture 2020. Sustainability in action. FAO,                seaweed and farmers: the case of Songo Songo Island, Tanzania. J
+     Rome                                                                          Appl Phycol 26:2135–2141
+J Appl Phycol (2021) 33:2391–2405                                                                                                                 2405
+
+Msuya FE, Buriyo A, Omar I, Pascal B, Narrain K, Ravina JM, Mrabu E,              quarantine protocols. Secretariat of the Pacific Community,
+     Wakibia JG (2014) Cultivation and utilization of red seaweeds in the         Noumea, 84 p
+     Western Indian Ocean (WIO) Region. J Appl Phycol 26:699–705             Syafitri E, Prayitno SB, Ma’ruf WF, Radjasa OK (2017) Genetic diversity
+Mtolera MS, Collen J, Pedersen M, Ekdahl A, Abrahamsson K, Semesi                 of the causative agent of ice-ice disease of the seaweed
+     AK (1996) Stress-induced production of volatile halogenated organ-           Kappaphycus alvarezii from Karimunjawa island, Indonesia. IOP
+     ic compounds in Eucheuma denticulatum (Rhodophyta) caused by                 Conf Ser Earth Environ Sci 55:012044
+     elevated pH and high light intensities. Eur J Phycol 31:89–95           Tan TT, Song SL, Poong SW, Ward GM, Brodie J, Lim PE (2020) The
+Pang T, Liu (2019) ENSO and eucheumatoid algae cultivation in China. J            effect of grazing on the microbiome of two commercially important
+     Appl Phycol 31:1207–1212                                                     agarophytes, Gracilaria firma and G. salicornia (Gracilariaceae,
+Pang T, Liu J, Liu Q, Lin W (2011, 2011) Changes of photosynthetic                Rhodophyta). J Appl Phycol 32:2549–2559
+     behaviors in Kappaphycus alvarezii infected by epiphyte. Evid           Teichberg M, Fox SE, Olsen YS, Valiela I, Martinetto P, Iribarne O,
+     Based Complement Alternat Med. https://doi.org/10.1155/2011/                 Muto EY, Petti M, Corbisier TN, Soto-Jiménez M, Páez-Osuna F,
+     658906                                                                       Castro P, Freitas H, Zitelli A, Cardinaletti M, Tagliapietra D (2010)
+Pang T, Liu J, Liu Q, Li H, Li J (2015) Observations on pests and diseases        Eutrophication and macroalgal blooms in temperate and tropical
+     affecting a eucheumatoid farm in China. J Appl Phycol 27:1975–               coastal waters: nutrient enrichment experiments with Ulva spp.
+     1984                                                                         Glob Chang Biol 16:2624–2637
+Pedrosa AA (2017) A regional scientific meeting attaining sustainable        Trono GC, Largo DB (2019) The seaweed resources of the Philippines.
+     development goals: Philippine fisheries and other aquatic resources          Bot Mar 62:483–498
+     20/20. Current status of Philippine seaweed industry (Powerpoint
+                                                                             Tsiresy G, Preux J, Latriva T, Dubois P, Lepoint G, Eeckhaut I (2016)
+     presentation) https://nast.ph/level.php/downloads/category/108-
+                                                                                  Phenology of farmed seaweed Kappaphycus alvarezii infestation by
+     day-1-march-13-2017?download=346:4-plenary-2-mr-pedrosa-iii.
+                                                                                  the parasitic epiphyte Polysiphonia sp. in Madagascar. J Appl
+     Accessed on 15 June 2020
+                                                                                  Phycol 28:2903–2914
+Philippine Statistics Authority (2013) Selected Statistics on Agriculture.
+     http://www.psa.gov.ph. Accessed on 15 Aug 2019, 67pp                    Uyenco FR, Saniel LS, Jacinto S (1981) The ice-ice problem in seaweed
+Philippine Statistics Authority (2015) Selected Statistics on                     farming. In: Levring T (eds) Proc Int Seaweed Symp 10:625-630
+     Agriculture.https://psa.gov.ph/sites/default/files/Selected%            Vairappan CS (2006) Seasonal occurrences of epiphytic algae on the
+     20Statistics/20on/20Agriculture%202015.pdf. Accessed on 15                   commercially cultivated red alga Kappaphycus alvarezii
+     June 2020, 60pp                                                              (Solieraceae, Gigartinales, Rhodophyta). J Appl Phycol 18:611–617
+Philippine Statistics Authority (2019) Selected Statistics on Agriculture.   Vairappan CS, Chung CS, Hurtado AQ, Msuya FE, Lhonneur GB,
+     https://psa.gov.ph/sites/default/files/Selected/20Statistics%20on/           Critchley A (2008) Distribution and symptoms of epiphyte infection
+     20Agriculture%202019.pdf. Accessed on 15 June 2020, 58pp                     in major carrageenophyte-producing farms. J Appl Phycol 20:477–
+Pickering T (2006) Advances in seaweed aquaculture among Pacific is-              483
+     land countries. J Appl Phycol 18:227–234                                Valderrama D, Cai J, Hishamunda N, Ridler N (2013) Social and eco-
+PNS/BAFS, Bureau of Agriculture and Fisheries Standards (2017)                    nomic dimensions of carrageenan seaweed farming. Fisheries and
+     Philippine National Standard Code of Good Aquaculture Practices              Aquaculture Technical Paper No. 580. FAO, Rome 204 pp
+     (GAqP) for Seaweed. No. 208. http://www.bafs.da.gov.ph/2017-10-         Vince Cruz-Abeledo CC, Alvero APS, Erabo DDR (2019) Seaweed bio-
+     12-00-46-55/standard-formulation/philippine-national-standards?              diversity and temperature fluctuations of Calatagan Bay. Verde
+     start=240. Accessed on 4 Aug 2020, 11pp                                      Island Passage. J Fish Sci 1(1):26–30
+Porse H, Rudolph B (2017) The seaweed hydrocolloid industry: 2016            Ward GM, Faisan JP Jr, Cottier-Cook EJ, Gachon C, Hurtado AQ, Lim
+     updates, requirements, and outlook. J Appl Phycol 29:2187–2200               PE, Matoju I, Msuya FE, Bass D, Brodie J (2020) A review of
+Shanmugam M, Sivaram K, Rajeev E, Pahalawattaarachchi V,                          reported seaweed diseases and pests in aquaculture in Asia. J
+     Chandraratne PN, Asoka JM, Seth A (2017) Successful establish-               World Aquacult Soc 51:815–828
+     ment of commercial farming of carrageenophyte Kappaphycus               Yamamoto K, Yoshikawa S, Ohki K, Kamiya M (2012) Unique distri-
+     alvarezii Doty (Doty) in Sri Lanka: economics of farming and qual-           bution of epiphytic Neosiphonia harveyi (Rhodomelaceae,
+     ity of dry seaweed. J Appl Phycol 29:3015–3027                               Rhodophyta) along sargassacean hosts. Phycol Res 60:70–75
+Solis MJL, Draeger S, dela Cruz TEE (2010) Marine-derived fungi from
+     Kappaphycus alvarezii and K. striatum as potential causative agents
+                                                                             Publisher’s note Springer Nature remains neutral with regard to jurisdic-
+     of ice-ice disease in farmed seaweeds. Bot Mar 53:587–594
+                                                                             tional claims in published maps and institutional affiliations.
+Sulu R, Kumar L, Hay C, Pickering T (2004) Kappaphycus seaweed in
+     the Pacific: review of introductions and field testing proposed
+

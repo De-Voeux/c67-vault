@@ -1,0 +1,745 @@
+                                                                                           ISSN: 1412-5269
+               Jurnal
+                                                                                         EISSN: 2354-6700
+               AkuakulturJurnal Jurnal
+                                Akuakultur Indonesia 24
+                                       Akuakultur            158–
+                                                        (2), 22
+                                                  Indonesia       171
+                                                                (2), 101– 114 (2023)Vol. 24 No. 2, July 2025
+                                                                       (2025)
+               Indonesia                   Research Article                 DOI: 10.19027/jai.24.2.288-298
+
+
+
+    The effectiveness of seed soaking in calcium silicate for preventing ice-ice
+         disease and production performance of Kappaphycus alvarezii
+
+    Efektifitas perendaman bibit pada kalsium silikat terhadap pencegahan
+        penyakit ice-ice dan performa produksi Kappaphycus alvarezii
+
+        Ayu Puspa Wirantari1, Kukuh Nirmala1*, Eddy Supriyono1, Hamim Hamim2
+1
+  Department of Aquaculture, Faculty of Fisheries and Marine Science, IPB University, Bogor, West Java 16680,
+                                                   Indonesia
+2
+ Department of Biology, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, West Java 16680,
+                                                   Indonesia
+                             *Corresponding author: ayupuspaayu@apps.ipb.ac.id
+
+            (Received November 12, 2024; Revised December 5, 2024; Accepted February 19, 2025)
+
+                                                  ABSTRACT
+
+The cultivation of Kappaphycus alvarezii faces serious challenges due to ice-ice disease outbreaks. This disease is
+caused by fluctuating environmental conditions that induce stress in the seaweed. Ice-ice disease is characterized by
+thallus whitening, softening, and fragility, which can lead to a reduction in yield and directly impact the economic
+returns for seaweed farmers. This study aims to evaluate the effectiveness of calcium silicate (CaSiO3) dosing as
+a mineral source for the prevention of ice-ice disease and the growth of K. alvarezii seaweed. The experimental
+design used was a completely randomized design with three replications across four treatments: CaSiO3 doses
+of 0, 1.6, 1.8, and 2 g/L. The study used an initial weight of K. alvarezii of 100 g per tie. The experiment was
+conducted through a field trial in seawater using an off-bottom cultivation method. The results indicated that the
+group with the highest dose of CaSiO3 (2 g/L) produced the best ice-ice resistance, with treatment D showing
+17.77 ± 5.09% at the population level and 0.25 ± 0.015 at the individual level, which was statistically significant
+(P<0.05). Optimal CaSiO3 dosing can be a potential cultivation strategy to improve resistance to ice-ice disease and
+increase the productivity of K. alvarezii.
+
+Keywords: ice-ice, Kappaphycus alvarezii, mineral, nutrient enrichment, seaweed
+
+                                                   ABSTRAK
+
+Budidaya rumput laut K. alvarezii menghadapi tantangan serius akibat serangan penyakit ice-ice. Penyakit ini
+disebabkan karena kondisi lingkungan yang berfluktuatif sehingga menyebabkan rumput laut menjadi stres.
+Penyakit ice-ice ditandai dengan pemutihan talus, talus menjadi lunak, dan mudah patah. Penyakit ini dapat
+mengurangi hasil panen yang berdampak langsung pada keuntungan ekonomi bagi pembudidaya rumput laut.
+Penelitian ini bertujuan untuk mengevaluasi efektivitas pemberian dosis kalsium silikat (CaSiO3) sebagai sumber
+mineral terhadap pencegahan penyakit ice-ice dan pertumbuhan rumput laut K. alvarezii. Rancangan percobaan
+yang digunakan adalah rancangan acak lengkap dengan tiga kali ulangan pada empat perlakuan yaitu dosis CaSiO3
+0, 1,6, 1,8, dan 2 g/L. Penelitian ini menggunakan berat awal K. alvarezii sebesar 100 g per ikatan. Pengujian
+dilakukan dengan percobaan lapangan di perairan laut dengan metode lepas dasar. Hasil penelitian menunjukkan
+bahwa kelompok dengan dosis CaSiO3 tertinggi (2 g/L) secara signifikan (P<0,05) menghasilkan persentase
+ice-ice terbaik yaitu pada perlakuan D sebesar 17,77 ± 5,09% pada level populasi dan sebesar 0,25 ± 0,01%
+pada level individu. Pemberian CaSiO3 pada dosis optimal dapat menjadi strategi budidaya yang potensial untuk
+meningkatkan ketahanan dari penyakit ice-ice dan produktivitas K. alvarezii.
+
+Kata kunci: ice-ice, Kappaphycus alvarezii, mineral, pengayaan nutrisi, rumput laut
+
+
+
+
+                                            Copyright © 2026 Author(s).
+          Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)                  289
+           Nurul Faoziyatunnisa
+               YuliSyefti
+            Revita        Palmi
+                   Andriani     al.et/al.
+                             et et     al./ / Jurnal
+                                            Jurnal
+                                        Jurnal       Akuakultur
+                                                   Akuakultur
+                                                 Akuakultur     Indonesia
+                                                               Indonesia
+                                                            Indonesia         172–
+                                                                              (2),
+                                                                          23(2),
+                                                                      24 24
+                                                                         (2),    158 ––171
+                                                                                   134
+                                                                                    184 146 (2024)
+                                                                                           (2025)
+                                                                                        (2025)             289
+
+
+               INTRODUCTION                                 discoloration of the thallus, leading to massive
+                                                            fragmentation and degradation of seaweed
+    Seaweed farming contributes approximately               quality, which ultimately impacts overall yield
+51.3% to the total global mariculture production            (Aris & Labenua, 2020).
+and continues to grow at a notable annual                       According to Tahiluddin and Terzi (2021),
+rate of 6.2% (Duarte et al., 2021). Seaweed                 early signs of the disease include the appearance
+holds substantial economic value due to its                 of white patches caused by pigment degradation,
+diverse applications across the food, cosmetics,            which eventually leads to softening of the thallus,
+pharmaceutical, and chemical industries (Selnes             making it vulnerable to damage and detachment.
+et al., 2021). However, the cultivation of seaweed          Darma et al. (2021) also reported that the disease
+faces several critical challenges, particularly the         typically begins with the appearance of reddish
+emergence of diseases and pest infestations, which          spots on certain parts of the thallus, which
+are major factors limiting production yields. In            later turn pale yellow and eventually become
+the case of Kappaphycus alvarezii, one of the               white. One strategy to mitigate ice-ice disease
+most significant threats to cultivation is ice-ice          in Kappaphycus alvarezii is through nutrient
+disease, which severely compromises productivity            enrichment. According to Muyong and Tahiluddin
+and poses a serious constraint on sustainable               (2024), nutrient enrichment is a practical approach
+production (Aris & Ibrahim, 2020). Ice-ice                  to ensure the sustainability of seaweed farming in
+disease is a pathological condition that negatively         the face of various challenges.
+impacts seaweed farming activities, particularly                Xu et al. (2020), explain that providing
+in species of Eucheuma and Kappaphycus. Based               additional nutrients can enhance seaweed growth
+on Ward et al. (2021), ice-ice disease in seaweed           and help achieve optimal production. Nutrient
+is a syndrome triggered by environmental and                supplementation also plays a role in maintaining
+microbiological factors.                                    seaweed resistance to disease. Since seaweed
+    In Kappaphycus alvarezii and other seaweed              relies heavily on naturally available nutrients in
+species, ice-ice disease is associated with bacterial       the cultivation environment, nutrient limitations
+infections involving several genera, including              are inevitable and can lead to stunted growth,
+Pseudomonas, Stenotrophomonas, Shewanella,                  increasing susceptibility to ice-ice disease
+Ochrobactrum, Aeromonas, and Bacillus (Achmad               (Maryunus, 2018; Tahiluddin & Terzi, 2021).
+et al., 2016; Ward et al., 2021; Tuhumury et al.,           The supplementation of calcium (Ca) and silicate
+2024). In addition to microbiological factors, ice-         (Si) is believed to improve seaweed health. Both
+ice disease is also triggered by environmental              elements can help stabilize membrane structures
+changes that cause stress in seaweed. According             and support the formation of more rigid cell
+to Arasamuthu & Edward (2018) seaweed                       structures (Nurhayati, 2021; Irsyad & Rachmawati,
+becomes more susceptible to ice-ice disease                 2022). According to Mizuta et al. (2021), silicon
+due to environmental fluctuations, including                is an essential element for certain marine algae,
+changes in temperature, salinity, water currents,           as it plays a crucial role in strengthening the cell
+and transparency. Extreme fluctuations in water             wall and enhancing resistance to environmental
+temperature can induce physiological stress in              stress.
+seaweed. Likewise, drastic changes in salinity can              Several species of green and brown macroalgae
+also stress the seaweed, weakening its resistance           absorb and accumulate silicon in their tissues.
+to pathogenic infections.                                   It is suggested that the absorbed Si is stored in
+    These environmental stressors make seaweed              the cell wall in the form of silicates, thereby
+more vulnerable to disease. Environmental                   increasing the mechanical strength of the wall and
+changes associated with global climate change               improving resistance to physical stress. Previous
+have had a significant impact on the biological             research using mangrove leaf extract as nutrient
+and chemical responses of seaweed, primarily                enrichment for Kappaphycus striatus showed
+due to rising sea surface temperatures (Roleda &            effective results in preventing ice-ice disease
+Hurd, 2019; Kumar et al., 2020; Urrea-Victoria et           (Syafitri et al., 2017). Another study reported
+al., 2020). Ice-ice disease is a serious condition          by Tahiluddin et al. (2022a) also revealed that
+that can significantly reduce seaweed production.           the application of powdered sea plant extract
+The formation of ice-like lesions on the thallus            nutrients could improve growth and reduce
+causes considerable economic losses for farmers.            ice-ice disease in K. striatus. The latest study
+This disease is characterized by the whitening or           conducted by Muyong and Tahiluddin (2024),
+290             Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)
+290              Nurul Faoziyatunnisa
+                     YuliSyefti
+                  Revita        Palmi
+                         Andriani     al.et/al.
+                                   et et     al./ /
+                                                  Jurnal
+                                              JurnalJurnal Akuakultur
+                                                         Akuakultur
+                                                       Akuakultur     Indonesia
+                                                                     Indonesia
+                                                                  Indonesia         172–
+                                                                                    (2),
+                                                                                23(2),
+                                                                            24 24
+                                                                               (2),    158 ––171
+                                                                                         134
+                                                                                          184 146 (2024)
+                                                                                                 (2025)
+                                                                                              (2025)
+
+
+
+showed that nutrient enrichment in the form of            had a diameter of 3–4 mm. Raffia rope was used
+3.5 g/L ammonium phosphate could significantly            to tie the seaweed seedlings. Wooden stakes were
+enhance growth and provide protection against             used to secure the mainline, with lengths ranging
+the occurrence of ice-ice disease in K. alvarezii.        from 90 to 130 cm and diameters of 5–9 cm.
+    Research on the use of nutrients to enhance               The water depth at the site was at least 20 cm
+growth and control ice-ice disease in seaweed             during the lowest tide and up to 3 meters at the
+has been widely conducted; however, this study            highest tide (Pong-Masak & Sarira, 2020). The
+will examine the use of the mineral calcium               application of CaSiO3 to Kappaphycus alvarezii
+silicate (CaSiO3) as a preventive measure against         was carried out following the procedure of
+ice-ice disease and to improve the production             (Muyong & Tahiluddin, 2024). For each treatment,
+performance of Kappaphycus alvarezii. This                seaweed seedlings were weighed at 100 grams per
+study aims to evaluate the effectiveness of the           bundle. Each K. alvarezii seedling was soaked in
+appropriate CaSiO3 dosage in cultivating K.               a CaSiO3 solution at a concentration of 100 g/L
+alvarezii, thereby serving as a strategy and new          for one hour, according to the treatment, based
+source of information for preventing ice-ice              on a preliminary study. The soaking process was
+disease in this species.                                  conducted in separate bucket containers for each
+                                                          treatment. After soaking, the 100-gram seedlings
+       MATERIALS AND METHODS                              were tied to raffia rope with a spacing of 25 cm
+                                                          between bundles (Supiandi et al., 2020). Each
+   This research was conducted over 45 days,              cultivation line contained thirty bundles, with
+from August to September 2024, in Jungutbatu,             each bundle weighing 100 grams. Throughout the
+Nusa Penida District, Klungkung Regency,                  research period, the seaweed was monitored and
+Bali Province. Thallus tissue observations were           cleaned to protect and maintain its condition. The
+conducted in the Plant Physiology and Genetics            cultivation lines were shaken to remove debris
+Laboratory, Department of Biology, IPB                    attached to Kappaphycus alvarezii.
+University.
+                                                          Research Parameter
+Experimental Design                                           Sampling of Kappaphycus alvarezii for
+    This study employed a completely randomized           observation of ice-ice disease was conducted
+design consisting of four treatments and three            through direct visual inspection in the field. Based
+replications. The cultivation method used was             on the classification proposed by Tahiluddin and
+the off-bottom method. The application of                 Damsik (2023), thallus showing discoloration
+calcium silicate (CaSiO3) was carried out with            to white and a softer texture were identified as
+four different dosages: A 0 g/L (Ca 0 g; Si 0 g), B       signs of ice-ice disease. Bundles of K. alvarezii
+1.6 g/L (Ca 0.3722 g; Si 0.260 g), C 1.8 g/L (Ca          displaying symptoms of ice-ice disease were
+0.4188 g; Si 0.2935 g), and D 2 g/L (Ca 0.4653 g;         counted, and the prevalence of the disease was
+Si 0.3261 g). CaSiO3 was applied in four separate         estimated by calculating the weight of infected
+containers using buckets to prevent potential             thallus as a percentage of the total seaweed weight.
+interaction between treatments. Each treatment            The results were recorded based on population-
+required three cultivation lines as replications. A       level and individual damage (per bundle). The
+total of twelve cultivation lines were used across        percentage of ice-ice disease was calculated using
+all treatments. Each cultivation line consisted of        the formula by (Largo et al., 1995):
+thirty bundles of K. alvarezii.
+
+Research Procedure
+   The research began with the preparation of
+the cultivation medium as the experimental unit.             The observed parameter used to assess
+The cultivation medium used for Kappaphycus               production performance was the measurement
+alvarezii was seawater, applying the off-bottom           of Kappaphycus alvarezii weight using a digital
+cultivation method. Three types of ropes were             scale with an accuracy of 0.01 g. The objective
+used: the mainline rope, the cultivation line rope,       was to determine the daily weight growth rate
+and the tying rope for the seaweed. The mainline          and daily length growth rate. Measurements
+rope was made of multifilament polyethylene (PE)          were taken before and after the cultivation period
+with a diameter of 8 mm. The cultivation line rope        of K. alvarezii. The calculation of absolute
+          Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)                  291
+           Nurul Faoziyatunnisa
+               YuliSyefti
+            Revita        Palmi
+                   Andriani     al.et/al.
+                             et et     al./ / Jurnal
+                                            Jurnal
+                                        Jurnal       Akuakultur
+                                                   Akuakultur
+                                                 Akuakultur     Indonesia
+                                                               Indonesia
+                                                            Indonesia         172–
+                                                                              (2),
+                                                                          23(2),
+                                                                      24 24
+                                                                         (2),    158 ––171
+                                                                                   134
+                                                                                    184 146 (2024)
+                                                                                           (2025)
+                                                                                        (2025)             291
+
+
+weight growth followed the formula provided by              current velocity, and depth. Water quality samples
+(Effendie, 1997):                                           were collected from the cultivation waters of
+                                                            Kappaphycus alvarezii.
+
+                                                            Data Analysis
+Note:
+                                                               The data were tabulated using Microsoft Excel
+W       = Absolute weight (g)
+                                                            2021. Production performance parameters and
+Wt      = Weight of K. alvarezii at the end of the
+                                                            the percentage of ice-ice disease were analyzed
+          study (g)
+                                                            using Analysis of Variance (ANOVA) at a 95%
+W0      = Weight of K. alvarezii at the beginning
+                                                            significance level, followed by Duncan’s multiple
+          of the study (g)
+                                                            range test. Thallus tissue thickness in seaweed, as
+                                                            well as water quality parameters such as salinity,
+   Specific growth rate using the formula
+                                                            temperature, pH, depth, and current velocity,
+according to (Anggadireja et al., 2006):
+                                                            were analyzed descriptively.
+
+                                                                     RESULTS AND DISCUSSION
+
+Note:                                                       Result
+SGR     = Specific growth rate (%)                          The occurrence of ice-ice disease
+Wt      = Final weight of seaweed (g)                           The effect of seedling immersion in CaSiO3
+W0      = Initial weight of seaweed (g)                     showed a significant result (P<0.05) in reducing
+t       = Maintenance period (days)                         the incidence of ice-ice disease. Data on the
+                                                            occurrence of ice-ice disease were recorded
+    Observation of seaweed thallus tissue was               based on damage at the individual (bundle) level,
+carried out by preparing thin cross-sections for            calculated by dividing the weight of damaged K.
+microscopic examination. The seaweed was fixed              alvarezii thalli by the final weight in each bundle.
+using 70% ethanol. Observations were made using             The control group (A) had the highest ice-ice
+an Olympus CX21 microscope at a magnification               disease rate, at 4.85% per bundle, while treatment
+of 40×10. Images of the preparations were                   D had the lowest rate, at 0.25%. Damage at the
+captured using Optilab Viewer® v.2.1. Cortex                individual level is shown in Figure 1. Damage at
+thickness measurements were performed using                 the population level was recorded by evaluating
+ImageJ software (NIH, USA) (Raharja et al.,                 all K. alvarezii bundles in each treatment group.
+2020). Water quality data were collected as                 In the control group (A), the incidence of ice-
+supporting data and measured in situ, including             ice disease reached 91%. In treatment C, it was
+parameters such as temperature, salinity, pH,               26.66%, which was not significantly different
+
+
+
+
+Figure 1. Percentage of ice-ice disease in Kappaphycus alvarezii per individual over 45 days. Dosage A (CaSiO3 0
+g/L), B (CaSiO3 1.6 g/L), C (CaSiO3 1.8 g/L), D (CaSiO3 2 g/L). Data are presented as mean ± standard deviation.
+Different letters indicate significant differences (P<0.05; Duncan’s test), while the same letters indicate no
+significant difference (P<0.05; Duncan’s test).
+292               Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)
+292                Nurul Faoziyatunnisa
+                       YuliSyefti
+                    Revita        Palmi
+                           Andriani     al.et/al.
+                                     et et     al./ /
+                                                    Jurnal
+                                                JurnalJurnal Akuakultur
+                                                           Akuakultur
+                                                         Akuakultur     Indonesia
+                                                                       Indonesia
+                                                                    Indonesia         172–
+                                                                                      (2),
+                                                                                  23(2),
+                                                                              24 24
+                                                                                 (2),    158 ––171
+                                                                                           134
+                                                                                            184 146 (2024)
+                                                                                                   (2025)
+                                                                                                (2025)
+
+
+
+from treatments D and B. The lowest incidence                cortex compared to the treatments with CaSiO3
+was observed in treatment D, at 17.77%, as                   application. As the dosage increased, the cortex
+presented in Figure 2.                                       thickness also tended to increase. However,
+                                                             in treatment C, the cortex was thinner than in
+Thallus tissue                                               treatment B, although the difference was not
+   The condition of Kappaphycus alvarezii                    statistically significant. Descriptively, the cross-
+thallus tissue in each treatment showed differences          sectional condition of Kappaphycus alvarezii
+in average cortex thickness, as presented in                 thallus tissue in each treatment is presented in
+Table 1. The control group (A) had a thinner                 Figure 3. At 40×10 magnification, the epidermal
+
+
+
+
+Figure 2. Percentage of ice-ice disease in Kappaphycus alvarezii per population over 45 days. Dosage A (CaSiO3 0
+g/L), B (CaSiO3 1.6 g/L), C (CaSiO3 1.8 g/L), D (CaSiO3 2 g/L). Data are presented as mean ± standard deviation.
+Different letters indicate significant differences (P<0.05; Duncan’s test), while the same letters indicate no
+significant difference (P<0.05; Duncan’s test).
+
+Table 1. Cortex Thickness of Kappaphycus alvarezii Thallus
+                        Treatment                                           Cortex Thickness (μm)
+                            A                                                     8.76 ± 0.66a
+                            B                                                      14 ± 0.2b
+                            C                                                     13.3 ± 0.65b
+                             D                                                     18 ± 0.61c
+Note: A (CaSiO3 0 g/L), B (CaSiO3 1.6 g/L), C (CaSiO3 1.8 g/L), D (CaSiO3 2 g/L). Data are presented as mean ±
+standard deviation. Different letters indicate significant differences (P<0.05; Duncan’s test), while the same letters
+indicate no significant difference (P<0.05; Duncan’s test).
+
+
+
+
+Figure 3. Cross section of K. alvarezii thallus. Dosage 3A (CaSiO3 0 g/L), 3B (CaSiO3 1.6 g/L), 3C (CaSiO3 1.8
+g/L), 3D (CaSiO3 2 g/L). Epidermis (Ep), cortex (K), medulla (M). Bar: 20 μm.
+          Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)                     293
+           Nurul Faoziyatunnisa
+               YuliSyefti
+            Revita        Palmi
+                   Andriani     al.et/al.
+                             et et     al./ / Jurnal
+                                            Jurnal
+                                        Jurnal       Akuakultur
+                                                   Akuakultur
+                                                 Akuakultur     Indonesia
+                                                               Indonesia
+                                                            Indonesia         172–
+                                                                              (2),
+                                                                          23(2),
+                                                                      24 24
+                                                                         (2),    158 ––171
+                                                                                   134
+                                                                                    184 146 (2024)
+                                                                                           (2025)
+                                                                                        (2025)                293
+
+
+tissue structure in the control group appeared              Specific growth rate (SGR)
+looser compared to the treatments with CaSiO3                  Based on the ANOVA results, the use of CaSiO3
+application.                                                had a significant effect (P<0.05) on the specific
+                                                            growth rate (SGR) of Kappaphycus alvarezii. The
+Absolute Weight                                             results showed that the control group (A) had the
+    Nutrient enrichment through the application             lowest SGR at 1.66%. Treatments B and C had
+of CaSiO3 can increase the weight of cultivated             the same average SGR of 2.62%. The highest
+Kappaphycus alvarezii. The results showed                   result was observed in treatment D, with an SGR
+a significant difference (P<0.05) among the                 of 3.14%. This is shown in Figure 5.
+treatments. The control treatment (A) had the
+lowest absolute weight, at 111.2 g, compared                Water quality
+to the treatments with CaSiO3 application. The                  Water quality measurements at the cultivation
+highest weight was observed in treatment D, at              site were conducted over a 45-day period and
+310.85 g, while the lowest was in the control               are presented in Table 2. During the study,
+group (A), at 111.2 g, as shown in Figure 4.                water quality was assessed by observing several
+
+
+
+
+Figure 4. Absolute weight of Kappaphycus alvarezii. Dosage A (CaSiO3 0 g/L), B (CaSiO3 1.6 g/L), C (CaSiO3
+1.8 g/L), D (CaSiO3 2 g/L). Data are presented as mean ± standard deviation. Different letters indicate significant
+differences (P<0.05; Duncan’s test), while the same letters indicate no significant difference (P<0.05; Duncan’s
+test).
+
+
+
+
+Figure 5. Specific growth rate of Kappaphycus alvarezii. Dosage A (CaSiO3 0 g/L), B (CaSiO3 1.6 g/L), C (CaSiO3
+1.8 g/L), D (CaSiO3 2 g/L). Data are presented as mean ± standard deviation. Different letters indicate significant
+differences (P<0.05; Duncan’s test), while the same letters indicate no significant difference (P<0.05; Duncan’s
+test).
+294                Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)
+294                 Nurul Faoziyatunnisa
+                        YuliSyefti
+                     Revita        Palmi
+                            Andriani     al.et/al.
+                                      et et     al./ /
+                                                     Jurnal
+                                                 JurnalJurnal Akuakultur
+                                                            Akuakultur
+                                                          Akuakultur     Indonesia
+                                                                        Indonesia
+                                                                     Indonesia         172–
+                                                                                       (2),
+                                                                                   23(2),
+                                                                               24 24
+                                                                                  (2),    158 ––171
+                                                                                            134
+                                                                                             184 146 (2024)
+                                                                                                    (2025)
+                                                                                                 (2025)
+
+
+
+parameters, including temperature, salinity, pH,             level. Another study, conducted by Tahiluddin et
+depth, and current velocity. Temperature and                 al. (2022b), using ammonium phosphate fertilizer
+salinity fluctuated throughout the data collection           at a concentration of 8.82 g/L over 49 days, also
+period but remained within the optimal range.                reduced the incidence of ice-ice by 42.37%.
+Overall, some water quality parameters at the                In contrast, at a low concentration of 0.01 g/L,
+research site were found to be outside the optimal           the incidence reached 78.07%. Another study
+range for Kappaphycus alvarezii cultivation.                 involving inorganic nutrient enrichment with urea
+The measurement results for each water quality               and pure phosphorus showed no significant effect
+parameter are presented in Table 2.                          on the incidence of ice-ice disease. On day 45,
+                                                             treatment with urea resulted in 39.95% incidence,
+Discussion                                                   phosphorus 45.90%, and the group without
+    Ice-ice disease in Kappaphycus alvarezii is              nutrient enrichment reached 61.48% (Sarri et al.,
+caused by a combination of environmental factors             2022).
+and pathogen infection. Sudden changes in water                  A study by Patadjai et al. (2019), using
+quality, such as fluctuations in temperature and             immersion in lantana flower leaf extract also
+salinity, can increase physiological stress in algae,        showed that K. alvarezii remained healthy and
+making them more susceptible to pathogen attacks             unaffected by ice-ice disease. In the control
+(Ward et al., 2020). K. alvarezii, experiencing              group of that study, ice-ice symptoms appeared,
+stress due to environmental conditions, releases             indicated by the presence of white spots on
+moist organic substances, which facilitate                   the thallus. The results of this study indicate
+bacterial infection of the thallus (Riyaz et al.,            that CaSiO3 also plays a role in reducing ice-
+2020). Ice-ice infection is characterized by                 ice disease by strengthening the structural and
+discoloration of the thallus to white, followed              physiological resistance of Kappaphycus alvarezii
+by softening and easy breakage of the thallus.               to environmental stress and ice-ice-causing
+Bacterial species identified as pathogenic agents            pathogens, thereby helping to prevent the disease
+in seaweed infected by ice-ice disease include               from occurring. The elements Ca and Si are
+Vibrio alginolyticus, Vibrio fluvialis, Vibrio               known to support the formation of stronger cell
+cholerae, and Aeromonas caviae (Tuhumury et                  walls and enhance resistance to environmental
+al., 2024). Damage to the thallus can hinder the             stress. As shown in Figure 3, the control group
+photosynthesis process and seaweed growth. In                exhibited weakened cell wall strength, with visible
+more severe cases, this disease can significantly            damage to the epidermis. This damage appeared
+reduce the overall seaweed population at the                 as loosely packed epidermal tissue, reducing its
+cultivation site, resulting in substantial economic          function as a physical barrier against pathogens
+losses.                                                      and as a structural defense.
+    During the ice-ice season, Kappaphycus                       An increase in CaSiO3 dosage also increased
+alvarezii enriched with calcium silicate (CaSiO3)            cortex cell thickness, as shown in Figure 3. The
+at the highest dosage (2 g/L) was able to                    increase in cortex thickness and the strengthening
+significantly reduce ice-ice disease incidence to            of epidermal cell walls can enhance the physical
+0.25% at the individual level and 17.77% at the              barrier against environmental stress and pathogens.
+population level over a 45-day cultivation period.           Silicon (Si) is an essential element for marine algae,
+In comparison, the control group experienced a               as it plays a crucial role in strengthening the cell
+relatively high incidence of ice-ice, with 4.85%             wall and enhancing resistance to environmental
+at the individual level and 91% at the population            stress. In marine ecosystems, various marine
+
+Table 2. Water quality of K. alvarezii cultivation research location.
+       Parameter               Unit            Value           Optimum standard                 Reference
+      Temperature               °C           28.6–32.9                  28–31              (Syahrul et al., 2023)
+        Salinity               ppt           29.9–34.6                  25–35               (Aris et al., 2021)
+          pH                     -            7.2–8.4                7.5–8.5                   (SNI, 2011)
+      Water depth              cm             20–78                     30–50             (Prayudha et al., 2024)
+    Current velocity           m/s            0.1–0.4                0.2–0.4                   (SNI, 2011)
+         Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)                  295
+          Nurul Faoziyatunnisa
+              YuliSyefti
+           Revita        Palmi
+                  Andriani     al.et/al.
+                            et et     al./ / Jurnal
+                                           Jurnal
+                                       Jurnal       Akuakultur
+                                                  Akuakultur
+                                                Akuakultur     Indonesia
+                                                              Indonesia
+                                                           Indonesia         172–
+                                                                             (2),
+                                                                         23(2),
+                                                                     24 24
+                                                                        (2),    158 ––171
+                                                                                  134
+                                                                                   184 146 (2024)
+                                                                                          (2025)
+                                                                                       (2025)             295
+
+
+organisms (algae and phytoplankton) absorb Si              unlike CaSiO3. Therefore, daily growth efficiency
+in the form of monosilicic acid (Si(OH)4). This            was slightly lower, although it remained effective
+absorption process allows marine organisms to              in increasing biomass. Another study conducted by
+store Si within their tissues as biogenic silica           Rahman et al. (2023), showed that the application
+(BSi) (Yacano et al., 2022).                               of fermented mangrove leaves (Avicennia marina)
+    Biogenic silica plays a key role in forming            enriched with Bacillus subtilis with a 2-hour
+strong cell wall structures that help resist               immersion duration was able to control ice-ice
+environmental pressures and support metabolic              disease and resulted in the highest SGR of 2.34%
+functions. Si absorbed and stored in the cell              per day. A similar study by Rahman et al. (2020),
+wall can increase the mechanical strength of the           which utilized a fermented extract of Sonneratia
+cell wall, making it more resistant to physical            alba mangrove leaves at varying dilution levels,
+stress (Mizuta et al., 2021). This is important for        achieved an SGR of 4.32%. Fermented mangrove
+marine algae because aquatic environments are              leaf extract contains macro- and micronutrients
+often dynamic and can change rapidly; thus, the            that support metabolic activity and accelerate the
+presence of Si helps algae adapt to fluctuating            growth rate of seaweed (Rahman et al., 2022).
+environmental conditions. Silicon (Si) is not              This allows algae to utilize nutrients and energy
+considered essential for all plants; however, it           for growth, thereby increasing absolute weight
+provides substantial benefits for tissue strength          and SGR.
+and resistance, especially in plants that require              Another study by Tahiluddin et al. (2022a)
+higher protection against environmental stress.            farmers and researchers have been considering
+    The application of CaSiO3 can enhance                  nutrient enrichment as one way of easing these
+tolerance to abiotic stresses such as temperature          issues to increase production to meet the growing
+and salinity, as well as tolerance to biotic stress        demand for carrageenan in the world market. In
+caused by pathogenic organisms (Kovács et al.,             this study, we determined the effects of Acadian
+2022). CaSiO3 serves as an additional physical             Marine Plant Extract Powder (AMPEP, showed
+barrier, reinforcing the cell wall and protecting          that the application of Acadian Marine Plant
+against pathogen penetration. With the presence            Extract Powder (AMPEP) resulted in an SGR of
+of Ca and Si layers, pathogens face difficulty             4.27% per day, which is higher than the application
+penetrating the tissue, thereby preventing infection       of CaSiO3, which produced an SGR of 3.14%
+and physical damage (Song et al., 2021). Seaweed           per day. This difference is due to the distinct
+treated with CaSiO3 tends to exhibit milder stress         composition and function of each substance.
+symptoms, as indicated by the lower percentage             AMPEP, derived from marine plant extracts, is
+of ice-ice disease in K. alvarezii compared to the         rich in phytohormones and growth regulators that
+control.                                                   stimulate cell growth and accelerate cell division.
+    The application of different CaSiO3 dosages            In contrast, CaSiO3 plays a role in strengthening
+showed a significant effect on the absolute weight         the cell wall and enhancing resistance to ice-ice
+and specific growth rate (SGR) of Kappaphycus              disease, so its effect is more prominent in physical
+alvarezii. The group with the highest CaSiO3               resistance rather than growth rate.
+dosage (2 g/L) produced the highest absolute                   According to Simanungkalit et al. (2024),
+weight (310.85 g) and SGR (3.14% per day).                 a reasonable seaweed growth rate is above 3%,
+These results indicate that the application of             indicating that the application of CaSiO3 is
+CaSiO3 is effective in reducing ice-ice disease            capable of achieving optimal growth standards
+by strengthening the algal thallus. With a strong          for K. alvarezii. Water quality measurements were
+thallus, K. alvarezii can grow optimally without           carried out throughout the study to ensure optimal
+expending energy to repair tissue damaged by               environmental conditions. Water quality has a
+infection. A recent study conducted by Muyong              direct impact on the health and growth of seaweed.
+and Tahiluddin (2024), reported an average final           The observed water quality parameters included
+weight of 325 g with an SGR below 3%, using                temperature, pH, salinity, current velocity, and
+a combination of 3.5 g/L ammonium phosphate                water depth. The measurement results showed
+immersion and off-bottom cultivation method.               that several water quality parameters were within
+    Immersion in ammonium phosphate resulted               the optimal range, while others were still below or
+in a lower SGR, as ammonium phosphate supports             above the optimal standard.
+growth without directly strengthening the thallus,
+296             Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)
+296              Nurul Faoziyatunnisa
+                     YuliSyefti
+                  Revita        Palmi
+                         Andriani     al.et/al.
+                                   et et     al./ /
+                                                  Jurnal
+                                              JurnalJurnal Akuakultur
+                                                         Akuakultur
+                                                       Akuakultur     Indonesia
+                                                                     Indonesia
+                                                                  Indonesia         172–
+                                                                                    (2),
+                                                                                23(2),
+                                                                            24 24
+                                                                               (2),    158 ––171
+                                                                                         134
+                                                                                          184 146 (2024)
+                                                                                                 (2025)
+                                                                                              (2025)
+
+
+
+                CONCLUSION                                Effendie MI. 1997. Biologi Perikanan.
+                                                             Yogyakarta: Yayasan Pustaka Nusatama.
+   Nutrient immersion using the mineral CaSiO3            Irsyad AN, Rachmawati D. 2022. The effect
+had an effect on the prevention of ice-ice disease,          of calcium silicate application on growth
+which in turn affected the absolute weight and               and root anatomical structure of rice (Oryza
+specific growth rate of Kappaphycus alvarezii.               sativa L.’IR64’) in salinity stress conditions.
+The lowest percentage of ice-ice, based on the               Vegetalika 11: 108–121.
+results obtained, was found in treatment D, with          Kumar YN, Poong SW, Gachon C, Brodie J,
+17.77 ± 5.09% at the population level and 0.25 ±             Sade A, Lim PE. 2020. Impact of elevated
+0.01% at the individual level. The highest specific          temperature on the physiological and
+growth rate was also found in treatment D, at 3.14           biochemical responses of Kappaphycus
+± 0.01%.                                                     alvarezii (Rhodophyta). PLoS One 15: 1–16.
+                                                          Kovács S, Kutasy E, Csajbók J. 2022. The
+                REFERENCES                                   multiple role of silicon nutrition in alleviating
+                                                             environmental stresses in sustainable crop
+Achmad M, Alimuddin A, Widyastuti U, Sukenda                 production. Plants 11: 1–22.
+   S, Suryanti E, Harris E. 2016. Molecular               Largo DB, Fukami K, Nishijima T, Ohno M.
+   identification of new bacterial causative agent           1995. Laboratory-induced development of
+   of ice-ice disease on seaweed Kappaphycus                 the ice-ice disease of the farmed red algae
+   alvarezii. PeerJ Preprint 4:e2016v1.                      Kappaphycus alvarezii and Eucheuma
+Anggadireja JT, Zantika A, Purwoto H, Istini S.              denticulatum (Solieriaceae, Gigartinales,
+   2006. Rumput Laut. Jakarta: Penebar Swadaya.              Rhodophyta). Journal Applied Phycology 7:
+Arasamuthu A, Edward JP. 2018. Occurrence                    539–543.
+   of ice-ice disease in seaweed Kappaphycus              Maryunus RP. 2018. Ice-ice” disease control of
+   alvarezii at gulf of Mannar and Palk Bay,                 seaweed cultivation, Kappaphycus alvarezii:
+   Southeastern India. Indian Journal of Geo                 the correlation of season and limited
+   Marine Sciences 47: 1208–1216.                            environmental manipulation. Jurnal Kebijakan
+Aris M, Ibrahim TA. 2020. Laju Transmisi                     Perikanan Indonesia 10: 1–10.
+   Penyakit Ice-Ice Pada Rumput Laut                      Mizuta H, Uji T, Yasui H. 2021. Extracellular
+   Kappaphycus alvarezii Berdasarkan Jarak                   silicate uptake and deposition induced by
+   Tanam Dengan Metode Longline. Budidaya                    oxidative burst in Saccharina japonica
+   Perairan 8: 82–90. (In Indonesian).                       sporophytes (Phaeophyceae). Algal Research
+Aris M, Labenua R. 2020. Horizontal transmission             58: 1–10.
+   of ice-ice disease in seaweed Kappaphycus              Muyong JS, Tahiluddin AB. 2024. Interaction of
+   alvarezii (Doty) L. M. Liao (Gigartinales,                nutrient enrichment and farming method on
+   Rhodophyta). Hidrobiologica 30: 155–161.                  performance of the red seaweed Kappaphycus
+Aris M, Muchdar F, Labenua R. 2021. Study                    alvarezii. Aquatic Botany 191: 103743.
+   of seaweed Kappaphycus alvarezii explants              Nurhayati DR. 2021. Pengantar Nutrisi Tanaman.
+   growth in the different salinity concentrations.          Solo, Surakarta (ID): UNISRI Press.
+   Jurnal Ilmu Perikanan dan Kelautan 13: 97–             Patadjai RS, Nur I, Kamri S. 2019. Use of common
+   105.                                                      lantana (Lantana camara Linn) extract to
+Darma TA, Kasim M, Ruslaini Nur I, Rahman A,                 prevent ice-ice disease and trigger growth rate
+   Muskita W, Hamzah M, Balubi AM, Patadjai                  of the seaweed Kappaphycus alvarezii. IOP
+   RS, Jalil W. 2021. Bacteria Population on                 Conference Series: Earth and Environmental
+   Eucheuma        denticulatum      (Rhodophyta)            Science 370: 012026.
+   Thallus Infected by Ice-Ice Disease Cultivated         Pong-Masak PR, Sarira NH. 2020. Effect of Depth
+   on Horizontal Net Cage. AACL Bioflux 14:                  on the Growth and Carrageenan Content of
+   399–411                                                   Seaweed Kappaphycus alvarezii Cultivated
+Duarte CM, Bruhn A, Krause-Jensen D. 2021. A                 Using Verticulture Method. E3S Web of
+   seaweed aquaculture imperative to meet global             Conferences 147: 01011.
+   sustainability targets. Nature Sustainability 5:       Prayudha MR, Pramesti R, Susanto AB. 2024.
+   1–9.                                                      Pertumbuhan rumput laut Kappaphycus
+         Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)                 297
+          Nurul Faoziyatunnisa
+              YuliSyefti
+           Revita        Palmi
+                  Andriani     al.et/al.
+                            et et     al./ / Jurnal
+                                           Jurnal
+                                       Jurnal       Akuakultur
+                                                  Akuakultur
+                                                Akuakultur     Indonesia
+                                                              Indonesia
+                                                           Indonesia         172–
+                                                                             (2),
+                                                                         23(2),
+                                                                     24 24
+                                                                        (2),    158 ––171
+                                                                                  134
+                                                                                   184 146 (2024)
+                                                                                          (2025)
+                                                                                       (2025)            297
+
+
+   alvarezii (Doty, 1985) dengan metode lepas              [SNI] Standar Nasional Indonesia. (2011).
+   dasar. Journal Enggano 9:208–215. (In                      Produksi bibit rumput laut kotoni (Euchema
+   Indonesian).                                               cottonii)-Bagian 3: Metode rakit bambu apung
+Raharja RA, Hamim, Sulistyaningsih YC, Triadiati              https://pesta.bsn.go.id/produk/detail/8178-
+   T. 2020. Analisis morfofisiologi, anatomi, dan             sni757932010 [07 May 2010].
+   histokimia pada lima spesies tanaman gulma              Song XP, Verma KK, Tian DD, Zhang XQ, Liang
+   sebagai respons terhadap merkuri dan timbal.               YJ, Huang X, Li CN, Li YR. 2021. Exploration
+   Jurnal Ilmu Pertanian Indonesia 25: 412–423.               of silicon functions to integrate with biotic
+Rahman FR, Agustini M, Sumaryam. 2023.                        stress tolerance and crop improvement.
+   Pengaruh perbadaan nutrisi pakan terhadap                  Biological Research 54: 1–2.
+   pertumbuhan ikan nila merah (Oreochromis                Supiandi M, Cokrowati N, Rahman I. 2020.
+   niloticus) ukuran 7 cm dalam bak pemeliharaan.             Perbedaan jarak tanam terhadap pertumbuhan
+   Bionatural 10: 110–115.                                    rumput laut (Eucheuma cottonii) hasil kultur
+Rahman SA, Djawa SK, Syahrul S. 2022.                         jaringan dengan metode patok dasar di Perairan
+   Penggunaan produk cairan fermentasi daun                   Gerupuk. Jurnal Perikanan 10: 158–166.
+   mangrove untuk pengendalian penyakit ice-               Syafitri E, Prayitno SB, Radjasa OK, Ma’ruf
+   ice dan peningkatan produksi rumput laut                   WF. 2017. The performance of mangrove
+   Kappaphycus alvarezii. MONSU’ANI TANO                      leaf extract (Sonneratia alba) in combating
+   Jurnal Pengabdian Masyarakat 5: 133–142. (In               bacterial associated with ice–ice disease of
+   Indonesian).                                               seaweed (Kappaphycus alvarezii). Advanced
+Rahman SA, Sangkia FD, Athirah A, Pattirane                   Science Letters 23: 6413–6415.
+   CP. 2020. Performa cairan fermentasi                    Syahrul, Supriyono E, Nirmala K, Lideman.
+   daun mangrove Sonneratia alba dengan                       2023. Growth and quality performances
+   pengenceran berbeda untuk pertumbuhan                      of seaweed (Kappaphycus alvarezii) with
+   rumput laut Kappaphycus alvarezii. Octopus:                different combinations of temperature and
+   Jurnal Ilmu Perikanan 10: 58–63.                           light parameters. IOP Conference Series:
+Riyaz SUM, Prabhu NS, Nalini S, Tejaswini G,                  Earth and Environmental Science 1221: 1–8.
+   Christy HJ, Inbakandan D. 2020. Microbiome              Tahiluddin AB, Andon AJ, Burahim MA. 2022a.
+   identification from ice ice disease infected               Effects of Acadian Marine Plant Extract
+   Kappaphycus alvarezii using 16S rRNA gene                  Powder (AMPEP) and ammonium phosphate
+   sequence analysis and in silico docking studies            as nutrient en-richment on the ice-ice disease
+   against carrageenan degrading bacteria.                    occurrence and growth performance of
+   Biocatalysis and Agricultural Biotechnology                seaweed Kappaphycus striatus. MedFAR 5:
+   27: 101707.                                                37–46.
+Roleda MY, Hurd CL. 2019. Seaweed nutrient                 Tahiluddin AB, Damsik SU. 2023. Prevalence
+   physiology: application of concepts to                     of ice-ice disease in Kappaphycus spp. and
+   aquaculture and bioremediation. Phycologia                 Eucheuma denticulatum farms in Sibutu,
+   58: 552–562.                                               Tawi-Tawi, Philippines. Aquaculture Studies
+Sarri JH, Abdulmutalib YA, Tilka MEM, Terzi                   23: 1137.
+   E, Tahiluddin AB. 2022. Effects of inorganic            Tahiluddin AB, Nunal SN, de-Leon SMSS. 2022b.
+   nutrient enrichment on the carrageenan yield,              Inorganic nutrient enrichment of seaweed
+   growth, and ice-ice disease occurrence of red              Kappaphycus: farmers’ practices and effects
+   alga Kappaphycus Striatus. Aquatic Research                on growth and ice-ice disease occurrence.
+   5: 99–109.                                                 Regional Studies in Marine Science 55:
+Selnes T, Giesbers E, Van den Burg SWK. 2021.                 102593.
+   Innovation and collaboration: Opportunities             Tahiluddin AB, Terzi E. 2021. Ice-ice disease
+   for the european seaweed sector in global                  in    commercially     cultivated     seaweeds
+   value chains. Journal of Marine Science and                Kappaphycus spp. and Eucheuma spp.: a
+   Engineering 9: 1–18.                                       review on the causes, occurrence, and control
+Simanungkalit BR, Julyantoro PGS, Dewi                        measures. Marine Science and Technology
+   APWK. 2024. Pola pertumbuhan rumput laut                   Bulletin 10: 234–243.
+   pada lokasi tanam yangberbeda di Perairan               Tuhumury NC, Sahetapy JMF, Matakupan J.
+   Pantai Pandawa, Bali. Current Trends in                    2024. Isolation and identification of bacterial
+   Aquatic Science 7: 62–68.                                  pathogens causing ice-ice disease in Eucheuma
+298            Ayu Puspa Wirantari et al. / Jurnal Akuakultur Indonesia 24 (2), 288–298 (2025)
+298             Nurul Faoziyatunnisa
+                    YuliSyefti
+                 Revita        Palmi
+                        Andriani     al.et/al.
+                                  et et     al./ /
+                                                 Jurnal
+                                             JurnalJurnal Akuakultur
+                                                        Akuakultur
+                                                      Akuakultur     Indonesia
+                                                                    Indonesia
+                                                                 Indonesia         172–
+                                                                                   (2),
+                                                                               23(2),
+                                                                           24 24
+                                                                              (2),    158 ––171
+                                                                                        134
+                                                                                         184 146 (2024)
+                                                                                                (2025)
+                                                                                             (2025)
+
+
+
+  cottonii seaweed at Seira Island Waters,               Ward GM, Kambey CSB, Faisan JP, Tan PL,
+  Tanimbar Islands District, Maluku, Indonesia.             Daumich CC, Matoju I, Stentiford GD, Bass D,
+  Biodiversitas 25: 964–970.                                Lim PE, Brodie J, et al. 2021. Ice-ice disease:
+Urrea-Victoria V, Nardelli AE, Floh EIS, Chow               an environmentally and microbiologically
+  F. 2020. Sargassum stenophyllum (Fucales,                 driven syndrome in tropical seaweed
+  Ochrophyta) responses to temperature short-               aquaculture. Rev. Aquac 14: 414–439.
+  term exposure: photosynthesis and chemical             Xu N, Xu K, Wang W, Xu Y, Ji D, Chen C, Xie C.
+  composition. Brazilian Journal of Botany 43:              2020. Nutrient enrichment improves growth
+  733–745.                                                  and food quality of two strains of the economic
+Ward GM, Faisan JP, Cottier‐Cook EJ, Gachon                 seaweed Pyropia haitanensis. Frontiers in
+  C, Hurtado AQ, Lim PE, Matoju I, Msuya FE,                Marine Science 7: 1–10.
+  Bass D, Brodie J. 2020. A review of reported           Yacano MR, Foster SQ, Ray NE, Oczkowski
+  seaweed diseases and pests in aquaculture                 A, Raven JA, Fulweiler RW. 2022. Marine
+  in Asia. Journal of the World Aquaculture                 macroalgae are an overlooked sink of silicon
+  Society 51: 815–828.                                      in coastal systems. New Phytologist 233:
+                                                            2330–2336.
+

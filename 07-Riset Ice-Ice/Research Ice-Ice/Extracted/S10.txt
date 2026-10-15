@@ -1,0 +1,1499 @@
+Received: 12 January 2021    | Revised: 30 July 2021 | Accepted: 2 August 2021
+DOI: 10.1111/raq.12606
+
+
+REVIEW
+
+
+
+
+Ice-­Ice disease: An environmentally and microbiologically
+driven syndrome in tropical seaweed aquaculture
+
+Georgia M. Ward1,2      |   Cicilia S. B. Kambey3 |   Joseph P. Faisan Jr.4 |   Pui-­Ling Tan3 |   
+Caroline C. Daumich2 |   Ivy Matoju5 |   Grant D. Stentiford2,6 |   David Bass1,2,6         |   ­
+Phaik-­Eem Lim3 |   Juliet Brodie1        |   Sze-­Wan Poong3
+
+1
+ Department of Life Sciences, Natural
+History Museum, London, UK                     Abstract
+2
+ Centre for Environment, Fisheries and         Seaweeds account for nearly 30% of global aquaculture production by volume, and
+Aquaculture Science (Cefas), Weymouth
+Laboratory, Weymouth, Dorset, UK
+                                               their cultivation provides important opportunities for employment and wealth gen-
+3
+ Institute of Ocean and Earth Sciences,        eration, particularly in rural coastal communities. Eucheumatoids (Kappaphycus and
+University of Malaya, Kuala Lumpur,            Eucheuma spp.) are tropical red algae commercially cultivated as raw material for
+Malaysia
+4                                              production of carrageenans, particularly in South-­East Asia and the Western Indian
+ Aquaculture Department, Southeast
+Asian Fisheries Development Centre             Ocean region. Diseases and pests are major limiting factors in eucheumatoid produc-
+(SEAFDEC/AQD), Tigbauan, Iloilo,
+                                               tion, particularly a condition known as ‘ice-­ice’ disease (IID). IID is characterized by
+Philippines
+5
+  Department of Botany, University of Dar      bleaching of the thallus followed by the disintegration of affected tissues, leading to
+es Salaam, Dar es Salaam, Tanzania             a loss of biomass and reduced carrageenan yield. IID has been associated with unfa-
+6
+ Centre for Sustainable Aquaculture
+                                               vourable changes in environmental conditions, particularly an increase in sea water
+Futures, University of Exeter, Exeter, UK
+                                               temperature and a decrease in salinity, and infection by opportunistic or pathogenic
+Correspondence
+                                               bacteria. However, given that no single or combined causal agents have been defi-
+Georgia M. Ward, Department of Life
+Sciences, Natural History Museum,              nitely identified, IID may be considered a complex pathobiotic syndrome in which
+Cromwell Road, London, SW7 5BD, UK.
+                                               multiple factors contribute to the development of disease signs. Here, we review cur-
+Email: georgia.ward@nhm.ac.uk
+                                               rent knowledge of the abiotic and biotic factors associated with the development of
+Funding information
+                                               IID, and the strategies employed to mitigate economic losses resulting from disease
+UK Research and Innovation, Grant/
+Award Number: BB/P027806/1                     outbreaks. We discuss syndromic diseases in other marine holobionts, particularly
+                                               other red algae and corals, in relation to their similarity to IID, and suggest the applica-
+                                               tion of comprehensive and complementary methodologies, including high-­throughput
+                                               sequencing and high-­quality microscopy, for enhancing our understanding of the
+                                               pathological and microbiological processes associated with IID signs.
+
+                                               KEYWORDS
+                                               aquaculture, Eucheumatoids, Holobiont, Ice-­Ice disease, Pathobiome
+
+
+
+
+1    |   I NTRO D U C TI O N                                                 by volume.5 Production of the carrageenophyte red algal genera
+                                                                             Kappaphycus and Eucheuma (collectively known as eucheumatoids)
+Diseases and pests are major limiting factors to aquaculture pro-            has increased rapidly in the past decade, accounting for 33.99% of
+duction,1 including seaweeds, 2 prompting global action to improve           global aquatic plant cultivation in 2018.5 Eucheumatoids are com-
+biosecurity and knowledge of important yield-­limiting pathogens             mercially cultivated for production of carrageenans, polysaccharides
+affecting sustainable production, both now and in the future.3,4             widely used in the pharmaceutical, cosmetic and food industries.
+Seaweeds comprise almost 30% of global aquaculture production                Much of this cultivation occurs in South-­
+                                                                                                                      East Asia, particularly
+
+Rev Aquac. 2021;00:1–26.                                   wileyonlinelibrary.com/journal/raq
+                                                                                             © 2021 John Wiley & Sons Australia, Ltd         | 1
+2   |                                                                                                                                   WARD et al.
+
+
+
+Indonesia, the Philippines and Malaysia, with smaller scale produc-        (estimated 70%–­100%28,29), leading to significant economic losses
+tion in the Western Indian Ocean (WIO) region including Kenya,             on local scales. An outbreak of IID in farms on Pari Island in the
+Madagascar, Mozambique and Tanzania. It forms an important                 early 2000s caused damage to 60 tonnes of eucheumatoid crops,
+wealth generator, particularly in rural settings, with ~1 million farm-    resulting in a financial loss of 169–­180 million IDR ($17,300–­18,500
+ers directly employed, and a greater number indirectly supported           USD). 28 More recent localized outbreaks in Nusa Penida Island, Bali
+by, the sector in Indonesia alone.6 On the coast of Tanzania and the       and North Dullah Sub-­Regency, Moluccas, resulted in similar losses
+Zanzibar archipelago, eucheumatoid cultivation indirectly supports         in revenue.30 Financial losses directly attributable to IID are less
+31,000 farmers, the majority of whom are women, with the pro-              thoroughly documented in other producing countries, though value
+ceeds contributing to an increase in living standards for themselves       chain analysis suggests that loss of productivity as a result of IID is
+                         7
+and their dependents.                                                      the primary problem for stakeholders in the Philippines,31 and the
+        The expansion of eucheumatoid cultivation, particularly in re-     Sabah Department of Fisheries in Malaysia consider IID as one of
+gions outside the native geographical range of commercial species,         the most important challenges to the Malaysian seaweed indus-
+has not been without problems. Coastal ecosystems located both             try.32,33 These disease-­associated losses in seaweed mirror broader
+directly at the site of cultivation and adjacent to farms may be af-       recognition of disease as the key limiting factor in global animal
+fected.8 The siting of eucheumatoid farms over seagrass beds, as           aquaculture.1
+is common practice in East Africa, not only leaves seagrasses vul-
+nerable to trampling and shading, but has also been shown to alter
+seagrass bed community structure.8,9 The invasive potential of eu-         2    |   SIGNS OF DISEASE
+cheumatoid species is also well recognized. Fragments of escaped
+Kappaphycus from cultivation sites can colonize adjacent seagrass          Many reports of IID in the published literature come from local
+beds and reef patches, smothering native taxa.10–­12 Kappaphycus           language journals and grey literature from major producing coun-
+species originally introduced for cultivation trials in Kāne'ohe Bay,      tries in South-­East Asia (Table 1; those not subject to peer review
+Hawaii, in the 1970s have spread rapidly from their sites of introduc-     marked with asterisks). Many lack a detailed description of the signs
+tion and are now commonly found on coral reef slopes, where they           observed (Table 1). Where a description is given, the typical sign is
+overgrow and kill native corals and algae.13                               whitening, depigmentation or ‘bleaching’ of the thallus (Figure 1a–­
+        Nevertheless, the sustainable expansion of seaweed aquacul-        c). IID bleaching can usually be distinguished from that caused by
+ture forms an important component of the aquaculture strategies            excessive UV exposure or desiccation, which occurs only at the tips
+of many nations, and being extractive in nature, it has significant po-    of growing plants and is localized to those parts of the thallus which
+tential as a low greenhouse gas (GHG) and low-­impact aquaculture          are above the surface of the water for prolonged periods of time34
+sector which may be integrated with other farming systems on land          (Figure 1d). In contrast, IID depigmentation is most commonly ob-
+and in water.14                                                            served at the base of the thallus but may also spread to apical re-
+        Eucheumatoid production is increasingly impacted by pests and      gions (Figure 2a, b). 21,35,36 This depigmentation is often followed by
+diseases, with a condition known as ‘ice-­ice’ disease (IID) posing a      the softening of affected thalli, and the eventual disintegration of
+particular risk during cultivation. The condition was first observed in    diseased tissue34,37,38 (Figure 2c).
+                              15,16
+the Philippines in the 1970s          and is commonly encountered in eu-       Progression of IID is varied (Table 1), with no definitive studies
+cheumatoid farms in all producing regions.17,18 The term ‘ice-­ice’ was    to date attempting to document disease progression systematically
+coined by farmers in the Philippines using the English term ‘ice’ to       in individual specimens. Hardening of affected tissue is infrequently
+describe the ‘senescent tissue devoid of pigment that causes healthy       reported and is also followed by breakage of affected thalli when
+branches to break off’.19 While descriptions of IID in literature vary     observed.39 There is also variation in descriptions of the appearance
+(Table 1), the condition is typically characterized by a whitening (loss   of affected tissues. Early reports describe ‘powdery’ growth on the
+of pigmentation) of affected thallus segments (Figure 1a–­c), fol-         thalli prior to the loss of pigmentation40,41 which is not reported
+lowed by a softening of the tissues. IID is marked by progressive          elsewhere. Similarly, some descriptions mention the appearance of a
+disintegration of tissue and a loss of biomass (Figure 2), particularly    ‘moist organic substance’, ‘slime’ or ‘mucus’ on affected thalli,34,39,42
+if the disease occurs on the primary branches attaching individuals        which does not appear to be common. Importantly, an accurate and
+to cultivation ropes or lines, causing plants to detach. 20 This loss of   unified description for IID has not been produced to date.
+biomass lowers farm yield (in some cases by up to 70%) and reduces
+the quality and quantity of the carrageenan produced by 25%–­4 0%
+from affected seaweeds. 21,22 Lower quality carrageenan is less valu-      3    |   I I D PATH O LO G Y
+able, lowering the market value of affected crops. 23,24
+        The products of eucheumatoid aquaculture are an important          Four studies have attempted to characterize microscopic changes in
+source of income for coastal communities in producing regions, and         tissues affected by IID. In his PhD thesis, Aris35 inoculated healthy
+disease-­related crop failure often drastically lowers annual income       Kappaphycus alvarezii with a purportedly pathogenic strain of Vibrio
+for participants. 25–­27 In Indonesia, IID incidence can be very high      alginolyticus, resulting in ‘chlorosis’ (loss of pigment) and loss of
+TA B L E 1 Recorded incidence of ‘ice-­ice’ disease (IID) in eucheumatoids (Kappaphycus and Eucheuma spp.)
+
+                                                                                                                                                 Healthy                                               WARD et al.
+                                                                                                                                                 tissue
+ Affected species              Location                Attributed causes            Description of ‘Ice-­Ice’ signs   Farming method             examined?   Methodologies applied      Reference
+
+ Kappaphycus alvarezii (var.   Brazil                  Strong water currents        None given                        Floating raft with         NA          Field observation          178
+    brown; red; green)                                     and winds                                                     tubular nets
+ K. alvarezii                  Brazil                  Decrease in water salinity   None given                        Not stated                 NA          NA                         179
+                                                          and increase in water
+                                                          temperature
+ K. alvarezii                  Brazil: Pitimbu Beach   Infection with               ‘Thallus depigmentation’          NA –­drifting thalli       Yes         Laboratory manipulation    65
+                                                           filamentous algae                                             originating from                       of environmental
+                                                           (Colaconema infestans)                                        nearby cultivation                     conditions
+                                                                                                                         sites
+ E. spinosum (= E.             Caribbean:              None given –­only            None given                        Experimental               NA          Field observation          180
+     denticulatum)                Guadeloupe             affected plants                                                 cultivation                             (experimental
+                                                         imported from the                                                                                       cultivation attempt)
+                                                         Philippines, not native
+                                                         individuals
+ K. alvarezii                  Caribbean: Saint        None given                   None given                        Various                    NA          Field observation          152
+                                  Lucia;
+                               Sain Martin;
+                               Grenadines
+ Eucheuma denticulatum         China: Hainan           Significant decrease in      None given                        Eucheuma and               NA          Field observation          47
+     (var. red);                  Province                salinity and increase                                          Kappaphycus co-­
+ K. alvarezii (var. red;                                  in water temperature                                           cultured on floating
+     green);                                                                                                             rafts
+ K. striatus (var. green)
+ K. alvarezii                  China: Lian Bay,        Low salinity and shallow     None given                        Square floating rafts at   NA          Field observation          181
+                                  Hainan Province         culture depth                                                  varying depths (50
+                                                                                                                         –­150 cm)
+ K. alvarezii                  Ecuador                 None given                   None given                        Off-­bottom monoline       NA          Field observation          152
+                                                                                                                         (in contained tanks)                    (experimental
+                                                                                                                                                                 cultivation attempt)
+ E. striatum (=K. striatus);   Federated States of     Fungal infection             ‘White powdery growth on          Not stated                 NA          Fungal culturing           41
+ E. spinosum (= E.                Micronesia:             (Scopulariopsis              the thallus which causes
+     denticulatum)             Pohnpei                    brevicularis)                loss of pigments and
+                                                                                       disintegration of the alga’
+ K. alvarezii                  Fiji:                   ‘Unfavourable’               ‘Older portions of thalli         Monoline                   NA          Field observation          182
+                               Rakiraki                   environmental                 frequently showed loss
+                                                          conditions                    of pigmentation and
+                                                                                        degeneration’
+
+                                                                                                                                                                                         (Continues)
+                                                                                                                                                                                                       | 3
+                                                                                                                                                                                                 4
+                                                                                                                                                                                                 |
+TA B L E 1 (Continued)
+
+                                                                                                                                         Healthy
+                                                                                                                                         tissue
+ Affected species        Location                Attributed causes          Description of ‘Ice-­Ice’ signs   Farming method             examined?   Methodologies applied        Reference
+
+ K. alvarezii            India: Gulf of Mannar   High water temperature;    ‘Standard symptoms of             Monoline; floating rafts   Yes         Field observation;           183
+                                                 Low salinity;                  whitening of the branches                                            Bacterial culturing
+                                                 Low water movement;            and initiated with the
+                                                 Increase in bacterial          colour changes of the
+                                                     diversity                  thalli become transparent’
+ K. alvarezii            India: Gulf of Mannar   Extreme changes in         Stressed seaweeds ‘produce        Not recorded               No          Isolation and 16S            39
+                                                    environmental               some moist organic                                                       sequencing of bacteria
+                                                    conditions                  substance that invites
+                                                                                bacteria from the
+                                                                                surrounding water and
+                                                                                affects the host tissue,
+                                                                                which in turn become
+                                                                                white and hard’
+ K. alvarezii            India: Tamil Nadu       High water temperature;    None given                        Not recorded               No          Field observation;           74
+                                                 High light intensity;                                                                               Bacterial culturing
+                                                 Low water movement
+ K. alvarezii            India: Tamil Nadu       Carrageenan-­degrading     ‘Characterised by “bleaching      Not stated                 No          Histopathology;              44
+                                                    bacteria                   or whitening” white                                                   Spectroscopy;
+                                                                               indications on the upper                                              Gram staining;
+                                                                               seaweed tissue”                                                       16S Illumina sequencing
+ Eucheuma (assumed E.    Indonesia               ‘Alteration’ in            ‘Appearance some bright           NA                         NA          NA (report of incidence      184
+    denticulatum)                                    environmental             colour spot in the thalli                                                only)
+                                                     parameters: water         and will reduce seaweed
+                                                     current, temperature      colour until being white
+                                                     and turbidity             and broken-­off easily’
+ K. alvarezii            Indonesia: Pulau        Bacterial infection        ‘Symptoms of “ice-­ice”           Longline                   Yes         Isolation and                35 *
+                            Panggang,               (Flavobacterium;            disease are generally                                                    characterization of
+                            Kepuluan Seribu,        Vibrio; Pseudomonas         characterised by                                                         bacteria (biochemical
+                                                    spp.; Plesiomonas)          bleaching at the base                                                    tests; 16S
+                                                                                of the thallus, middle                                                   sequencing);
+                                                                                and tip of the young                                                 Pathogenicity assays;
+                                                                                thallus, which precedes                                              Histological examination
+                                                                                the change in colour of
+                                                                                the thallus to clear or
+                                                                                transparent white’
+                                                                            (translated from Indonesian)
+
+                                                                                                                                                                                   (Continues)
+                                                                                                                                                                                                 WARD et al.
+TA B L E 1 (Continued)
+
+                                                                                                                                    Healthy
+                                                                                                                                    tissue                                               WARD et al.
+ Affected species            Location              Attributed causes             Description of ‘Ice-­Ice’ signs   Farming method   examined?   Methodologies applied     Reference
+
+ K. alvarezii                Indonesia:            Infection with Vibrio spp.    ‘Causes plants to develop         Not stated       No          Field observation;        63
+                             Tolo Bay and Tomini                                     white spots on their                                       Bacterial isolation
+                                Bay, Central                                         thallus’                                                       and biochemical
+                                Sulawesi                                         (translated from Indonesian)                                       characterization
+ K. alvarezii                Indonesia             Sudden changes in             ‘Characterised by red spots       Rafts            NA          Field observation         86
+                                                      salinity, water                on part of the thallus,
+                                                      temperature and light          which gradually turn pale
+                                                      intensity.                     yellow and eventually
+                                                   Wounds from grazers               turn white. The thallus
+                                                      followed by                    becomes brittle and
+                                                      secondary bacterial            breaks easily’
+                                                      infection                  (Translated from Indonesian)
+ K. alvarezii (var. green)   Indonesia: Lampung,   Bacterial infection, and      None given                        NA               NA          NA                        185
+                                Sumatera Island       induced by ‘drastic
+                                                      changes’ in water
+                                                      quality
+ K. alvarezii                Indonesia: South      Bacterial infection           ‘Bleaching or whitening           Not stated       Yes         Bacterial isolation       186*
+                                Sulawesi              (Stenotrophomonas;             on upper tissue of the                                        and biochemical
+                                                      Ochrobactrum;                  seaweed’                                                      characterization
+                                                      Pseudomonas)
+ E. spinosum                 Indonesia: Kutuk      High water temperature        ‘Bleaching at the base of the     Not stated       No          Bacterial isolation;      36
+     (= E. denticulatum)        Kecamatan,             and decrease in               thallus, middle and tip of                                    morphological
+                             Denpasar Selatan,         salinity due to runoffs       the young thallus, which                                      and biochemical
+                                Kabupaten              and freshwater                begins with a change                                          characterization
+                                Badung                 discharge;                    in colour of the thallus
+                                                   Infection with Vibrio             to clear or transparent
+                                                       alginolyticus and             white’
+                                                       Pseudomonas               (translated from Indonesian)
+                                                       aeruginosa
+ K. alvarezii                Indonesia: South      Attachment of epiphytes       ‘the affected part is white       Not stated       NA          Field observation         20
+                                Sulawesi                                             and very fragile, if
+                                                                                     the disease attacks at
+                                                                                     the base of a binding
+                                                                                     seaweed, it can cause
+                                                                                     the release of the rope
+                                                                                     stretch’
+ K. alvarezii                Indonesia:            Bacterial infection           None given                        Not stated       No          Bacterial isolation and   78
+                                Karimunjawa           (Alteromonas;                                                                                16S sequencing
+                                Island                Pseudoalteromonas;
+                                                      Aurantiomonas)
+                                                                                                                                                                                         | 5
+                                                                                                                                                                           (Continues)
+TA B L E 1 (Continued)                                                                                                                                                                        6
+                                                                                                                                                                                              |
+                                                                                                                                        Healthy
+                                                                                                                                        tissue
+ Affected species               Location                Attributed causes            Description of ‘Ice-­Ice’ signs   Farming method   examined?   Methodologies applied      Reference
+
+ E. cottonii (= K. alvarezii)   Indonesia               Change in environmental      ‘Whitened segments in             NA               NA          NA                         187
+                                                           conditions linked to         nearly all of the seaweed
+                                                           seasonal change from         branches’
+                                                           dry to wet season
+ Kappaphycus sp. (var.          Indonesia               Infection with presumed      Colour change, followed           Not stated       No          Bacterial isolation        42
+    brown and var. green)                                   Vibrio spp.                 by ‘release of mucus’ by                                       and biochemical
+                                                                                        infected thalli, then the                                      characterization
+                                                                                        development of white
+                                                                                        spots and thallus fracture
+ K. alvarezii                   Indonesia:              Nutrient depletion and       ‘Characterised by the             Longlines        No          NA                         56
+                                Vid Bangir Bay, Tual,      high water turbidity          appearance of spots on
+                                   Moluccas                                              part of the thallus which
+                                                                                         gradually turn pale yellow
+                                                                                         and eventually turns
+                                                                                         white and breaks easily’
+                                                                                     (translated from Indonesian)
+ Kappaphycus spp.;              Indonesia: Rote         Abrupt changes in water      ‘Loss of pigmentation of          NA               NA          NA                         38
+ E. denticulatum                   Island                  temperature and/or            the algal thallus until it
+                                                           salinity.                     becomes white, followed
+                                                        Potential association with       by dissolution of the
+                                                           epiphytic algae               tissue until the two parts
+                                                                                         separate and a portion of
+                                                                                         the alga is lost’
+ K. alvarezii                   Indonesia: Kupang,      Bacterial infection          ‘Changes in the thallus to        Not stated       Yes         Incubation of healthy      43
+                                   East Nusa                                            become rough, wilted                                           seaweeds with
+                                                                                        and wrinkled followed by                                       diseased tissues;
+                                                                                        the appearance of white                                        histological
+                                                                                        spots on the surface of                                        examination
+                                                                                        the thallus’
+ K. alvarezii                   Indonesia               Presumptive pathogenic       Started with the loss of          Long line        NA          Field observation, water   82
+                                                           bacterial infection          mucous at the surface                                           quality testing
+                                                                                        of thallus which led to
+                                                                                        a rough surface and
+                                                                                        subsequently a colour
+                                                                                        change from bright to
+                                                                                        pale. White spots/patches
+                                                                                        are later observed on the
+                                                                                        apex of the thallus which
+                                                                                        then spreads to the entire
+                                                                                        thallus
+                                                                                                                                                                                              WARD et al.
+                                                                                                                                                                                (Continues)
+TA B L E 1 (Continued)                                                                                                                                                                               WARD et al.
+                                                                                                                                              Healthy
+                                                                                                                                              tissue
+ Affected species                 Location              Attributed causes           Description of ‘Ice-­Ice’ signs   Farming method          examined?   Methodologies applied       Reference
+
+ K. alvarezii                     Indonesia             Non-­favourable             Red spots or patches on parts     NA                      NA          Water quality testing,      80
+                                                          biotic and abiotic           of the thallus which then                                            bacteria isolation
+                                                          environmental                turns pale yellow and                                                and biochemical
+                                                          parameters                   subsequently white and                                               characterization
+                                                          (temperature, salinity,      soft due to necrosis
+                                                          light intensity and
+                                                          extreme (sic) microbe
+                                                          populations) which
+                                                          led to a stressful
+                                                          condition which then
+                                                          reduces the immunity
+                                                          and increases disease
+                                                          susceptibility to the
+                                                          seaweeds
+ E. denticulatum;                 Japan: Tosa Bay       Low water salinity          None given                        Floating culture;       NA          Laboratory induction of     54
+ K. alvarezii                                                                                                            laboratory tanks                    IID by manipulation of
+                                                                                                                                                             growth conditions
+ K. alvarezii                     Japan: Tosa Bay       Proliferation of bacteria   ‘Whitened tips or segments’       Floating culture        Yes         Direct enumeration          50
+                                                                                                                                                             of bacteria from
+                                                                                                                                                             homogenized tissue
+                                                                                                                                                             by epifluorescence
+ K. alvarezii                     Japan: Kōchi          Influence of abiotic        None given                        NA (laboratory tanks)   Yes         Laboratory infection of     57
+                                     Prefecture             factors (water                                                                                   abiotically stressed
+                                     (laboratory)           movement and                                                                                     individuals with
+                                                            temperature) on                                                                                  bacterial inoculations
+                                                            infection by Vibrio
+                                                            and Cytophaga
+ E. denticulatum (var.            Kenya                 High water temperature;     None given                        Fixed off-­bottom       NA          Field observation           60
+     brown);                                            High water salinity;
+ K. alvarezii (var. green, var.                         low water motion;
+     brown)                                             Damage by grazers
+ E. denticulatum;                 Kenya: Kibuyuni and   None given                  ‘White and soft thallus’          Modified off-­bottom    NA          Comparison of the           188
+ K. alvarezii                        Mkwiro                                                                           Floating raft                         prevalence of diseases
+                                                                                                                                                            and pests (including
+                                                                                                                                                            IID) with different
+                                                                                                                                                            culture methodologies
+
+                                                                                                                                                                                       (Continues)
+
+                                                                                                                                                                                                     | 7
+                                                                                                                                                                                            8
+                                                                                                                                                                                            |
+
+TA B L E 1 (Continued)
+
+                                                                                                                                      Healthy
+                                                                                                                                      tissue
+ Affected species         Location            Attributed causes            Description of ‘Ice-­Ice’ signs   Farming method           examined?   Methodologies applied      Reference
+
+ E. denticulatum;         Madagascar          High water temperature;      None given                        Monoline                 NA          Field observation          58
+ K. striatus                                  Low water nitrogen
+ K. alvarezii             Malaysia: Sabah,    IID signs induced by         ‘Characterised by a change        NA (individuals          Yes         Laboratory induction of    37
+                             Borneo (farmed       elevated growth             in seaweed pigment and            maintained                           IID signs
+                             and laboratory       temperatures                softening of the thallus          in laboratory                     Bacterial isolation
+                             culture)             are enhanced by             … this decreases the              conditions)                          and biochemical
+                                                  inoculation with            carrageenan yield and                                                  characterization, 16S
+                                                  Vibrio sp.                  produces inferior quality                                              sequencing
+                                              Each factor was also able       carrageenan’
+                                                  to induce IID signs in
+                                                  the absence of the
+                                                  other
+ E. isiforme              Mexico: Yucatán     None given                   ‘Whitening and dissolution of     Individuals obtained     NA          NA                         49
+      (= Eucheumatopsis                                                       the plant’                         from wild
+      isiformis)                                                                                                 populations were
+                                                                                                                 cultured on rafts
+                                                                                                                 with monofilament
+                                                                                                                 lines (depth 1.5m)
+ K. alvarezii             Mexico: Yucatán     IID most frequently          None given                        Off-­bottom              NA          Field observation          152
+                                                  observed                                                                                            (experimental
+                                                  when seawater                                                                                       cultivation attempt)
+                                                  temperatures
+                                                  exceeded 30 ºC
+ K. alvarezii             Panama              None given                   None given                        Floating rafts           NA          Field observation          152
+                                                                                                                                                      (experimental
+                                                                                                                                                      cultivation attempt)
+ E. spinosum (= E.        Philippines:        High water phosphate         ‘A white powdery growth on        Not stated               Yes         Field observation;         40
+     denticulatum);           Hingutanan         concentration;                the thallus which causes                                           Monitoring of
+ K. striatus                  Island, Bohol      epiphyte infestation;         the loss of pigments,                                                  environmental
+                                              Secondary bacterial              gradual consumption and                                                parameters;
+                                                 infection                     fragmentation of the alga’                                         Bacterial isolation
+                                                                                                                                                      and biochemical
+                                                                                                                                                      characterization
+
+                                                                                                                                                                              (Continues)
+
+                                                                                                                                                                                            WARD et al.
+                                                                                                                                                                                               WARD et al.
+TA B L E 1 (Continued)
+
+                                                                                                                                            Healthy
+                                                                                                                                            tissue
+ Affected species            Location               Attributed causes             Description of ‘Ice-­Ice’ signs   Farming method          examined?   Methodologies applied   Reference
+
+ K. alvarezii (var. brown)   Philippines            High light intensity and      ‘white soft portions usually      Bottom monoline         NA          Field observation       34
+                                                       calm weather *low             on the main branches           Raft
+                                                       water motion); also           of the thallus. The
+                                                       appeared related to           portions with “ice-­ice”
+                                                       nitrogen limitation,          may become colonized
+                                                       particularly during           by microorganisms which
+                                                       periods of low water          appears as distinct white,
+                                                       motion                        pinkish or reddish patches
+                                                                                     of slime on the infected
+                                                                                     parts. The portions thus
+                                                                                     infected softens further
+                                                                                     and dissolved away
+                                                                                     resulting to the breakage
+                                                                                     of the branches’
+ K. alvarezii;               Philippines:           Bacterial infection (Vibrio   None given                        Not stated              Yes         Bacterial isolation     76
+ E. denticulatum             Danajon Reefs, Bohol      and Cytophaga)                                                                                      and biochemical
+                                                                                                                                                           characterization
+                                                                                                                                                        Laboratory induction
+                                                                                                                                                           of IID signs by
+                                                                                                                                                           inoculation with
+                                                                                                                                                           bacterial isolates
+ K. striatus                 Philippines:           None given                    ‘Whitening and softening of       Not stated              Yes         NA                      21
+                                 Calatagan,                                          the infected part, usually
+                                 Batangas                                            the base of the thallus …
+                                                                                     leads to fragmentation
+                                                                                     and eventual loss of
+                                                                                     biomass’
+ K. striatus (var. sacol);   Philippines:           Culturable carrageenase-­     ‘Thallus whitening followed       Fixed bottom monoline   Yes         Bacterial isolation     75
+ K. alvarezii (var.              Batangas;             producing bacteria            by softening, the most         Floating raft                          and biochemical
+     tambalang, var. giant   Bohol;                    (presumptive Vibrio           obvious manifestation of                                              characterization
+     kapilaran, var. orang   Zamboanga                 spp.)                         the disease, is indicative
+     giant);                                                                         of the involvement of
+ E. denticulatum (var.                                                               carrageenase-­producing
+     spinosum)                                                                       bacteria’
+
+                                                                                                                                                                                 (Continues)
+
+
+                                                                                                                                                                                               | 9
+TA B L E 1 (Continued)                                                                                                                                                                                10
+                                                                                                                                                                                                      |
+                                                                                                                                               Healthy
+                                                                                                                                               tissue
+ Affected species               Location              Attributed causes           Description of ‘Ice-­Ice’ signs   Farming method             examined?   Methodologies applied       Reference
+
+ K. alvarezii (var. brown and   Philippines: Negros   High water temperature      ‘When a seaweed is under          Monoline                   NA          Field observation           48*
+     var/ green);                   Oriental,            and low tides, low          stress it emits a moist        Floating raft (offshore)
+ E. denticulatum (var.              Zamboanga del        salinity, water             organic substance that         Off-­bottom monoline
+     brown and var. green)          Norte                pollution from factory      attracts bacteria in              (offshore)
+                                                         discharge                   the water and induces
+                                                      High incidence of              the “whitening” and
+                                                         epiphytes                   hardening of the seaweed
+                                                                                     branches. Uninfected
+                                                                                     parts remain healthy
+                                                                                     while infected ones
+                                                                                     undergo depigmentation
+                                                                                     and eventually lead to
+                                                                                     plant breakage by any
+                                                                                     force of nature’
+ K. alvarezii;                  Philippines:          Marine-­derived fungi       ‘Whitening and softening of       Not stated                 Yes         Induction of IID signs in   127
+ K. striatus (var. green and        Calatagan,          (Aspergillus and             the algal thallus, which                                                 non-­axenic cultures
+     var. orange)               Batangas                Phoma)                       eventually lead to low                                                   by inoculation with
+                                                                                     yield and poor quality                                                   fungal isolates
+                                                                                     carrageenan’
+ K. alvarezii                   Philippines           Wounds caused               ‘One or more branches had         Bamboo raft with net       NA          Field observation           62
+                                                        by mechanical                thalli that were whitened        cage
+                                                        injury (from water           and soft’
+                                                        movement, grazers or
+                                                        epiphyte attachment)
+                                                        allow the proliferation
+                                                        and spread of bacteria
+ K. alvarezii                   Philippines:          High water temperature      ‘whitening of the branches        Fixed off-­bottom          NA          Field observation           55
+                                    Zamboanga            and pH; low water           and initiated with the
+                                    Peninsula            salinity and low water      colour changes of
+                                                         depth                       thalli which appeared
+                                                                                     transparent’
+ E. denticulatum;               Tanzania: Zanzibar    Limited availability of     None given                        NA                         NA          NA                          72
+ K. alvarezii                                            mineral nutrients
+ K. alvarezii                   Tanzania: Songo       Stress induced by           None given                        Off-­bottom (active        NA          Field observation           84
+                                   Songo                  rapid fluctuations                                           and abandoned
+                                                          in environmental                                             cultivation sites)
+                                                          conditions
+ K. alvarezii                   Venezuela             None given                  None given                        Various                    NA          Field observation           152
+                                                                                                                                                               (experimental
+                                                                                                                                                               cultivation attempt)                   WARD et al.
+                                                                                                                                                                                        (Continues)
+    WARD et al.                                                                                                                                                                                                                                                                                                                                                                                                                            | 11
+
+                                                                                                                                                                                                                                                                                                                                                                       biomass characteristic of IID. Histology of healthy tissue showed
+
+
+
+
+                                                                                                                                                         Notes: Descriptions of IID signs from publications in languages other than English have been translated (original language in parentheses). References which have not been subjected to peer review are
+                               Reference
+                                                                                                                                                                                                                                                                                                                                                                       intact, compact and orderly arranged cells in the cortical and med-
+                                                                                                                                                                                                                                                                                                                                                                       ullary layers. In diseased tissues, these structures were disrupted,
+                                                                 79                             189*                        29
+                                                                                                                                                                                                                                                                                                                                                                       cells were lysed, and carrageenan deposits were degraded. This
+                                                                                                                                                                                                                                                                                                                                                                       breakdown of tissue was positively correlated with necrosis or cell
+
+
+                                                                 16S Illumina sequencing;
+
+
+
+                               Methodologies applied
+                                                                                                                                                                                                                                                                                                                                                                       death. In a later study, the same author observed progressive cell
+                                                                                                                                                                                                                                                                                                                                                                       degradation associated with tissue damage or cell lysis in K. alvarezii
+                                                                                                                                                                                                                                                                                                                                                                       affected by IID.43 Similarly, Riyaz et al.44 observed cell wall rupture
+
+
+
+                                                                    water quality testing
+                                                                                                                                                                                                                                                                                                                                                                       and damage to subcortical cells of IID-­affected tissue in comparison
+                                                                                                                                                                                                                                                                                                                                                                       with healthy K. alvarezii tissue. Maulani et al.45 also noted changes
+                                                                                                NA                          NA                                                                                                                                                                                                                                         in the shape of cells and damage to the outer layers of tissue in IID-­
+                                                                                                                                                                                                                                                                                                                                                                       affected K. alvarezii collected in the field. The cortex of diseased tis-
+                                                                                                                                                                                                                                                                                                                                                                       sue was irregular and did not form the normal round or oval shape
+                         Healthy
+                                                                                                                                                                                                                                                                                                                                                                       of healthy thalli.
+                         tissue
+                         examined?                               Yes                            NA                          NA
+
+                                                                                                                                                                                                                                                                                                                                                                       4 | S U S C E P TI B I LIT Y O F EU C H EU M ATO I D
+                                                                                                                                                                                                                                                                                                                                                                       TA X A TO I I D
+
+
+
+
+                                                                                                                                                         marked with an asterisk. Field observation refers to studies in which causative factors were identified in situ, usually through monitoring of environmental parameters. Where no methodologies are listed,
+                               Farming method
+                                                                                                                                                                                                                                                                                                                                                                       IID is known to affect all commercially exploited eucheumatoid spe-
+
+
+                                                                 Not stated
+                                                                                                                                                                                                                                                                                                                                                                       cies, including Kappaphycus alvarezii, K. striatus, K. malesianus and
+                                                                                                                                                                                                                                                                                                                                                                       Eucheuma denticulatum (Table 1). All cultivated strains are thought
+                                                                                                NA                          NA
+                                                                                                                                                                                                                                                                                                                                                                       to be affected, with apparently varying severity.46 There is some
+                                                                                                                                                                                                                                                                                                                                                                       evidence to suggest E. denticulatum is less susceptible to severe dis-
+
+                                                                 ‘the bleaching and formation
+
+
+
+
+                               Description of ‘Ice-­Ice’ signs
+                                                                                                                                                                                                                                                                                                                                                                       ease than Kappaphycus.47 There are suggestions in the grey litera-
+
+
+                                                                                                ‘Tissues are bleached and
+                                                                                                                                                                                                                                                                                                                                                                       ture that this difference may relate to differences in the carrageenan
+
+
+                                                                     of white spots on the
+                                                                                                                                                                                                                                                                                                                                                                       types produced by each species, or differences in the texture of
+                                                                                                                                                                                                                                                                                                                                                                       the thalli, making Kappaphycus more susceptible to colonization by
+
+
+                                                                                                    become necrotic’        None given
+                                                                                                                                                                                                                                                                                                                                                                       microorganisms,48 though this has not been demonstrated in peer-­
+
+                                                                     thallus’
+                                                                                                                                                                                                                                                                                                                                                                       reviewed studies. IID has also been reported in the related species
+                                                                                                                                                                                                                                                                                                                                                                       Eucheumatopsis isiformis (previously Eucheuma isiforme) at two loca-
+                                                                                                                                                                                                                                                                                                                                                                       tions in Yucatán, Mexico, during attempts at cultivation.49 So far,
+                                                                                                Environmental stress
+                                                                                                                            Epiphyte outbreaks
+                                                                                                                                                                                                                                                                                                                                                                       there have been no reports of IID affecting wild eucheumatoids (ei-
+
+
+                                                                 Presumptive bacterial
+                                                                                                   triggers the                                                                                                                                                                                                                                                        ther wild specimens of cultivated strains, or species which are not
+
+
+
+
+                               Attributed causes
+                                                                                                   production of volatile
+                                                                                                                                                                                                                                                                                                                                                                       commercially exploited), though no studies explicitly state they have
+                                                                                                                               lead to IID ‘bacterial’
+                                                                                                   hydrocarbons,
+                                                                                                                                                                                                                                                                                                                                                                       attempted to find IID outside of cultivation settings.
+
+
+                                                                    infection
+                                                                                                   resulting in necrosis
+
+
+
+
+                                                                                                                                                         the cited study records the incidence of IID in eucheumatoids in the specified location.
+                                                                                                                                                                                                                                                                                                                                                                           IID occurs in all regions where eucheumatoids are commercially
+                                                                                                                               disease
+                                                                                                   and secondary
+                                                                                                                                                                                                                                                                                                                                                                       produced, including the native range of commercial cultivars in
+                                                                                                   bacterial infection
+                                                                                                                                                                                                                                                                                                                                                                       Southeast Asia, and areas where these cultivars have been intro-
+                                                                                                                                                                                                                                                                                                                                                                       duced for the purposes of cultivation in Africa and Latin America
+                                                                 Vietnam: Cam Ranh                                                                                                                                                                                                                                                                                     (Table 1). The majority of reported outbreaks are in Southeast Asia,
+                                                                                                Solomon Islands;                                                                                                                                                                                                                                                       affecting K. alvarezii, reflecting not only the higher productivity of
+                                                                    Bay; Van Phong
+                                                                                                                            Malaysia;
+                                                                                                Vanuatu;                                                                                                                                                                                                                                                               this region, but also the greater dedicated research effort in compar-
+
+                               Location
+                                                                                                                            Philippines;
+
+                                                                    Bay
+                                                                                                                            Indonesia;                                                                                                                                                                                                                                 ison with the WIO region and areas with lower or sporadic produc-
+                                                                                                Kiribati                    Tanzania                                                                                                                                                                                                                                   tion such as South America, India and the Pacific Islands.17,19
+                                                                                                                                                                                                                                                                                                                                                                           There are a small number of publications reporting similar dis-
+
+
+
+
+TA B L E 1 (Continued)
+                                                                                                                                                                                                                                                                                                                                                                       ease signs as IID in cultivated Gracilaria spp. in Indonesia and the
+                                                                                                                                                                                                                                                                                                                                                                       Philippines,50–­52 though none from major Gracilaria producing re-
+
+
+
+
+                               Affected species
+                                                                                                                                                                                                                                                                                                                                                                       gions of China and Chile. This may suggest that IID occurs rarely in
+                                                                 K. alvarezii;                                                                                                                                                                                                                                                                                         this genus, or that the term has been misapplied to macroscopically
+
+
+                                                                                                K. alvarezii                K. alvarezii
+                                                                 K. striatus;                                                                                                                                                                                                                                                                                          similar syndromes. For the purposes of this review, we discuss only
+                                                                                                                                                                                                                                                                                                                                                                       the proposed causes of IID in eucheumatoids, and do not include
+                                                                 E. denticulatum
+                                                                                                                                                                                                                                                                                                                                                                       observations of similar pathologies in Gracilaria.
+12   |                                                                                                                                          WARD et al.
+
+
+
+
+F I G U R E 1 Kappaphycus spp. cultivated in Southeast Asia showing typical signs of ‘ice-­ice’ disease (IID) bleaching affecting the secondary
+branch of K. striatus cultivar’sacol’(a), the primary branch (red square) and apex (circle) of K. alvarezii ‘tambalang’ (b), and the secondary branch
+(red circle) of K. malesianus (c). In contrast, (d) shows UV-­induced bleaching at the growing tips of K. alvarezii
+
+
+
+
+5 | I I D A N D E N V I RO N M E NTA L                                           colonization and may present a route of entry and followed by pro-
+S TR E S S O R S                                                                 liferation of opportunistic pathogenic bacteria.62,63
+                                                                                     Signs of IID frequently co-­occur with epiphyte infestation,38,64,65
+Occurrence of IID on eucheumatoid farms is highest during the hot-­              and ‘unfavourable’ fluctuations in environmental conditions are
+dry season in Tanzania (February–­March), Indonesia (March–­A pril)              considered predisposing factors to both conditions.66,67 Epiphytic
+and the Philippines (March–­May), which is largely attributed to                 filamentous algae, particularly Melanothamnus spp., penetrate the
+higher water temperatures in several technical reports on eucheu-                cortical layer of eucheumatoid hosts, resulting in tissue damage and
+                   18,53
+matoid farming.            IID is frequently associated with ‘unfavourable’      bacterial infection. 29,68
+changes in environmental parameters, in both field observation and                   Mtolera et al.69,70 found that production of hydrogen peroxide
+laboratory studies (Table 1). Most often these include a decrease                and volatile hydrocarbons (VHCs) was higher in Eucheuma dentic-
+in salinity, coupled with higher water temperature.47,54,55 Other                ulatum subjected to environmental and mechanical stressors and
+                                                            54,56
+environmental stressors, including low light levels,                slow water   was linked to both IID depigmentation and epiphyte infestation.71,72
+           34,57                         55
+movement           and high water pH,         have also been associated with     Extended exposure to the reactive oxygen species produced by this
+IID, as have water pollution36 and low nitrogen availability.34,58               stress response may result in physiological damage and the thallus
+Technical reports also suggest deposits of silt or terrigenous ma-               depigmentation characteristic of IID.73
+terial on seaweed thalli may also induce IID bleaching by decreas-
+ing light absorption and leaving individuals more prone to bacterial
+colonization. 59                                                                 6    |   TH E M I C RO B I O LO G Y O F I I D
+     Mechanical injury to seaweed thalli, often wounds caused by
+grazing by siganids (rabbitfish), turtles and microbenthic inver-                The bacterial genera Vibrio and Pseudomonas, identified using bio-
+tebrates34,60,61 or as a result of seedlings being tied too tightly to           chemical tests, are frequently isolated from IID-­affected eucheuma-
+cultivation lines, may render individual seaweeds more suscepti-                 toid tissues (Table 2); however, many cultivation-­based studies of IID
+ble to IID.62 These wounds may be more susceptible to microbial                  use selective or differential media for Vibrio identification.35,36,42,74,75
+WARD et al.                                                                                                                                  | 13
+
+                               (a)
+
+
+
+
+                               (b)                                (c)
+
+
+
+
+                               (d)
+
+
+
+
+F I G U R E 2 Cultivated Kappaphycus from Sabah, Malaysia, showing signs of ‘ice-­ice’ disease (IID). (a) IID depigmentation of secondary
+branches and apices, (b) Significant IID infection affecting primary, secondary and apical tissues. (c) IID co-­occurring with filamentous red
+algae (red rectangle), (d) Fouling biofilms affecting an individual also showing signs of IID
+
+
+
+Several other bacterial genera have also been associated with signs            Few of the bacterial taxa isolated in these studies are fully
+of   IID,   particularly   Gammaproteobacteria    (Pseudoateromonas,       characterized: identity is usually assigned on the basis of the
+Alteromonas,      Stenotrophomonas)     and      Alphaproteobacteria       result of a small battery of biochemical tests (Gram staining,
+(Aurantimonas, Ochrobactrum) (Table 2). In many studies, almost all        catalase and motility tests and colony morphology are the most
+bacteria isolated from IID-­affected tissue are Gram negative, though      widely utilized), enabling taxonomic assignment to genus level at
+Azizi et al.37 acknowledge that this may potentially be the result of      best. However, there is a lack of consistency in the application
+                                                 76
+bias in the culturing conditions used. Largo et al. report differences     of these tests, and in some cases, the results of individual tests
+in the counts and diversity of colonies obtained using growth media,       are not fully reported, hindering our ability to draw comparisons
+further suggesting that cultivation conditions influence bacteriologi-     between the biochemical capabilities of isolated (presumptive)
+cal studies.                                                               Vibrio strains.
+TA B L E 2 Summary of bacterial genera isolated from ‘ice-­ice’ disease (IID) affected eucheumatoid tissue in cultivation-­based experiments. Growth media marked with asterisks indicate             14
+selective differential media for Vibrio.                                                                                                                                                              |
+                                                        Total strains                                    Isolates            Healthy tissue
+ Isolate source           Growth medium                 isolated               IID-­associated genera    sequenced?          examined?        Ability to induce IID                Reference
+                                                                                                                                                                                   40
+ Eucheuma spinosum (=     Not stated                    Not reported           Pseudomonas               No                  No               Not attempted
+    E. denticulatum)                                                           Flavobacterium
+                                                                               Vibrio
+                                                                               Xanthomonas
+                                                                               Achromobacter
+                                                                                                                                                                                   36
+ E. spinosum (= E.        Tryptic soy agar (TSA)        Not stated             Pseudomonas               No                  No               Not attempted
+     denticulatum)        Thiosulphate-­citrate-­bile                          Vibrio
+                             salts-­sucrose agar
+                             (TCBS)†
+                                                                                                                                                                                   76
+ Kappaphycus alvarezii;   FeTY agar                     75 (only 10 included   Vibrio                    No                  Yes              Inoculation with Vibrio and
+ E. denticulatum                                            in pathogenicity   Cytophaga                                                         Cytophaga strains induced
+                                                            tests)             Aeromonas                                                         development of IID; inoculation
+                                                                               Pseudomonas-­                                                     with other isolates did not
+                                                                                  Alteromonas
+
+
+
+
+                                                                                                                                                                                   75
+ K. alvarezii;            Marine Agar (MA)              97 (diseased)          Presumptive Vibrio spp.   No                  No               Not attempted
+ K. striatus;             TCBS†                         68 (healthy)           Presumptive Cytophaga
+ E. denticulatum          FePY carrageenan agar                                Uncharacterized
+                                                                                  unpigmented
+                                                                               Uncharacterized
+                                                                               pigmented
+                                                                                                                                                                                   35
+ K. alvarezii             Seawater complex (SWC)        5                      Vibrio                    Yes (Vibrio only)   Yes              Vibrio alginolyticus strain PNGK
+                          TCBS†                                                Flavobacterium                                                    induced IID within 1 day post
+                                                                               Pseudomonas spp.                                                  inoculation
+                                                                               Plesiomonas
+                                                                                                                                                                                   63
+ K. alvarezii             Not stated                    5 (diseased)           Vibrio spp.               No                  No               Not attempted
+                                                                                                                                                                                   78
+ K. alvarezii             Zobell marine agar (ZMA)      9 (diseased)           Alteromonas               Yes                 No               Inoculation within Alteromonas,
+                                                                               Bacillus                                                          Aurantimonas and
+                                                                               Pseudomonas                                                       Pseudoalteromonas induced IID
+                                                                               Pseudoalteromonas                                                 signs within 3 days. No other
+                                                                               Aurantimonas                                                      isolates induced IID
+                                                                               Rhodococcus
+
+
+                                                                                                                                                                                        (Continues)
+                                                                                                                                                                                                      WARD et al.
+                                                                                                                                                                                     WARD et al.
+
+
+
+
+TA B L E 2 (Continued)
+
+                                                 Total strains                              Isolates            Healthy tissue
+ Isolate source          Growth medium           isolated          IID-­associated genera   sequenced?          examined?        Ability to induce IID                   Reference
+                                                                                                                                                                         183
+ K. alvarezii            ZMA                     Not stated        Not characterized        No                  No               Not attempted
+                                                                                                                                                                         37
+ K. alvarezii            Bacto agar (BA)         40 (diseased)     Farmed:                  Yes (abundant       Yes              Vibrio alginolyticus strain ABI-­TU15
+                         Plant agar (PA)         12 (healthy)      Vibrio spp.                 isolates only)                       was shown to induce IID signs
+                         Marine agar (MA)                          Halomonas                                                        in both farmed and tissue
+                                                                   Aestuariibacter                                                  cultured K. alvarezii, with
+                                                                   Alteromonas                                                      signs more severe in farmed
+                                                                   Tissue cultured:                                                 individuals.
+                                                                   Primorskyibacter                                              No other strains were tested for
+                                                                   Pseudoalteromonas                                                the ability to induce IID
+                                                                   Thalassospira
+                                                                                                                                                                         74
+ K. alvarezii            ZMA                     Not stated        Bacillus                 No                  No               Not attempted
+                         TCBS†                                     Vibrio
+                                                                                                                                                                         39
+ K. alvarezii            ZMA                     83 (diseased; 6   Pseudoalteromonas        Yes (abundant       Yes              Not attempted
+                                                     abundant)     Planococcus spp.            isolates only)
+                                                 61 (healthy)      Bacillus spp.
+                                                                   Brevibacillus
+                                                                                                                                                                         80
+ K. alvarezii            Alkaline Peptone Agar   Not reported      Bacillus, Vibrio,        No                  No               Not attempted
+                            (APA)                                     Pseudomonas,
+                                                                      Flavobacterium
+                                                                                                                                                                         42
+ Kappaphycus sp. (vars   TCBS†                   Not reported      Vibrio                   No                  No               Vibrio isolates induced IID in both
+    red and green)                                                                                                                  cultivars after 4 days (green)
+                                                                                                                                    and 7 days (red)
+
+
+
+
+                                                                                                                                                                                     | 15
+16   |                                                                                                                                        WARD et al.
+
+
+
+     Aris (2011) (PhD thesis), Azizi et al. (2018) and Largo et al. (1995b)        Most practices designed to reduce the occurrence of IID aim
+included agar hydrolysis in the tests utilized in their studies of bacte-       to limit the exposure of seaweeds to associated environmental
+ria associated with IID in Kappaphycus alvarezii and showed that the            stressors.71 This is most easily achieved through the choice of farm-
+Vibrio strains isolated in each case were capable of degrading agar;            ing method. In Malaysia, farmers most frequently opt for longline
+16S rRNA data are available for the strains isolated by Aris (2011)             cultivation in water several metres deep. This reduces exposure to
+                                                                     35,37,76
+and Azizi et al. (2018), but not for that of Largo et al. (1995b).              temperature fluctuation and to air during low tides when compared
+These sequences show low identity (92%) to each other, and thus                 to other methods. Cultivation of bacteria from water collected at in-
+do not represent the same species or strain. Each lineage was able              active eucheumatoid cultivation sites with a history of IID incidence
+to induce IID in inoculated healthy tissue, which may suggest that              found that the water closer to the surface (depth 20–­50 cm) con-
+IID-­associated Vibrio spp. are opportunistic, rather than being                tained carrageenan-­hydrolysing bacteria (Bacillus, Vibrio) and poten-
+host-­specific, and possibly taxonomically diverse. Searches of both            tial opportunistic pathogens (Flavobacterium, Pseudomonas), which
+sequences against the NCBI GenBank database reveal that the se-                 were not found in deeper water,80 suggesting siting eucheumatoid
+                        35
+quence of Aris (2011)        is not identical to any characterized species,     farms in deeper water may limit exposure to potentially disease-­
+instead showing equal sequence identity (98.4%) to characterized                influencing bacteria.
+Vibrio species V. alginolyticus, V. diabolicus, V. neonatus, V. orientalis         Comparison of longline and off-­bottom methods for the culti-
+and V. parahaemolyticus. The much shorter (130 bp compared with                 vation of Kappaphycus alvarezii in Madagascar have shown disease
+1300 bp) sequence of Azizi et al.37 is 100% identical to V. alginolyti-         incidence to be lower using longline techniques.81 Aris and Ibrahim82
+cus and V. diazotrophicus (a non-­pathogenic, nitrogen-­fixing species).        compared the horizontal transmission of IID at various stocking den-
+The 16S rRNA gene is a particularly poor taxonomic marker for the               sities of K. alvarezii (20, 30 and 40 cm distance between seedlings)
+delineation of Vibrio,77 and so the identity and phylogenetic relation-         and found that loss of biomass as a result of IID over time is inversely
+ships of the agar-­degrading strains isolated in these studies remain           proportional to the distance of the seedlings. Farmers may also fa-
+undetermined.                                                                   vour lower stocking densities as this may enhance the growth of
+     Only two other studies have attempted 16S sequencing for                   Kappaphycus alvarezii and E. denticulatum.83
+the molecular characterization of taxa isolated from IID-­affected                 A recent survey of disease incidence in eucheumatoid farms em-
+seaweeds.39,78 In most cases, the seaweed-­
+                                          derived bacterial se-                 ploying a range of cultivation techniques across the Philippines found
+quences are 95–­98% identical to the closest characterized matches              no evidence of a link between farming technique or water depth and
+in publicly available sequence databases and therefore likely not the           the observation of IID signs, suggesting mitigation of IID incidence
+same species. As such, the exact identity of these isolates remains             by manipulation of cultivation conditions is not straightforward.66
+undetermined.                                                                      Farmers regularly monitor their crops for biofoulers, usually
+     The lack of studies comparing microbiota associated with healthy           loosely attached algae on the thalli and cultivation ropes,84 or fouling
+and diseased tissue makes the role of bacteria in the development               biofilms, and remove these in order to reduce their negative effects.
+of IID difficult to interpret. It is unclear in most cases whether the          They may also choose to plant preferentially during seasons with
+bacterial taxa implicated are part of the normal microbiota of their            more favourable environmental conditions.18,56,85 Finally, in some
+host macroalgae or opportunistically colonize compromised tissues               cases farmers choose crops which show higher disease resistance:
+from the surrounding environment. Of the handful of studies that                in areas where K. alvarezii is particularly difficult to cultivate due to
+do characterize bacteria associated with healthy tissue from the                high incidence of IID, many farmers are switching to Eucheuma den-
+same host, Butardo et al.75 reported differences in the character-              ticulatum, which appears to be more resistant to most diseases and
+istics of bacterial isolates from IID-­afflicted and healthy K. alvarezii       pests, including IID.86 E. denticulatum var. million-­million was recently
+tissues, noting agarolytic and κ-­carrageenanolytic activity was only           introduced to cultivation sites in Tanzania from the Philippines,
+observed in strains isolated from diseased tissue. Kopprio et al.79             where it shows greater resilience to epiphytes and IID than previ-
+found OTUs identified as Vibrio and Alteromonas associated with all             ously used strains.18 In his PhD thesis, Nor85 states that farmers in
+eucheumatoid tissues, however noted these OTUs differed between                 Malaysia may choose different varieties of K. alvarezii depending
+healthy and diseased states, which may suggest successive coloniza-             on seasonality and seedling availability, though in most cases farm-
+tion by different bacterial strains as IID progresses.                          ers prefer to use strains which in their experience have grown well
+                                                                                previously at their sites (pers comm. Malaysian farmers). Between
+                                                                                seasons, farmers are advised to carefully clean culture equipment
+7        |   CU R R E NT M A N AG E M E NT PR AC TI C E S                       such as ropes, particularly following IID and epiphyte outbreaks87;
+                                                                                however, similar measures have only been partially effective in pre-
+Few evidence-­based, reliable strategies for preventing outbreaks of            venting disease in other cultivated algae.88
+IID have been developed, and most mitigation measures are focused                  IID is thought to ‘spread’ between plants when individuals are
+on minimizing associated economic losses. These measures fall into              grown closely together on culture lines. 28,43,62,82 Cultivation condi-
+two broad categories: those aiming to reduce the occurrence of IID              tions, particularly the density at which seedlings are planted, will also
+outbreaks, and those aiming to reduce the impact and spread of IID.             influence abiotic parameters, particularly lowering nutrient and light
+WARD et al.                                                                                                                                       | 17
+
+availability due to crowding, and reducing water movement around              et al. (1995b) and Azizi et al. (2018) explored the relationship be-
+plants. The most common strategy for reducing the potential spread            tween IID-­
+                                                                                        promoting bacteria and environmental stressors (low
+of IID, both within affected individuals and across farms, is the reg-        salinity and elevated growth temperature, respectively).37,76 Both
+ular close monitoring of crops and removal of diseased portions of            studies showed that while Vibrio strains P11 and ABI-­TU15 are capa-
+the thallus.17 More severe IID outbreaks are dealt with by early har-         ble of inducing IID in vitro in the apparent absence of other reported
+vesting at affected sites, similar to the ‘emergency harvesting’ that         causative factors, in the presence of environmental stressors these
+occurs in other aquaculture sectors such as shrimp.1 In Indonesia,            same strains can rapidly induce more severe IID signs.
+it is recommended to farmers to harvest crops early if an outbreak               It should, however, be noted that observations in vitro do not
+persists for 10 days or more,89 with similar practices employed in            necessarily reflect natural processes. Two bacterial strains, Nautella
+Malaysia and the Philippines.17                                               italica R11 and Phaeobacter gallaeciensis LSS9, are able to induce
+                                                                              bleaching of the red alga Delisea pulchra under laboratory condi-
+                                                                              tions100,101 and have both been shown by high-­throughput sequenc-
+8    |   I I D A S A S Y N D RO M I C D I S E A S E                           ing studies to be present in diseased populations in natural settings.
+                                                                              However, Zozaya-­Valdes et al.102 showed only strain LSS9 was sta-
+The pathological processes behind the development of IID signs re-            tistically significantly more abundant in diseased tissues in the field,
+main relatively unknown. IID is often stated to be the result of com-         indicating that in vitro experiments often simplify in vivo interactions.
+plex interactions between abiotic stress induced by ‘unfavourable’               Research to date has been biased towards identifying causative
+environmental conditions and opportunistic colonization by ‘patho-            factors, with little effort given to characterizing structural or func-
+genic’ bacteria.66,67 As such, IID fulfils the criteria for definition as a   tional changes in tissues showing signs of IID. Gross pathology (mac-
+syndrome (e.g. a recognizable complex of signs and other physical             roscopic signs) can often be very similar for what are microscopically
+findings which indicate a specific condition for which a direct cause         very different processes with different causative factors (as noted
+                                 90
+is not necessarily understood ). Syndromic diseases are common                by Largo 2002). There is some inconsistency in the signs attributed
+in marine systems and can have significant ecological and economic            to IID, with a number of reports including uncommon signs such as
+impacts. Collectively, the so-­called ‘white’ syndromes of corals91—­a        hardening of affected tissues, or the presence of either powdery
+group of macroscopically similar signs of tissue loss of unknown              substances or mucus.39,40,42 It remains to be determined whether
+aetiology affecting a wide number of species—­have contributed to             the gross pathology observed in all cases is the result of the same
+the large-­scale mortality of corals in the Florida Reef Tract (Stony         causative factor(s), or whether IID defines a collection of separate
+Coral Tissue Loss Disease92), the Caribbean (White Band Disease93)            conditions which manifest with similar gross signs, but with differ-
+and Great Barrier Reef, Australia (various coral bleaching events94).         ent aetiologies (the ‘moving target’ hypothesis103). There is very
+White faeces syndrome (WFS) of shrimp Litopenaeus vannamei,                   little available literature for ‘normal’ or healthy tissue structure in
+characterized by white faecal strings, distended midgut and white-­           eucheumatoids, and limited light microscopy has been reported on
+to-­golden faeces, is responsible for significant losses in cultivation       the group to date.
+settings in Asia.95,96 The exact causes of WFS remain undeter-                   Cross-­sectional images of eucheumatoid tissue structure and
+mined, though the condition has been linked to pathogenic strains of          detailed descriptions of cellular arrangement are often included in
+Vibrio,97 changes in gut prokaryote community structure and func-             taxonomic descriptions, including for Eucheuma denticulatum (as E.
+tion,95 and the presence of opportunistic pathogenic bacteria in the          spinosum105), Kappaphycus alvarezii104,105 and Eucheumatopsis isi-
+                                       96
+water column of cultivation ponds.          The condition is increasingly     formis (as Eucheuma isiforme106). Doty and Norris107 also describe
+linked to infection with the microsporidian Enterocytozoon hepatope-          cellular arrangement in some detail in their key to commercial eu-
+naei (EHP),98 although other studies suggest that EHP is not causa-           cheumatoids, though include no images. These may give insight into
+tive, with the parasite thought to exacerbate underlying causes of            the structure of healthy tissue; however, the study of pathology and
+WFS.99 There is limited evidence to suggest that the biogeochemical           disease diagnosis in animals and plants relies on histopathology, and
+conditions in cultivation ponds, particularly water pH, temperature           observation of the disruption of normal processes. Furthering our
+and turbidity, may be linked to the development of WFS disease, and           understanding of detailed cellular arrangement and tissue structure
+therefore serve as indicators for disease risk.96                             in both healthy and diseased eucheumatoid tissue should be prior-
+                                                                              itized in order to associate microscopic changes with gross disease
+                                                                              signs.
+9    |   LI M ITATI O N S O F R E S E A RC H TO DATE
+
+Despite the general consensus that IID signs develop in response              10 | A H O LO B I O NT A PPROAC H TO
+to a number of factors, often in combination, most studies have               U N D E R S TA N D I N G D I S E A S E PRO C E S S E S
+focused on the impact of a single factor, either an environmental
+stressor or a purported pathogen. Only two studies have attempted             To untangle the processes behind the development of IID, we must
+to characterize the interactions of multiple stressors. Both Largo            also further our understanding of the diversity of taxa associated
+18   |                                                                                                                                           WARD et al.
+
+
+
+with affected hosts, in both healthy and diseased states.108 Like                  species of Ascomycota (identified as Aspergillus spp. and Phoma sp.
+other macroorganisms, seaweeds are holobionts, complex and dy-                     by 18S rRNA sequencing) from IID-­affected Kappaphycus alvare-
+namic assemblages of taxa forming metabolic interdependencies                      zii tissue and demonstrated the ability of these isolates to induce
+and symbioses as a functional unit.109 Taxa associated with seaweed                IID signs in healthy, non-­axenic K. alvarezii. Dewey et al.41 isolated
+                                                                         110,111
+holobionts can have negative or positive effects on their host                     Scopulariopsis brevicaulis and Verticillium theobromae from Eucheuma
+and can function as essential symbionts for normal development at                  denticulatum tissue showing signs of IID. The authors demonstrated
+various life-­history stages.112,113 Holobiont ‘breakdown’, in which               S. brevicaulis was able to grow on heat-­treated extracts of a number
+these relationships are disrupted by an external stressor—­usually                 of red algae, including the carrageenophyte Chondrus crispus from
+environmental conditions or invasion by a pathogen—­
+                                                   has been                        the United Kingdom. However, the ability of these isolates to cause
+linked to disease in other sessile marine organisms, including corals              IID-­like signs in eucheumatoid tissues was not tested.
+and sponges.114–­116 Syndromic diseases are often pathobiotic sys-                    Viruses are increasingly recognized as pathogens of algae.128,129
+tems, in which multiple symbionts, interacting with both the host                  Lachnit et al.130 show that viruses may indeed be an important but
+and the environment, play a range of context-­dependent roles in de-               neglected part of the red algal holobiont, characterizing a number
+                         108
+termining health status.       This has been shown to be particularly              of viruses associated with Delisea pulchra, including potential patho-
+applicable to coral diseases,103,117,118 which exhibit many parallels to           gens. Green spot disease, affecting a number of valuable Pyropia crop
+IID. Researchers have struggled to find a single causative agent for               species in Korea, has been shown to be caused by a virus, PyroV1,131
+many coral bleaching syndromes, and stress the importance of un-                   and viruses have also been detected associated with bleaching in
+derstanding the composition of, and changes in, the coral holobiont                kelp Ecklonia radiata.132 To date, there are no reports of attempts to
+as a whole, where multiple taxa may play a role in the development                 investigate the diversity of viruses associated with eucheumatoids,
+of disease signs.117,119 Holobiont units with low levels of functional             either in healthy tissue or in tissue showing disease signs.
+diversity (i.e. highly specialized metabolic interdependencies, the                   Filamentous endophytic algae are also known pathogens of a
+disruption of which cannot be compensated for by other taxa) are                   number of seaweeds. The endophytic brown alga Streblonema ae-
+particularly susceptible to break down under conditions which in-                  cidioides causes thallus deformations in Saccharina latissima,133 and
+                                                               114,120
+duce stress in either the host or other constituent taxa.                          Blastophysa rhizopus is a pathogenic green endophyte which leads
+     Nothing is known about either the taxonomic or functional                     to ‘green spot rotting’ in Neodilsea yendoana.134 In the Asian carra-
+structure of eucheumatoid holobionts, in either healthy individuals                geenophyte species Chondrus ocellatus, infections with green (Ulvella
+or those showing disease signs. Understanding the composition and                  ramosa) and brown (Mikrosyphar zosterae) endophytes can co-­occur
+functional capacities of the eucheumatoid holobiont, and how these                 and inhibit host growth.135 Though infestation with epiphytic algae
+change over cultivation cycles and in association with disease signs,              is sometimes correlated with the appearance of IID signs, the role of
+are key to understanding which processes are disrupted, and the                    endophytic algae in reducing host fitness in eucheumatoids remains
+identity and function of key taxa involved.                                        unexplored.
+                                                                                      Future studies on the eucheumatoid holobiont should aim to not
+                                                                                   only explore the diversity of understudied holobiont components
+11 | D I V E R S IT Y A N D FU N C TI O N O F                                      but also elucidate their interactions with each other. Some plant and
+S E AW E E D H O LO B I O NT S                                                     algal parasite groups, such as phytomyxids, are known to function as
+                                                                                   vectors for a range of plant pathogenic viruses (e.g. the vectoring of
+Focus on microbial diversity in marine holobionts is largely biased                beet soil-­borne virus and beet necrotic yellow vein virus to sugar beet
+towards prokaryotes, with viruses and microeukaryotes remaining                    Beta vulgaris by the phytomyxid Polymyxa betae136), and interactions
+              120
+understudied.       Microbial eukaryotes have long been known to                   such as these remain largely unexplored in algal hosts. Similarly, hy-
+have important interactions with red algae, particularly widely culti-             perparasitism, in which a parasite is itself host to other parasitic taxa,
+vated species such as Porphyra sensu lato, where they may function                 is largely overlooked in plant and macroalgal holobionts.108
+as pathogens (e.g. oomycetes Pythium porphyrae and Olpidiopsis py-                    Interactions between seaweeds and their associated microbi-
+ropiae121,122) or pests, such as biofouling diatoms.88                             ota are increasingly investigated using methodologies seeking to
+     Associations between endophytic fungi and macroalgae are also                 determine the action of the metabolites produced. Epiphytic pro-
+well known and have been observed in red, green and brown macroal-                 karyote communities associated with macroalgae are known to be
+                                                          123
+gal hosts from marine environments across the world.            These rela-        highly specific, and their composition is driven by function rather
+tionships can be pathogenic, saprobic or ‘asymptomatic’. Pathogenic                than taxonomy in response to the physiological and biochemical
+relationships are the best studied, particularly the formation of galls,           properties of the host.137 As such, bacterial community composi-
+abnormal hyperplastic growth in the host tissue of brown algae in                  tion will vary across seasons, life-­history stage, and different parts
+                                         124,125
+response to the presence of the fungi.             In comparison, the di-          of the thallus.110,138 Seaweed ‘epimicrobiomes’ regulate interactions
+versity and nature of non-­pathogenic associations (which produce                  between their host algae and other taxa in the water column and
+no external signs) are understudied.126 A number of fungi have been                can have either protective or pathogenic effects.110,111 An import-
+                                                        127
+linked to disease signs in eucheumatoids. Solis et al.        isolated three       ant role of these taxa is the production of antifouling compounds
+WARD et al.                                                                                                                                        | 19
+
+inhibiting further colonization of host algal thalli. These compounds         reduced water movement) influences IID incidence. It should also be
+can either be targeted (e.g. anti-­fungal, anti-­bacterial) or general, for   noted that the eucheumatoid cultivars used in aquaculture are often
+example the production of oxidative bursts to defend against oppor-           cultivated in locations geographically distant from their natural na-
+tunistic pathogens.138,139 Conversely, seaweed epimicrobiomes have            tive range (many cultivars originate from wild stocks collected in the
+also been shown to selectively recruit beneficial microbes which              Philippines18,19). This is particularly true of cultivars imported into
+may confer protection against the development of disease signs.110            African countries, where they may be poorly adapted to local envi-
+Disruption or loss of the normal functioning of these epimicrobial            ronmental conditions. Similarly, experimental attempts at the culti-
+communities may leave hosts more susceptible to colonization by               vation of Kappaphycus alvarezii in the Caribbean and South America
+epiphytic algae or opportunistic pathogens. Endophytic fungi are              (including Ecuador, Mexico, Panama, Venezuela) using seedlings
+also known to produce a number of anti-­microbial, anti-­fungal and           originating from the Philippines have proven to be largely unsuc-
+repellent metabolites, which deter the further colonization of the            cessful due to development of IID.152
+host thalli, thereby reducing competition and tissue damage caused               Halling et al.146 and Eggertson and Halling153 recognize the need
+                           140
+by grazing metazoans.            The production of these compounds may        to identify eucheumatoid strains native to East Africa which may be
+                                                126
+be influenced by environmental conditions.                                    suitable for use in aquaculture to reduce reliance on imported cul-
+                                                                              tivars. Unlike many widely used cultivars,142 these strains may be
+                                                                              capable of sexual reproduction, and so may be able to avoid many of
+12 | ‘ D O M E S TI C ATI O N ’ A N D H OS T                                  the problems associated with the ‘loss of vigour’ observed in clonally
+G E N E TI C S                                                                propagated individuals.
+
+
+The host is an important part of any holobiont system, and as such,
+cultivated eucheumatoids may be considered as ‘domesticated’                  13 | M O D E R N M E TH O D O LO G I C A L
+holobionts. Though originally hugely productive, imported strains             A PPROAC H E S TO S Y N D RO M I C D I S E A S E
+from the Philippines cultivated in Zanzibar have shown a signifi-
+cant decline in productivity after several decades of use, poten-             Microbial diversity associated with IID has only been studied using
+tially suggesting an inability to adapt in the long term to differing         culture-­dependent methods, with the exception of a recent study
+environmental conditions (particularly increased water tempera-               utilizing Illumina 16S amplicon sequencing to compare prokaryote
+ture,18 or a decline in host genetic diversity as a result of repeated        communities associated with a very small number of healthy and
+clonal propagation.141–­143 The only genetic data available for eu-           IID-­affected eucheumatoids and planktonic communities,79 and a
+cheumatoids are genotype barcoding regions (particularly short                further study by Riyaz et al.44 which investigated prokaryote com-
+mitochondrial markers and plastid rbcL144–­146) and a very small num-         munities associated with diseased Kappaphycus alvarezii tissues only.
+ber of plastid and mitochondrial genomes for a limited number of              A number of purported ‘pathogens’ apparently able to induce disease
+individuals,147–­149 so it is unclear whether this ‘loss of vigour’ can be    in healthy tissue have been identified.37,76 Largo et al.76 highlighted
+attributed to reduced host genetic diversity, poor adaptation to cul-         a major limitation of these culture-­dependent methodologies, dem-
+tivation conditions, changes in holobiont structure or a combination          onstrating that choice of culture medium influences the number
+of these factors.                                                             and diversity of bacterial colonies obtained from affected tissues.
+    The effect of propagation method on holobiont structure in                As a result, microbial diversity is almost certainly underestimated,
+commercially exploited seaweeds has not been investigated. There              as demonstrated by the very small number of taxa isolated in IID
+is evidence that at least a portion of coral symbionts are vertically         studies to date. Furthermore, only a very small proportion of bac-
+transmitted, with others horizontally transmitted from the water              teria are readily culturable in vitro,154 with many more having spe-
+          150
+column,         and studies in agriculture crops suggest fewer symbionts      cific requirements limiting their culturability, or specialist life stages
+are inherited using micropropagation methods. It remains unclear              such as viable but non-­culturable (VBNC) states, in which they are
+                                                                      151
+how clonally propagated individuals acquire core symbiont taxa.               metabolically active but cannot be cultured. VBNC states have been
+    Sampling campaigns aiming to further our understanding of the             observed in a number of disease-­associated Vibrio and Pseudomonas
+genetic diversity of eucheumatoids frequently include surveys of              strains,155–­157 and so culture-­
+                                                                                                              dependent methodologies attempt-
+wild specimens and uncultivated species in Southeast Asia (e.g. ref-          ing to compare microbiota between healthy and diseased tissue
+          144,145
+erences             ). However, all reports of IID in the literature come     may misleadingly propose that these strains are not present as part
+from seaweed farms, unmanaged populations of introduced culti-                of the normal microbiota. In holobiont systems with high levels of
+vars on abandoned farms84 or laboratory cultivation experiments               metabolic interdependency, obligate symbionts may be difficult to
+(Table 1). It is not clear whether this apparent resistance to IID in         culture without knowledge of their required metabolites.158
+wild individuals and uncultivated species suggests a loss of resilience          The advent of more accessible and affordable high-­throughput
+in cultivated strains (either in the host or associated microbiota), or       sequencing platforms (e.g. 454 and Illumina) has led to increased
+whether the increased exposure to environmental stressors in cul-             utilization of 16S rRNA barcoding regions to characterize microbial
+tivation settings (higher water temperatures, low light levels and            communities. Culture-­independent 16S-­targeted amplicon studies
+20   |                                                                                                                                   WARD et al.
+
+
+
+consistently identify high levels of prokaryote diversity associated         with each other, and the effect this has on the development of
+                             118,159,160
+with marine holobionts                     and are increasingly applied to   bleaching signs.172 However, histology and other microscopy tech-
+           161,162
+seaweeds.            16S metabarcoding has demonstrated shifts in            niques remain underutilized tools in the study of seaweed diseases,
+the structure of prokaryote communities and their predicted func-            particularly multi-­omic studies. Pairing high-­quality microscopy with
+tion associated with mechanical damage to some Gracilaria species            selected high-­throughput sequencing and metabolomic techniques
+                      163
+caused by grazers,          and pathogen-­mediated bleaching of Delisea      will allow for a greater understanding of the disease processes be-
+pulchra.102                                                                  hind observed gross disease signs and allow for detailed characteri-
+     However, 16S amplicon sequencing also has a number of biases            zation of both healthy and diseased states.
+and limitations. DNA extraction and amplification biases may mean
+that not all prokaryote taxa present, particularly those forming more
+resistant cell walls, or genetically divergent taxa including archaea,       14 | D E V E LO PI N G A TO O LK IT FO R TH E
+are accurately represented in studies using standard extraction              S T U DY O F S Y N D RO M I C D I S E A S E S I N
+methods and general ‘prokaryote’ primers.159,164,165 Metabarcoding           S E AW E E D
+methods also rely on well populated and annotated reference da-
+tabases for taxonomic assignation and prediction of functional               Seaweeds lag behind other sessile marine holobionts in terms of our
+capacity.166,167                                                             understanding of their structure, function and disease processes.
+     Metagenomic (shotgun) sequencing methods do not selectively             To date, there has been very limited application of complementary
+target barcoding regions and therefore are not subject to the same           methodologies (i.e. molecular and microscopic techniques), an ap-
+primer biases as amplicon-­based methodologies. Instead, total ge-           proach which has been used to great effect to elucidate the contrib-
+nomic DNA is sequenced, allowing for greater insight into the diver-         uting factors to coral bleaching syndromes.
+sity of taxa associated with hosts, including prokaryotes, eukaryotes           Histological techniques are frequently utilized in coral disease
+and viruses. In comparison, metabarcoding methodologies are lim-             research, allowing the visualization of gross lesions and tissue
+ited to the target taxa, which in most cases so far has been prokary-        loss using appropriate stains,173,174 with more recent studies com-
+otes. Direct pan-­genomic sequencing using metagenomics allows for                                 throughput 16S amplicon sequencing175.
+                                                                             bining them with high-­
+more comprehensive study of the functional capacity of holobionts            Bourne et al.176 highlight the importance of this kind of multidis-
+when compared to 16S metabarcoding, which relies on predictions              ciplinary approach–­combining histological and molecular tools in
+based on the taxonomic affiliation of abundant partial 16S sequence          order to assess interactions between host, pathogenic agents and
+types to assign function (e.g. PICRUSt2167; Tax4Fun168). It should be        the environment–­particularly when examination of gross signs can
+remembered, however, that metagenomic analysis pipelines also de-            lead to inconsistent or misleading in-­field diagnosis. Greene et al.177
+pend on well annotated and taxonomically unbiased reference da-              propose a toolkit for the standard sampling and processing of cor-
+tabases and requires much deeper sequencing of each sample than              als, aimed at facilitating the quantitative characterization of coral
+for metabarcoding, while retaining sufficient numbers of samples to          health and improved ability to describe and model impacts on coral
+enable robust statistical interpretation of the results.169                  reef systems. The development of a similar set of complementary
+     Metagenomics is a powerful tool for tracking changes in the             protocols aiming to characterize health and disease in cultivated
+structure and functional capacity of stressed holobionts, as demon-          eucheumatoids will allow for the more robust comparison between
+strated by Fan et al.114, who linked changes in the taxonomic com-           healthy and diseased holobionts of cultivated strains, and a greater
+position and functional capacity of the holobiont of the sponge              understanding of the link between shifts in holobiont structure
+Rhopaloides odorabile to the development of disease signs and sub-           and function observed microscopic processes in host tissues and
+sequent breakdown of symbioses. They also demonstrate that the               environmental parameters. Using the terminology of Bass et al.108,
+dominant bacterial taxa in diseased tissues did not possess identi-          identifying whether specific pathogens, a defined ‘pathobiome’, or
+fiable virulence mechanisms (and so are likely not true pathogens),          a range of pathobiomes are associated with the disease defined as
+instead appearing to be fast-­growing nutrient scavengers including          IID will be necessary before a definitive case definition can be con-
+Vibrio and Pseudoalteromonas, bacterial groups which are often asso-         structed for this disease state.
+ciated with IID in eucheumatoids.
+     The application of a combination of molecular methods (‘multi-­
+omics’) has already offered considerable insight into holobiont              15 | CO N C LU S I O N A N D R E S E A RC H
+interactions in another red algal bleaching disease, the pathogen-­          PR I O R ITI E S
+mediated bleaching of Delisea pulchra. 16S sequencing102 and
+metagenomics170 have elucidated shifts in prokaryote community               The biggest challenge to our understanding of IID is elucidating the
+structure and functional capacity associated with bleaching, and             disease processes resulting in the observed signs; essentially, a uni-
+transcriptomics171 has offered some insight into host-­pathogen in-          fied case description of IID is not available. Future research must ur-
+teractions in this disease system. Metagenomics has also been used           gently address the lack of microscopic evidence associated with IID
+to examine how bacteria within the D. pulchra holobiont may interact         and be accompanied by a greater effort to understand the normal
+WARD et al.                                                                                                                                       | 21
+                                                                               7. Rusekwa SB, Campbell I, Msuya ME, Buriyo AS, Cottier-­Cook EJ.
+structures of healthy tissues in order to correlate microscopic obser-            Biosecurity policy and legislation of the seaweed aquaculture in-
+vations with gross signs. The application of complementary meth-                  dustry in Tanzania. J Appl Phycol. 2020;32(6):4411-­4 422.
+ods, which should include high-­quality microscopy and appropriate             8. Kelly ELA, Cannon AL, Smith JE. Environmental impacts and
+                                                                                  implications of tropical carrageenophyte seaweed farming.
+molecular methods such as high-­throughput sequencing (metagen-
+                                                                                  Conservation Biol. 2020;34(2):326-­337.
+omics and/or 16S metabarcoding, as well as more directly function-
+                                                                               9. de la Torre-­C astro M, Rönnbäck P. Links between humans and
+ally informative methods such as RNASeq), to as broad a range of                  seagrasses –­an example from tropical East Africa. Ocean Coast
+eucheumatoid species, cultivars and farming techniques as possible,               Manag. 2004;47(7–­8):361-­387.
+should be used to link disease signs to potential causative factors,          10. Barrios J, Bolaños J, López R. Blanqueamiento de arrecifes corali-
+                                                                                  nos por la invasion de Kappaphycus alvarezii (Rhodophyta) en isla
+such as holobiont breakdown or invasion by a specific pathogen,
+                                                                                  cubagua, Estado Nueva Esparta, Venezuela (Spanish language).
+and facilitate investigation of the mechanism by which these factors              Biol Inst Oceanogr Venezuela. 2007;46(2):147-­152.
+act. Once this evidence is available, it will be possible to determine        11. Chandrasekaran S, Nagendran NA, Pandiaraja D, Krishnankutty N,
+whether a unified case description for IID as the term is currently               Kamalakannan B. Bioinvasion of Kappaphycus alvarezii on corals in
+                                                                                  the Gulf of Mannar, India. Curr Sci. 2008;94(9):1167-­1172.
+applied is possible, or whether the condition encompasses a range
+                                                                              12. Sellers AJ, Saltonstall K, Davidson TM. The introduced alga
+of microscopically diverse bleaching syndromes, potentially with a                Kappaphycus alvarezii (Doty ex P.C. Silva, 1996) in abandoned
+number of different causes, which may explain the inconsistency in                cultivation sites in Bocas del Toro, Panama. Bioinvasions Rec.
+observed signs noted in Table 1.                                                  2015;4(1):1-­7.
+                                                                              13. Conklin EJ, Smith JE. Abundance and spread of the invasive red
+   Identification of IID causative factor(s) and their interaction
+                                                                                  algae, Kappaphycus spp., in Kane’ohe Bay, Hawai’i and an ex-
+with associated environmental stressors will in turn allow for the                perimental assessment of management options. Biol Invasions.
+development of evidence-­b ased guidelines for seedling propa-                    2005;7(6):1029-­1039.
+gation, farm management and disease risk monitoring, aiming to                14. Stentiford GD, Bateman IJ, Hinchcliffe SJ, et al. Sustainable aqua-
+                                                                                  culture through the One Health lens. Nat Food. 2020;1:468-­474.
+retain host and symbiont genetic and functional diversity and op-
+                                                                              15. Trono GC. Eucheuma Farming in the Philippines. University of the
+timize cultivation techniques to limit exposure to stressors. Taken               Philippines Natural Science Research Center; 1974:13.
+together, these measures will be necessary to support the sustain-            16. Doty MS, Alvarez VB. Status, problems, advances and economics
+able production of eucheumatoid seaweeds in the global aquacul-                   of Eucheuma farms. Mar Technol Soc J. 1975;9:30-­35.
+                                                                              17. Hurtado AQ, Neish IC, Critchley AT. Phyconomy: the extensive
+ture industry.
+                                                                                  cultivation of seaweeds, their sustainability and economic value,
+                                                                                  with particular reference to important lessons to be learned and
+AC K N OW L E D G E M E N T S                                                     transferred from the practice of eucheumatoid farming. Phycologia.
+All authors were supported by funding from UKRI for the                           2019;58(5):472-­483.
+GlobalSeaweedSTAR project (BB/P027806/1).                                     18. Largo DB, Msuya FE, Menezes A. Understanding the Diseases and
+                                                                                  Die-­Off of Seaweeds in Zanzibar. FAO Fisheries and Aquaculture
+                                                                                  Technical Paper. FAO. 2020;662:56 pp.
+ORCID                                                                         19. Hayashi L, Hurtado AQ, Msuya FE, Bleicher-­Lhonneur G, Critchley
+Georgia M. Ward       https://orcid.org/0000-0002-9654-1228                       AT. A review of Kappaphycus farming: prospects and constraints.
+David Bass       https://orcid.org/0000-0002-9883-7823                            In: Seckbach J, Einav R, Israel A, eds. Seaweeds and their Role in
+                                                                                  Globally Changing Environments. Cellular Origin, Life in Extreme
+Juliet Brodie     https://orcid.org/0000-0001-7622-2564
+                                                                                  Habitats and Astrobiology Vol 15.Springer; 2010.
+                                                                              20. Rantetondok A, Latama G. Epiphytic and ice-­ice diseases of sea-
+REFERENCES                                                                        weed, Kappaphycus alvarezii and its effect on growth rate and car-
+  1. Stentiford GD, Sritunyalucksana K, Flegel TW, et al. (2017) New              rageenan quality, International. J Aquacult. 2017;7(21):134-­138.
+     paradigms to help solve the global aquaculture disease crisis. PLoS      21. Mendoza WG, Montaño NE, Ganzon-­Fortes ET, Villanueva RD.
+     Pathog. 2017;13:e1006160.                                                    Chemical and gelling profile of ice-­ice infected carrageenan from
+  2. Ward GM, Faisan JP Jr, Cottier-­Cook EJ, et al. A review of re-              Kappaphycus striatum (Schmitz) Doty “sacol” strain (Solieriaceae,
+     ported seaweed diseases and pests in aquaculture in Asia. J World            Gigartinales, Rhodophyta). J Appl Phycol. 2003;14(5):409-­418.
+     Aquacult Soc. 2020;51(4):815-­828.                                       22. Loureiro RR, Reis RP, Critchley AT. In vitro cultivation of three
+  3. Cottier-­Cook EJ, Nagabhatala N, Badis Y, Campbell M, Chopin                 Kappaphycus alvarezii (Rhodophyta, Areschougiaceae) variants
+     T, Dai W, et al. Safeguarding the future of the global seaweed               (green, red and brown) exposed to a commercial extract of the
+     aquaculture industry. United Nations University (INWEH) and                  brown alga Ascophyllum nodosum (Fucaceae, Ochrophyta). J Appl
+     Scottish Association for Marine Science Policy Brief. 2016; ISBN             Phycol. 2009;22(1):101-­104.
+     978-­92-­8 08-­6080-­1.                                                  23. Amiluddin NM. Study of Growth of Carrageenan Content of
+  4. Campbell I, Kambey C, Mateo J, et al. Biosecurity policy and legis-          SEAWEED Kappaphycus alvarezii Affected by Ice-­Ice Disease in the
+     lation for the global seaweed aquaculture industry. J Appl Phycol.           Waters of Puri Island, Thousand Islands (Indonesian language). Thesis
+     2020;32(4):2133-­2146.                                                       for MS. Graduate School of the Institute of Agriculture; 2007.
+  5. FAO. The State of World Fisheries and Aquaculture 2020. Sustainability   24. Vairappan CS, Chung CS, Matsunaga S. Effect of epiphyte in-
+     in Action. Rome: FAO; 2020. https://doi.org/10.4060/ca9229en                 fection on physical and chemical properties of carrageenan pro-
+  6. Kambey CSB, Campbell I, Sondak CFA, Nor ARM, Lim PE, Cottier-­               duced by Kappaphycus alvarezii Doty (Soliericeae, Gigartinales,
+     Cook EJ. An analysis of the current status and future of biosecurity         Rhodophyta). J Appl Phycol. 2014;26(2):923-­931.
+     frameworks for the Indonesian seaweed industry. J Appl Phycol.           25. Samonte GPB. Economics of Kappaphycus spp. seaweed farm-
+     2020;32(4):2147-­2160.                                                       ing with special reference to the Central Philippines. In: Hurtado
+22   |                                                                                                                                            WARD et al.
+
+
+         AQ, Critchley AT, Neish IC, eds. Tropical Seaweed Farming: Trends,       45. Maulani RK, Achmad M, Atama G. Karakteristik jaringan secara
+         Problems and Opportunities. Springer; 2017:147-­154.                         histologi dari strain rumput laut (Kappaphycus alvarezii) yang ter-
+ 26.     Lunkapis GJ, Danny HW. Preliminary impact assessment of sea-                 infeski penyakit ice-­ice (Indonesian language). Torani J Fish Mar Sci.
+         weed cultivation by the coastal communities in Sabah, Malaysia.              2017;1(1). https://doi.org/10.35911/​torani.v1i1.3796.
+         Trans Sci Technol. 2016;3:413-­420.                                      46. Sade A, Ali I, Ariff MRM. The seaweed industry in Sabah, East
+ 27.     Msuya FE, Hurtado AG. The role of women in seaweed aqua-                     Malaysia. Jati. 2006;11:97-­107.
+         culture in the Western Indian Ocean and South-­East Asia. Eur J          47. Pang T, Liu J, Liu Q, Li H, Li J. Observations on pests and dis-
+         Phycol. 2017;52(4):482-­494.                                                 eases affecting a eucheumatoid farm in China. J Appl Phycol.
+ 28.     Yulianto K. 2004) Fenomena faktor pengontrol penyebab keru-                  2015;27(5):1975-­1984.
+         gian pada budidaya karaginofit di Indonesia (Indonesian language.        48. Tisera WL, Naguit MRA. Ice-­ice disease occurrence in seaweed
+         Oseana. 2004;29(2):17-­23.                                                   farms in Bais Bay, Negros Oriental and Zamboanga Del Norte. The
+ 29.     Vairappan CS, Chung CS, Hurtado AQ, Soya FE, Bleicher-­Lhonneur              Threshold. 2009;(4):1-­16. (not peer reviewed).
+         G, Critchley A. Distribution and symptoms of epiphyte infec-             49. Perez-­ Enriquez R, Growth of Eucheuma isiforme (C. Agardh)
+         tion in major carrageenophyte-­     producing farms. J Appl Phycol.          J. Agardh on experimental rafts off the coast of Yucatan State,
+         2008;20(5):477-­483.                                                         Mexico. J Appl Phycol. 1996;8(1):27-­28.
+ 30.     Laisow S. Dampak budidaya rumput laut terhadap tingkat pendpa-           50. Largo DB, Fukami K, Adachi M, Nishijima T. Direct enumeration of
+         tan masyarakat Kecamatan Dullah Utara, Kota Tual (Indonesian lan-            bacteria from macroalgae by epifluorescence microscopy as ap-
+         guage). Master’s Thesis. Universitas Terbuka; 2013.                          plied to the fleshy red algae Kappaphycus alvarezii and Gracilaria
+ 31.     Galgo CR, Abamo AP. Profitability analysis of seaweed (Eucheuma              spp. (Rhodophyta). J Appl Phycol. 1997;14(5):409-­418.
+         denticulatum (NL Burman) FS Collins & Hervey) enterprise in              51. Nasmia RS, Rantetondok A, Zainuddin EN. Characterisation and
+         Dawahon Island Bato, Leyte: a green value chain approach. JST.               identification of bacteria isolated from seaweed Gracilaria verru-
+         2014;4(1):63-­74.                                                            cosa (Linn., 1758) infected by ice-­ice. Int J Aquacult. 2014;4(23):1-­7.
+ 32.     Eranza DRD, Bahron A, Alin J. Sustaining seaweed farming in              52. Zainuddin EN, Anshary H, Huyyirnah H, Hiola R, Baxa DV.
+         Malaysia. Int J Bus Manag. 2015;3(3):201.                                    Antibacterial activity of Caulerpa racemosa against pathogenic
+ 33.     Eranza DRD, Bahron A, Alin J, Mahmud R, Malusirang SR. On-­                  bacteria promoting “ice-­ice” disease in the red alga Gracilaria ver-
+         going assessment of issues in the seaweed farming industry in                rucosa. J Appl Phycol. 2019;31(5):3201-­3212.
+         Sabah, Malaysia. JAAAB. 2017;4:49-­60.                                   53. Waters TJ, Lionata H, Prasetyo Wibowo T, et al. Coastal
+ 34.     Trono GC, Valdestamon RG. New aspects in the ecology and culture             Conservation and Sustainable Livelihoods through Seaweed
+         of Kappaphycus and Eucheuma. Kor J Phycol. 1994;9(2):205-­216.               Aquaculture in Indonesia: A Guide for Buyers, Conservation
+ 35.     Aris M. Identification, Bacterial Pathogenicity Dan the Application of       Practitioners, and Farmers. Version 1. The Nature Conservancy.
+         16S-­rRNA Gene for the Detection of Ice Ice Disease in the Cultivation       2019 (not peer reviewed).
+         of Seaweed (Kappaphycus alvarezii) (Indonesian language). PhD the-       54. Largo DB, Fukami K, Nishijima T, Ohno M. Laboratory-­induced
+         sis, Graduate School of the Institute of Agriculture; 2011.                  development of the ice-­ice disease of the farmed red algae
+ 36.     Saraswati SA. Darmasetiyawana IMS (2016) Identifikasi Bakteri                Kappaphycus alvarezii and Eucheuma denticulatum (Solieriaceae,
+         pada Rumput Laut Eucheuma spinosum yang terserang penyakit                   Gigartinales, Rhodophyta). J Appl Phycol. 1995;7(6):539-­543.
+         Ice-­ice di Perairan Pantai Kutuh (Indonesian language). J Mar Aquat     55. Alibon RD, Gonzales JMP, Ordoyo AET, Echem RT. Incidence of
+         Sci. 2016;2:11-­15.                                                          ice-­ice disease associated with Kappaphycus alvarezii in the sea-
+ 37.     Azizi A, Hanafi NM, Basiran MN, Teo CH. Evaluation of disease                weed farms in Zamboanga Peninsula, Mindanao, Philippines. SSR
+         resistance and tolerance to elevated temperature stress of the               Inst Int J Life Sci. 2019;5(1):2148-­2155.
+         selected tissue-­cultured Kappaphycus alvarezii Doty 1985 under          56. Maryunus RP. Pengendalian penyakit ice-­         ice budidaya rumput
+         optimised laboratory conditions. Biotech. 2018;8(8):321.                     laur, Kappaphycus alvarezii: korelasi musim dan manipulasi terba-
+ 38.     Mariño M, Breckwoldt A, Teichberg M, Kase A, Reuter H.                       tas lingkungan (Indonesian language). Jurnal kebijakan perikanan
+         Livelihood aspects of seaweed farming in Rote Island, Indonesia.             Indonesia. 2018;10(1):1-­10.
+         Mar Policy. 2019;107:103600.                                             57. Largo DB, Fukami K, Nishijima T. Time-­         dependent attachment
+ 39.     Riyaz SUM, Prabhu NS, Nalini S, Tejaswini G, Christy HJ,                     mechanism of bacterial pathogen during ice-­          ice infection in
+         Inbakandan D. Microbiome identification from ice-­        ice disease        Kappaphycus alvarezii (Gigartinales, Rhodophyta). J Appl Phycol.
+         infected Kappaphycus alvarezii using 16S rRNA gene sequencing                1999;11(1):129-­136.
+         analysis and in silico docking studies against carrageenan degrad-       58. Mollion J, Braud J-­P. A Eucheuma (Solieriaceae, Rhodophyta) culti-
+         ing bacteria. Biocatal Agric Biotechnol. 2020;27:101707.                     vation test on the south-­west coast of Madagascar. Hydrobiologia.
+ 40.     Uyenco FR, Saniel LS, Jacinto GS. The “Ice-­ice” problem in sea-             1993;260/261:373-­378.
+         weed farming. In: Proceedings of the 10th International Seaweed          59. de San M. The Farming of Seaweeds. SmartFish Programme Report.
+         Symposium. Walter de Gruyter; 1981:625-­630.                                 2012;SF/2012/28.
+ 41.     Dewey FM, Hunter-­Blair CM, Banbury GH, Donnelly KA. Isolation           60. Wakibia JG, Bolton JJ, Keats DW, Raitt LM. Factors influencing the
+         of Scopulariopsis brevicaulis from Eucheuma striatum and its ability         growth rates of three commercial eucheumoids at coastal sites in
+         to degrade seaweeds and their soluble products. Trans Br Mycol               southern Kenya. J Appl Phycol. 2006;18(3–­5):565-­573.
+         Soc. 1984;83(4):621-­629.                                                61. Kim JK, Yarish C, Hwang EK, Park M, Kim Y. Seaweed aquaculture:
+ 42.     Irmawati Y, Sudjiro F. Infection Vibrio sp. bacteria on Kappaphycus          cultivation technologies, challenges and its ecosystem services.
+         seaweed varieties brown and green. IOP Conf. Ser.: Earth Environ.            Algae. 2017;32(1):1-­13.
+         Sci. 2017;89:0126016.                                                    62. Luhan MRJ, Avañcena SS, Mateo JP. Effect of short-­term immer-
+ 43.     Aris M, Labuena R. Horizontal transmission of ice-­ice disease in            sion of Kappaphycus alvarezii (Doty) Doty in high nitrogen on the
+         seaweed Kappaphycus alvarezii (Doty) L. M. Liao (Gigartinales,               growth, nitrogen assimilation, carrageenan quality, and occur-
+         Rhodophyta). Hidrobiológica 2020;30(2):155-­161.                             rence of “ice-­ice” disease. J Appl Phycol. 2015;27(2):917-­922.
+ 44.     Riyaz SUM, Inbakandan D, Manikandan D, et al. Microbiome in              63. Agustina SS, Marlan WF. Identifikasi tingkat serangan bakteri yang
+         the ice-­ice disease of the farmed red algae Kappaphycus alvare-             menginfeksi komoditi rumput laut di perairan Teluk Tolo dan Teluk
+         zii and degradation of extracted food carrageenan. Food Biosci.              Tomini kabupaten banggai Sulawesi tengah (Indonesian language).
+         2021;42:101138.                                                              Jurnal Balik Diwa. 2014;5(2):34-­39.
+WARD et al.                                                                                                                                       | 23
+ 64. Vairappan CS. Seasonal occurrences of epiphytic algae on the com-            rumput laut (Kappaphycus alvarezii). (Indonesian language). SEAJ.
+     mercially cultivated red alga Kappaphycus alvarezii (Solieriaceae,           2020;2(2):66-­78.
+     Gigartinales, Rhodophyta). J Appl Phycol. 2006;18(3):611-­617.         81.   Atewberhan M, Rougier A, Rakotomahazo C. Influence of envi-
+ 65. Araújo PG, Ribeiro ALNL, Yokoya NS, Fujui MT. Temperature and                ronmental factors and farming technique on growth and health of
+     salinity responses of drifting specimens of Kappaphycus alvarezii            farmed Kappaphycus alvarezii (cottonii) in south-­west Madagascar.
+     (Gigartinales, Rhodophyta) farmed on the Brazilian tropical coast.           J Appl Phycol. 2015;27(2):923-­934.
+     J Appl Phycol. 2014;26(5):1979-­1988.                                  82.   Aris M, Ibrahim TA. Laju transmisi penyakit ice-­      ice pada rum-
+ 66. Faisan JP Jr, Luhan MRJ, Sibonga RC, et al. Preliminary survey               put laut Kappaphycus alvarezii berdasarkan jarak tanam den-
+     of pests and diseases of eucheumatoid seaweed farms in the                   gan metode longline (Indonesian language). Budidaya Perairan.
+     Philippines. J Appl Phycol. 2021;33(4):2391-­     2405. https://doi.         2020;8(2):82-­90.
+     org/10.1007/s1081​1-­021-­02481​-­5                                    83.   Msuya FE. Effects of stocking density and additional nutrients on
+ 67. Largo DB. Recent developments in seaweed diseases. In: Hurtado               growth of the commercially farmed seaweeds Eucheuma dentic-
+     AG, Guanzon NG Jr, de Castro-­        Mallare TR Luhan MRJ eds.              ulatum and Kappaphycus alvarezii in Zanzibar Tanzania. TaJONAS.
+     Proceedings of the National Seaweed Planning Workshop held on                2013;4(1):605-­612.
+     August 2–­3, 2001, SEADFEC Aquaculture Department, Tigbauan,           84.   Msuya FE, Porter M. Impact of environmental changes on farmed
+     Iloilo. (pp. 35-­42). SEAFDEC Aquaculture Department. 2002.                  seaweed and farmers: the case of Songo Songo Island, Tanzania. J
+ 68. Leonardi PI, Miravalles AB, Faugeron S, Flores V, Bentrán J, Correa          Appl Phycol. 2014;26(5):2135-­2141.
+     JA. Diversity, phenomenology and epidemiology of epiphytism in         85.   Nor ARM. The Effect of Seaweed Aquaculture Cooperatives on
+     farmed Gracilaria chilensis (Rhodophyta) in northern Chile. Eur J            Sustainable Livelihoods in Malaysia. PhD Thesis. :Newcastle
+     Phycol. 2009;41(2):247-­257.                                                 University; 2018.
+ 69. Mtolera MSP, Collén J, Pedersén M, Semesi AK. Destructive hydro-       86.   Arisandi A, Farid A. Dampak factor ekologis terhadap sebaran pen-
+     gen peroxide production in Eucheuma denticulatum (Rhodophyta)                yakit ice-­ice (Indonesian language). Jurnal Kelautan. 2014;7:20-­25.
+     during stress caused by elevated pH, high light intensities and        87.   Kambey CSB, Campbell I, Cottier-­Cook E. Seaweed Aquaculture:
+     competition with other species. Eur J Phycol. 1995;30(4):289-­297.           a preliminary assessment of biosecurity measures for controlling
+ 70. Mtolera MSP, Collén J, Pedersén M, Ekdahl A, Abrahamsson K,                  disease and pest outbreaks of a Kappaphycus farm. J Appl Phycol.
+     Semesi AK. Stress-­     induced production of volatile halogenated           2021. https://doi.org/10.1007/s1081​1-­021-­02530​-­z
+     organic compounds in Eucheuma denticulatum (Rhodophyta)                88.   Kim GH, Moon K-­H, Kim J-­Y, Shim J, Klochkova TA. A revaluation
+     caused by elevated pH and high light intensities. Eur J Phycol.              of algal diseases in Korean Pyropia (Porphyra) sea farms and their
+     1996;31(1):89-­95.                                                           economic impact. Algae. 2014;29(4):249-­265.
+ 71. Ask EI, Azanza RV. Advances in cultivation technology of commer-       89.   Arisandi A, Marsoedi NH, Sartimbul A. Velocity and infection per-
+     cial eucheumatoid species: a review with suggestions for future              centage of ice-­ice disease on Kappaphycus alvarezii in Bluto Beach
+     research. Aquaculture. 2002;206(3–­4):257-­277.                              Sumenep (Indonesian language). JIPK. 2011;3:47-­51.
+ 72. Mtolera MSP. Effect of seagrass cover and mineral content on           90.   Calvo F, Karras BT, Phillips R, Kimball AM, Wilf F. Diagnoses,
+     Kappaphycus and Eucheuma productivity in Zanzibar. Western                   syndromes, and diseases: a knowledge representation problem.
+     Indian Ocean J Mar Sci. 2003;2(2):163-­170.                                  In: American Medical Informatics Association Annual Symposium
+ 73. Loureiro RR, Hurtado AQ, Critchley AT. Impacts of AMPEP                      Proceedings; 2003:802.
+     on Epiphytes and Diseases in Kappaphycus and Eucheuma                  91.   Mera H, Bourne DG. Disentangling causation: complex roles of
+     Cultivation. In: Hurtado A, Critchley A, Neish I, eds. Tropical              coral-­associated microorganisms in disease. Environ Microbiol.
+     Seaweed Farming Trends, Problems and Opportunities. Developments             2018;20(2):431-­4 49.
+     in Applied Phycology, vol 9. Springer; 2017:111-­119.                  92.   Meyer JL, Castellanos-­Gell J, Aeby GS, Häse CC, Ushijima B, Paul
+ 74. Riyaz SUM, Nalini S, Kavitha G, Sutha SAD, Inbakandan D.                     VJ. Microbial community shifts associated with the ongoing stony
+     Characterisation and identification of isolated bacteria from ice-­          coral tissue loss disease outbreak on the Florida Reef Tract. Front
+     ice disease infected seaweed Kappaphycus alvarezii. Indian J Mar             Microbiol. 2019;10:2244.
+     Sci. 2019;48(8):1286-­1290.                                            93.   Aronson RB, Precht WF. White-­band disease and the changing face
+ 75. Butardo VM, Ganzon-­Fortes ET, Silvestre VA, Bacano-­Maningas                of Caribbean coral reefs. In: Porter JW, ed. The Ecology and Etiology
+     MBB, Montaño MNE, Lluisma AO. Isolation and classification of                of Newly Emerging Marine Diseases. Netherlands; 2001:25-­38.
+     culturable bacteria associated with ice-­ice disease in Kappaphycus    94.   Great Barrier Reef Marine Park Authority. Final Report: 2016 Coral
+     and Eucheuma (Rhodophyta, Solieriaceae). Philipp Scient.                     Bleaching Event on the Great Barrier Reef. GBRMPA; 2017. ISBN
+     2003;40:223-­237.                                                            9780995373167.
+ 76. Largo DB, Fukami K, Nishijima T. Occasional pathogenic bacteria        95.   Hou D, Huang Z, Zeng S, et al. Intestinal bacterial signatures of
+     promoting ice-­ice disease in the carrageenan-­producing red algae           white faeces syndrome in shrimp. Appl Microbiol Biotechnol.
+     Kappaphycus alvarezii and Eucheuma denticulatum (Solieriaceae,               2018;102(8):3701-­3709.
+     Gigartinales, Rhodophyta). J Appl Phycol. 1995;7(6):545-­554.          96.   Alfiansah YR, Peters S, Harder J, Hassenrück C, Gärdes A.
+ 77. Thompson FL, Gevers D, Thompson CC, et al. Phylogeny and                     Structure and co-­   o ccurrence patterns of bacterial communi-
+     molecular identification of Vibrios on the basis of multilocus se-           ties associated with white faeces disease outbreaks in Pacific
+     quence analysis. Appl Env Microbiol. 2005;71(9):5107-­5115.                  white-­l eg shrimp Penaeus vannamei aquaculture. Sci Rep.
+ 78. Syafitri E, Prayitno SB, Ma’ruf WF, Radjasa OK. Genetic diversity of         2020;10:11980.
+     the causative agent of ice-­ice disease of the seaweed Kappaphycus     97.   Mastan SA. (2015) Incidences of white faeces syndrome (WFS) in
+     alvarezii from Karimunjawa Island, Indonesia. IOP Conf Ser: Earth            farm-­reared shrimp, Litopenaeus vannamei, Andhra Pradesh. Indo
+     Environ Sci. 2016;55:012044.                                                 Am J Pharm. 2015;5(09):3044-­3 047.
+ 79. Kopprio GA, Cuong LH, Luyen ND, et al. Carrageenophyte-­               98.   Aranguren Caro LF, Mai HN, Pichardo O, Cruz-­Flores R, Hanggono
+     attached and planktonic bacterial communities in two distinct                B, Dhar AK. Evidences supporting Enterocytozoon hepatopenaei as-
+     bays of Vietnam: eutrophication indicators and insights on ice-­ice          sociation with white feces syndrome in farmed Penaeus vannamei
+     disease. Ecol Indic. 2021;121:107067.                                        in Venezuela and Indonesia. Dis Aquat Org. 2020;141(1):71-­78.
+ 80. Wulandari SA, Isdiantoni PEN. Analisis fisika-­kimia perairan dan      99.   Tangprasittipap A, Srisala J, Chouwdee S, et al. The microsporid-
+     komunitas bakteri terkait kemunculan penyakit ice-­        ice pada          ian Enterocytozoon hepatopenaei is not the cause of white faeces
+24   |                                                                                                                                          WARD et al.
+
+
+         syndrome in whiteleg shrimp Penaeus (Litopenaeus) vannamei. BMC                the coral Cladocora caespitosa in the Western Mediterranean Sea.
+         Vet Res. 2013;9:139.                                                           Front Microbiol. 2018;9:22.
+100.     Case RJ, Longford SR, Campbell AH, et al. Temperature induced           119.   Rosenberg E, Kushmaro A, Kramarsky-­          Winter E, Banin E,
+         bacterial virulence and bleaching disease in a chemically defended             Yossi L. The role of microorganisms in coral bleaching. ISME J.
+         marine macroalga. Environ Microbiol. 2011;13(2):529-­537.                      2009;3(2):139-­146.
+101.     Fernandes N, Case RJ, Longford SR, et al. Genomes and virulence         120.   Pita L, Rix L, Slaby BM, Franke A, Hentschel U. The sponge holobi-
+         factors of novel bacterial pathogens causing bleaching disease in              ont in a changing ocean: from microbes to ecosystems. Microbiome.
+         the marine alga Delisea pulchra. PLoS One. 2011;6(12):e27387.                  2018;6:46.
+102.     Zozaya-­Valdes E, Egan S, Thomas T. A comprehensive analysis of         121.   Takahashi M, Ichitani T, Sasaki M. Pythium porphyrae Takahashi et
+         the microbial communities of healthy and diseased marine mac-                  Sasaki sp. nov. causing red rot of marine red algae Porphyra spp.
+         roalgae and the detection of known and potential bacterial patho-              Trans Mycol Soc Jpn. 1977;18:279-­285.
+         gens. Front Microbiol. 2015;6:146.                                      122.   Klochkova TA, Shin YJ, Moon H-­K , Motomura T, Kim GH. New
+103.     Sutherland KP, Berry B, Park A, et al. Shifting white pox aetiologies          species of unicellular obligate parasite, Olpidiopsis pyropiae sp.
+         affecting Acropora palmata in the Florida Keys, 1994–­2014. Philos             nov., that plagues Pyropia sea farms in Korea. J Appl Phycol.
+         Trans R Soc Long B. 2016;371(1689):20150205.                                   2014;28(1):73-­83.
+104.     Doty MS. Eucheuma alvarezii sp. nov. (Gigartinales, Rhodophyta)         123.   Flewelling AJ, Currie J, Gray CA, Johnson JA. Endophytes from
+         from Malaysia. In: Abbot IA, Norris JN, eds. Taxonomy of Economic              marine macroalgae: promising sources of novel natural products.
+         Seaweeds with Reference to some Pacific and Caribbean species.                 Curr Sci. 2015;109(1):88-­111.
+         Report No. T-­C SGCP-­011. California Sea Grant College Program.        124.   Apt KE. Galls and tumor-­like growths on marine macroalgae. Dis
+         1985;37-­45.                                                                   Aquat Org. 1988;4(1):211-­217.
+105.     Doty MS. Prodromus ad Systematica Eucheumatoideorum: A tribe            125.   Neill K, Heesch S, Nelson W. Diseases, pathogens and parasites of
+         of commercial seaweeds related to Eucheuma. In: Abbott IA, ed.                 Undaria pinnatifida. MAF Biosecurity Technical Paper No 2009/44.
+         Taxonomy of economic seaweeds with reference to some Pacific and               ISBN 1177-­6 412 (online). 2008. (not peer reviewed).
+         Caribbean Species, vol. II. California Sea Grant College Program;       126.   Suryanarayanan TS. Fungal Endosymbionts of Seaweeds. Prog Mol
+         1988:59-­208.                                                                  Subcell Biol. 2012;53:53-­69.
+106.     Cheney DP, The genus Eucheuma J. Agardh in Florida and the              127.   Solis MJL, Draeger S, dela Cruz TEE. Marine-­derived fungi from
+         Caribbean. In: Abbott IA, ed. Taxonomy of economic seaweeds with               Kappaphycus alvarezii and K. striatum as potential causative agents
+         reference to some Pacific and Caribbean Species Vol. II. California            of ice-­ice disease in farmed seaweeds. Bot Mar. 2010;53(6):587-­594.
+         Sea Grant College Program; 1988: 209-­219.                              128.   Gachon CMM, Sime-­Ngando T, Strittmatter M, Chambouvet A,
+107.     Doty MS, Norris JN. Eucheuma species (Solieriaceae, Rhodophyta)                Kim GH. Algal diseases: spotlight on a black box. Trends Plant Sci.
+         that are major sources of carrageenan. In: Abbot IA, Norris JN, se-            2010;15(11):633-­6 40.
+         nior eds. Taxonomy of economic seaweeds with reference to some          129.   McKeown DA, Schroeder JL, Stevens K, et al. Phaeoviral infections
+         Pacific and Caribbean Species Report No. T-­C SGCP-­011. California            are present in Macrocystis, Ecklonia and Undaria (Laminariales)
+         Sea Grant College Program; 1985;47-­61.                                        and are influenced by wave exposure in Ectocarpales. Viruses.
+108.     Bass D, Stentiford GD, Wang H-­       C , Koskella B, Tyler C. The             2018;10(8):410.
+         Pathobiome in animal and plant diseases. Trends Ecol Evol.              130.   Lachnit T, Thomas T, Steinberg P. Expanding our understanding of
+         2019;34(11):996-­1008.                                                         the seaweed holobiont: RNA viruses of the red alga Delisea pul-
+109.     van der Loos LM, Eriksson BK, Falcão SJ. The macroalgal holobiont              chra. Front Microbiol. 2016;6:1489.
+         in a changing sea. Trends Microbiol. 2019;27(7):635-­650.               131.   Kim GH, Klochkova TA, Lee DJ, Im SH. Chloroplast virus causes
+110.     Egan S, Harder T, Burke C, Steinberg P, Kjelleberg S, Thomas T. The            green-­  spot disease in cultivated Pyropia of Korea. Algal Res.
+         seaweed holobiont: understanding seaweed-­bacteria interactions.               2016;17:293-­299.
+         FEMS Microbiol Rev. 2013;37(3):462-­476.                                132.   Beattie DT, Lachnit T, Dinsdale EA, Thomas T, Steinberg PD.
+111.     Saha M, Weinberger F. Microbial, “gardening” by a seaweed holo-                Novel ssDNA viruses detected in the virome of bleached, habitat-­
+         biont: surface metabolites attract protective and deter pathogenic             forming kelp Ecklonia radiata. Front Mar Sci. 2018;4:441.
+         epibacterial settlement. J Ecol. 2019;107(5):2255-­2265.                133.   Peters       AF,    Schaffelke    B.  Streblonema     (Ectocarpales,
+112.     Lemay MA, Martone PT, Hind KR, Lindstrom SC, Parfrey                           Phaeophyceae) infection in the kelp Laminaria saccharina
+         LW. Alternative life history phases of a common seaweed                        (Laminariales, Phaeophyceae) in the western Baltic. Hydrobiologia.
+         have distinct microbial surface communities. Molec. Ecol.                      1996;326/327:111-­116.
+         2017;27(17):3555-­3568.                                                 134.   Iima M, Tatewaki M. On the life history and host specificity of
+113.     Tapia JE, González B, Goulitquer S, Potin P, Correa JA. Microbiota             Blastophysa rhizopus (Codiales, Chaetosiphonaceae), an endo-
+         influences morphology and reproduction of the brown alga                       phytic green alga from Mororan in laboratory cultures. Jpn J
+         Ectocarpus sp. Front Microbiol. 2016;7:197.                                    Phycol. 1987;35:241-­250.
+114.     Fan L, Liu M, Simister R, Webster SN, Thomas T. Marine microbial        135.   Gao X, Ogandaga CAM, Park SK, Oh JC, Choi HG. Algal en-
+         symbiosis heats up: the phylogenetic and functional response of a              dophytes of commercial Chondrus ocellatus (Gigartinaceae,
+         sponge holobiont to thermal stress. ISME J. 2013;7(5):991-­1002.               Rhodophyta) from different wild populations in Korea. J Appl
+115.     Ramsby BD, Hoogenboom MO, Whalan S, Webster NS. Elevated                       Phycol. 2019;32(1):697-­703.
+         seawater temperature disrupts the microbiome of an ecologically         136.   Schwelm A, Badstöber J, Bulman S, et al. Not in your usual
+         important bioeroding sponge. Mol Ecol. 2018;27(8):2124-­2137.                  Top 10: protists that infect plants and algae. Mol Plant Pathol.
+116.     Sheridan C, Kramarsky-­Winter E, Sweet M, Kushmaro A, Costa                    2017;19(4):1029-­1044.
+         LM. Diseases in coral aquaculture: causes, implications and pre-        137.   Burke C, Steinberg P, Rusch D, Kjelleberg S, Thomas T. Bacterial
+         ventions. Aquaculture. 2013;396–­399:124-­134.                                 community assembly based on functional genes rather than spe-
+117.     Sweet MJ, Bulling MT. On the importance of the microbiome and                  cies. Proc Natl Acad Sci USA. 2011;108(34):14288-­14293.
+         pathobiome in coral health and disease. Front Mar Sci. 2017;4:9.        138.   Hollants J, Leliaert F, de Clerck O, Willems A. What we can learn
+118.     Rubio-­Portillo E, Kersting DK, Linares C, Ramos-­Esplá AA, Antón              from sushi: a review on seaweed-­      bacterial associations. FEMS
+         J. Biogeographic differences in the microbiome and pathobiome of               Microbiol Ecol. 2012;83(1):1-­16.
+WARD et al.                                                                                                                                      | 25
+139. Singh RP, Reddy CRK. Seaweed-­          microbial interactions: key   159. Yang Q, Franco CMM, Zhang W. Uncovering the hidden marine
+     functions of seaweed-­associated bacteria. FEMS Microbiol Ecol.            sponge microbiome by applying a multi-­primer approach. Sci Rep.
+     2013;88(2):213-­230.                                                       2019;9:6214.
+140. Suryanarayanan TS, Venkatachalam A, Thirunavukkarasu N,               160. Kemp KM, Westrich JR, Alabady MS, Edwards ML, Lipp EK.
+     Ravishankar JP, Doble M, Geetha V. Internal mycobiota of marine            Abundance and multilocus sequence analysis of Vibrio bacteria
+     macroalgae from the Tamilnadu coast: distribution, diversity and           associated with diseased Elkhorn coral (Acropora palmata) of the
+     biotechnological potential. Bot Mar. 2010;53(5):457-­468.                  Florida Keys. Appl Environ Microbiol. 2018;84(2):e01035-­e1117.
+141. Collén JM, Mtolera M, Abrahamsson K, Semesi A, Pedersén M.            161. Dobretsov S, Véliz K, Romero MS, Tala F, Thiel M. Impact of UV ra-
+     Farming and physiology of the red algae Eucheuma: growing com-             diation on the red seaweed Gelidium lingulatum and its associated
+     mercial importance in East Africa. Ambio. 1995;24(7–­8):497-­501.          bacteria [published online ahead of print July 2020]. Eur J Phycol.
+142. Hurtado AQ, Neish IC, Critchley AT. Developments in production             2020. https://doi.org/10.1080/09670​262.2020.1775309.
+     technology of Kappaphycus in the Philippines: more than four de-      162. Campbell AH, Marzinelli EM, Gelber J, Steinberg PD. Spatial
+     cades of farming. J Appl Phycol. 2015;27(5):1945-­1961.                    variability of microbial assemblages associated with a dominant
+143. Ali MKM, Critchley AT, Hurtado AQ. Micropropagation and sea-­              habitat-­forming seaweed. Front Microbiol. 2015;6:230.
+     based nursery growth of selected commercial Kappaphycus spe-          163. Tan TT, Song SL, Poong S-­W, Ward GM, Brodie J, Lim P-­E. The
+     cies in Penang, Malaysia. J Appl Phycol. 2020;32(2):1301-­1309.            effect of grazing on the microbiome of two commercially import-
+144. Tan J, Lim PE, Phang SM, et al. Kappaphycus malesianus sp. nov.:           ant agarophtes, Gracilaria firma and G. salicornia (Gracilariaceae,
+     a new species of Kappaphycus (Gigartinales, Rhodophyta) from               Rhodophyta). J Appl Phycol. 2020;32(4):2549-­2559.
+     Southeast Asia. J Appl Phycol. 2014;26(2):1273-­1285.                 164. Xue M, Wu L, He Y, Liang H, Wen C. Biases during DNA ex-
+145. Lim PE, Tan J, Phang SM, et al. Genetic diversity of Kappaphycus           traction affect characterisation of the microbiota associated with
+     Doty and Eucheuma J. Agardh (Solieraeae, Rhodophyta) in                    larvae of the Pacific white shrimp, Litopenaeus vannamei. PeerJ.
+     Southeast Asia. J Appl Phycol. 2014;26(2):1253-­1272.                      2018;6:e5257.
+146. Halling C, Wikström SA, Lilliesköld-­Sjöö G, Mörk E, Lundsør E,       165. Holt CC, Bass D, Stentiford GD, van der Geizen M Understanding
+     Zuccarello GC. Introduction of Asian strains and low genetic vari-         the role of the shrimp gut microbiome in health and disease. [pub-
+     ation in farmed seaweeds: indications for new management prac-             lished online ahead of print, April 2020]. J Inv Pathol. 2020: https://
+     tices. J Appl Phycol. 2013;25(1):89-­95.                                   doi.org/10.1016/j.jip.2020.107387.
+147. Liu N, Zhang L, Tang X, et al. Complete plastid genome of             166. García-­López R, Cornejo-­  Granadas F, Lopez-­    Zavala AA, et al.
+     Kappaphycus alvarezii: insights of large-­        scale rearrange-         Doing more with less: a comparison of 16S hypervariable regions
+     ments among Florideophyceae plastid genomes. J Appl Phycol.                in search of defining the shrimp microbiota. Microorganisms.
+     2019;31(6):3997-­4 005.                                                    2020;8(1):134.
+148. Tablizo FA, Lluisma AO. The mitochondrial genome of the red alga      167. Douglas GM, Maffei VJ, Zaneveld JR, et al. PICRUSt2 for predic-
+     Kappaphycus striatus (“Green Sacol” variety): complete nucleotide          tion of metagenome functions. Nat Biotechnol. 2020;38:669-­688.
+     sequence, genome structure and organisation, and comparative          168. Aßhauer KP, Wemheuer B, Daniel R, Meinicke P. Tax4Fun: pre-
+     analysis. Mar Genomics. 2014;18(b):155-­161.                               dicting functional profiles from metagenomic 16S rRNA data.
+149. Li Y, Liu N, Wang X, et al. Comparative genomics and systemat-             Bioinformatics. 2015;31(17):2882-­2884.
+     ics of Betaphycus, Eucheuma, and Kappaphycus (Silieriaceae:           169. Bass D, Stentiford GD, Littlewood TD, Hartikainen H. Diverse ap-
+     Rhodophyta) based on mitochondrial genome. J Appl Phycol.                  plications of environmental DNA methods in parasitology. Trends
+     2018;30(6):3435-­3 443.                                                    Parasitol. 2015;31(10):499-­513.
+150. Ritchie KB. Bacterial symbionts of Corals and Symbiodinium.           170. Zozaya-­  Valdes E, Roth-­  S chulze AJ, Egan S, Thomas T.
+     In: Rosenberg E, Gophna U, eds. Beneficial Microorganisms in               Microbial community function in the bleaching disease of
+     Multicellular Life Forms. Springer-­Verlag; 2011:139-­150.                 the marine macroalgae Delisea pulchra. Environ Microbiol.
+151. Pirttilä AM. Commentary: Agroforestry leads to shifts within the           2017;19(8):3012-­3 024.
+     gammaproteobacterial microbiome of banana plants cultivated in        171. Hudson J, Gardiner M, Deshpande N, Egan S. Transcriptional
+     Central America. Front Microbiol. 2016;7:656.                              response of Nautella italica R11 towards its macroalgal host un-
+152. Hurtado AQ, Reis RP, Loureiro RR, Critchley AT. Kappaphycus                covers new mechanisms of host-­pathogen interaction. Mol Ecol.
+     (Rhodophyta) cultivation: problems and the impacts of Acadian              2017;27(8):1820-­1832.
+     marine plant extract powder. In: Pereira L, Neto J, eds. Marine       172. Longford SR, Campbell AH, Nielsen S, Case RJ, Kjelleberg S,
+     Algae Biodiversity Taxonomy, Environmental Assessment and                  Steinberg PD. Interactions within the microbiome alter microbial
+     Biotechnology. CRC Press; 2014:251-­291.                                   interactions with host chemical defences and affect disease in a
+153. Eggertsen M, Halling C. Knowledge gaps and management recom-               marine holobiont. Sci Rep. 2019;9:363.
+     mendations for future paths of sustainable seaweed farming in the     173. Work TM, Aeby GS. Pathology of tissue loss (white syndrome)
+     Western Indian Ocean. Ambio. 2020;5:60-­73.                                in Acropora sp. corals from the Central Pacific. J Inv Pathol.
+154. Stuart EJ. Growing unculturable bacteria. J Bacteriol.                     2011;107(2):127-­131.
+     2012;194(16):4151-­4160.                                              174. Séré MG, Tortosa P, Chabanet P, Quod J-­P, Sweet MJ, Schleyer
+155. Xu HS, Roberts N, Singleton FL, Attwell RW, Grimes DJ, Colwell             MH. Identification of a bacterial pathogen associated with Porites
+     RR. Survival and viability of nonculturable Escherichia coli and           white patch syndrome in the Western Indian Ocean. Mol Ecol.
+     Vibrio cholerae in the estuarine and marine environment. Microb            2015;24(17):4570-­4781.
+     Ecol. 1982;8(4):313-­323.                                             175. Sweet MJ, Burian A, Fifer J, Bulling M, Elliot D, Raymundo L.
+156. Li L, Mendis N, Trigui H, Oliver JD, Faucher SP. The importance of         Compositional homogeneity in the pathobiome of a new, slow-­
+     the viable but non-­culturable state in human bacterial pathogens.         spreading coral disease. Microbiome. 2019;7:139.
+     Front Microbiol. 2014;5:258.                                          176. Bourne D, Garren M, Work TM, Rosenberg E, Smith GW, Drew
+157. Khan NH, Ahsan M, Taylor WD, Kogure K. Culturability and sur-              HC. Microbial disease and the coral holobiont. Trends Microbiol.
+     vival of marine, freshwater and clinical Pseudomonas aeruginosa.           2009;17(12):554-­562.
+     Microbes Environ. 2010;25(4):266-­274.                                177. Greene A, Leggat W, Donahue MJ, et al. Complementary sam-
+158. Dale C, Moran NA. Molecular interactions between bacterial sym-            pling methods for coral histology, metabolomics and microbiome.
+     bionts and their hosts. Cell. 2006;126(3):453-­465.                        Methods Ecol Evol. 2020;11:1012-­1020.
+26   |                                                                                                                                      WARD et al.
+
+
+178. Hayashi L, Santos AA, Faria GSM, et al. Kappaphycus alvarezii                 agent of ice-­ice disease on seaweed Kappaphycus alvarezii. PeerJ
+     (Rhodophyta, Areschougiaceae) cultivated in subtropical waters in             Preprints. 2016. https://doi.org/10.7287/peerj.prepr​     ints.2016v1
+     Southern Brazil. J Appl Phycol. 2011;23(3):337-­3 43.                         (not peer reviewed).
+179. Pellizzari F, Reis RP. Seaweed cultivation on the Southern and           187. Mulyati H, Geldermann J. Managing risks in the Indonesian sea-
+     Southeastern Brazilian coast. Rev Bras Farm. 2011;21(2):305-­312.             weed supply chain. Clean Tech Environ Policy. 2017;19(1):175-­189.
+180. Barbaroux O, Perez R, Dreno J-­P. L’algue rouge Eucheuma spino-          188. Kimathi AG, Wakibia JG, Gichua MK. Growth rates of Eucheuma
+     sum possibilities d’exploitation et de culture aux Antilles (French           denticulatum and Kappaphycus alvarezii (Rhodophyta; Gigartinales)
+     language). Science et Pêche Bull Inst Pêches Marit. 1984;348.                 cultured using modified off-­bottom and floating raft techniques on
+181. Pang T, Liu Q. ENSO and eucheumatoid algae cultivation in China.              the Kenyan coast. WIO J Mar Sci. 2018;17(2):11-­24.
+     J Appl Phycol. 2019;31(2):1207-­1212.                                    189. Sulu R, Kumar L, Hay C, Pickering T. Kappaphycus Seaweed in the
+182. Luxton DM, Robertson M, Kindley MJ. Farming of Eucheuma in the                Pacific: Review of Introductions and Field Testing Proposed Quarantine
+     south Pacific Islands of Fiji. Hydrobiologia. 1987;151/152:359-­362.          Protocols. Secretariat of the Pacific Community. Aquaculture
+183. Arasamuthu A, Edward JKP. Occurrence of Ice-­          ice disease in         Technical Papers 2004: ISSN 1683-­7568. (not peer reviewed).
+     seaweed Kappaphycus alvarezii at Gulf of Mannar and Palk Bay,
+     Southeast India. IJMS. 2018;47(6):1208-­1216.
+184. Pambudi LT, Meinita MDN. Ariyati RW (2010) Seaweed cultivation
+     in Indonesia: recent status. J Mar Biosci Biotechnol. 2010;4(1):6-­10.      How to cite this article: Ward GM, Kambey CSB, Faisan JP
+185. Handayani T, Alimuddin WU, Suryati E, Parenrengi A. Binary fac-             Jr., et al. Ice-­Ice disease: An environmentally and
+     tor construction and Agrobacterium tumefaciens-­mediated trans-             microbiologically driven syndrome in tropical seaweed
+     formation of lysozyme gene in seaweed Kappaphycus alvarezii.
+                                                                                 aquaculture. Rev Aquac. 2021;00:1–­26. https://doi.
+     Biotropia. 2014;21(2):80-­90.
+186. Achmad M, Alimuddin A, Widyastuti U, Sukenda S, Suryanti E,                 org/10.1111/raq.12606
+     Harris E. Molecular identification of new bacterial causative
+

@@ -1,0 +1,1159 @@
+Journal of Applied Phycology (2026) 38:2143–2162
+https://doi.org/10.1007/s10811-026-03835-7
+
+    REVIEW
+
+
+
+Bacterial disease in seaweed aquaculture: pathogen diversity
+and future solutions
+Shauna Corr1,2       · Chris Lowe3       · Michiel Vos1
+
+Received: 15 September 2025 / Revised: 26 February 2026 / Accepted: 5 March 2026 / Published online: 31 March 2026
+© The Author(s) 2026
+
+
+Abstract
+In recent years, there has been a rapid expansion in seaweed aquaculture due to the increased demand for sustainable food,
+pharmaceuticals, and other industrial needs. This growth has been accompanied by a rise in disease prevalence, jeopardis-
+ing the economic viability of seaweed farming and the livelihoods of millions reliant on the sector. Here, through focusing
+on the complex interactions between seaweed hosts and their microbial communities, we review current knowledge on
+bacterial seaweed pathogens. We discuss the challenges associated with pathogen identification, including the constraints
+of traditional approaches and the complexities arising from resident commensal bacteria. We then assess the use of probiot-
+ics, selective breeding, Integrated Multi-Trophic Aquaculture (IMTA), site selection, and the priming of early life stages as
+emerging disease management strategies, while highlighting the need for omics-based studies to identify disease biomarkers
+and commercially relevant disease-resistant strains. We conclude by underlining the importance of early detection systems
+and improved knowledge dissemination within the sector to enable a more proactive and sustainable approach to disease
+management.
+
+Keywords Infectious algal diseases · Bacterial pathogens · Macroalgae · Beneficial bacteria · Future solutions ·
+Aquaculture · Marine
+
+
+Introduction                                                               and Tacon 2021; FAO 2024), is valued at US$14–15 billion
+                                                                           (World Bank 2023), and makes use of over 240 commer-
+Seaweeds (macroalgae) are a diverse group of photosyn-                     cially cultivated species, only ten of which are extensively
+thetic organisms that inhabit coastal regions worldwide                    farmed (Hermans 2021; FAO 2024).
+(Lüning 1991). Although cultivated historically, seaweed                      Aside from industrial uses, cultivated seaweeds also pro-
+aquaculture has intensified since the 1950 s and has been                  vide ecological benefits, such as serving as nurseries and
+actively pursued for use in the food, nutraceutical, pharma-               breeding grounds for crustaceans and fish (Hasselström
+ceutical, and cosmeceutical industries (FAO 2018; Lomar-                   et al. 2018), reducing eutrophication (Fei 2004), and aiding
+tire et al. 2021). Recently, the term “phyconomy” has been                 in the bioremediation of heavy metals (Davis et al. 2003)
+proposed to encompass this large-scale, economically ben-                  and organic contaminants (Hardegen et al. 2023). Seaweed
+eficial rise in seaweed aquaculture (Hurtado et al. 2019). The             aquaculture is also hypothesised to offer other benefits such
+sector currently accounts for 52% of mariculture (Chopin                   as biofuel production, climate mitigation through assimilat-
+                                                                           ing ­CO2 and carbonate dissolved in seawater during growth,
+                                                                           as biofertilisers for soil enrichment providing organic mat-
+* Shauna Corr
+  sc1108@exeter.ac.uk                                                      ter and nutrients, and decreasing cattle methane emissions
+                                                                           when incorporated into livestock feeds and supplements
+1
+     European Centre for Environment and Human Health,                     (Duarte et al. 2017; Roque et al. 2021). However, these uses
+     Environment and Sustainability Institute, University                  all require full life-cycle and mass balance accounting to
+     of Exeter Medical School, Penryn TR10 9FE, UK
+                                                                           effectively establish any genuine greenhouse-gas reductions
+2
+     Marine Ecology and Biodiversity, Plymouth Marine                      due to emissions generated in the production process (Hurd
+     Laboratory, Plymouth PL1 3DH, UK
+                                                                           et al. 2022; Troell et al. 2022; Pessarrodona et al. 2024).
+3
+     The Cornish Seaweed Company Ltd, Rosuick Farm, St
+     Martin, Helston TR12 6DZ, UK
+
+
+                                                                                                                        Vol.:(0123456789)
+2144                                                                                 Journal of Applied Phycology (2026) 38:2143–2162
+
+
+   Since the beginning of the century, expansions in com-         metabolise algal secretions (Wahl 1989; Lachnit et al. 2009).
+mercial seaweed production have led to elevated levels of         Once established, bacterial symbionts play essential roles in
+diseases and pests, with major production nations encoun-         nutrient acquisition (Croft et al. 2005; Wahl et al. 2012), the
+tering substantial disease outbreaks in both wild and culti-      induction of growth and morphogenetic factors (Provasoli
+vated populations (FAO 2018). In some cases, these out-           and Pintner 1980; Matsuo et al. 2003, 2005), and in deter-
+breaks have resulted in the loss of up to 50% of seaweed          ring fouling organisms and pathogen colonisation via the
+biomass (Ward et al. 2020; Spagnuolo and Genovese 2024;           production of antifouling (Armstrong et al. 2001; Dobretsov
+Zhang et al. 2024) and 30–50% of total farming costs (Kim         and Qian 2002) and antimicrobial compounds (Zheng et al.
+et al. 2014). As millions from coastal communities rely on        2005). The production of these secondary metabolites can
+income from this sector (FAO 2020), disease outbreaks have        also increase the host’s resilience to environmental stressors
+significant social and financial repercussions. For instance,     by mitigating oxidative damage and host immune responses
+in the Philippines alone, outbreaks of ice-ice disease (IID),     (Dittami et al. 2016; Ghaderiardakani et al. 2020) and thus
+which affects tropical seaweeds such as Kappaphycus and           further contribute to disease resistance (Li et al. 2022a).
+Eucheuma, caused an estimated annual loss of US$100 mil-          Consequently, seaweed health is often linked to the host’s
+lion (Ward et al. 2020, 2022). Climate change has also been       ability to recruit and regulate bacteria necessary for suc-
+shown to increase the range, prevalence, and severity of          cessful functioning under adverse conditions (Kessler et al.
+bacterial diseases, while simultaneously compromising host        2018; Ghaderiardakani et al. 2020; Hmani et al. 2024).
+metabolism and immune responses (Harvell 1999; 2002;                 How similar microbiomes are across different individuals,
+2009; Tracy et al. 2019). To develop future-proof disease         specifically, whether individuals share a ‘core microbiome’
+management strategies, it is therefore crucial to have a com-     remains under debate (Vos 2023). Core microbiomes have
+prehensive understanding of the diversity of current bacte-       been identified in Gracilaria vermiculophylla across sea-
+rial diseases, the factors determining disease susceptibility     sonal scales (Mudlaff et al. 2025) and in Laminaria hyper-
+of hosts and possible preventative measures.                      borea, Saccharina latissima and Durvillaea spp. (King et al.
+   Previous reviews have focused on the varied effects of         2023; Pearman et al. 2024) across spatial scales, however the
+invertebrate, oocyte, virus, protist, and epiphyte diseases in    proportion of core taxa appears to be low. This may, at least
+seaweeds (Largo 2002; Egan et al. 2014; Egan and Gardiner         in part, reflect functional redundancy, whereby different taxa
+2016; Ward et al. 2020, 2022; Behera et al. 2022; Spagnu-         perform similar metabolic roles (Vos 2023).
+olo and Genovese 2024). Here we assess diseases caused by            To exert control over their microbiome and combat dis-
+bacterial pathogens as they form an emerging threat for both      ease, seaweeds possess a range of innate immune defences
+cultivated and wild populations and pose unique manage-           (Fig. 1) (Weinberger 2007). For example, seaweeds such as
+ment challenges due to their genetic plasticity and complex       Laurencia dendroidea and Delisea pulchra have been shown
+relationship with the host. We begin by giving a broad over-      to express a broad spectrum of gene transcripts associated
+view of the functioning of healthy seaweeds and the known         with the biosynthesis of defensive compounds such as ter-
+diversity of seaweed bacterial pathogens. We place particu-       penoids and halogenated furanones, indicating a constitu-
+lar emphasis on the role commensal bacteria play in disease       tive, non-specific response to their microbiome members
+progression, highlighting how environmental changes can           (Manefield et al. 2011; de Oliveira et al. 2012; Lang et al.
+cause resident bacterial species to shift from beneficial to      2024). Seaweeds therefore seem to follow the “ecosystem
+pathogenic roles, shaping the onset and severity of disease.      on a leash” paradigm in which their microbiome is strongly
+We next review current and emerging solutions in seaweed          influenced by host control (Wilde et al. 2024). Through
+disease management, focusing on the protective role of the        the production of antimicrobial compounds, seaweeds can
+microbiome and up-and-coming technologies.                        regulate their microbiome by impeding bacterial settlement
+                                                                  (Maximilien et al. 1998), growth (Maximilien et al. 1998;
+The seaweed holobiont                                             Dworjanyn et al. 2006), quorum sensing (González and Kes-
+                                                                  havan 2006; Harder et al. 2012) and weakening pathogen
+Through producing organic compounds which act as nutri-           virulence (Da Gama et al. 2014; Egan et al. 2014). Conse-
+ents and chemo-attractants, seaweeds create metabolic             quently, seaweeds can be highly selective toward bacteria, a
+niches (de Oliveira et al. 2012), which are utilised by a vari-   selectivity that can be further influenced by the antimicrobial
+ety of microorganisms, some of which form symbiotic rela-         action of the bacteria themselves (Wiese et al. 2009).
+tionships with the host, establishing as an integrated, func-        Seaweeds possess both constitutive barriers and induc-
+tional unit, otherwise known as the holobiont (Egan et al.        ible innate responses to infection (Weinberger 2007).
+2013; Simon et al. 2019; Saha et al. 2024; Qui-Minet et al.       Unlike the cell-based immune systems seen in other organ-
+2025). The primary colonisers of this holobiont are usually       isms, seaweeds use microbe-associated molecular pat-
+bacteria, owing to their rapid growth rates and capacity to       terns (MAMPs) and pathogen-induced molecular patterns
+Journal of Applied Phycology (2026) 38:2143–2162                                                                                           2145
+
+
+
+
+Fig. 1  Innate Defence Mechanisms of the Seaweed Holobiont. Sea-          response, an inducible form of programmed cell death, limits patho-
+weeds have evolved a variety of innate constitutive and inducible         gen spread adjacent to the infection site. c Oxidative bursts, another
+defences against bacterial infection. a Constitutive holobiont defences   inducible innate response involving the rapid release of reactive oxy-
+include the production of chemical compounds by the seaweed host          gen species (ROS) that can inhibit pathogens or activate downstream
+and/or its associated microbial symbionts, which deter potential path-    defence pathways
+ogens or attract other microbiome members. b The hypersensitive
+
+
+
+(PIMPs) to differentiate beneficial and pathogenic microbes               cumulative cost of host defence, compromising host health
+(Zipfel and Felix 2005; Weinberger 2007). Upon detection                  while increasing the risk of disease.
+of these molecular signals, seaweeds initiate signal trans-
+duction cascades that increase the expression of defence-                 The diversity of bacterial pathogens of seaweeds
+related proteins, energy conversion, and the biosynthesis of
+reactive oxygen species (ROS) (Küpper et al. 2001, 2009;                  Although many studies have reported disease symptoms or
+Weinberger 2007; de Oliveira et al. 2017). These pathways                 syndromes in seaweeds (Craigie and Correa 1996; Gachon
+ultimately activate key innate defence mechanisms, such as                et al. 2010), relatively few have conclusively identified
+oxidative bursts, cell shedding, and hypersensitive responses             specific causative pathogens, mechanisms of action, or
+at infection sites (Weinberger 2007; Li et al. 2024).                     possible environmental risk factors. Establishing causality
+    Reactive oxygen species (ROS), released during oxidative              typically relies on frameworks such as Koch’s postulates,
+bursts, are frequently used by seaweeds to counter bacte-                 which require the pathogen to be present in all instances of
+rial infections through exerting cytotoxic effects on invad-              disease, isolatable in pure culture, able to induce identical
+ing pathogens or by triggering further defensive responses                disease symptoms in healthy specimens and be re-isolated
+(Weinberger 2007). Similarly, by using hypersensitive                     from these infected hosts (Koch 1891). In addition, misat-
+responses, seaweeds can limit the spread of pathogens by                  tribution of disease symptoms is common, especially when
+destroying cells adjacent to infection sites (Weinberger and              disease expression varies markedly between hosts (Largo
+Friedlander 2008). Although this method is effective, if used             2002). For instance, a single pathogen might induce rapid
+excessively, the host’s susceptibility to disease can increase            tissue necrosis in one host species under certain environ-
+due to either pathogen resistance or physiological damage                 mental conditions, whilst causing only mild discolouration
+to the host (Egan et al. 2014). This is often exacerbated                 or no visible symptoms in other species or environments
+in environments such as high-density aquaculture, where                   (Largo et al. 1995a, 1995b; Gachon et al. 2010). Due to the
+seaweeds experience increased pathogen exposures and                      diverse and largely unculturable nature of microbial com-
+repeated immune activations. These conditions increase the                munities, possible asymptomatic or polymicrobial nature
+2146                                                                                Journal of Applied Phycology (2026) 38:2143–2162
+
+of infection, and experimental challenges, these postulates          Notably, fewer than half of the reported seaweed diseases
+are usually not applied to seaweeds.                             here are associated with a single bacterium, highlighting
+   Distinguishing specialised pathogens from more oppor-         the limitations of the classic “one pathogen = one disease”
+tunistic species remains a major challenge in the study of       model (Vayssier-Taussat et al. 2014). Historically, studies
+seaweed diseases (Egan et al. 2013). While specialised           have primarily concentrated on monomicrobial infections,
+(‘primary’) pathogens can initiate disease in healthy hosts,     but more recently many infections have been shown to be
+opportunistic pathogens are usually commensal, causing           polymicrobial either in origin or manifestation (Tay et al.
+disease only when the hosts are compromised. Opportunis-         2016). Pathogens often live in complex microbial commu-
+tic pathogens can further be distinguished from secondary        nities where different interactions determine the progres-
+colonisers which do not initiate disease but rather colonise     sion of disease (Chow et al. 2011; Rogers 2012). This is the
+decaying tissue (Egan et al. 2013). A well-documented            basis of the “pathobiome” concept, in which pathogenicity
+example involves bacteria such as Flavobacterium, Pseu-          is conditional, modulated by interactions with the host, envi-
+doalteromonas, and Vibrio, which were once thought to            ronmental factors and fellow microbiome members (Bass
+cause green-spot disease in Pyropia spp. (Sunairi et al.         et al. 2019).
+1995) but are in fact secondary colonisers following a viral
+infection by PyroV1 (Kim et al. 2016). To account for the        Commensal bacteria: Friend or Foe?
+difficulty in applying a consistent pathogen definition, we
+here follow the pragmatic approach taken by Bartlett et al.      Although infectious disease is often associated with invading
+(2022) designating seaweed pathogens when they are iso-          pathogens, emerging evidence indicates that many diseases
+lated from a symptomatic infection and considered to be          appear, not from external pathogens, but resident and usu-
+the causative agent by the reporting researchers.                ally benign members of the host's microbiota (Chow et al.
+   The majority of bacterial pathogens implicated in sea-        2011; Egan and Gardiner 2016). For instance, Staphylococ-
+weed disease belong to the Alteromonas, Pseudomonas,             cus aureus is usually a commensal component of the human
+Pseudoalteromonas and Vibrio genera within the Pseu-             microbiome yet can cause severe and sometimes fatal infec-
+domonadota (formerly gamma-Proteobacteria) phylum                tions when host defences are compromised (Turnbaugh et al.
+(Table 1). Many of these taxa are already recognised as          2009). Seaweeds are no exception, with ten of the 23 patho-
+pathogens in other aquaculture systems, such as the Pacific      gens listed in Table 1 previously associated with beneficial
+white-leg shrimp (Alfiansah et al. 2020; Arunkumar et al.        traits in other seaweed species.
+2020). It is clear that commercial interest has been a main         Environmental stress events often coincide with disease
+driver of pathogen identification. Consequently, most            outbreaks in both wild and cultivated seaweeds (Campbell
+studies focus on members of the Rhodophyta inhabiting            et al. 2011; Ward et al. 2022). For example, Vibrio algino-
+tropical regions, with extensive investigations into gen-        lyticus strain X-2 can upregulate host genes linked to stress
+era such as Eucheuma and Kappaphycus due to the wide-            and immune responses and preserve epibacterial community
+spread prevalence and economic impact of ice-ice disease         structure in S. japonica, while causing disease in a diverse
+(Table 1; Largo 2002). In contrast, few bacterial pathogens      array of other seaweed hosts (Ma et al. 2023). Through
+have been identified in temperate climes. Of note is the         using -omics techniques, disease states have been shown
+apparent absence of confirmed bacterial pathogens affect-        to be associated with shifts in microbial gene expression
+ing Chlorophyta hosts, which likely reflects the under-          and abundance rather than the appearance of entirely new
+representation of this phylum among cultivated seaweeds          taxa (Fernandes et al. 2012; Egan et al. 2013). This sug-
+(Nayar and Bott 2014).                                           gests that pathogenicity is highly context-driven, dependent
+   Knowledge of disease outbreaks in natural populations         on the expression of virulence traits under certain condi-
+lags behind that in aquaculture, even though the conse-          tions. In the plant literature, the term “eubiosis” refers to a
+quences can be substantial both ecologically and economi-        normally functioning, homeostatic microbiome associated
+cally. For example, a decrease in primary production and         with a healthy individual (Paasch and He 2021), where as a
+carbonate accretion occurred due to an outbreak of coralline     disruption is often referred to as “dysbiosis” and is widely
+lethal orange disease (CLOD) affecting a vast population of      known to detrimentally impact host health (Li et al. 2022a;
+reef-building coralline algae in the early 1990 s (Littler and   Ling et al. 2022). However, it must be noted that this term
+Littler 1994, 1995). Consequently, wild populations not only     remains contentious due to the absence of a clear definition
+have to contend with naturally occurring disease outbreaks       and its assumption of an ‘ideal’ microbial state (Hooks and
+but repercussions of the rapidly expanding aquaculture sec-      O’Malley 2017; Mancuso et al. 2023).
+tor, such as the introduction of non-native diseases, epidem-       In line with the phenotypic plasticity of many marine
+ics, and a decrease in the genetic diversity of natural stocks   bacteria, the ability to shift from commensal residents to
+(Spagnuolo and Genovese 2024).                                   pathogens is unsurprising. Numerous taxa possess latent
+Table 1  An overview of the diversity of suspected bacterial pathogens of seaweeds, including their recorded hosts, confounding variables and possible mechanisms of action. Suspected patho-
+gens were only included if bacteria were identified to at least genus level and were able to establish the same disease symptoms upon reintroduction to healthy specimens; the concentration of
+inoculum is also stated. This table excludes descriptive studies or those investigating community-level changes within diseased specimens without interrogation of Koch’s postulates. Host spe-
+cies belonging to wild populations are denoted with an asterisk (*)
+Disease               Identified Pathogen   Identified Seaweed     Location             Symptoms                 Risk Factors          Experimental Inoculation     Comments                References
+                                            Hosts                                                                                      Conc
+
+Suminori Disease      Actinomycetota:    Pyropia yezoensis         Japan                Black lustreless         > Low temperatures    1.6 −8.3 × ­107 CFU ­mL−1    Mitigation: Exposure    Kusuda et al. (1992);
+                       Arthrobacter tum-                                                 colouration and         > Low salinity                                      of nets to air and      Mine et al. (2009);
+                       bae DY1219-4Y                                                     plasmoptysis of                                                             acid washing            Mine et al. (2010)
+                      Bacteroidota:                                                      thalli cells, reduces                                                       at pH2. Bacte-
+                       Gaetbulibacter                                                    economic value                                                              riophage “U2” can
+                       saemankumensis                                                                                                                                repress Gaetbuli-
+                       H-14LY, H-15LY &                                                                                                                              bacter sp. H-14LY
+                       H-16LY
+Anaaki Disease        Bacteroidota:       Pyropia yezoensis        Japan, Korea         Pin holes appear at      > Low temperatures    1 × ­l07 CFU ­mL−1           Mitigation: Acid dip-   Fujita (1990); Sunairi
+                                                                                                                                                                                                                     Journal of Applied Phycology (2026) 38:2143–2162
+
+
+
+(Alternative Names:    Flavobacterium sp.                                                 the centre of the      > Surface wounds                                    ping infected thalli    et al. (1995); Kim
+  Pin-Hole, Green      LAD-1                                                              thallus, gradually     > Ammonia avail-                                    and exposure of         et al. (2014)
+  Spot & Green Rot    Pseudomonadota:       Porphyra dentata       Korea                  widening into           ability              1 × ­108 cells mL⁻1           nets to air and acid   Park et al. (2001)
+  Disease)             Pseudomonas sp.                                                    lesions with wide                                                          washing
+                       JY38                                                               green borders,                                                            Mechanism: Bacteria
+                                                                                          causing fragmenta-                                                         with hydrolytic
+                      Unspecified bacte-  Chondrus crispus         Canada                 tion of the thallus.                         Cultures were "quite turbid"  activity toward        Craigie and Correa
+                       rium “DOR” isolate                                                 Slimy rots, holes                                                          porphyrin, β‐D‐         (1996)
+                                                                                          in blades, cession                                                         galactosidase,
+                                                                                          of growth may also                                                         carboxymethyl
+                                                                                          appear. Degrada-                                                           cellulase, xylanase,
+                                                                                          tion of the whole                                                          protease and agar-
+                                                                                          plant can occur as                                                         ase activity
+                                                                                          quickly as 1–2 days
+Rotten Thallus        Pseudomonadota:    Gracilaria gracilis       Philippines, South   White to pink            > Reduced water       1 × ­109 CFU mL-1            Mitigation: Bacteria    Lavilla-Pitogo (1992);
+  Syndrome             Pseudoalteromonas                            Africa               discolouration and       flow                                               sensitive to poly-      Schroeder et al.
+(Alternative Names:    gracilis B9                                                       gradual disintegra-     > High temperatures                                 myxin B, nalidixic      (2003)
+  Thallus Whitening                                                                      tion of thallus.                                                            acid, nitrofurazone
+  & Bleaching Stipe                                                                      Erosion of the                                                              and oxytetracycline
+  Disease)                                                                               pericarp, revealing                                                        Mechanism: Plasmid
+                                                                                         the cortical and                                                            pDA1 responsible
+                                                                                         medullary cells                                                             for agarolytic
+                                                                                                                                                                     activity
+Tip Bleaching/        Pseudomonadota:       Gracilariopsis lema-   China                Thallus whitening     > High culture        40,000 cells mL⁻1               Mitigation: 1-octen-    Sun et al. (2012)
+  Whitening Stripe    Vibrio parahaemolyt-   neiformis                                   and apical necrosis,  density                                               3-one, E-2-non-
+  Disease               icus, Thalassospira                                              disintegration of    > Low light intensity                                  enal, and benzal-
+                        spp.                                                             thallus              > Low salinity                                         dehyde thought to
+                                                                                                                                                                     be characteristic
+                                                                                                                                                                     metabolites of
+                                                                                                                                                                     infection and
+                                                                                                                                                                     could be used as
+                                                                                                                                                                     biomarkers for the
+                                                                                                                                                                     disease
+
+
+
+                                                                                                                                                                                                                     2147
+Table 1  (continued)
+                                                                                                                                                                                                          2148
+Disease                Identified Pathogen   Identified Seaweed    Location    Symptoms                 Risk Factors           Experimental Inoculation   Comments               References
+                                             Hosts                                                                             Conc
+
+White Tip Disease      Unspecified Bacte-    Gracilaria conferta   Israel      White necrotic           > High temperature     2.11 × ­107 cells mL⁻1;    Mitigation: Disease    Weinberger et al.
+                         rium Strain OR-11                                      tips followed by        > High light intensity   1:8554 ratio of cells     could be prevented     (1994), Weinberger
+                       Bacteroidota:                                            disintegration of       > High culture                                     with Rifampicin,       (1997); (1999)
+                       Flavobacterium-                                          thallus                  density                                           Vancomycin
+                         Cytophaga                                                                      > Poor aeration                                    and Cefotaxim.
+                         complex                                                                                                                           Other epibacteria
+                       Actinomycetota:                                                                                                                     could also prevent
+                       Corynebacterium-                                                                                                                    bleaching
+                         Arthrobacter
+                         complex
+Bleaching Disease      Pseudomonadota:       Delisea pulchra*      Australia   Line of bleaching        > High UV              1 × ­106–107 CFU ­mL−1     Mechanism: Nautella    Case et al. (2011);
+                       Nautella sp. R11,                                         from infection site.   > High temperatures    1 × ­106 cells mL⁻1         sp. R11 penetrates     Fernandes et al.
+                         Phaeobacter sp.                                         Loss of pigment                                                           epidermis and          (2011); Gardiner
+                         LSS9,                                                   causes lower                                                              cortical cells         et al. (2015a);
+                       Alteromonas sp.                                           photosynthetic,                                                           causing necrosis.      (2015b); Kumar
+                         BL110,                                                  reproductive abili-                                                       Pathogenicity is       et al. (2016); Hudson
+                       Agarivorans sp. BL7                                       ties and suscepti-                                                        helped by pos-         et al. (2018)
+                       Bacteroidota:                                             bility to grazing,                                                        sessing adhesion
+                       Aquimarina sp. AD1                                        tissue necrosis and                                                       mechanisms,
+                         & BL5                                                   death                                                                     algal metabolite
+                       Pseudomonadota:      Gracilaria lemanei-    China                                                       1 × ­107 CFU ­mL−1          transport systems,    Liu et al. (2019)
+                         Agarivorans albus   formis                                                                                                        enzymes to resist
+                       Bacteroidota:                                                                                                                       oxidative stress,
+                       Aquimarina latercula                                                                                                                cytolysins, LuxR
+                       Actinomycetota:                                                                                                                     gene varR and
+                       Brachybacterium sp.                                                                                                                 RaiR regulator
+                                                                                                                                                           for coordinating
+                                                                                                                                                           virulence factors.
+                                                                                                                                                           Other bacteria
+                                                                                                                                                           have strong
+                                                                                                                                                           agarase activity,
+                                                                                                                                                           phycobiliprotein
+                                                                                                                                                           can also decrease
+                                                                                                                                                           on infection
+Scraping White       Pseudomonadota:         Porphyra sensu lato   China       White spots, strips or                          1 × ­107 CFU ­mL−1         Mitigation: Pathogen   Liu et al. (2025)
+  Disease            Phaeobacter italicus     conchocelis                       patches on shells                                                          can be inhibited
+((Alternative Names:  JN-W1                                                     and lesions and                                                            under low tempera-
+  Bleaching Disease                                                             white patched on                                                           ture and pH
+  & White Strip                                                                 thalli                                                                    Mechanism: Infec-
+  Disease)                                                                                                                                                 tion is contact
+                                                                                                                                                           dependent
+
+
+
+
+                                                                                                                                                                                                          Journal of Applied Phycology (2026) 38:2143–2162
+Table 1  (continued)
+Disease                Identified Pathogen    Identified Seaweed       Location           Symptoms               Risk Factors          Experimental Inoculation   Comments                References
+                                              Hosts                                                                                    Conc
+
+Coralline Lethal       Bacillota:             Crustose algae, Poro- Cook islands, Fiji    Occurs as a front of   > High temperatures   Not provided               Mitigation: High        Littler and Littler
+ Orange Disease        Planococcus citreus,    lithon spp.*          South Pacific reefs,  bright orange dots                                                      wave energy habi-       (1994), (1995); Cer-
+ (CLOD)                  Planococcus sp.,                            Hawaii)               that move across                                                        tats may inhibit        vino et al. (2005);
+                         Planococcus                                                       the host, leaving                                                       attachment of           Aeby (2007)
+                         mcmeekinii, Bacil-                                                behind a bleached                                                       CLOD propagules
+                         lus pumilus                                                       carbonate skeleton
+                       Pseudomonadota:
+                       Pseudomons oleo-
+                         vorans
+Yellow Spot Disease    Pseudomonadota:        Pyropia haitanensis      China              Yellow spots appear    > High temperatures 6 × ­107 CFU ­mL−1           Mechanism: Bacte-       Yang et al. (2020); Xu
+                       Vibrio mediterranei     conchocelis                                 on infected shell-    > High light intensity                            rium secretes algi-     et al. (2020)
+                         117-T6                                                            borne conchocelis     > Low pH                                          cidal substances
+                                                                                           sporeling stage
+                                                                                                                                                                                                                   Journal of Applied Phycology (2026) 38:2143–2162
+
+
+
+                                                                                           which spread into
+                                                                                           lesions
+Macular Disease/       Pseudomonadota:        Porphyra spp.            Japan              Small red/brown        > High temperatures   1 × ­107 CFU ­mL−1         Mitigation: Discard-    Yamanoi and Takami
+ Pseudomonas-like      Pseudomonas-like                                                    spots on conchoe-                                                       ing infected shells,    (2008)
+ Bacteriosis            bacteria                                                           celis of sporelings                                                     chlorine treatments
+                                                                                           before turning yel-                                                     or increasing
+                                                                                           low/white. Turns                                                        water flow, some
+                                                                                           Porphyra gameto-                                                        sensitivity to
+                                                                                           phytes green                                                            nifurstyrenate and
+                                                                                                                                                                   erythromycin
+Gall Formation         Pseudomonadota:        Prionitis lanceolata;    North & South      Gall like tumours                            Not provided                                       Ashen and Goff
+                        Roseobacter group      Prionitis filiformis;    America            consisting of                                                                                   (1996, 2000)
+                                               Prionitis decipi-                           hypertrophied algal
+                                               ens*                                        cells
+
+
+
+
+                                                                                                                                                                                                                   2149
+Table 1  (continued)
+                                                                                                                                                                                                                          2150
+Disease                Identified Pathogen    Identified Seaweed     Location               Symptoms              Risk Factors           Experimental Inoculation    Comments                 References
+                                              Hosts                                                                                      Conc
+
+Ice-Ice Disease (IID) Pseudomonadota:       Kappaphycus              Philippines, Indone-   Whitening and hard-   > High light intensity 1 × ­103–108 cells mL⁻1     Mitigation: Farm         Uyenco et al. (1980);
+                      Vibrio sp. P11,        alvarezii                sia, India, Japan,     ening or softening   > High temperatures 1 × ­106 CFU ­mL−1              seaweeds in areas         Largo et al. (1995a,
+                        Vibrio sp. ABI-                               Malaysia               of tissue leading    > Low salinity                                      with strong water         (1995b), (1999);
+                        TU15, Vibrio                                                         to disintegration.   > Stressed hosts                                    exchange, Vibrio          Achmad et al.
+                        alginolyticus,                                                       There can also be    > Low water move-                                   ABI-TU15 growth           (2016);
+                        Alteromonas                                                          mucus discharge       ment                                               can be inhibited by     Irmawati and Sudjiro
+                        macleodii, Auran-                                                                         > High phosphate                                    Halomonas species         (2017); Syafitri et al.
+                        timonas coralicida,                                                                        concentrations                                    Mechanism: Hydro-          (2017); Azizi et al.
+                        Shewanella hali-                                                                          > Epiphyte infesta-                                 lytic enzymes             (2018); Zainuddin
+                        otis, Stenotropho-                                                                         tions                                              utilised to penetrate     et al. (2019); Abdul
+                        monas Maltophilia,                                                                                                                            medulla, causing          Malil (2022)
+                        Brucella anthropic,                                                                                                                           epidermal degrada-
+                        Catenococcus thio-                                                                                                                            tion and destruc-
+                        cycli, Pseudomonas                                                                                                                            tion of pigmented
+                        aeruginosa                                                                                                                                    plasmids
+                      Bacteroidota:
+                      Cytophaga sp.
+                        P25-Flavobacte-
+                        rium complex
+                      Actinomycetota:
+                      Arthrobacter nicro-
+                        tiannae
+                      Bacillota:
+                      Bacillus subtilis
+
+                       Pseudomonadota:        Eucheuma denticu-      Philippines                                                         1 × ­103–105 cells mL⁻1
+                       Vibrio sp. P11          latum
+                       Bacteroidota:
+                       Cytophaga sp.
+                         P25-Flavobacte-
+                         rium complex
+
+                       Pseudomonadota:        Gracilaria verrucosa   Indonesia                                                           1 × ­106 CFU ­mL−1
+                       Pseudomonas spp.,
+                         Vibrio spp., Chro-
+                         mobacterium spp.,
+                         Achromobacter
+                         spp.
+                       Bacteroidota:
+                       Flavobacterium spp.
+
+                       Pseudomonadota:        Halymenia floresii*    Mexico                                                              Addition of 30 μL of cul-
+                       Vibrio owensii                                                                                                     tured bacteria
+Bleaching Disease      Pseudomonadota:        Saccharina japonica    China                  Bleached white        > High temperatures    1–3 × ­108 CFU ­mL−1        Bacteria can produce     Wang et al. (2006);
+                       Pseudoalteromonas                                                     tips, swollen                                                            alginate lyase,          Peng and Li (2013);
+                        piscicida X-8,                                                       gametophyte cells,                                                       invade the endo-         Zhang et al. (2022)
+                        Alteromonas sp.                                                      filamentous bleach-                                                      dermis causing
+                        A-1, Alteromonas                                                     ing, loss of thalli.                                                     cell corruption and
+                        espejiana                                                            Blades bleach and                                                        death
+                                                                                             deteriorate
+                                                                                                                                                                                                                          Journal of Applied Phycology (2026) 38:2143–2162
+  Journal of Applied Phycology (2026) 38:2143–2162                                                                                                                                                          2151
+
+                                                                                                                                                   virulence factors which, although tightly repressed under
+                                                                                                  Ezura et al. (1988);
+                                                  Wu (1990); Liu et al.                                                                            normal conditions, can be upregulated under host stress or
+
+
+                                                                                                                            Wang et al. (2008)
+                                                                                                   Sawabe et al. (1998);
+                                                                           Vairappan et al.
+                                                                                                                                                   environmental fluctuations (Fernandes et al. 2011; Billaud
+                                                   (2002); Wang et al.
+                                                                                                   Yumoto et al.                                   et al. 2022; Bharathan et al. 2025). For seaweeds, which lack
+                       References                  (2014)                   (2001)                 (1989a), (1989b)
+                                                                                                                                                   an adaptive immune system, even subtle changes in environ-
+                                                                                                                                                   mental conditions can disrupt the host’s surface chemistry or
+                                                                                                                                                   microbial-mediated checks which suppress virulence, per-
+                                                  Mitigation: Addition                            Mitigation: Washing
+                                                   of erythromycin,                                                                                mitting formerly harmless commensals to proliferate and
+                                                   discard decayed                                 “Mother” seaweed
+                                                                                                                                                   initiate disease (Zozaya-Valdes et al. 2015).
+                                                   blades, maintain                                with sterilized sea-
+
+                       Comments
+                                                   cultures at 6–8 ०C
+                                                                                                   water and cutting
+                                                                                                                                                      One of the best-documented examples of dysbiosis in sea-
+                                                   and replacing                                                                                   weeds is the bleaching disease of the red alga Delisea pul-
+                                                   seawater                                        off decayed parts
+                                                                                                                                                   chra. In this system, changes in microbial community com-
+                                                                                                                                                   position can occur prior to visible tissue damage (Fernandes
+
+                       Experimental Inoculation
+                                                                                                                                                   et al. 2012). Several bacterial taxa usually present in the
+                                                                                                                                                   microbiome, including Nautella italica R11 and Phaeobac-
+
+
+                                                                          3 × ­108 cells mL⁻1                              1 × ­107 CFU ­mL−1
+                                                                                                                                                   ter galleciensis LSS9, can cause disease when host defence
+
+                       Conc                       Not provided                                    Not provided
+                                                                                                                                                   mechanisms are compromised, such as at elevated tem-
+                                                                                                                                                   peratures, often due to increases in their abundance (Case
+                                                                                                                                                   et al. 2011; Fernandes et al. 2011; Gardiner et al. 2017).
+                                                                                                                                                   Following this, the bacteria deploy virulence factors and QS-
+                                                                                                  > High temperatures
+
+                                                                           > Low salinity
+
+                                                  > Insufficient light
+                                                                                                  > High POM con-
+                                                                                                                                                   dependent regulatory mechanisms, exploiting the weakened
+                                                                                                   centrations
+                                                                                                                                                   host (Case et al. 2011; Fernandes et al. 2011; Gardiner et al.
+
+                       Risk Factors                                        > High temperature
+                                                                                                  > High levels of                                 2017). Similarly, when exposed to low light intensity and
+                                                                                                   bacteria flora                                  salinity, resident bacteria of Kappaphycus alvarezii, such as
+                                                                                                                                                   Vibrio sp. P11 and Cytophaga sp. P25, can induce ice-ice
+                                                                                                                            Green rotting on       disease (Largo et al. 1995b).
+                                                                                                  Red spotted staining
+                                                                           Induced lesions and
+                                                  Green colouration
+                                                                                                                             sporophytic edges        The difficulty in identifying seaweed pathogens thus
+                                                   and softening of                                of culture beds           and holes on blade,
+                                                   stipe, decay leads                                                        which spread until
+                                                                                                                                                   stems from the fact that many are not obligate pathogens
+                                                                             thallus bleaching
+                                                                                                   and detachment of
+                       Symptoms
+                                                   to detachment of                                                          detachment from       but rather commensal microbiota ‘gone rogue’, shifting
+                                                   plant                                           sporophyte                ropes                 their behaviour to exploit weakened hosts. In the context
+                                                                                                                                                   of seaweed aquaculture, where monocultures can exacer-
+                                                                                                                                                   bate microbial imbalance by permitting the rapid spread of
+                                                                                                                                                   pathogens, predicting and mitigating disease requires iden-
+                                                                                                                                                   tifying the conditions under which commensal bacteria shift
+                       Location
+                                                                                                                                                   from benign association to causing opportunistic disease.
+                                                  China                    Japan                  Japan                     China
+                                                                                                                                                   Although challenging, this diagnostic complexity highlights
+                                                                                                                                                   the need for adopting a pathobiome perspective or frame-
+
+
+
+                                                  Saccharina japonica      Saccharina religiosa   Saccharina japonica       Saccharina japonica
+                       Identified Seaweed
+                                                                                                                                                   work that recognises that disease is a result of many complex
+                                                                                                                                                   interactions between the host, microbiome, and the wider
+
+                       Hosts
+                                                                                                                                                   environment (Foster et al. 2017; Bass et al. 2019). Future
+                                                                                                                                                   disease control, therefore, is most likely to make advances
+                                                                                                                                                   where it moves towards manipulating the microbial environ-
+                                                                                                                                                   ment rather than targeting individual pathogens.
+                                                  Pseudomonadota:                                                           Pseudomonadota:
+                                                                                                  Pseudomonadota:
+
+
+                       Identified Pathogen
+                                                  Alginic acid-decom-      Pseudomonadota:                                  Pseudoalteromonas
+                                                                                                  Pseudoalteromonas
+                                                   posing bacteria                                                           sp., Vibrio sp.,
+                                                                           Alteromonas sp.
+                                                                                                                                                   Future directions in seaweed disease control
+                                                   Pseudomonas sp.                                 bacteriolytica sp.        Halomonas sp.
+                                                                                                                                                   Due to the many health benefits of the seaweed microbiome,
+
+
+
+Table 1  (continued)
+                                                  Green rot disease/
+
+                                                                                                                            Hole-Rotten Disease
+                                                                                                                                                   recent efforts to enhance host growth, environmental resil-
+                                                                           Thallus Bleaching
+
+                                                                                                  Red spot disease
+                                                                                                                                                   ience, and disease resistance through scalable and cost-effec-
+                                                                                                                                                   tive microbial approaches have increased in both agricultural
+                       Disease                     Falling Off disease      disease
+                                                                                                                                                   and conservation contexts (El-Saadony et al. 2021; Peixoto
+                                                                                                                                                   et al. 2022; Voolstra et al. 2024). In the next part of this
+2152                                                                                   Journal of Applied Phycology (2026) 38:2143–2162
+
+review, we explore key developments in aquaculture prac-           regulation (Ke et al. 2021). Regardless of method, further
+tises and emerging disease management research topics for          work is needed to ascertain whether introduced bacteria
+this expanding sector (Fig. 2). While nanotechnology, anti-        could be maintained in large-scale industrial settings and, if
+biotics and acid-washing seaweed blades have shown some            so, how they transfer between host life stages.
+potential such as reducing fungal disease in rainbow trout             Environmental and biosecurity risks also require atten-
+eggs (Johari et al. 2016) or manipulating epiphytic com-           tion. Threats such as the unintended emergence of novel
+munities to enhance seaweed biomass (Blanco et al. 2025),          diseases need to be prevented, either through limiting the
+we do not address their application here, as the open nature       use of microbes to secure hatchery stages or through solely
+of seaweed farming poses too great a risk of environmental         applying the microbe’s beneficial active compound, for
+contamination, especially when more suitable alternatives          instance, directly applying the compound thallusin rather
+are available.                                                     than its bacterial producers (Dhiman et al. 2022; Ulrich et al.
+                                                                   2022). Similarly, prebiotics, non-digestible feed additives
+Direct microbiome manipulation                                     historically used to improve gut microbiome health in fish,
+                                                                   can enhance nutritional uptake and resistance to disease
+                                                                   (Dimitroglou et al. 2011; Ganguly et al. 2013). In seaweeds,
+Probiotics The use of bacteria with antagonistic activity          such additives could be used in a similar manner, either to
+against pathogens has frequently been used to enhance the          nourish beneficial bacteria or as potential pathogen deter-
+resilience of microbiomes associated with terrestrial crops        rents. The enrichment of beneficial host microbiomes has
+(Quiza et al. 2015). For example, reducing the severity of         already been observed under land-based cultivation and lab-
+rice blast disease by up to 70% can be achieved through            oratory conditions thought to be mediated by intrinsic host
+enriching native bacteria such as Streptomyces sp. UPMRS4          factors such as Algal Growth and Morphogenesis-Promoting
+and Pseudomonas mosselii BS011 (Awla et al. 2017; Wu               Factors (Ghaderiardakani et al. 2019; Califano et al. 2020;
+et al. 2018). Such techniques could be beneficial in seaweed       Nguyen et al. 2023). Seaweeds rely on metabolites with anti-
+cultivation, where several bacteria have already been identi-      foulant and antimicrobial activity: for example, compounds
+fied to increase disease resistance by enhancing host health       such as halogenated furanones and fucoxanthin can mitigate
+(Li et al. 2022b; Ma et al. 2023). Although, in contrast to ter-   surface fouling and bacterial attachment (Campbell et al.
+restrial crops, the application of these bacteria (also known      2011; Saha et al. 2011), and 1-octen-3-one, E-2-nonenal,
+as Seaweed Beneficial Microorganisms, SBMs (Li et al.              benzaldehyde, and oxylipins can counter bacterial disease
+2023)) in seaweed aquaculture remains relatively novel.            (Sun et al. 2012). However, research into seaweed prebiotics
+   Beneficial bacteria may prevent disease through several         is still in its infancy and it is still unclear whether beneficial
+mechanisms: either by directly inhibiting pathogen viru-           compounds can be effectively applied or upregulated within
+lence (Fan et al. 2020), monopolising resources (Gu et al.         host tissues.
+2020), interacting with other microbiome members (Li
+et al. 2022a), stimulating host bioactive compound produc-         Selective breeding Selective breeding, which utilises con-
+tion (Wen et al. 2023), or producing antimicrobials (Granato       trolled reproduction of individuals possessing desirable
+et al. 2019). For instance, two strains of Pseudoalteromonas       characteristics, has already been implemented for various
+piscicida, P3 and P6, were shown to inhibit disease symp-          economically important seaweeds, such as Porphyra and
+toms inflicted by Pythium porphyrae in Pyropia yezoensis,          Laminaria species (Chaoyuan and Guangheng 1987; Dai
+providing an effective biocontrol methodology against Red          et al. 1993). To produce characteristics such as enhanced
+Rot Disease (Weng et al. 2024). Similarly, Phaeobacter sp.         taste and resistance to high irradiance, temperatures and tis-
+BS52 protects Delisea pulchra against the opportunistic            sue rot disease, hybridisations such as those of Saccharina
+bleaching pathogen Aquimarina sp. AD1 (Li et al. 2022b).           longissima and S. japonica have also been utilised (Li et al.
+Interestingly, this species was also found to diminish the det-    2007; Robinson et al. 2013; Hwang et al. 2019).
+rimental effects of bleaching disease when inoculated onto            Although widely used in terrestrial agriculture, omics
+non-host species (Li et al. 2022b). As bleaching diseases are      techniques such as metabolomics and genomics could also
+likely to become more common, this probiotic bacterium             be applied to seaweed cultivation (Patwary et al. 2021).
+might be promising in enhancing host disease resistance in         These techniques could be used to mitigate disease by iden-
+future ocean warming scenarios.                                    tifying genes, regulatory elements and metabolic pathways
+   Two methods for probiotic application are currently being       linked to resistant traits, including those integral to micro-
+explored: either the inoculation of non-native SBMs or the         biome regulation, antimicrobial compound production and
+reinoculation of an isolated and enriched native bacterium         adaptive immune responses (DeWeese and Osborne 2021).
+(Lau et al. 2022). A third possibility is the introduction of      Such genes can be incorporated into breeding programmes
+genetically modified strains, but this would require strict
+Journal of Applied Phycology (2026) 38:2143–2162                                                                                            2153
+
+
+
+
+Fig. 2  Future solutions for disease mitigation in aquaculture include   selection. (5) Selectively breeding disease-resistant strains. (6) Prim-
+(1) manipulating the microbiome to become more resilient with            ing early life stages to be more resilient. (7) Conserving the genetic
+beneficial bacteria. (2) Using probiotics to increase host health. (3)   diversity of wild populations. (8) Increased collaboration between
+Changes to infrastructure such as lowering cultivation lines to lower    scientists, farmers and industry to disseminate pertinent knowledge
+water depths in intense UV or temperatures. (4) Modelling future         more efficiently. (9) The use of IMTA methods to reduce disease sus-
+disease outbreaks and favourable climate conditions to optimise site     ceptibility
+
+
+through marker-assisted selection or introduced via genetic              growth rate, disease resistance and higher carrageenan con-
+engineering.                                                             tent could be identified and used to support selection and
+   As of 2024, over 110 seaweed genomes representing 105                 breeding decisions. For example, a substantial reservoir
+species are publicly available, aiding new selective breeding            of differentially upregulated defensive genes, such as heat
+programmes (Wang et al. 2020; Nelson et al. 2024). These                 shock proteins, secondary metabolites, protective enzymes,
+datasets enable the application of Genome-Wide Association               and cellulase and protease inhibitors has already been found
+Studies (GWASs), which explore single-nucleotide poly-                   in P. yezoensis (Tang et al. 2019). Likewise, transcriptomic
+morphisms (SNPs) associated with desirable qualities, and                activation of genes connected with stress response pathways
+Quantitative Trait Loci (QTL) mapping, which can detect                  and cell-wall strengthening has been observed in a disease-
+the genetic loci contributing to specific phenotypes (Mur-               resistant genotype of S. japonica (Zhuang et al. 2024). This
+ray et al. 2008; Huang and Han 2014; Huang et al. 2015;                  approach could be further extended to investigate traits
+DeWeese and Osborne 2021; Feng et al. 2023). Through                     which aid the maintenance of beneficial interactions within
+combining these approaches, candidate genes and genomic                  the host’s microbiome.
+regions linked to disease-resistant traits could be identified              While classical breeding is an effective strategy, its suc-
+and incorporated into genomic predictions to develop dis-                cess is inherently restricted to traits already present in the
+ease-resistant seaweed strains.                                          breeding population. Genetic engineering, already used in
+   To identify future commercial cultivars, transcriptomics              several seaweed species, permits the introduction of traits
+could be used to highlight gene expression profiles con-                 not naturally present, such as the expression of recombinant
+nected to beneficial traits (Chin et al. 2017; Thien et al. 2020;        proteins and reporter genes to produce antigens, antibodies
+Zhuang et al. 2024). By comparing strain-specific transcrip-             and other therapeutical compounds (Jiang et al. 2002; Zhang
+tomes exposed to stress, beneficial traits such as elevated              et al. 2008; Badis et al. 2021; Shen et al. 2023; Trujillo
+2154                                                                                 Journal of Applied Phycology (2026) 38:2143–2162
+
+et al. 2024). Farms growing genetically engineered disease-          However, for sustainable, long-term cultivation, effec-
+resistant strains may be operational soon, depending on their     tive site selection must also incorporate broader spatial
+adherence to GMO and biosecurity policies. However, even          areas than individual farms. To assess locations for opti-
+though research is rapidly progressing in this area, many         mal environmental parameters for both the seaweed host
+nations lack clear regulations governing genetically modi-        and its microbiome, increasingly sophisticated climate and
+fied or selectively bred seaweed strains (Goecke et al. 2020).    oceanographic modelling is now available (Veenhof et al.
+                                                                  2024). Bathymetric and hydrodynamic analysis of a previ-
+Priming early life stages Priming early life stages to suble-     ously failed site in Lampung Bay, Indonesia, exemplifies
+thal stresses activates specific stress-responsive genes and      the need for rigorous analysis in the placement of future
+can be used to increase resilience within cultivars (Jueter-      ventures (Yulianto et al. 2017). Similar investigation of
+bock et al. 2021). For example, in A. esculenta sporophytes,      areas of low water flow or proximity to freshwater sources
+exposure in early cultivation stages to high light intensity      may also increase the likelihood of success, reducing stress
+reduces thermal stress by enhancing photoprotective mech-         and microbial disruption caused by salinity fluctuations and
+anisms (Martins et al. 2022). In other brown macroalgae,          increased pathogen loads (Largo 2002; van der Loos et al.
+similar priming effects have been noted where thermal or          2022).
+oxidative stress causes persistent changes in antioxidant            Socio-economic and practical considerations are as val-
+capacity or defence-related gene expression (Heinrich et al.      uable as environmental factors when assessing cultivation
+2012).Therefore, similar to abiotic stressors, exposing sea-      sites. Studies from Zanzibar and Europe have revealed the
+weeds to microbial and chemical cues could prime the host         importance of aligning farming sites with the farmer’s local
+against subsequent pathogenic challenges.                         preferences, access to infrastructure and the area’s traditional
+    Instead of applying direct stressors, waterborne chemi-       uses (Hedberg et al. 2018; Thomas et al. 2019). Overlooking
+cal cues released by certain herbivores may stimulate the         these factors may result in the abandonment or underutilisa-
+production of defensive compounds and bolster seaweeds            tion of sites, regardless of environmental suitability. Look-
+against disease outbreaks (Toth and Pavia 2000). As sea-          ing ahead, the co-location of cultivation sites with offshore
+weeds are known to utilise a broad spectrum of chemical           wind parks could be a possible solution for sharing marine
+cues to attract beneficial bacteria and suppress disadvanta-      space, reducing user conflicts and benefiting from the shel-
+geous strains (Saha and Weinberger 2019), such metabo-            tering effect of existing infrastructure (Coffey et al. 2025).
+lites could also be explored for potential use in recruiting      The integration of socio-economic data with oceanographic
+beneficial bacteria. While early-life priming may offer a         modelling is therefore essential for future spatial planning of
+novel approach to mitigating disease in future commercial         farming ventures in changing climates.
+cultivars, there still is a lack of evidence that this strategy
+increases disease resistance in macroalgae. Further experi-       Co‑culturing and Integrated Multi‑Trophic Aquaculture
+mental work is needed to assess if this approach could            (IMTA) In coastal settings, the expansion of invertebrate
+indeed increase the defensive capacity of seaweeds against        and fish aquaculture can cause significant shifts to water
+pathogenic infection.                                             quality due to the release of elevated nutrients (Gao et al.
+                                                                  2021), disrupting ecosystem functioning and contribut-
+                                                                  ing to the spread of disease. Approaches which co-culture
+Practices that promote microbial eubiosis                         several species, such as Kappaphycus spp. with Eucheuma
+                                                                  denticulatum, have already been shown to enhance resilience
+                                                                  and decrease the prevalence of diseases such as IID in sum-
+Site selection and farming practises To reduce disease out-       mer months (Pang et al. 2015). A meta-analysis revealed
+breaks, a combination of technological advancements and           that proximity of seaweed farms to seagrass fields reduces
+improved aquaculture practises, such as suitable site selec-      disease risk (Fiorenza et al. 2024). It is possible that co-
+tion, are needed. For example, during periods of heightened       cultivation of commercial seaweed crops with specific other
+light intensity and temperature, farms could relocate lines to    ‘companion crop’ seaweed species could equally reduce dis-
+deeper waters, decreasing the chance of thermally induced         ease incidence (e.g. Fu et al. 2015), but to our knowledge
+diseases (Makame et al. 2021). Similarly, improving water         this has not been tested.
+flow by reducing overcrowding could aid the dispersal of             The creation of a balanced ecosystem through cultivating
+beneficial microbes while simultaneously inhibiting the           different trophic levels, known as integrated multi-trophic
+accumulation of opportunistic pathogens, thereby decreas-         aquaculture (IMTA), represents a logical step in future dis-
+ing the transmission of pathogens and promoting resilient         ease management, as multiple species provide enhanced dis-
+microbial communities.                                            ease resistance and help to curtail environmentally harmful
+                                                                  practises (Troell et al. 2009; Kim et al. 2014). Seaweeds
+Journal of Applied Phycology (2026) 38:2143–2162                                                                                      2155
+
+absorb nitrates, ammonia, phosphates and heavy metals,            Conclusions
+acting as natural bio-remediators; their inclusion in other
+aquaculture systems can therefore mitigate nutrient pollu-        Seaweed aquaculture is rapidly expanding due to its role
+tion while maintaining economic value (Gao et al. 2021;           as a sustainable food source (both as whole seaweeds and
+Sugumaran et al. 2022). Beyond disease mitigation, these          extracts used in processed foods), its support of coastal live-
+seaweeds can provide habitat and improve water quality, ulti-     lihoods, and its contribution to the UN Sustainable Devel-
+mately benefiting higher trophic levels by enhancing food         opment Goals. However, disease outbreaks increasingly
+availability and providing new breeding and nursery habitats      endanger the resilience of this sector. Our review highlights
+(Corrigan et al. 2024).                                           that maintaining seaweed health requires advancing beyond
+                                                                  a single-pathogen view and embracing the holobiont per-
+Knowledge sharing Disease outbreaks in intensive aquacul-         spective, acknowledging that seaweeds and their microbial
+ture systems are usually multifactorial and may result from       communities function as a unified system.
+the disregard of region-specific cultivation guidelines, lim-        A core concept in disease prevention is the dual role
+ited knowledge on symptoms and pathologies, low genetic           of commensal bacteria. Although microbes provide many
+variation causing decreased resilience of populations, poorly     beneficial services such as nutrient acquisition (Croft et al.
+chosen cultivation sites, and/or the introduction of novel        2005), defence (Armstrong et al. 2001), and stress tolerance
+pathogens through farming non-native species (Spagnu-             (Dittami et al. 2016), under environmental stressors they
+olo and Genovese 2024). Addressing these issues requires          can shift to pathogenic behaviour, complicating diagnosis.
+improved collaboration among researchers, industry stake-         Therefore, maintaining microbial communities instead of
+holders, and policymakers to promote the dissemination of         controlling invading pathogens may provide a next logical
+knowledge and best practices. Such coordination could be          step in disease management. Many emerging techniques sup-
+addressed at scientific meetings (e.g., the International Soci-   port these views, with probiotics, selective breeding, and
+ety for Applied Phycology; the International Seaweed Sym-         priming of early life stages able to enhance host resilience,
+posium organised by the International Seaweed Association         while better site selection could reduce the impact of envi-
+and Seagriculture EU and Asia–Pacific), but digital tools and     ronmental stressors that cause dysbiosis. Early detection and
+citizen science programmes could also play key roles. For         subsequent targeted interventions may now be possible due
+example, the wider adoption and maintenance of platforms          to the increase in -omics techniques available to identify
+used to support the early detection and management of dis-        biomarkers of disease and resistant strains.
+eases, such as the web portal “My Seaweed Looks Weird”,              Nevertheless, serious challenges remain. The increasing
+which enabled farmers to report unusual diseases and sub-         pressures of climate change add to the urgency in developing
+mit samples (Strittmatter et al. 2022), could improve disease     dependable solutions and knowledge-sharing systems across
+resistance and resilience across the sector.                      the sector. To create long-term approaches for proactive dis-
+   As reservoirs of genetic diversity, wild seaweed popu-         ease prevention, seaweed aquaculture will need to depend on
+lations offer resilience to the emerging threats of climate       an integrated understanding of the holobiont including host
+change and therefore must be restored and conserved (Eger         biology, microbiome dynamics, and environmental change.
+et al. 2024). The mapping of genetic variation among pop-
+ulations with valuable cultivation and restoration traits is      Acknowledgements The authors would like to thank Maria-Angeliki
+                                                                  Xiromeriti and the rest of the team at Hortimare for their valuable input
+already underway (Mao et al. 2020). Combined with the             to this work. We are also grateful to Tim van Berkel from the Cornish
+establishment of biobanks, these approaches may preserve          Seaweed Company for their contributions and assistance.
+genetic material and create a safeguarded reserve for future
+biodiversity and breeding efforts (Cottier-Cook et al. 2016;      Author contributions Original idea of the study by SC, CL and MV.
+                                                                  SC wrote the manuscript. SC, CL and MV revised the manuscript. All
+Wade et al. 2020; Brakel et al. 2021; Fouqueau et al. 2024;       authors contributed to the writing of the paper and gave final approval
+Hofmann et al. 2025), supporting the development of robust,       for publication.
+climate-resilient aquaculture systems.
+   Finally, implementing a systematic health assessment           Funding This work was supported by the Biotechnology and Bio-
+                                                                  logical Sciences Research Council-funded South West Biosciences
+framework, such as that proposed by Work and Aeby                 Doctoral Training Partnership (training grant reference DTP3: BB/
+(2006) for coral disease, could standardise disease diagnosis     T008741/1).
+between regions. Through integrating microbiological and
+environmental contexts and providing consistent terminol-         Data availability No datasets were generated or analysed during the
+                                                                  current study.
+ogy and symptom documentation, such frameworks could
+reduce losses in aquaculture through improving health moni-       Declarations
+toring throughout the entire seaweed life cycle while enhanc-
+ing differentiation between healthy and diseased specimens.       Competing interests The authors declare no competing interests.
+2156                                                                                                Journal of Applied Phycology (2026) 38:2143–2162
+
+Open Access This article is licensed under a Creative Commons Attri-         Bharathan A, Arafath Y, Fathima A, Hassan S, Singh P, Kiran GS,
+bution 4.0 International License, which permits use, sharing, adapta-              Selvin J (2025) Implication of environmental factors on the
+tion, distribution and reproduction in any medium or format, as long               pathogenicity of Vibrio vulnificus: insights into gene activation
+as you give appropriate credit to the original author(s) and the source,           and disease outbreak. Microb Pathog 204:107591
+provide a link to the Creative Commons licence, and indicate if changes      Billaud M, Seneca F, Tambutté E, Czerucka D (2022) An increase
+were made. The images or other third party material in this article are            of seawater temperature upregulates the expression of Vibrio
+included in the article’s Creative Commons licence, unless indicated               parahaemolyticus virulence factors implicated in adhesion and
+otherwise in a credit line to the material. If material is not included in         biofilm formation. Front Microbiol 13:840628
+the article’s Creative Commons licence and your intended use is not          Blanco S, Campbell AH, Cummins SF, Heyne DA, Paul NA (2025)
+permitted by statutory regulation or exceeds the permitted use, you will           Manipulation of the surface-associated bacteria on Asparagop-
+need to obtain permission directly from the copyright holder. To view a            sis taxiformis and its effect on seaweed growth and halogenated
+copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.           natural products. J Appl Phycol 37:2679–2689
+                                                                             Brakel J, Sibonga RC, Dumilag RV, Montalescot V, Campbell I, Cot-
+                                                                                   tier-Cook EJ, Ward G, Le Masson V, Liu T, Msuya FE, Brodie J,
+                                                                                   Lim PE, Gachon CMM (2021) Exploring, harnessing and con-
+References                                                                         serving marine genetic resources towards a sustainable seaweed
+                                                                                   aquaculture. Plants People Planet 3:337–349
+Abdul Malik SA, Saha M, Taupin L, Bedoux L, Bourgougnon N,                   Califano G, Kwantes M, Abreu MH, Costa R, Wichard T (2020) Cul-
+      Robledo D (2022) Identification of the quorum sensing signal of              tivating the macroalgal holobiont: effects of integrated multi-
+      the opportunistic pathogen inducing bleaching disease in the red             trophic aquaculture on the microbiome of Ulva rigida (Chloro-
+      macroalga Halymenia floresii holobiont. Appl Phycol 3:109–119                phyta). Front Mar Sci 7:52
+Achmad M, Alimuddin A, Widyastuti U, Sukenda, S, Suryanti E, Har-            Campbell AH, Harder T, Nielsen S, Kjelleberg S, Steinberg PD (2011)
+      ris, E (2016) Molecular identification of new bacterial causative            Climate change and disease: bleaching of a chemically defended
+      agent of ice-ice disease on seaweed Kappaphycus alvarezii. PeerJ             seaweed. Glob Change Biol 17:2958–2970
+      Preprints 4:e2016v1                                                    Case RJ, Longford SR, Campbell AH, Low A, Tujula N, Steinberg PD,
+Aeby GS (2007) First record of coralline lethal orange disease (CLOD)              Kjelleberg S (2011) Temperature induced bacterial virulence and
+      in the Northwestern Hawaiian Islands. Coral Reefs 26:385                     bleaching disease in a chemically defended marine macroalga.
+Alfiansah YR, Peters S, Harder J, Hassenrück C, Gärdes A (2020)                    Environ Microbiol 13:529–537
+      Structure and co-occurrence patterns of bacterial communities          Cervino JM, Littler MM, Littler DS, Polson SW, Goreau T, Brooks
+      associated with white faeces disease outbreaks in Pacific white-             B, Smith G (2005) Identification of microbes associated with
+      leg shrimp Penaeus vannamei aquaculture. Sci Rep 10:11980                    coralline lethal algal disease and its relationship to glacial ice
+Armstrong E, Yan L, Boyd KG, Wright PC, Grant Burgess J (2001)                     melt (global warming). Phytopathology 95:120–121
+      The symbiotic role of marine microbes on living surfaces. Hyd-         Chaoyuan W, Guangheng L (1987) Progress in the genetics and breed-
+      robiologia 461:37–40                                                         ing of economic seaweeds in China. Hydrobiologia 151:57–61
+Arunkumar M, LewisOscar F, Thajuddin N, Pugazhendhi A, Nithya C              Chin GJWL, Mohamad MZ, Maili S, Yong WTL, Rodrigues KF (2017)
+      (2020) In vitro and in vivo biofilm forming Vibrio spp.: a signifi-          ISSR-PCR fingerprinting of Kappaphycus and Eucheuma (Rho-
+      cant threat in aquaculture. Process Biochem 94:213–223                       dophyta, Gigartinales) seaweed varieties from Sabah, Malaysia.
+Ashen JB, Goff LJ (1996) Molecular identification of a bacterium                   Trans Sci Technol 4:420–425
+      associated with gall formation in the marine red alga Prionitis        Chopin T, Tacon AGJ (2021) Importance of seaweeds and extractive
+      lanceolata. J Phycol 32:286–297                                              species in global aquaculture production. Rev Fish Sci Aquac
+Ashen JB, Goff LJ (2000) Molecular and ecological evidence for spe-                29:139–148
+      cies specificity and coevolution in a group of marine algal-bacte-     Chow J, Tang H, Mazmanian SK (2011) Pathobionts of the gastrointes-
+      rial symbioses. Appl Environ Microbiol 66:3024–3030                          tinal microbiota and inflammatory disease. Curr Opin Immunol
+Awla HK, Kadir J, Othman R, Rashid TS, Hamid S, Wong M (2017)                      23:473–480
+      Plant growth-promoting abilities and biocontrol efficacy of Strep-     Coffey B, Borgerson C, Lal P, Feehan CJ (2025) Co-location of sea-
+      tomyces sp. UPMRS4 against Pyricularia oryzae. Biol Control                  weed farming with offshore wind energy: a quick scoping review.
+      112:55–63                                                                    Front Mar Sci 11:1471204
+Azizi A, Mohd Hanafi N, Basiran MN, Teo CH (2018) Evaluation of              Corrigan S, Smale D, Tyler C, Brown A (2024) Quantification of fin-
+      disease resistance and tolerance to elevated temperature stress              fish assemblages associated with mussel and seaweed farms in
+      of the selected tissue-cultured Kappaphycus alvarezii Doty 1985              southwest UK provides evidence of potential benefits to fisheries.
+      under optimized laboratory conditions. 3 Biotech 8:321                       Aquacult Environ Interact 16:145–162
+Badis Y, Scornet D, Harada M, Caillard C, Godfroy O, Raphalen M,             Cottier-Cook EJ, Nagabhatla N, Badis Y, Campbell ML, Chopin T, Dai
+      Gachon CMM, Coelho SM, Motomura T, Nagasato C, Cock                          W, Fang J, He P, Hewitt CL, Kim GH, Huo Y, Jiang Z, Kema
+      JM (2021) Targeted CRISPR-Cas9-based gene knockouts in the                   G, Li X, Liu F, Liu H, Liu Y, Lu Q, Luo Q, Mao Y, Msuya FE,
+      model brown alga Ectocarpus. New Phytol 231:2077–2091                        Rebours C, Shen H, Stentiford GD, Yarish C, Wu H, Yang X,
+Bartlett A, Padfield D, Lear L, Bendall R, Vos M (2022) A comprehen-               Zhang J, Zhou Y, Gachon CMM (2016) Safeguarding the future
+      sive list of bacterial pathogens infecting humans. Microbiology              of the global seaweed aquaculture industry. United Nations Uni-
+      168:12                                                                       versity. https://​www.​sams.​ac.​uk/​t4-​media/​sams/​pdf/​globa​lseaw​
+Bass D, Stentiford GD, Wang H-C, Koskella B, Tyler CR (2019) The                   eed-​policy-​brief.​pdf
+      pathobiome in animal and plant diseases. Trends Ecol Evol              Craigie JS, Correa JA (1996) Etiology of infectious diseases in culti-
+      34:996–1008                                                                  vated Chondrus crispus (Gigartinales, Rhodophyta). Hydrobio-
+Behera DP, Ingle KN, Mathew DE, Dhimmar A, Sahastrabudh H, Sahu                    logia 326:97–104
+      SK, Krishnan GG, Shinde P, Meenakshisundaram G, Mantri VA              Croft MT, Lawrence AD, Raux-Deery E, Warren MJ, Smith AG (2005)
+      (2022) Epiphytism, diseases and grazing in seaweed aquaculture:              Algae acquire vitamin ­B12 through a symbiotic relationship with
+      a comprehensive review. Rev Aquac 14:1345–1370                               bacteria. Nature 438:90–93
+Journal of Applied Phycology (2026) 38:2143–2162                                                                                             2157
+
+Da Gama B, Plouguerné E, Pereira R (2014) The antifouling defence           FAO (2018) The global status of seaweed production, trade and utiliza-
+      mechanisms of marine macroalgae. Adv Bot Res 71:413–440                     tion. Food and Agriculture Organization of the United Nations,
+Dai J, Zhang Q, Bao Z (1993) Genetic breeding and seedling rais-                  Rome
+      ing experiments with Porphyra protoplasts. Aquaculture                FAO (2020) The state of world fisheries and aquaculture 2020. Sus-
+      111:139–145                                                                 tainability in action. Food and Agriculture Organization of the
+Davis TA, Volesky B, Mucci A (2003) A review of the biochemis-                    United Nations, Rome
+      try of heavy metal biosorption by brown algae. Water Res              FAO (2024) The state of world fisheries and aquaculture 2024: Blue
+      37:4311–4330                                                                transformation in action. Food and Agriculture Organization of
+de Oliveira LS, Gregoracci GB, Silva GGZ, Salgado LT, Filho GA,                   the United Nations, Rome
+      Alves-Ferreira M, Pereira RC, Thompson FL (2012) Tran-                Fei X (2004) Solving the coastal eutrophication problem by large scale
+      scriptomic analysis of the red seaweed Laurencia dendroidea                 seaweed cultivation. Hydrobiologia 512:145–151
+      (Florideophyceae, Rhodophyta) and its microbiome. BMC                 Feng X, Xiao B, Jiang M, Li P, Wu Q, Dong Y, Wang J, Sui Z (2023)
+      Genomics 13:487                                                             Identification of candidate genes related to two economic traits
+de Oliveira LS, Tschoeke DA, Magalhães Lopes ACR, Sudatti DB,                     using GWAS in Gracilariopsis lemaneiformis (Rhodophyta).
+      Meirelles PM, Thompson CC, Pereira RC, Thompson FL                          Algal Res 76:103309
+      (2017) Molecular mechanisms for microbe recognition and               Fernandes ND, Case RJ, Longford SR, Seyedsayamdost MR, Stein-
+      defense by the red seaweed Laurencia dendroidea. mSphere                    berg P, Kjelleberg S, Thomas T (2011) Genomes and virulence
+      2:e00094-17                                                                 factors of novel bacterial pathogens causing bleaching disease
+DeWeese KJ, Osborne MG (2021) Understanding the metabolome                        in the marine red alga Delisea pulchra. PLoS One 6:e27387
+      and metagenome as extended phenotypes: the next frontier in           Fernandes ND, Steinberg P, Rusch D, Kjelleberg S, Thomas T (2012)
+      macroalgae domestication and improvement. J World Aquac Soc                 Community structure and functional gene profile of bacteria on
+      52:1009–1030                                                                healthy and diseased thalli of the red seaweed Delisea pulchra.
+Dhiman S, Ulrich JF, Wienecke P, Wichard T, Arndt HD (2022) Stere-                PLoS One 7:e50854
+      oselective total synthesis of (−)-thallusin for bioactivity profil-   Fiorenza EA, Abu N, Feeney WE, Limbong SR, Freimark CB, Jompa
+      ing. Angew Chem Int Ed 61:e202206746                                        J, Harvel CD, Lamb JB (2024) Seagrass ecosystems reduce
+Dimitroglou A, Merrifield DL, Carnevali O, Picchietti S, Avella M,                disease risk and economic loss in marine farming production.
+      Daniels C, Güroy D, Davies SJ (2011) Microbial manipulations                Proc Natl Acad Sci USA 121:e2416012121
+      to improve fish health and production – a Mediterranean perspec-      Foster KR, Schluter J, Coyte KZ, Rakoff-Nahoum S (2017) The
+      tive. Fish Shellfish Immunol 30:1–16                                        evolution of the host microbiome as an ecosystem on a leash.
+Dittami SM, Duboscq-Bidot L, Perennou M, Gobet A, Corre E, Boyen                  Nature 548:43–51
+      C, Tonon T (2016) Host–microbe interactions as a driver of            Fouqueau L, Reynes L, Tempera F, Bajjouk T, Blanfuné A, Chevalier
+      acclimation to salinity gradients in brown algal cultures. ISME             C, Laurans M, Mauger S, Sourisseau M, Assis J, Lévêque L,
+      J 10:51–63                                                                  Valero M (2024) Seascape genetic study on Laminaria digitata
+Dobretsov SV, Qian PY (2002) Effect of bacteria associated with the               underscores the critical role of sampling schemes. Mar Ecol
+      green alga Ulva reticulata on marine micro- and macrofouling.               Prog Ser 740:23–42
+      Biofouling 18:217–228                                                 Fu X, Wu X, Zhou X, Liu S, Shen Y, Wu F (2015) Companion
+Duarte CM, Wu J, Xiao X, Bruhn A, Krause-Jensen D (2017) Can                      cropping with potato onion enhances the disease resistance
+      seaweed farming play a role in climate change mitigation and                of tomato against Verticillium dahliae. Front Plant Sci 6:726
+      adaptation? Front Mar Sci 4:100                                       Fujita J (1990) Diseases of cultivated Porphyra in Japan. In: Akat-
+Dworjanyn S, de Nys R, Steinberg P (2006) Chemically mediated                     suka I (ed) Introduction to applied phycology. SPB Academic,
+      antifouling in the red alga Delisea pulchra. Mar Ecol Prog Ser              The Hague, pp 177–190
+      318:153–163                                                           Gachon CMM, Sime-Ngando T, Strittmatter M, Chambouvet A, Kim
+Egan S, Fernandes ND, Kumar V, Gardiner M, Thomas T (2014)                        GH (2010) Algal diseases: spotlight on a black box. Trends
+      Bacterial pathogens, virulence mechanism and host defence in                Plant Sci 15:633–640
+      marine macroalgae. Environ Microbiol 16:925–938                       Ganguly S, Dora KC, Sarkar S, Chowdhury S (2013) Supplementa-
+Egan S, Gardiner M (2016) Microbial dysbiosis: rethinking disease in              tion of prebiotics in fish feed: a review. Rev Fish Biol Fish
+      marine ecosystems. Front Microbiol 7:991                                    23:195–199
+Egan S, Harder T, Burke C, Steinberg P, Kjelleberg S, Thomas T              Gao G, Gao L, Jiang M, Jian A, He L (2021) The potential of sea-
+      (2013) The seaweed holobiont: understanding seaweed–bacteria                weed cultivation to achieve carbon neutrality and mitigate
+      interactions. FEMS Microbiol Rev 37:462–476                                 deoxygenation and eutrophication. Environ Res Lett 17:014018
+Eger AM, Aguirre JD, Altamirano M, Arafeh-Dalmau N, Arroyo NL               Gardiner M, Bournazos AM, Maturana-Martinez C, Zhong L, Egan
+      et al (2024) The kelp forest challenge: a collaborative global              S (2017) Exoproteome analysis of the seaweed pathogen Nau-
+      movement to protect and restore 4 million hectares of kelp for-             tella italica R11 reveals temperature-dependent regulation of
+      ests. J Appl Phycol 36:951–964                                              RTX-like proteins. Front Microbiol 8:1203
+El-Saadony MT, Alagawany M, Patra AK, Kar I, Tiwari R, Dawood               Gardiner M, Fernandes ND, Nowakowski D, Raftery M, Kjelleberg
+      MAO, Dhama K, Abdel-Latif HMR (2021) The functionality of                   S, Zhong L, Thomas T, Egan S (2015a) VarR controls coloni-
+      probiotics in aquaculture: an overview. Fish Shellfish Immunol              zation and virulence in the marine macroalgal pathogen Nau-
+      117:36–52                                                                   tella italica R11. Front Microbiol 6:1130
+Ezura Y, Yamamoto H, Kimura T (1988) Isolation of a marine bac-             Gardiner M, Thomas T, Egan S (2015b) A glutathione peroxidase
+      terium that produces red-spots on the culture bed of Makonbu                (GpoA) plays a role in the pathogenicity of Nautella italica
+      Laminaria japonica cultivation. Nippon Suisan Gakkaishi                     strain R11 towards the red alga Delisea pulchra. FEMS Micro-
+      54:665–672                                                                  biol Ecol 91:fiv021
+Fan X, Ye T, Li Q, Bhatt P, Zhang L, Chen S (2020) Potential of a quo-      Ghaderiardakani F, Califano G, Mohr J, Abreu MH, Coates J,
+      rum quenching bacteria isolate Ochrobactrum intermedium D-2                 Wichard T (2019) Analysis of algal growth- and morpho-
+      against soft rot pathogen Pectobacterium carotovorum subsp.                 genesis- promoting factors in an integrated multi-trophic
+      carotovorum. Front Microbiol 11:898
+2158                                                                                                   Journal of Applied Phycology (2026) 38:2143–2162
+
+     aquaculture system for farming Ulva spp. Aquac Environ                             Han B (2015) Genomic analysis of hybrid rice varieties reveals
+     Interact 11:375–391                                                                numerous superior alleles that contribute to heterosis. Nat Com-
+Ghaderiardakani F, Quartino ML, Wichard T (2020) Microbiome-                            mun 6:6258
+     dependent adaptation of seaweeds under environmental stresses:               Hudson J, Gardiner M, Deshpande N, Egan S (2018) Transcriptional
+     a perspective. Front Mar Sci 7:575228                                              response of Nautella italica R11 towards its macroalgal host
+Goecke F, Klemetsdal G, Ergon Å (2020) Cultivar development of                          uncovers new mechanisms of host–pathogen interaction. Mol
+     kelps for commercial cultivation—past lessons and future pros-                     Ecol 27:1820–1832
+     pects. Front Mar Sci 7:110                                                   Hurd CL, Law CS, Bach LT, Britton D, Hovenden M, Paine ER, Raven
+González JE, Keshavan ND (2006) Messing with bacterial quorum                           JA, Tamsitt V, Boyd PW (2022) Forensic carbon accounting:
+     sensing. Microbiol Mol Biol Rev 70:859–875                                         assessing the role of seaweeds for carbon sequestration. J Phycol
+Granato ET, Meiller-Legrand TA, Foster KR (2019) The evolution and                      58:347–363
+     ecology of bacterial warfare. Curr Biol 29:R521–R537                         Hurtado AQ, Neish IC, Critchley AT (2019) Phyconomy: the extensive
+Gu S, Wei Z, Shao Z, Friman V-P, Cao K, Yang T, Kramer J, Wang                          cultivation of seaweeds, their sustainability and economic value,
+     X, Li M, Mei X, Xu Y, Shen Q, Kümmerli R, Jousset A (2020)                         with particular reference to important lessons to be learned and
+     Competition for iron drives phytopathogen control by natural                       transferred from the practice of eucheumatoid farming. Phyco-
+     rhizosphere microbiomes. Nat Microbiol 5:1002–1010                                 logia 58:472–483
+Hardegen J, Amend G, Wichard T (2023) Lifecycle-dependent toxic-                  Hwang EK, Yotsukura N, Pang SJ, Su L, Shan TF (2019) Seaweed
+     ity and removal of micropollutants in algal cultures of the green                  breeding programs and progress in eastern Asian countries. Phy-
+     seaweed Ulva (Chlorophyta). J Appl Phycol 35:2031–2048                             cologia 58:484–495
+Harder T, Campbell AH, Egan S, Steinberg PD (2012) Chemical medi-                 Irmawati Y, Sudjiro F (2017) Infection Vibrio sp. bacteria on Kappa-
+     ation of ternary interactions between marine holobionts and their                  phycus seaweed varieties brown and green. IOP Conf Ser: Earth
+     environment as exemplified by the red alga Delisea pulchra. J                      Environ Sci 89 :012016
+     Chem Ecol 38:442–450                                                         Jiang P, Qin S, Tseng C (2002) Expression of hepatitis B surface anti-
+Harvell CD, Altizer S, Cattadori IM, Harrington L, Weil E (2009)                        gen gene (HBsAg) in Laminaria japonica (Laminariales, Phaeo-
+     Climate change and wildlife diseases: when does the host matter                    phyta). Chin Sci Bull 47:1438–1440
+     the most? Ecology 90:912–920                                                 Johari SA, Kalbassi MR, Soltani M, Yu IJ (2016) Application of
+Harvell CD, Kim K, Burkholder JM, Colwell RR, Epstein PR, Grimes                        nanosilver-coated zeolite as water filter media for fungal disin-
+     DJ, Hofmann EE, Lipp EK, Osterhaus AD, Overstreet RM, Por-                         fection of rainbow trout (Oncorhynchus mykiss) eggs. Aquacult
+     ter JW, Smith GW, Vasta GR (1999) Emerging marine diseases–                        Int 24:23–38
+     climate links and anthropogenic factors. Science 285:1505–1510               Jueterbock A, Minne AJP, Cock JM, Coleman MA, Wernberg T, Sche-
+Harvell CD, Mitchell CE, Ward JR, Altizer S, Dobson AP, Ostfeld                         schonk L, Rautenberger R, Zhang J, Hu Z-M (2021) Priming of
+     RS, Samuel MD (2002) Climate warming and disease risks for                         marine macrophytes for enhanced restoration success and food
+     terrestrial and marine biota. Science 296:2158–2162                                security in future oceans. Front Mar Sci 8:658485
+Hasselström L, Visch W, Gröndahl F, Nylund GM, Pavia H (2018) The                 Ke J, Wang B, Yoshikuni Y (2021) Microbiome engineering: synthetic
+     impact of seaweed cultivation on ecosystem services - a case                       biology of plant-associated microbiomes in sustainable agricul-
+     study from the west coast of Sweden. Mar Pollut Bull 133:53–64                     ture. Trends Biotechnol 39:244–261
+Hedberg N, von Schreeb K, Charisiadou S, Jiddawi NS, Tedengren                    Kessler RW, Weiss A, Kuegler S, Hermes C, Wichard T (2018) Mac-
+     M, Nordlund LM (2018) Habitat preference for seaweed farm-                         roalgal–bacterial interactions: role of dimethylsulfoniopropion-
+     ing – a case study from Zanzibar, Tanzania. Ocean Coast Manag                      ate in microbial gardening by Ulva (Chlorophyta). Mol Ecol
+     154:186–195                                                                        27:1808–1819
+Heinrich S, Valentin K, Frickenhaus S, John U, Wiencke C (2012)                   Kim GH, Klochkova TA, Lee DJ, Im SH (2016) Chloroplast virus
+     Transcriptomic analysis of acclimation to temperature and                          causes green-spot disease in cultivated Pyropia of Korea. Algal
+     light stress in Saccharina latissima (Phaeophyceae). PLoS One                      Res 17:293–299
+     7:e44342                                                                     Kim GH, Moon K-H, Kim J-Y, Shim J, Klotchkova TA (2014) A reval-
+Hermans (2021) State of the seaweed industry 2022, Phyconomy.                           uation of algal diseases in Korean Pyropia (Porphyra) sea farms
+     https://​phyco​nomy.​net/​artic​les/​state-​of-​the-​seawe​ed-​indus​try-​         and their economic impact. Algae 29:249–265
+     2022/; accessed 30 September 2025                                            King NG, Moore PJ, Thorpe JM, Smale DA (2023) Consistency and
+Hmani I, Ghaderiardakani F, Ktari L, Bour ME, Wichard T (2024)                          variation in the kelp microbiota: patterns of bacterial community
+     High-temperature stress induces bacteria-specific adverse and                      structure across spatial scales. Microb Ecol 85:1265–1275
+     reversible effects on Ulva (Chlorophyta) growth and its chem-                Koch R (1891) Über Bakteriologische Forschung. Dtsch Med Wochen-
+     osphere in a reductionist model system. Bot Mar 67:131–138                         schr 16:757–758
+Hofmann LC, Brakel J, Bartsch I, Montecinos Arismendi G, Bermejo                  Kumar V, Zozaya-Valdes E, Kjelleberg S, Thomas T, Egan S (2016)
+     R, Parente MI, Creis E, De Clerck O, Jacquemin B, Knoop J,                         Multiple opportunistic pathogens can cause a bleaching dis-
+     Lorenz M, Machado LP, Martins N, Orfanidis S, Probert I, Rad                       ease in the red seaweed Delisea pulchra. Environ Microbiol
+     Menendez C, Ross M, Rautenberger R, Schiller J, Serrao EA,                         18:3962–3975
+     Steinhagen S, Sulpice R, Valero M, Wichard T (2025) A Euro-                  Küpper F, Kloareg B, Guern J, Potin P (2001) Oligoguluronates elicit
+     pean biobanking strategy for safeguarding macroalgal genetic                       an oxidative burst in the brown algal kelp Laminaria digitata.
+     material to ensure food security, biosecurity and conservation                     Plant Physiol 125:278–291
+     of biodiversity. Eur J Phycol 60:197–220                                     Küpper FC, Gaquerel E, Cosse A, Adas F, Peters AF, Müller DG,
+Hooks KB, O’Malley MA (2017) Dysbiosis and its discontents. mBio                        Kloareg B, Salaün J-P, Potin P (2009) Free fatty acids and methyl
+     8:e01492–17                                                                        jasmonate trigger defense reactions in Laminaria digitata. Plant
+Huang X, Han B (2014) Natural variations and genome-wide asso-                          Cell Physiol 50:789–800
+     ciation studies in crop plants. Annu Rev Plant Biol 65:531–551               Kusuda R, Kawai K, Salati F, Kawamura Y, Yamashita Y (1992) Char-
+Huang X, Yang S, Gong J, Zhao Y, Feng Q, Gong H, Li W, Zhan Q,                          acteristics of Flavobacterium sp. causing “Suminori” disease in
+     Cheng B, Xia J, Chen N, Hao Z, Liu K, Zhu C, Huang T, Zhao                         cultivated Porphyra. Aquac Sci 40:457–461
+     Q, Zhang L, Fan D, Zhou C, Lu Y, Weng Q, Wang Z-X, Li J,
+Journal of Applied Phycology (2026) 38:2143–2162                                                                                               2159
+
+Lachnit T, Blümel M, Imhoff J, Wahl M (2009) Specific epibacterial          Lomartire S, Marques JC, Gonçalves AMM (2021) An overview to
+       communities on macroalgae: phylogeny matters more than habi-              the health benefits of seaweeds consumption. Mar Drugs 19:341
+       tat. Aquat Biol 5:181–186                                            Lüning K (1991) Seaweeds: Their environment, biogeography, and
+Lang T, Cummins SF, Paul NA, Campbell AH (2024) Molecular                        ecophysiology. John Wiley & Sons, NY
+       responses of seaweeds to biotic interactions: a systematic review.   Ma M, Zhuang Y, Chang L, Xiao L, Lin Q, Qiu Q, Chen D, Egan S,
+       J Phycol 60:1036–1057                                                     Wang G (2023) Naturally occurring beneficial bacteria Vibrio
+Largo DB (2002) Recent developments in seaweed diseases. In: Pro-                alginolyticus X-2 protects seaweed from bleaching disease. Mbio
+       ceedings of the National Seaweed Planning Workshop held on                14:e00065-23
+       August 2–3, 2001, SEADFEC Aquaculture Department, Tig-               Makame MO, Hamad AR, Said MS, Mushi A, Sharif K (2021) Mov-
+       bauan, Iloilo, pp 35–42                                                   ing seaweed farms from shallow to deep seawater to cope with
+Largo DB, Fukami K, Nishijima T (1995a) Occasional pathogenic                    warming and diseases in Zanzibar. Current socio-economic and
+       bacteria promoting ice-ice disease in the carrageenan-produc-             cultural barriers. J Sustain Dev 14:29
+       ing red algae Kappaphycus alvarezii and Eucheuma denticula-          Mancuso FP, Morrissey KL, De Clerck O, Airoldi L (2023) Warming
+       tum (Solieriaceae, Gigartinales, Rhodophyta). J Appl Phycol               and nutrient enrichment can trigger seaweed loss by dysregu-
+       7:545–554                                                                 lation of the microbiome structure and predicted function. Sci
+Largo DB, Fukami K, Nishijima T (1999) Time-dependent attachment                 Total Environ 879:162919
+       mechanism of bacterial pathogen during ice-ice infection in Kap-     Manefield M, Welch M, Givskov M, Salmond G, Kjelleberg S (2011)
+       paphycus alvarezii (Gigartinales, Rhodophyta). J Appl Phycol              Halogenated furanones from the red alga, Delisea pulchra,
+       11:129–136                                                                inhibit carbapenem antibiotic synthesis and exoenzyme viru-
+Largo DB, Fukami K, Nishijima T, Ohno M (1995b) Laboratory-                      lence factor production in the phytopathogen Erwinia caroto-
+       induced development of the ice-ice disease of the farmed                  vora. FEMS Microbiol Lett 2015:131–138
+       red algae Kappaphycus alvarezii and Eucheuma denticula-              Mao X, Augyte S, Huang M, Hare MP, Bailey D, Umanzor S, Marty-
+       tum (Solieriaceae, Gigartinales, Rhodophyta). J Appl Phycol               Rivera M, Robbins KR, Yarish C, Lindell S, Jannink J-L (2020)
+       7:539–543                                                                 Population genetics of sugar kelp throughout the northeastern
+Lau S-E, Teo WFA, Teoh EY, Tan BC (2022) Microbiome engineering                  United States using genome-wide markers. Front Mar Sci 7:694
+       and plant biostimulants for sustainable crop improvement and         Martins N, Barreto L, Bartsch I, Bernard J, Serrão E, Pearson G (2022)
+       mitigation of biotic and abiotic stresses. Discov Food 2:9                Daylength influences reproductive success and sporophyte
+Lavilla-Pitogo CR (1992) Agar-digesting bacteria associated with ‘rot-           growth in the Arctic kelp species Alaria esculenta. Mar Ecol
+       ten thallus syndrome’ of Gracilaria sp. Aquaculture 102:1–7               Prog Ser 683:37–52
+Li J, Majzoub ME, Marzinelli EM, Dai Z, Thomas T, Egan S (2022a)            Matsuo Y, Imagawa H, Nishizawa M, Shizuri Y (2005) Isolation of an
+       Bacterial controlled mitigation of dysbiosis in a seaweed disease.        algal morphogenesis inducer from a marine bacterium. Science
+       ISME J 16:378–387                                                         307:1598–1598
+Li J, Saha M, Majzoub ME, Yang T, Chu H, Thomas T, Weinberger               Matsuo Y, Suzuki M, Kasai H, Shizuri Y, Harayama S (2003) Isolation
+       F, Egan S (2024) Non-selective microbiota reduction after the             and phylogenetic characterization of bacteria capable of induc-
+       elicitation of a seaweed’s immune response. Environ Microbiol             ing differentiation in the green alga Monostroma oxyspermum.
+       Rep 16:e13268                                                             Environ Microbiol 5:25–35
+Li J, Weinberger F, de Nys R, Thomas T, Egan S (2023) A pathway to          Maximilien R, de Nys R, Holmström C, Gram L, Givskov M, Crass K,
+       improve seaweed aquaculture through microbiota manipulation.              Kjelleberg S, Steinberg P (1998) Chemical mediation of bacterial
+       Trends Biotechnol 41:545–556                                              surface colonisation by secondary metabolites from the red alga
+Li J, Weinberger F, Saha M, Majzoub ME, Egan S (2022b) Cross-host                Delisea pulchra. Aquat Microb Ecol 15:233–246
+       protection of marine bacteria against macroalgal disease. Microb     Mine T, Tanaka S, Kawamura Y, Kobayashi G, Kanda K (2009) Diver-
+       Ecol 84:1288–1293                                                         sity of incidence factors in Suminori disease during Laver culti-
+Li X, Cong Y, Yang G, Shi Y, Qu S, Li Z, Wang G, Zhang Z, Luo S,                 vation. Aquac Sci 57:601–608
+       Dai H, Xie J, Jiang G, Liu J, Wang T (2007) Trait evaluation and     Mine T, Tanaka S, Kawamura Y, Kobayashi G, Kanda K (2010) Isola-
+       trial cultivation of Dongfang No. 2, the hybrid of a male gameto-         tion and application of bacteriophages to Suminori disease con-
+       phyte clone of Laminaria longissima (Laminariales, Phaeophyta)            trol. Aquac Sci 58:211–217
+       and a female one of L. japonica. J Appl Phycol 19:139–151            Mudlaff CM, Weinberger F, Düsedau L, Ghotbi M, Künzel S, Bon-
+Ling F, Egan S, Zhuang Y, Chang L, Xiao L, Yang Q, Wang G (2022)                 thond G (2025) Seasonal cycles in a seaweed holobiont: a multi-
+       Epimicrobiome shifts with bleaching disease progression in the            year time series reveals repetitive microbial shifts and core taxa.
+       brown seaweed Saccharina japonica. Front Mar Sci 9:865224                 Environ Microbiol 27:e70062
+Littler MM, Littler DS (1994) A pathogen of reef-building coralline         Murray SC, Rooney WL, Mitchell SE, Sharma A, Klein PE, Mullet
+       algae discovered in the South Pacific. Coral Reefs 13:202–202             JE, Kresovich S (2008) Genetic improvement of Sorghum as a
+Littler MM, Littler DS (1995) Impact of CLOD pathogen on Pacific                 biofuel feedstock: II. QTL for stem and leaf structural carbohy-
+       coral reefs. Science 267:1356–1359                                        drates. Crop Sci 48:2180–2193
+Liu C, Wang L, Wang M, Tang X (2002) Difference analysis of infec-          Nayar S, Bott K (2014) Current status of global cultivated seaweed
+       tion activity of alginic acid decomposing bacteria infecting Lami-        production and markets. World Aquac 45:32–37
+       naria japonica. Mar Sci 6:44–47                                      Nelson DR, Mystikou A, Jaiswal A, Rad-Menendez C, Preston MJ, De
+Liu Q, Shi H, Yang R, Lin J, Chen J, Chen H (2025) Phaeobacter itali-            Boever F, El Assal DC, Daakour S, Lomas MW, Twizere J-C,
+       cus JN-W1: a pathogenic bacterium causing bleaching disease               Green DH, Ratcliff WC, Salehi-Ashtiani K (2024) Macroalgal
+       in Porphyra sensu lato (Bangiales, Rhodophyta). Aquaculture               deep genomics illuminate multiple paths to aquatic, photosyn-
+       595:741641                                                                thetic multicellularity. Mol Plant 17:747–771
+Liu X, Chen Y, Zhong M, Chen W, Lin Q, Du H (2019) Isolation and            Nguyen D, Ovadia O, Guttman L (2023) Temporal force governs the
+       pathogenicity identification of bacterial pathogens in bleached           microbial assembly associated with Ulva fasciata (Chlorophyta)
+       disease and their physiological effects on the red macroalga              from an integrated multi-trophic aquaculture system. Front
+       Gracilaria lemaneiformis. Aquat Bot 153:1–7                               Microbiol 14:1223204
+2160                                                                                           Journal of Applied Phycology (2026) 38:2143–2162
+
+Paasch BC, He SY (2021) Toward understanding microbiota homeo-                  agent of red spot disease of Laminaria japonica. Int J Syst Evol
+     stasis in the plant kingdom. PLoS Pathog 17:e2009472                       Microbiol 48:769–774
+Pang T, Liu J, Liu Q, Li H, Li J (2015) Observations on pests and         Schroeder DC, Jaffer MA, Coyne VE (2003) Investigation of the role
+     diseases affecting a eucheumatoid farm in China. J Appl Phycol             of a β(1–4) agarase produced by Pseudoalteromonas gracilis B9
+     27:1975–1984                                                               in eliciting disease symptoms in the red alga Gracilaria gracilis.
+Park SR, Cho S, Kim M, Lim W, Ryu S, An C, Hong S, Lee Y, Yun                   Microbiology 149:2919–2929
+     H (2001) Characteristics of a marine agarolytic Pseudomonas          Shen Y, Motomura T, Ichihara K, Matsuda Y, Yoshimura K, Kosugi C,
+     sp. from Porphyra dentata (Bangiales, Rhodophyta) and some                 Nagasato C (2023) Application of CRISPR-Cas9 genome edit-
+     properties of its extracellular agarase. Kor J Life Sci 11:291–297         ing by microinjection of gametophytes of Saccharina japonica
+Patwary ZP, Paul NA, Nishitsuji K, Campbell AH, Shoguchi E, Zhao                (Laminariales, Phaeophyceae). J Appl Phycol 35:1431–1441
+     M, Cummins SF (2021) Application of omics research in sea-           Simon J-C, Marchesi JR, Mougel C, Selosse M-A (2019) Host-microbiota
+     weeds with a focus on red seaweeds. Brief Funct Genomics                   interactions: from holobiont theory to analysis. Microbiome 7:5
+     20:148–161                                                           Spagnuolo D, Genovese G (2024) Macroalgal diseases: exploring
+Pearman WS, Duffy GA, Smith RO, Currie KI, Gemmell NJ, Morales                  biology, pathogenesis, and management strategies. Phycology
+     SE, Fraser CI (2024) Host dispersal relaxes selective pressures            4:450–464
+     in rafting microbiomes and triggers successional changes. Nat        Strittmatter M, Murúa P, Arce P, Perrineau M-M, Gachon C (2022)
+     Commun 15:10759                                                            My seaweed looks weird: a community web portal to acceler-
+Peixoto RS, Voolstra CR, Sweet M, Duarte CM, Carvalho S, Villela                ate pathogen discovery in seaweeds. Appl Phycol 3:300–305
+     H, Lunshof JE, Gram L, Woodhams DC, Walter J, Roik A,                Sugumaran R, Padam BS, Yong WTL, Saallah S, Ahmed K, Yusof
+     Hentschel U, Thurber RV, Daisley B, Ushijima B, Daffonchio                 NA (2022) A retrospective review of global commercial sea-
+     D, Costa R, Keller-Costa T, Bowman JS, Rosado AS, Reid G,                  weed production—current challenges, biosecurity and mitigation
+     Mason CE, Walke JB, Thomas T, Berg G (2022) Harnessing                     measures and prospects. Int J Environ Res Public Health 19:7087
+     the microbiome to prevent global biodiversity loss. Nat Micro-       Sun X, He Y, Xu N, Xia Y, Liu Z (2012) Isolation and identification of
+     biol 7:1726–1735                                                           two strains of pathogenic bacteria and their effects on the vola-
+Peng Y, Li W (2013) A bacterial pathogen infecting gametophytes                 tile metabolites of Gracilariopsis lemaneiformis (Rhodophyta).
+     of Saccharina japonica (Laminariales, Phaeophyceae). Chin J                J Appl Phycol 24:277–284
+     Ocean Limnol 31:366–373                                              Sunairi M, Tsuchiya H, Tsuchiya T, Omura Y, Koyanagi Y, Ozawa
+Pessarrodona A, Howard J, Pidgeon E, Wernberg T, Filbee-Dexter                  M, Iwabuchi N, Murooka H, Nakajima M (1995) Isolation of a
+     K (2024) Carbon removal and climate change mitigation by                   bacterium that causes Anaaki disease of the red algae Porphyra
+     seaweed farming: a state of knowledge review. Sci Total Envi-              yezoensis. J Appl Bacteriol 79:225–229
+     ron 918:170525                                                       Syafitri E, Prayitno SB, Ma’ruf WF, Radjasa OK (2017) Genetic
+Provasoli L, Pintner IJ (1980) Bacteria induced polymorphism in                 diversity of the causative agent of ice-ice disease of the seaweed
+     an axenic laboratory strain of Ulva lactuca (Chlorophyceae).               Kappaphycus alvarezii from Karimunjawa island, Indonesia. IOP
+     J Phycol 16:196–201                                                        Conf Ser: Earth Environ Sci 55
+Qui-Minet AN, Connan S, Stiger-Pouvreau V (2025) To die or not            Tang L, Qiu L, Liu C, Du G, Mo Z, Tang X, Mao Y (2019) Transcrip-
+     to die: how seaweed holobionts chemistry influences lifespan               tomic insights into innate immunity responding to red rot disease
+     and stress resilience. Front Mar Sci 12:1635698                            in red alga Pyropia yezoensis. Int J Mol Sci 20:5970
+Quiza L, St-Arnaud M, Yergeau E (2015) Harnessing phytomicrobi-           Tay WH, Chong KKL, Kline (2016) Polymicrobial–host interactions
+     ome signaling for rhizosphere microbiome engineering. Front                during infection. J Mol Biol 428:3355–3371
+     Plant Sci 6:507                                                      Thien VY, Yong WTL, Anton A, Chin GJWL (2020) A multiplex
+Robinson N, Winberg P, Kirkendale L (2013) Genetic improvement                  PCR method for rapid identification of commercially important
+     of macroalgae: status to date and needs for the future. J Appl             seaweeds Kappaphycus alvarezii, Kappaphycus striatus and
+     Phycol 25:703–716                                                          Eucheuma denticulatum (Rhodophyta, Solieriaceae). Reg Stud
+Rogers AB (2012) Gastric Helicobacter spp. in animal models:                    Mar Sci 40:101499
+     pathogenesis and modulation by extragastric coinfections.            Thomas J-BE, Ramos FS, Gröndahl F (2019) Identifying suitable sites
+     Methods Mol Biol 921:175–188                                               for macroalgae cultivation on the Swedish West Coast. Coast
+Roque BM, Venegas M, Kinley RD, de Nys R, Duarte TL, Kebreab E                  Manag 47:88–106
+     (2021) Red seaweed (Asparagopsis taxiformis) supplementation         Toth GB, Pavia H (2000) Water-borne cues induce chemical defense
+     reduces enteric methane by over 80 percent in beef steers. PLoS            in a marine alga (Ascophyllum nodosum). Proc Natl Acad Sci
+     One 16:e0247820                                                            USA 97:14418–14420
+Saha M, Rempt M, Grosser K, Pohnert G, Weinberger F (2011) Surface-       Tracy AM, Pielmeier ML, Yoshioka RM, Heron SF, Harvell CD (2019)
+     associated fucoxanthin mediates settlement of bacterial epiphytes          Increases and decreases in marine disease reports in an era of
+     on the rockweed Fucus vesiculosus. Biofouling 27:423–433                   global change. Proc R Soc B 286:20191718
+Saha M, Weinberger F (2019) Microbial “gardening” by a seaweed            Troell M, Joyce A, Chopin T, Neori A, Buschmann AH, Fang J-G
+     holobiont: surface metabolites attract protective and deter                (2009) Ecological engineering in aquaculture — potential for
+     pathogenic epibacterial settlement. J Ecol 107:2255–2265                   integrated multi-trophic aquaculture (IMTA) in marine offshore
+Saha M, Dittami SM, Chan CX, Raina JB, Stock W, Ghaderiardakani                 systems. Aquaculture 297:1–9
+     F, Valathuparambil Baby John AM, Corr S, Schleyer G, Todd J,         Troell M, Henriksson PJG, Buschmann AH, Chopin T, Quahe S (2022)
+     Cardini U, Bengtsson MM, Prado S, Skillings D, Sonnenschein                Farming the ocean – seaweeds as a quick fix? Rev Fish Sci Aquac
+     EC, Engelen AH, Wang G, Wichard T, Brodie J, Leblanc C,                    31:285–295
+     Egan S (2024) Progress and future directions for seaweed holo-       Trujillo E, Monreal-Escalante E, Ramos-Vega A, Angulo C (2024)
+     biont research. New Phytol 24:364–376                                      Macroalgae: marine players in vaccinology. Algal Res 78:103392
+Sawabe T, Makino H, Tatsumi M, Nakano K, Tajima K, Iqbal M,               Turnbaugh PJ, Hamady M, Yatsunenko T, Cantarel BL, Duncan A,
+     Yumoto I, Ezura Y, Christen R (1998) Pseudoalteromonas bac-                Ley RE, Sogin ML, Jones WJ, Roe BA, Affourtit JP, Egholm
+     teriolytica sp. nov., a marine bacterium that is the causative             M, Henrissat B, Heath AC, Knight R, Gordon JI (2009) A core
+                                                                                gut microbiome in obese and lean twins. Nature 457:480–484
+Journal of Applied Phycology (2026) 38:2143–2162                                                                                              2161
+
+Ulrich JF, Gräfe MS, Dhiman S, Wienecke P, Arndt HD, Wichard              Weinberger F, Friedlander M, Gunkel W (1994) A bacterial faculta-
+      T (2022) Thallusin quantification in marine bacteria and algae           tive parasite of Gracilaria conferta. Dis Aquat Org 18:135–141
+      cultures. Mar Drugs 20:690                                          Weinberger F, Hoppe H-G, Friedlander M (1997) Bacterial induction
+Uyenco FR, Saniel LS, Jacinto GS (1980) The “Ice-Ice” problem in               and inhibition of a fast necrotic response in Gracilaria conferta
+      seaweed farming. In: Levrig T (ed) International Seaweed Sym-            (Rhodophyta). J Appl Phycol 9:277–285
+      posium: Proceedings. Göteborg, Sweden. Walter de Gruyter,           Wen T, Ding Z, Thomashow LS, Hale L, Yang S, Xie P, Liu X, Wang
+      Berlin, pp 625–630                                                       H, Shen Q, Yuan J (2023) Deciphering the mechanism of fun-
+Vairappan CS, Suzuki M, Motomura T, Ichimura T (2001) Pathogenic               gal pathogen-induced disease-suppressive soil. New Phytol
+      bacteria associated with lesions and thallus bleaching symptoms          238:2634–2650
+      in the Japanese kelp Laminaria religiosa Miyabe (Laminariales,      Weng P, Yang H, Mo Z, Zhang W, Yan Y, Rong X, Li J (2024) Applica-
+      Phaeophyceae). Hydrobiologia 445:183–191                                 tion and evaluation of probiotics against red rot disease in Pyropia.
+van der Loos LM, D’hondt S, Engelen AH, Pavia H, Toth GB, Willems              Aquaculture 578:740050
+      A, Weinberger F, De Clerck O, Steinhagen S (2022) Salinity          Wiese J, Thiel V, Nagel K, Staufenberger T, Imhoff JF (2009) Diversity
+      and host drive Ulva-associated bacterial communities across the          of antibiotic-active bacteria associated with the brown alga Lami-
+      Atlantic-Baltic Sea gradient. Mol Ecol 32:6260–6277                      naria saccharina from the Baltic Sea. Mar Biotechnol 11:287–300
+Vayssier-Taussat M, Albina E, Citti C, Cosson JF, Jacques M-A, Leb-       Wilde J, Slack E, Foster KR (2024) Host control of the microbiome:
+      run M-H, Le Loir Y, Ogliastro M, Petit M-A, Roumagnac P,                 mechanisms, evolution, and disease. Science 385:eadi3338
+      Candresse T (2014) Shifting the paradigm from pathogens to          Work TM, Aeby GS (2006) Systematically describing gross lesions in
+      pathobiome: new concepts in the light of meta-omics. Front Cell          corals. Dis Aquat Org 70:155–160
+      Infect Microbiol 4:29                                               World Bank (2023) Global seaweed: New and emerging markers report
+Veenhof RJ, Burrows MT, Hughes AD, Michalek K, Ross ME, Thom-                  2023. World Bank, Washington, DC
+      son AI, Fedenko J, Stanley MS (2024) Sustainable seaweed aqua-      Wu C (1990) Cultivation of temperate seaweeds in the Asia Pacific
+      culture and climate change in the North Atlantic: challenges and         region. Institute of Oceanology, Qingdao, China
+      opportunities. Front Mar Sci 11:1483330                             Wu L, Xiao W, Chen G, Song D, Khaskheli MA, Li P, Zhang S, Feng
+Voolstra CR, Raina J-B, Dörr M, Cárdenas A, Pogoreutz C, Silveira              G (2018) Identification of Pseudomonas mosselii BS011 gene
+      CB, Mohamed AR, Bourne DG, Luo H, Amin SA, Peixoto RS                    clusters required for suppression of Rice Blast Fungus Magna-
+      (2024) The coral microbiome in sickness, in health and in a              porthe oryzae. J Biotechnol 282:1–9
+      changing world. Nat Rev Microbiol 22:460–475                        Xu M, Yang R, Liu Q, He Y, Chen H (2020) Yellow spot disease in
+Vos M (2023) Accessory microbiomes. Microbiology 169:001332                    Pyropia species infected by Vibrio mediterranei 117–T6. J Fish
+Wade R, Augyte S, Harden M, Nuzhdin SV, Yarish C, Alberto F (2020)             China 44:661–671
+      Macroalgal germplasm banking for conservation, food security,       Yamanoi H, Takami J (2008) A Pseudomonas-like bacterium isolated
+      and industry. PLoS Biol 18:e3000641                                      from diseased conchocelis of Porphyra. Nippon Suisan Gakkai-
+Wahl M (1989) Marine epibiosis. I. Fouling and antifouling: some               shi 74:1024–1029
+      basic aspects. Mar Ecol Prog Ser 58:175–189                         Yang R, Liu Q, He Y, Tao Z, Xu M, Luo Q, Chen J, Chen H (2020)
+Wahl M, Goecke F, Labes A, Dobretsov S, Weinberger F (2012) The                Isolation and identification of Vibrio mediterranei 117–T6 as a
+      second skin: ecological role of epibiotic biofilms on marine             pathogen associated with yellow spot disease of Pyropia (Ban-
+      organisms. Front Microbiol 3:292                                         giales, Rhodophyta). Aquaculture 526:735372
+Wang G, Lu B, Shuai L, Li D, Zhang R (2014) Microbial diseases of         Yulianto H, Damai AA, Delis PC, Elisdiana Y (2017) Spatial analysis
+      nursery and field-cultivated Saccharina japonica (Phaeophyta)            to evaluate the suitability of seaweed farming site in Lampung
+      in China. Algol Stud 145/146:39–51                                       Bay, Indonesia. Turk J Fish Aquat Sci 17:1253–1261
+Wang G, Shuai L, Li Y, Lin W, Zhao X, Duan D (2008) Phylogenetic          Yumoto I, Ezura Y, Kimura T (1989a) Distribution of the Altero-
+      analysis of epiphytic marine bacteria on hole-rotten diseased            monas sp., the causative agent of red-spots on the culture bed of
+      sporophytes of Laminaria japonica. J Appl Phycol 20:403–409              makonbu Laminaria japonica, in the coastal area of Funka Bay.
+Wang X, Yao J, Zhang J, Duan D (2020) Status of genetic studies                Nippon Suisan Gakkaishi 55:453–462
+      and breeding of Saccharina japonica in China. J Ocean Limnol        Yumoto I, Yamaguchi K, Yamada K, Ezura Y, Kimura T (1989b) Rela-
+      38:1064–1079                                                             tionship between bacterial flora and occurrence of the Altero-
+Wang Y, Tang X, Yang Z, Yu Z (2006) Effect of alginic acid decompos-           monas sp., the causative agent of red-spots on the culture bed of
+      ing bacterium on the growth of Laminaria japonica (Phaeophy-             makonbu Laminaria japonica, in the coastal area of Funka Bay.
+      ceae). J Environ Sci 18:543–551                                          Nippon Suisan Gakkaishi 55:1907–1914
+Ward GM, Faisan JJP, Cottier-Cook EJ, Gachon C, Hurtado AQ, Lim PE,       Zainuddin EN, Anshary H, Huyyirnah H, Hiola R, Baxa DV (2019)
+      Matoju I, Msuya FE, Bass D, Brodie J (2020) A review of reported         Antibacterial activity of Caulerpa racemosa against pathogenic
+      seaweed diseases and pests in aquaculture in Asia. J World Aquac         bacteria promoting “ice-ice” disease in the red alga Gracilaria
+      Soc 51:815–828                                                           verrucosa. J Appl Phycol 31:3201–3212
+Ward GM, Kambey CSB, Faisan JJP, Tan P-L, Daumich CC, Matoju I,           Zhang X, Chen Y, Saha M, Zhuang Y, Chang L, Xiao L, Wang G
+      Stentiford GD, Bass D, Lim P-E, Brodie J, Poong S-W (2022) Ice-          (2022) Pseudoalteromonas piscicida X-8 causes bleaching dis-
+      ice disease: an environmentally and microbiologically driven syn-        ease in farmed Saccharina japonica. Aquaculture 546:737354
+      drome in tropical seaweed aquaculture. Rev Aquac 14:414–439         Zhang Y, Jiang P, Gao J, Liao J, Sun S, Shen Z, Qin S (2008) Recom-
+Weinberger F (1999) Epiphyte-host interactions: Gracilaria conferta            binant expression of rt-PA gene (encoding reteplase) in game-
+      (Rhodophyta) and associated bacteria. Doctoral dissertation,             tophytes of the seaweed Laminaria japonica (Laminariales,
+      Christian-Albrechts Universitat                                          Phaeophyta). Sci China C Life Sci 51:1116–1120
+Weinberger F (2007) Pathogen-induced defense and innate immunity          Zhang Y, Nair S, Zhang Z, Zhao J, Zhao H, Lu L, Chang L, Jiao N
+      in macroalgae. Biol Bull 213:290–302                                     (2024) Adverse environmental perturbations may threaten kelp
+Weinberger F, Friedlander M (2008) Response of Gracilaria conferta             farming sustainability by exacerbating Enterobacterales disease.
+      (Rhodophyta) to oligoagars results in defense against agar-              Environ Sci Technol 58:5796–5810
+      degrading epiphytes. J Phycol 36:1079–1086
+2162                                                                                            Journal of Applied Phycology (2026) 38:2143–2162
+
+Zheng L, Han X, Chen H, Lin W, Yan X (2005) Marine bacteria asso-          Zozaya-Valdes E, Egan S, Thomas T (2015) A comprehensive analysis
+      ciated with marine macroorganism: the potential antimicrobial             of the microbial communities of healthy and diseased marine
+      resources. Ann Microbiol 55:119–124                                       macroalgae and the detection of known and potential bacterial
+Zhuang Y, Liu T, Lin Q, Bai Y, Ma M, Wang M, Liu Q, Egan S,                     pathogens. Front Microbiol 6:146
+      Wang G (2024) Transcriptome analysis reveals the rapid defense
+      responses in a disease-resistant brown seaweed against a bacterial   Publisher's Note Springer Nature remains neutral with regard to
+      pathogen. Aquaculture 590:741024                                     jurisdictional claims in published maps and institutional affiliations.
+Zipfel C, Felix G (2005) Plants and animals: a different taste for
+      microbes? Curr Opin Plant Biol 8:353–360
+

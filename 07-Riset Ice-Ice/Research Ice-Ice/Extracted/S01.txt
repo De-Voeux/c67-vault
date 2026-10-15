@@ -1,0 +1,773 @@
+Received: 10 May 2019        Revised: 15 August 2019      Accepted: 17 August 2019
+
+DOI: 10.1111/jwas.12649
+
+
+REVIEW
+
+
+
+
+A review of reported seaweed diseases and pests
+in aquaculture in Asia
+
+Georgia M. Ward1                      | Joseph P. Faisan Jr2 | Elizabeth J. Cottier-Cook3 |
+Claire Gachon3 | Anicia Q. Hurtado2,4 | Phaik E. Lim5 | Ivy Matoju6 |
+Flower E. Msuya6 | David Bass7 | Juliet Brodie1
+
+1
+  Department of Life Sciences, Natural History
+Museum, London, UK                                  Abstract
+2
+ Aquaculture Department, Southeast Asian            Seaweeds have been used as a food for centuries in Asia
+Fisheries Development Center, Iloilo,
+                                                    and are increasingly exploited as a source for dietary sup-
+Philippines
+3
+  Scottish Association for Marine Science,          plements, animal feed, chemicals, and biofuels. In recent
+Scottish Marine Institute, Oban, UK                 years, there has been an increase in the prevalence of dis-
+4
+ University of the Philippines Visayas, College
+                                                    eases and pests in these aquaculture crops, with a subse-
+of Fisheries and Ocean Sciences - Institute of
+Aquaculture, Iloilo, Philippines                    quent reduction in their quantity and commercial value. In
+5
+ Marine Biotechnology Unit, Institute of            this article, we review diseases that have been reported in
+Ocean and Earth Sciences (IOES), University
+of Malaya, Kuala Lumpur, Malaysia
+                                                    the scientific literature for species of red and brown sea-
+6
+ Botany Department, University of Dar es            weeds. We have focused on the major seaweed crops
+Salaam, Dar es Salaam, Tanzania                     grown in Asia, where much of this production is centered.
+7
+    Cefas, Dorset, UK
+                                                    We also provide information on disease management and
+Correspondence                                      biosecurity and some observations on future directions.
+Juliet Brodie, Department of Life Sciences,
+Natural History Museum, Cromwell Road,
+                                                    KEYWORDS
+London, SW7 5BD, UK.
+Email: j.brodie@nhm.ac.uk                           cultivated seaweeds, hydrocolloids, ice-ice, Olpidiopsis
+
+Funding information
+UK Research and Innovation Fund, Grant/
+Award Number: BB/P027806/1
+
+
+
+
+1 | I N T RO D UC T I O N
+
+The commercial production of seaweeds has expanded greatly over the past century, with various species
+exploited for food and dietary supplements, animal feed, chemicals, and biofuels (Tiwari & Troy, 2015). Much of
+this production is centered in Asia, where Pyropia, Undaria, and Saccharina spp. are cultivated for human
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and
+reproduction in any medium, provided the original work is properly cited.
+© 2019 The Authors. Journal of the World Aquaculture Society published by Wiley Periodicals, Inc. on behalf of The World Aquacul-
+ture Society.
+
+J World Aquacult Soc. 2020;51:815–828.                                               wileyonlinelibrary.com/journal/jwas       815
+                                                                                                                       17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+816                                                                                                      WARD ET AL.
+
+
+
+consumption (J. K. Kim, Yarish, Hwang, Park, & Kim, 2017). Other species are grown for chemicals, including agar
+(Gracilaria spp.; Francavillla, Franchi, Monteleone, & Caroppo, 2013) and carrageenan (Kappaphycus and
+Eucheuma spp.) (Lim, Yang, Maggs, & Brodie, 2017). The total production of the main cultivated species in Asia,
+both in metric tons and value (US$), for the year 2016 as given by the United Nations Food and Agriculture
+Organization is summarized in Table 1 (Food and Agriculture Organization, 2018).
+      Seaweeds have been used as food for centuries in Asia, with records dating back as far as the third cen-
+tury in China (Yang, Lu, & Brodie, 2017), fourth century in Japan, and the sixth century in Korea (McHugh,
+2003). Asian countries remain the largest consumers; however, products are increasingly exported to Europe,
+North America, and Africa as sushi consumption grows in popularity (Chen & Xu, 2005). The development of
+commercial cultivation of seaweeds for food began in Japan in the 1920s as demand began to
+outstrip natural yields (Chen & Xu, 2005). Today, China is the largest producer of seaweeds for human con-
+sumption (Food and Agriculture Organization, 2018), although large-scale production also occurs in both
+Japan and the Republic of Korea (G. H. Kim, Moon, Kim, Shim, & Klochkova, 2014). The exploitation of sea-
+weeds for hydrocolloids also dates back centuries. It was commercialized in Japan in the 1930s, before rap-
+idly expanding into surrounding countries following the Second World War to meet rising demand (McHugh,
+2003). The eucheumatoid species Kappaphycus spp. and Eucheuma denticulatum are most commonly used in
+hydrocolloid production because of their high kappa- and iota-carrageenan content, with Indonesia, Malaysia,
+and the Philippines being major producers of these species in Southeast Asia (Food and Agriculture Organiza-
+tion, 2018).
+      In recent years, there has been a decline in yields of crops grown for both human consumption and hydro-
+colloid production. This decline has been attributed to an increase in the prevalence of diseases and pests
+because of the intensification of aquaculture activity (G. H. Kim et al., 2014; Loureiro, Gachon, & Rebours,
+2015; Tsiresy et al., 2016). As the seaweed aquaculture sector expands, the importance of furthering our
+understanding of diseases and pests becomes more apparent. Intensive culture of macroalgae favors more fre-
+quent and damaging disease outbreaks (Gachon, Sime-Ngando, Strittmatter, Chambouvet, & Kim, 2010) as is
+the case in other aquaculture sectors, including finfish and shellfish (Petterson, Osmundsen, Aunsmo, Mar-
+dones, & Rich, 2015; Shinn et al., 2015). Table 2 lists published reports of disease incidence in major cultivated
+species in Asia and includes bacteria, protists, viruses, and other algae. Farmed seaweeds are also vulnerable to
+grazing pest species, including copepods (Tsukidate, 1991), amphipods (Kang, 1982), and fish (Mantri et al.,
+2017). Despite the economic importance of these crops on local, national, and international scales, only a few
+disease agents are well characterized, and little is known about effective treatment or mitigation strategies
+(G. H. Kim et al., 2014).
+
+
+
+
+T A B L E 1 Aquaculture production values for the main cultured species in Asia in the year 2016 as listed by the
+Food and Agriculture Organization of the United Nations
+
+                                                                              Production in 2016
+  Species                         Main producer(s)         Uses               (metric ton)          Value (US$)
+  Pyropia spp.                    Japan, Korea, China      Food (nori)        1,352,520             1,114,486,140
+  Undaria spp.                    Japan, Korea, China      Food (wakame)      2,069,682             1,428,285,720
+  Saccharina spp.                 Japan, China, Korea      Food (kombu)       8,219,210             4,084,176,750
+  Gracilaria spp.                 China, Vietnam,          Agar               2,942,534             1,745,211,960
+                                    Indonesia                production
+  Eucheumatoids (Kappaphycus      The Philippines,         Hydrocolloid       10,493,540            1,219,519,890
+    and Eucheuma spp.)              Malaysia, Indonesia     production
+                                                                                                                               17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+WARD ET AL.                                                                                                              817
+
+TABLE 2          Diseases and disease agents of red and brown seaweeds in aquaculture in Asia
+
+  Host              Disease           Disease agents             Taxonomy        Distribution      References
+  Gracilariopsis Rotten thallus       Bacillus spp.              Gram-negative   Philippines (in   Lavilla-Pitogo (1992),
+    heteroclada    syndrome                                        bacteria        tank-held         Martinez and
+                                                                                   stocks)           Padilla (2016)
+  Kappaphycus       Epiphytic         Melanothamnus (as          Rhodophyta      Philippines       Vairappan et al.
+    alvarezii         filamentous      Neosiphonia) apiculata      (Eukaryota)     Indonesia         (2008)
+                      algae                                                        Malaysia
+  K. alvarezii      Ice-ice disease   Cytophaga-                 Gram-negative   Philippines       Largo, Fukami, and
+     and K.                             Flavobacterium             bacteria                          Nishijima (1995)
+     striatus                           complex, Vibrio sp.
+                                      Alteromonas,               Gram-negative   Indonesia         Syafitri, Prayitno,
+                                        Pseudoalteromonas,         bacteria                          Ma'ruf, and
+                                        Aurantomonas                                                 Radjasa (2017)
+                                      Aspergillus ochraceus,     Ascomycota      Philippines       Solis, Draeger, and
+                                        A. terreus, Phoma sp.      (Eukaryota)                       de la Cruz(2010)
+                                      Undetermined               Undetermined    India             Arasamuthu and
+                                                                                                     Patterson
+                                                                                                     Edwards (2018)
+                                      Undetermined               Undetermined    China             Pang, Liu, Liu and Li
+                                                                                                     (2015)
+                                      Neosiphonia sp.,           Rhodophyta      China             Pang et al. (2015)
+                                        Polysiphonia sp.,          (Eukaryota)
+                                        Gracilaria sp., Hypnea
+                                        sp., Acanthophora sp.
+                    Epiphytic         Cladophora sp.             Chlorophyta     China             Pang et al. (2015)
+                      filamentous                                  (Eukaryota)
+                      algae
+  Pyropia           Red rot disease Pythium porphyrae            Oomyceta        China             Ding and Ma (2005
+    yezoensis                                                     (Eukaryota)    Korea             G.H. Kim et al.
+                                                                                                     (2014), Lee et al.
+                                                                                                     (2017)
+                                                                                 Japan             Kazama (1979)
+                                      Pythium chondricola        Oomyceta        Korea             Lee et al. (2017)
+                                                                  (Eukaryota)    China             Qiu, Mao, Tang,
+                                                                                                     Tang and Mo
+                                                                                                     (2019)
+                                      Alternaria sp.             Ascomycota      Korea             Mo, Li, Kong, Tang,
+                                                                   (Eukaryota)                      and Mao (2016)
+                    Olpidiopsis       Olpidiopsis sp.            Oomyceta        China             Ding and Ma
+                      disease                                     (Eukaryota)                        (2005)
+                      (“Chytrid                                                  Korea             Kwak, Klochkova,
+                      blight”)                                                                      Jeong, and Kim
+                                                                                                    (2017)
+                                      Olpidiopsis pyropiae       Oomyceta        Korea             Klochkova, Shin,
+                                                                  (Eukaryota)                        Moon,
+                                                                                                     Motomura, and
+                                                                                                     Kim (2016)
+                    White spot        Phoma sp.                  Coelomycete     China             Guan et al. (2013)
+                     disease                                       (Eukaryota)   Korea             G.H. Kim et al.
+                                                                                                     (2014)
+                                                                                                              (Continues)
+                                                                                                                        17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+818                                                                                                       WARD ET AL.
+
+
+
+TABLE 2       (Continued)
+
+ Host            Disease          Disease agents             Taxonomy           Distribution   References
+                 Diatom felt      Fragellaria sp., Licmophora Bacillariophyta   Korea          G.H. Kim et al.
+                                    flabellata, Melosira sp.,   (Eukaryota)                      (2014)
+                                    Navicula sp.
+
+                 Cyanobacteria    Filamentous and coccoid    Cyanobacteria      Korea          G.H. Kim et al.
+                   felt              blue-green algae                                            (2014)
+                 Anaaki disease   Pseudomonas sp. Vibrio     Gram-negative      Japan          Fujita (1990); G.H.
+                                    sp.                        bacteria                          Kim et al. (2014)
+                                                                                Korea          G.H. Kim et al.
+                                                                                                 (2014)
+                                  Flavobacterium sp. LAD-1 Gram-negative        Korea          Suniari et al. (1995)
+                                                             bacteria
+                 Green-spot       PyroV1                     Virus              Korea          G. H. Kim,
+                   disease                                                                       Klochkova, Lee,
+                                                                                                 and Im (2016)
+                 White blight     Unknown                    Unknown            Korea          Lee et al. (2012);
+                  disease                                                                        Cultured Aquatic
+                                                                                                 Species
+                                                                                                 Information
+                                                                                                 Programme, FAO
+                 Unnamed          “Pseudomonas-like”         Gram-negative      Japan          Yamanoi & Takami
+                  disease           bacteria                   bacteria                          (2008)
+                 Diatom blooms Eucampia zodiacus             Bacillariophyta    Japan          Nishikawa, Hori,
+                                                               (Eukaryota)                       Tanida and Imai
+                                                                                                 (2007)
+                                  Coscinodiscus granii       Bacillariophyta    Japan          Nishikawa and
+                                                               (Eukaryota)                       Yamaguchi
+                                                                                                 (2007)
+                                  Asteroplanus karianus      Bacillariophyta    Japan          Shikata, Matsubara,
+                                                               (Eukaryota)                       Yoshida,
+                                                                                                 Sakamoto and
+                                                                                                 Yamaguchi
+                                                                                                 (2015)
+ Pyropia tenera Red rot disease Undetermined                 Undetermined       Japan          Arasaki (1947)
+                 Green-spot       PyroV1                     Virus              Korea          G. H. Kim et al.
+                   disease                                                                       (2016)
+ Pyropia         Green-spot       PyroV1                     Virus              Korea          G. H. Kim et al.
+   dentata         disease                                                                       (2016)
+ Saccharina      Red-spot         Alteromonas sp.            Gram-negative      Japan          Yumoto, Ezura, and
+   japonica        disease                                     bacteria                          Kimura (1989);
+                                                                                                 Sawabe et al.
+                                                                                                 (2000)
+                                  Pseudoalteromonas          Gram-negative      Japan          Sawabe et al.
+                                    elyakovii                  bacteria                          (2000)
+                                  Pseudoalteromonas          Gram-negative      Japan          Sawabe et al.
+                                    bacteriolytica             bacteria                          (1998)
+                 Hole-rotten      Pseudoalteromonas,         Gram-negative      China          Wang et al. (2008)
+                  disease           Vibrio, Halomonas          bacteria
+                                  Macrococcus sp.                               China          Wang et al. (2014)
+                                                                                                         (Continues)
+                                                                                                                          17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+WARD ET AL.                                                                                                         819
+
+
+
+TABLE 2       (Continued)
+
+  Host            Disease           Disease agents               Taxonomy        Distribution   References
+                  Malformation                                   Gram-positive
+                   disease                                         bacteria
+
+                  Twisted frond     Mycoplasma-like              Bacteria        China          Wang et al. (2014)
+                    disease          organisms
+                  Green rot         Pseudomonas spp. and         Gram-negative   China          Wang et al. (2014)
+                    disease           insufficient light           bacteria;
+                                                                   environmental
+                  White rot         Excessive light;             Environmental   China          Wang et al. (2014)
+                   disease            insufficient nutrient
+                                      availability; high water
+                                      temperature
+                  Blister disease   Dilution of seawater with Environmental      China          Wang et al. (2014)
+                                      freshwater runoff
+                                      following heavy rainfall
+  Undaria         Shot hole         Aeromonas,                   Gram-negative   Japan          Tsukidate (1991)
+    pinnatifida     disease           Flavobacterium,              bacteria
+                                      Moraxella,
+                                      Pseudoalteromonas,
+                                      Vibrio
+                  Spot-rotting      Unknown                      Bacteria        Japan          Kito, Akiyama, and
+                    disease                                                                       Sasaki (1976)
+                    (“Anaaki-
+                    sho”
+                  Green-spot rot    Unknown                      Bacteria        Japan Korea    Kang (1982)
+                  Yellow hole       Unknown                      Bacteria        Japan          Ishikawa and Saga
+                    disease                                                                        (1989)
+                  Spot decay        Halomonas venusta            Bacteria        China          Ma, Zhang,
+                                                                                                 Changfa et al.
+                                                                                                 (1997); Ma,
+                                                                                                 Zhang, Fan et al.
+                                                                                                 (1997); Ma, Yang,
+                                                                                                 Wan, Ge and
+                                                                                                 Zhang (1998)
+                  Green decay       Vibrio logei                 Gram-negative   China          Jiang, Ma, Zhang,
+                    disease                                        bacteria                        and Xu (1997)
+                  Pin-hole          Amenophia orientalis,        Copepoda        Japan Korea    Tsukidate (1991)
+                    disease          Parathalestris infestus,      (Eukaryota)
+                                     Scutellidum sp.,
+                                     Thalestris sp.
+                  Unnamed           Ceinina japonica             Amphipoda       Korea          Kang (1982)
+                   disease                                        (Eukaryota)
+                  Brown             Laminariocolax aecidoides    Ochrophyta      Japan          Akiyama (1977)
+                    endophytic                                    (Eukaryota)
+                    disease         Laminarionema elsbetiae      Ochrophyta      Japan          Kawai and
+                                                                  (Eukaryota)                     Tokuyama (1995)
+
+Abbreviation: FAO, Food and Agriculture Organization of the United Nations.
+                                                                                                                            17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+820                                                                                                          WARD ET AL.
+
+
+
+2 | THE ECONOMIC IMPACT OF SEAWEED DISEASES AND PESTS
+
+The occurrence of diseases and pests results in losses of 25–30% of harvested volumes of Saccharina japonica at a
+regional scale in China (Wang et al., 2014). Some of these diseases are known to be triggered by abiotic factors
+(Table 2), including either strong or insufficient light (white rot disease and green rot disease, respectively; Wang
+et al., 2014), while others are thought to result from the action of pathogenic microbes, often in combination with
+unfavorable environmental conditions.
+      Disease incidence is estimated to reduce the output of Korean Pyropia farms by up to 20% in some regions
+(G. H. Kim et al., 2014), with much of this loss attributed to the oomycete pathogen Olpidiopsis pyropiae. (Klochkova
+et al., 2016; Klochkova, Shim, Hwang, & Kim, 2012) and a condition known as green-spot disease, now known to be
+caused by the virus PyroV1 (G. H. Kim et al., 2016). Although disease-affected crops may still be harvestable and
+marketable, the lower quality and yield has a significant negative economic impact on these crops (G. H. Kim
+et al., 2014).
+      Losses of eucheumatoid stocks because of diseases and pests in the Philippines have resulted in a reduction of
+15% of production yields, which is equivalent to almost $100 million on an annual basis (Cottier-Cook et al., 2016).
+In the Philippines, over 200,000 families work in seaweed aquaculture (Pedrosa, 2017); however, problems brought
+about by epiphyte infestations and ice–ice disease have resulted in diminishing culture stocks and reduced carra-
+geenan quality, which in turn leads to low market value, loss of income, and loss of job opportunities, particularly for
+marginal seaweed farmers.
+
+
+
+3 | S I G N I F I C A N T DI S E A S E S A N D P E S T S O F C U L T I V A T E D S E A W E E D S
+
+Because of their detrimental impact on valuable Pyropia stocks, the oomycete pathogens Pythium porphyrae and
+Olpidiopsis porphyrae are perhaps the best-studied seaweed diseases. Red rot disease, attributed to P. porphyrae in
+1977 (Takahashi, Ichitani, & Sasaki, 1977), has caused significant reductions in the yield and quality of Pyropia crops
+since it was first recorded in Japan in the 1940s (Arasaki, 1947). Olpidiopsis disease, initially thought to be caused by
+a chytrid pathogen (and therefore referred to as “chytrid blight”), was also first recorded in Japan (Arasaki, 1960) but
+has since been recorded in Korea and China (G. H. Kim et al., 2014). Interactions between oomycete pathogens and
+their Pyropia hosts have been subject to much study (Klochkova et al., 2012; Uppalapti & Fujita, 2002), although to
+date, these studies have offered little insight into biosecurity strategies that may limit the impact and spread of these
+diseases in culture environments. Recently, symptoms recognized as red rot disease have been attributed to other
+disease agents, namely, the closely related oomycete Pythium chondricola (Qiu et al., 2019) and the fungus Alternaria
+sp. (Mo et al., 2016). Similarly, Olpidiopsis disease has been linked to another Olpidiopsis species, O. pyropia
+(Klochkova et al., 2016), suggesting that the relationship between disease symptoms and disease agents may not be
+straightforward.
+      Several disease conditions listed in Table 2 have been attributed to the presence of one or more bacterial spe-
+cies. Ice–ice disease, affecting Kappaphycus and Eucheuma spp., is characterized by a whitening of the thallus in
+response to environmental stress and the action of opportunistic pathogenic bacteria (Ask & Azanza, 2002; Doty &
+Alvarez, 1975; Uyenco, Saniel, & Jacinto, 1981). Several bacterial species and complexes have been linked to ice–ice
+disease, including Cytophaga-Flavobacterium complex (Largo et al., 1995) and the presence of both Alteromonas and
+Pseudoalteromonas (Syafitri et al., 2017). Solis et al. (2010) also demonstrated the ability of marine fungi (Aspergillus
+spp. and Phoma sp.) to induce ice–ice symptoms in both Kappaphycus alvarezii and K. striatum under laboratory con-
+ditions. However, the exact mechanisms by which these organisms are able to cause the progression of ice–ice
+symptoms in Kappaphycus and Eucheuma spp. are as yet unknown, as is the role of environmental stress in inducing
+disease.
+                                                                                                                            17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+WARD ET AL.                                                                                                          821
+
+
+
+    As knowledge of seaweed diseases and the range of micro-organisms associated with them increases, it becomes
+necessary to move beyond the one-disease-one-pathogen paradigm toward the pathobiome concept (Bass,
+Stentiford, Wang, Koskella, & Tyler, 2019). Pathobiotic systems are those in which multiple host-associated organ-
+isms (encompassing prokaryotes, eukaryotes, and viruses) are associated with reduced host health status as a result
+of interactions between members of that set, the host, and environmental factors. Even where a primary agent can
+be identified, its effect is often moderated by other symbionts. In seaweeds particularly, which are known to be asso-
+ciated with a wide diversity of microbial symbionts that influence their development, ecology, and evolution (Egan
+et al., 2013; Brodie et al., 2016 and refs therein), the potential for invasion by opportunistic pathogens, environmen-
+tally induced pathogenesis, and microbial dysbioses to initiate or exacerbate disease are diverse and omnipresent.
+Furthermore, a particular set of clinical signs of disease that might suggest a common cause by a primary pathogen
+may in fact have multiple etiologies, which present in similar ways (the “moving target” hypothesis; Sutherland
+et al., 2016).
+    Among the most significant pests of commercially cultivated seaweed species are epiphytic algae. Epiphytic fil-
+amentous algae (EFA) are responsible for a significant decrease in both the production biomass and carrageenan
+quality of cultivated Kappaphycus and Eucheuma spp. in Southeast Asia and thereby affect both the income and
+job security of farmers in productive regions (Critchley et al., 2004; Hurtado & Critchley, 2006a; Hurtado &
+Critchley, 2006b). EFA are prevalent in all major eucheumatoid-producing countries and in countries with smaller,
+but developing, industries, including Madagascar and China (Pang et al., 2015; Tsiresy et al., 2016). Outbreaks of
+Polysiphonia have been reported as the cause of massive declines in K. alvarezii production in the Philippines and
+Malaysia (Hurtado & Critchley, 2006a; Vairappan, 2006), and die-offs of the same crop species have been attrib-
+uted to the presence of Melanothamnus (as Neosiphonia) savatieri) in Chinese farms since 2009 (Pang, Liu, Liu, &
+Lin, 2011). Epiphyte infestations have been linked to abiotic stressors affecting host fitness, including the tempera-
+ture, salinity, and current of seawater and intensity of light and nutrient availability (Hurtado & Critchley, 2006a;
+Korpinen et al., 2007; Pang et al., 2011). Heavy infections with epiphytic algae are known to cause damage to the
+cortex of Kappaphycus and thus leave the host vulnerable to infection by opportunistic bacteria (Vairappan
+et al., 2008).
+
+
+
+4 | SEAWEED DISEASE MANAGEMENT AND BIOSECURITY
+
+In order to attempt to eliminate or mitigate the impact and spread of disease and pest outbreaks on seaweed aqua-
+culture, several treatments or mitigation strategies have been used. The washing of Pyropia blades in acid solutions is
+a widespread practice and is often used in an attempt to control all diseases (G. H. Kim et al., 2014). Sakaguchi, Park,
+Kakinuma, and Amano (2001) showed that washing thalli in an acid of pH 2.0 for 5 min was effective for suppressing
+the development of red rot disease, although exposure times are often closer to 30 seconds in practice and so are
+largely ineffective (G. H. Kim et al., 2014). This exposure to acidic conditions may, however, be partially effective for
+the treatment of green algae, diatoms, and cyanobacteria, the latter two of which are caused by the colonization of
+the blade surface by micro-organisms (Table 3). No effective treatment is yet available for either green-spot disease
+or Olpidiopsis disease, the two most severe diseases of Pyropia crops (G. H. Kim et al., 2014). However, there is evi-
+dence that fungal endophytes associated with brown algae produce bioactive metabolites that have the potential to
+protect against pathogen infection and have been shown to inhibit infection of Pyropia yezoensis by O. pyropiae and
+P. porphyrae (Prado, Vallet, Gachon, Strittmatter, & Kim, 2017; Vallet, Strittmatter, Murúra, Lacoste, Dupont, Hubas,
+Genta-Jouve, Gachon, Kim, & Prado, 2018; Qiu et al., 2019).
+    Changing cultivation conditions, particularly the repositioning of cultivation ropes to modify exposure to light
+and more favorable salinities, are effective measures that can be taken to reduce the severity of diseases caused by
+exposure of S. japonica to unfavorable abiotic conditions (Wang et al., 2014).
+                                                                                                                                 17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+822                                                                                                                WARD ET AL.
+
+
+
+TABLE 3        Symptoms of diseases that have been reported in red and brown seaweeds in aquaculture in Asia
+
+ Disease name             Host                  Symptoms (for sources see Table 2)
+ Rotten thallus           Gracilariopsis        White to pinkish discoloration and gradual disintegration of thallus.
+   syndrome                 heteroclada          Causes erosion of the pericarp.
+ Epiphytic                Kappaphycus and       Tiny black spots become visible on the cortex of the host, followed by
+   filamentous algae        Eucheuma spp.         the appearance of “goosebumps” as the epiphyte matures. At the end
+                                                  of infection, dark pits are left on the cortical surface, and the host is
+                                                  infected by opportunistic bacteria
+ Ice–ice disease          Kappaphycus and       Bleaching of the thallus at the tips of the plant and close to site of “tie-
+                            Eucheuma spp.         tie” attachment to culture ropes, thought to be caused by
+                                                  environmental stress. Subsequent infection by opportunistic bacteria
+                                                  degrades the tissue of the thallus
+ Red rot disease          Pyropia yezoensis;    Small, red patches on infected blades. The blade changes color to violet-
+                            P. tenera             red and numerous holes appear before the blade entirely disintegrates
+ Olpidiopsis disease      P. yezoensis          Bleaching of infected blade sections, followed by the appearance of
+   (“Chytrid blight”)                             green lesions. Holes form in the blades, and the blades eventually
+                                                  disintegrate
+ White-spot disease       P. yezoensis          “Pinhole-like” white spots on the edge of shell-boring conchocelis, which
+                                                  gradually expand and form lesions
+ Diatom felt              P. yezoensis          A large number of epiphytic diatoms of various species colonize the
+                                                  blade, giving a dirty appearance and causing bleaching
+ Cyanobacteria felt       P. yezoensis          Often occurs simultaneously with green-spot disease. Bacteria and
+                                                  cyanobacteria attach to the cuticle in large numbers, causing it to
+                                                  degenerate. A distinctive “Bristle” appears on the surface at the edge
+                                                  of the lesion.
+ Anaaki disease           P. yezoensis          With Pseudomonas sp., Vibrio sp: formation of lesions with green
+                                                 borders; The blade rots, and holes are formed. With Flavobacterium
+                                                 sp. LAD-1: Pinhole lesions form in the center of the thallus, which
+                                                 gradually widen. The thallus eventually becomes detached from the
+                                                 culture bed.
+ Green-Spot Disease       P. yezoensis;         Similar to Anaaki disease: green chains of fused dead cells develop on
+                             P. tenera;           wounds of the thallus, followed by rows of pink cells and central green
+                             P. dentata           cells around the developing lesion.
+ White-blight             P. yezoensis          Bleaching of the blade, followed by cell lysis and blade disintegration
+ Unnamed disease          P. yezoensis          The appearance of tiny “reddish-brown” spots on conchocelis life stages
+                                                  grown on scallop shells. The diseased area eventually turns yellowish-
+                                                  white
+ Diatom blooms            P. yezoensis          Blooms of diatoms deplete nutrients in the water column, resulting in
+                                                  bleaching of Pyropia blades
+ Red-spot disease         Saccharina japonica   Swelling of gametophyte cells, followed by filamentous fading and
+                                                  decaying of the thallus
+ Hole-rotten disease      S. japonica           Alginase-secreting bacteria decompose host cell walls, causing rotting
+                                                  and forming holes in the blade
+ Malformation             S. japonica           Malformation of various life stages, including gametophytes, sporelings,
+  disease'                                       and eggs inside the oogonium, thought to be caused by saprophytic
+                                                 bacteria and poor culturing practices
+ Twisted frond            S. japonica           Fronds appear twisted, with swollen stipes and shortened holdfasts
+   disease
+ Green rot disease        S. japonica           The stipes of sporelings become greenish, soft, and decayed and fall
+                                                  from nursery ropes
+                                                                                                                   (Continues)
+                                                                                                                                17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+WARD ET AL.                                                                                                               823
+
+
+
+TABLE 3        (Continued)
+
+  Disease name           Host                  Symptoms (for sources see Table 2)
+  White rot disease      S. japonica           Starting from the apex and spreading toward the lower part of the blade,
+                                                 fronds fade in color from brown to yellowish to white. Eventually,
+                                                 fronds decay and detach from culture ropes
+  Blister disease        S. japonica           Blisters form across the fronds. Disruption of these blisters results in
+                                                  decaying of the blade
+  Shot hole disease      Undaria pinnatifida   Brown spots appear in the middle of the thallus blade. These spots fuse
+                                                 and spread the pinnate part of the blade.
+  Green-spot rot         U. pinnatifida        Green spots form on the blade and start to rot, resulting in small holes
+                                                 with green margins. These enlarge, and the frond decays.
+  Yellow hole disease    U. pinnatifida        Bacteria enter the thallus through abrasions and digest cells, forming
+                                                 holes
+  Spot decay             U. pinnatifida        Formation of discolored spots on the thallus, followed by decaying of
+                                                 host tissue.
+  Pin-hole disease       U. pinnatifida        Copepods damage the surface of the frond, causing small, pinhole-like
+                                                 lesions
+  Unnamed disease        U. pinnatifida        Amphipods burrow through the holdfast of the blade, which may result
+                                                in longitudinal separation of the frond. Heavily damaged blades can
+                                                detach from the substrate.
+  Brown endophytic       U. pinnatifida        Epiphytized thalli become thicker and stiffer and so are less economically
+    algae                                        valuable
+
+
+
+   The current technique for decreasing the impact of pest epiphytes on eucheumatoid stocks is to monitor culti-
+vated populations and remove the pests by hand as quickly as possible before they can reproduce and spread (Ask &
+Azanza, 2002; Pang et al., 2015). The removed material is then taken to land and disposed of. Plants infested with
+EFA are harvested immediately and replaced with uninfected propagules from a separate location (Ask &
+Azanza, 2002).
+   The development of ice–ice symptoms in Kappaphycus and Eucheuma is thought to be the result of stress to the
+host from abiotic conditions, such as temperature and salinity (Vairappan et al., 2008) and light intensity and water
+movement (Hurtado & Critchley, 2006a) in combination with the action of opportunistic bacteria (Largo et al., 1995;
+Uyenco et al., 1981). The triggers behind disease onset and progression are not well understood, and as a result, no
+effective management protocols that are cost effective have been developed to date.
+   The improvement of disease mitigation strategies in macroalgal aquaculture is reliant on increasing our under-
+standing of the agents and abiotic factors influencing disease onset and progression and the subsequent develop-
+ment of biosecurity programs, including the use of quarantine procedures and improved farm management practices
+through capacity building (Campbell et al., 2019).
+
+
+
+
+5 | F U T U RE D I R E C T I O N S F O R SE A W E E D A Q U A C U LT U R E
+
+The continued and sustainable expansion of seaweed aquaculture is reliant on a number of factors. Perhaps the most
+pressing is the need for a greater understanding of the causes of pathogenic and physiological disease. Improvement
+in methodologies for the characterization of pathogens, such as the application of histopathological and molecular
+diagnostic techniques already routinely used in other aquaculture sectors, will lead to the development of rapid and
+robust diagnostic techniques. These in turn will allow for the early detection of pathogen (and pest) outbreaks and,
+                                                                                                                                    17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+824                                                                                                                 WARD ET AL.
+
+
+
+when paired with disease surveillance programs and the monitoring of environmental conditions, will lead to a
+greater understanding of the abiotic and biotic factors influencing disease and pest outbreaks.
+      Several diseases affecting cultured algal species are known to be caused or exacerbated by abiotic stress as a
+result of unfavorable environmental conditions, particularly increased water temperature, light, and changes in water
+salinity (Arasamuthu & Patterson Edwards, 2018). As sea water temperatures continue to rise, as a result of climate
+change, such incidents may be expected to become more frequent and severe. Therefore, it is important to adapt
+farm management, such as culturing red algae in deeper water to reduce the impact of too much sun and potentially
+reduce the growth of epiphytes that may be optimum in higher light conditions, and to ensure biosecurity practices.
+It is also important to gain a greater understanding of the association between these abiotic factors and opportunis-
+tic pathogens, such as the role of bacteria in the development of ice–ice disease in Kappaphycus and Eucheuma. The
+microbial community associated with seaweeds is also known to have an important role in both their normal devel-
+opment and in disease (Egan et al., 2013). The composition of these pathobiotic communities and the factors
+influencing unfavorable shifts in community structure, however, remain largely unexplored (Bass et al., 2019).
+      Marine viruses are c. 10 times more abundant in marine environments than both bacteria and archaea (Fuhrman,
+1999; Middelboe & Brussard, 2017) and are known to be drivers of both mortality and microbial community struc-
+ture. Their role in health and disease is poorly understood, but evidence from the wild suggests that viruses will be
+an agent of diseases in cultivation (McKeown et al., 2017). However, improved surveillance and detection methods,
+particularly using unbiased molecular methods such as metagenomics on infected seaweed tissues will facilitate the
+discovery and characterization of novel viruses and lead to a greater understanding of their influence on seaweed
+aquaculture.
+      In addition to improving our understanding of disease-causing agents, it is important to also consider the role of
+the host in disease and pest susceptibility. The domestication of seaweeds has, in many cases, led to a reduction of
+the genetic diversity of seaweed crops, which in turn may result in an increased susceptibility to pathogenic and
+physiological disease (Valero et al., 2017). A greater understanding of the genetic diversity of cultured seaweeds and
+appropriate breeding strategies and crop selection are required to retain this genetic diversity and safeguard the dis-
+ease and pest resistance cultivars for future use by the industry.
+
+
+
+ACKNOWLEDGMENTS
+
+We are grateful for funding from UKRI for the GlobalSeaweedSTAR project (BB/P027806/1).
+
+
+
+ORCID
+
+Georgia M. Ward       https://orcid.org/0000-0002-9654-1228
+Juliet Brodie    https://orcid.org/0000-0001-7622-2564
+
+
+
+RE FE R ENC E S
+
+Akiyama, K. (1977). Preliminary report on Streblonema disease in Undaria. Bulletin of Tohoku Regional Fisheries Research Labo-
+    ratory, 37, 39–41.
+Arasaki, S. (1947). Studies on the wasting disease of the cultured lavers (Porphyra tenera). Bulletin of the Japanese Society for
+    the Science of Fish, 13, 74–90.
+Arasaki, S. (1960). A chytridean parasite on the Porphyra. Nippon Suisan Gakkashi, 26, 543–548.
+Arasamuthu, A., & Patterson Edwards, J. K. (2018). Occurrence of ice-ice disease in seaweed Kappaphycus alvarezii at Gulf
+    of Mannar and Palk Bay, Southeastern India. Indian Journal of Geo-Marine Science, 47, 489–492.
+Ask, E. I., & Azanza, R. V. (2002). Advances in cultivation technology of commercial eucheumatoid species: a review with
+    suggestions for future research. Aquaculture, 26, 257–277.
+                                                                                                                                         17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+WARD ET AL.                                                                                                                      825
+
+
+
+Bass, D., Stentiford, G. D., Wang, H.-C., Koskella, B., & Tyler, C. R. (2019). The pathobiome: new insights in animal and plant
+    health. Trends in Ecology & Evolution, https://doi.org/10.1016/j.tree.2019.07.012.
+Brodie, J., Williamson, C., Barker, G. L., Walker, R. H., Briscoe, A., & Yallop, M. (2016). Characterising the microbiome of
+    Corallina officinalis, a dominant calcified intertidal red alga. FEMS Microbiology Ecology, 92(8), fiw110. https://doi.org/10.
+    1093/femsec/fiw110
+Campbell, I., Macleod, A., Sahlmann, C., Neves, L., Funderud, J., Øverland, M., … Stanley, M. (2019). The environmental risks
+    associated with the development of seaweed farming in Europe – Prioritising key knowledge gaps. Frontiers in Marine
+    Science, 6, 107. https://doi.org/10.3389/fmars.2019.00107
+Chen, J., & Xu, P. (2005). Cultured aquatic species information programme, Porphyra spp. In FAO Fisheries and Aquaculture
+    Department [online]. Rome.
+Cottier-Cook, E. J., Nagabhatia, N., Badis, Y., Campbell, M., Chopin, T., Dai, W., … Gachon, C. M. M. (2016). Safeguarding the
+    future of the global seaweed aquaculture industry. United Nations University (INWEH) and the Scottish Association for
+    Marine Sciences Policy Brief, pp. 1–12.
+Critchley, A. T., Largo, D., Wee, W., Bleicher Lhonneur, G., Hurtado, A. Q., & Schubert, J. (2004). A preliminary summary on
+    Kappaphycus farming and the impacts of epiphytes. Japanese Journal of Phycology, 52, 231–232.
+Ding, H., & Ma, J. (2005). Simultaneous infection by red rot and chytrid diseases in Porphyra yezoensis Ueda. Journal of
+    Applied Phycology, 17, 51–56.
+Doty, M. S., & Alvarez, V. B. (1975). Status, problems, advances and economics of Eucheuma farms. Marine Technology Soci-
+    ety Journal, 9, 30–35.
+Egan, S., Harder, T., Burke, C., Steinberg, P., Kjelleberg, S., & Thomas, T. (2013). The seaweed holobiont: understanding
+    seaweed–bacteria interactions. FEMS Microbiology Reviews, 37, 462–476.
+Food and Agriculture Organization. (2018). Fishery and Aquaculture Statistics. Global Aquaculture Production 1950–2016
+    (FishStatJ). Rome, Italy. Retrieved from: FAO Fisheries and Aquaculture Department. www.fao.org/fishery/statistics/
+    software/fishstatj/en
+Francavillla, M., Franchi, M., Monteleone, M., & Caroppo, C. (2013). The red seaweed Gracilaria gracilis as a multi products
+    source. Marine Drugs, 11, 754–3776.
+Fuhrman, J. A. (1999). Marine viruses and their biogeochemical and ecological effects. Nature, 399, 541–548.
+Fujita, Y. (1990). Diseases of cultivated porphyra in Japan. In I. Akatsuka (Ed.), Introduction to applied phycology
+    (pp. 177–190). The Hague, The Netherlands: SPB Academic.
+Gachon, C. M. M., Sime-Ngando, T., Strittmatter, M., Chambouvet, A., & Kim, G. H. (2010). Algal diseases: spotlight on a
+    black box. Trends in Plant Science, 15, 633–640.
+Guan, X., Li, J., Zhang, Z., Li, F., Yang, R., Jiang, P., & Qin, S. (2013). Characterising the microbial culprit of white spot disease
+    of the conchocelis stage of Porphyra yezoensis (Bangiales, Rhodophyta). Journal of Applied Phycology, 25, 1341–1348.
+Hurtado, A. Q., & Critchley, A. T. (2006a). Occurrence of Polysiphonia epiphytes in Kappaphycus farms at Calaguas Is., Cam-
+    arines Norte, Philippines. Journal of Applied Phycology, 18, 301–306.
+Hurtado, A. Q., & Critchley, A. T. (2006b). Seaweed industry of the Philippines and the problem of epiphytism in Kappaphycus
+    farming. Advanced Seaweed Cultivation and Utilisation in Asia. Malaysia: University of Malaya Maritime Research
+    Center.
+Ishikawa, Y., & Saga, N. (1989). The diseases of economically valuable seaweeds and pathology in Japan. In: Miyachi, S.,
+    Karube, I. & Ishida, Y. (Vol. Eds.), Current topics in marine biotechnology (pp. 215–218). Tokyo: Fuji Technology Press Ltd.
+Jiang, J., Ma, Y., Zhang, Z., & Xu, H. (1997). The histopathological study on “green decay diseases” of Undaria pinnatifida in
+    Dalian. Journal of Dalian Fisheries University, 12, 7–12.
+Kang, J. W. (1982). Some seaweed diseases occurring at seaweed farms along the South-Eastern coast of Korea. AGRIS, 14,
+    165–170.
+Kawai, H., & Tokuyama, M. (1995). Laminarionema elsbetiae gen. et sp. nov. (Ectocarpales, Phaeophyceae), a new endophyte
+    in Laminaria sporophytes. Phycological Research, 43, 185–190.
+Kazama, F. Y. (1979). Pythium “red rot disease” of Porphyra. Experientia, 35, 443–444.
+Kim, G. H., Klochkova, T. A., Lee, D. J., & Im, S. H. (2016). Chloroplast virus causes green-spot disease in cultivated Pyropia
+    of Korea. Algal Research, 17, 293–299.
+Kim, G. H., Moon, K.-H., Kim, J.-Y., Shim, J., & Klochkova, T. A. (2014). A revaluation of algal diseases in Korean Pyropia
+    (Porphyra) sea farms and their economic impact. Algae, 29, 249–265.
+Kim, J. K., Yarish, C., Hwang, E. K., Park, M., & Kim, Y. (2017). Seaweed aquaculture: cultivation technologies, challenges and
+    its ecosystem services. Algae, 32, 1–13.
+Kito, H., Akiyama, K., & Sasaki, M. (1976). Electron microscopic observations on the diseased thalli of Undaria pinnatifida
+    (Harvey) Suringar, caused by parasitic bacteria. Bulletin of the Tokoju Regional Fisheries Research Laboratory, 36,
+    67–73.
+                                                                                                                                       17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+826                                                                                                                    WARD ET AL.
+
+
+
+Klochkova, T. A., Shim, J. B., Hwang, M. S., & Kim, G. H. (2012). Host-parasite interactions and host species susceptibility of
+    the marine oomycete parasite, Olpidiopsis sp., from Korea that infects red algae. Journal of Applied Phycology, 24,
+    135–144.
+Klochkova, T. A., Shin, Y. J., Moon, K.-H., Motomura, T., & Kim, G. H. (2016). New species of unicellular obligate parasite,
+    Olpidiopsis pyropiae sp. nov., that plagues Pyropia sea farms in Korea. Journal of Applied Phycology, 28, 73–83. https://
+    doi.org/10.1007/s10811-015-0595-4
+Korpinen, S., Honkanen, T., Vesakoski, O., Hemmi, A., Koivikko, R., Loponen, J., & Jormalainen, V. (2007). Macroalgal com-
+    munities face the challenge of changing biotic interactions: review with focus on the Baltic Sea. Ambio, 36, 203–211.
+Kwak, M. S., Klochkova, T. A., Jeong, S., & Kim, G. H. (2017). Olpidiopsis porphyrae var. koreanae, an endemic endoparasite
+    infecting cultivated Pyropia yezoensis in Korea. Journal of Applied Phycology, 29, 2003–2012.
+Largo, D. B., Fukami, K., & Nishijima, T. (1995). Occasional pathogenic bacteria promoting ice-ice disease in the carrageenan-
+    producing red algae Kappaphycus alvarezii and Eucheuma denticulatum (Solieriaceae, Gigartinales, Rhodophyta). Journal
+    of Applied Phycology, 7, 545–554.
+Lavilla-Pitogo, C. R. (1992). Agar-digesting bacteria associated with “rotten thallus syndrome” of Gracilaria sp. Aquaculture,
+    102, 1–7.
+Lee, S. J., Park, S. W., Lee, J. H., & Kim, Y. S. (2012). Diseases of the cultivated Porphyra at Seocheon area. Journal of Fish
+    Pathology, 25, 249–256.
+Lee, S. J., Jee, B. Y., Son, M.-H., & Lee, S.-R. (2017). Infection and cox2 sequence of Pythium chondricola (Oomycetes) causing
+    red rot disease in Pyropia yezoensis (Rhodophyta) in Korea. Algae, 32, 155–160.
+Lim, P.-E., Yang, L.-E., Maggs, C. A., & Brodie, J. (2017). Advancing the taxonomy of economically important red seaweeds
+    (Rhodophyta). European Journal of Phycology, 52, 438–451.
+Loureiro, R., Gachon, C. M. M., & Rebours, C. (2015). Seaweed cultivation: potential and challenges of crop domestication at
+    an unprecedented pace. New Phytologist, 206, 489–492.
+Ma, Y., Yang, Z., Wan, L., Ge, M., & Zhang, K. (1998). Pathogenic bacteria of spot decay disease found in Undaria pinnatifida.
+    Paper presented at the Proceedings of International Symposium on Progress and Prospect of Marine Biotechnology
+    (ISPPMB 1998), Qingdao, China, 356–360.
+Ma, Y., Zhang, Z., Changfa, C., & Cao, S. (1997). Study on the pathogenic bacteria of green decay disease of Undaria
+    pinnatifida in Dalian. Journal of Fishery Sciences of China, 4, 66–69.
+Ma, Y., Zhang, Z., Fan, C., & Cao, S. (1997). Study on the pathogenic bacteria of spot decay disease of Undaria pinnatifida in
+    Dailan. Journey of Fishery Sciences of China, 4, 62–65.
+Mantri, V. A., Eswaran, K., Shanmugam, M., Ganesan, M., Veeragurunathan, V., Thiruppathi, S., … Sets, A. (2017). An appraisal
+    on commercial farming of Kappaphycus alvarezii in India: success in diversification of livelihood and prospects. Journal of
+    Applied Phycology, 29, 335–357.
+Martinez, J. N., & Padilla, P. I. P. (2016). Isolation and characterization of agar-digesting Vibrio species from the rotten thallus
+    of Gracilariopsis heteroclada Zhang et Xia. Marine Environmental Research, 119, 156–160.
+McHugh, D. J. (2003). A guide to the seaweed industry (FAO Fisheries Technical Paper 441). Rome, Italy: Food and Agricul-
+    ture Organisation of the United Nations.
+McKeown, D. A., Stevens, K., Peters, A. F., Bond, P., Harper, G. M., … Schroeder, D. C. (2017). Phaeoviruses discovered in
+    kelp (Laminariales). The ISME Journal, 11, 2869–2873.
+Middelboe, M., & Brussard, C. P. D. (2017). Marine viruses: key players in marine ecosystems. Viruses, 9, 302. https://doi.
+    org/10.3390/v9100302
+Mo, Z., Li, S., Kong, F., Tang, X., & Mao, Y. (2016). Characterisation of a novel fungal disease that infects the gametophyte of
+    Pyropia yezoensis (Bangiales, Rhodophyta). Journal of Applied Phycology, 28, 395–404.
+Nishikawa, T., Hori, Y., Tanida, K., & Imai, I. (2007). Population dynamics of the harmful diatom Eucampia zodiacus Ehrenberg
+    causing bleachings of Porphyra thalli in aquaculture in Harima-Nada, the Seto Inland Sea, Japan. Harmful Algae, 6,
+    763–773.
+Nishikawa, T., & Yamaguchi, M. (2007). Effect of temperature on light-limited growth of the harmful diatom Coscinodiscus
+    wailesii, a causative organism in the bleaching of aquacultured Porphyra thalli. Harmful Algae, 7, 561–566.
+Pang, T., Liu, J., Liu, J., & Li, J. (2015). Observations on pests and diseases affection a eucheumatoid farm in China. Journal of
+    Applied Phycology, 27, 1975–1984.
+Pang, T., Liu, J., Liu, Q., & Lin, W. (2011). Changes of photosynthetic behaviours in Kappaphycus alvarezii infected by epi-
+    phytes. Evidence-based Complementary and Alternative Medicine, 2011, 658906. https.//doi.org/10.1155/2011/658906
+Pedrosa, A. A. (2017, March). Current status of Philippine seaweed industry. Paper presented at the Regional Scientific Meet-
+    ing on Attaining Sustainable Development Goals: Philippines Fisheries and Other Aquatic Resources 20/20, SMX Con-
+    vention Center, Davao City.
+Petterson, J. M., Osmundsen, T., Aunsmo, A., Mardones, F. O., & Rich, K. M. (2015). Controlling emerging infectious diseases
+    in salmon aquaculture. Revue scientifique et technique (International Office of Epizootics) (Paris), 34, 923–938.
+                                                                                                                                        17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+WARD ET AL.                                                                                                                      827
+
+
+
+Prado, S., Vallet, M., Gachon, C. M. M., Strittmatter, M., & Kim, G. H. (2017). Prevention or treatment in algae of diseases
+    induced by protistan pathogens. Pub. No.: WO/2017/125775 [patent].
+Qiu, L., Mao, Y., Tang, L., Tang, X., & Mo, Z. (2019). Characterisation of Pythium chondricola associated with red rot disease
+    Pyropia yezoensis (Ueda) (Bangiales, Rhodophyta) from Lianyungang, China. Journal of Oceanology and Limnology, 37(3),
+    1102–1112. https://doi.org/10.1007/s00343-019-8075-3
+Sakaguchi, K.-i., Park, C. S., Kakinuma, M., & Amano, H. (2001). Effects of varying temperature, salinity and acidity in the
+    treatment of Porphyra infected by red rot disease. Suisazoshoku, 49, 77–83.
+Sawabe, T., Makino, H., Tatsumi, M., Nakano, K., Tajima, K., Iqbal, M. M., … Christen, R. (1998). Pseudoalteromonas bacterio-
+    lytica sp. nov., a marine bacterium that is the causative agent of red spot disease of Laminaria japonica. International Jour-
+    nal of Systematic Bacteriology, 48, 769–774.
+Sawabe, T., Narita, M., Tanaka, R., Onji, M., Tajima, K., & Ezura, Y. (2000). Isolation of Pseudoalteromonas elyakovii strains
+    from spot-wounded fronds of Laminaria japonica. Nippon Suisan Gakkashi, 66, 249–254.
+Shikata, T., Matsubara, T., Yoshida, M., Sakamoto, S., & Yamaguchi, M. (2015). Effects of temperature, salinity, and photo-
+    synthetic photon flux density on the growth of the harmful diatom Asterpoplanus karianus in the Ariake Sea. Japanese
+    Fish Science, 81, 1063–1069.
+Shinn, A. P., Pratoomyot, J., Bron, J. E., Paladini, G., Brooker, E. E., & Brooker, A. J. (2015). Economic costs of protistan and
+    metazoan parasites to global mariculture. Parasitology, 142, 196–270.
+Solis, M. J. L., Draeger, S., & dela Cruz, T. E. E. (2010). Marine-derived fungi from Kappaphycus alvarezii and K. striatum as
+    potential causative agents of ice-ice disease in farmed seaweeds. Botanica Marina, 53(6), 587–594. https://doi.org/10.
+    1515/bot.2010.071
+Sunairi, M., Tsuchiya, H., Tsuchiya, T., Omura, Y., Koyanagi, Y., Ozawa, M., … Nakajima, M. (1995). Isolation of a bacterium
+    that causes Anaaki disease of the red algae Porphyra yezoensis. Journal of Applied Bacteriology, 79, 225–229.
+Sutherland, K. P., Berry, B., Park, A., Kemp, D. W., Kemp, K. M., Lipp, E. K., & Porter, J. W. (2016). Shifting white pox aetiol-
+    ogies affecting Acropora palmata in the Florida Keys, 1994-2014. Philosophical Transactions of the Royal Society of
+    London B, 371, 20150205.
+Syafitri, E., Prayitno, S. B., Ma'ruf, W. F., & Radjasa, O. K. (2017). Genetic diversity of the causative agent of ice-ice disease of
+    the seaweed Kappaphycus alvarezii from Karimunjawa island, Indonesia IOP Conference Series: Earth and Environmental
+    Science, 55, 012044. https://doi.org/10.1088/1755-1315/55/1/012044
+Takahashi, M., Ichitani, T., & Sasaki, M. (1977). Pythium porphyrae Takahasi et Sasaki, sp. nov. causing red rot of marine red
+    algae Porphyra spp. Transactions of the Mycological Society of Japan, 18, 279–285.
+Tiwari, B. K., & Troy, D. J. (Eds.). (2015). Seaweed sustainability: Food and non-food applications. Cambridge, Massachusetts:
+    Academic Press, 472 pp.
+Tsiresy, G., Preux, J., Latriva, T., Dubois, P., Lepoint, G., & Eeckhaut, I. (2016). Phenology of farmed seaweed Kappaphycus
+    alvarezii infestation by the parasitic epiphyte Polysiphonia sp. in Madagascar. Journal of Applied Phycology, 28,
+    2903–2914.
+Tsukidate, J. (1991). In Seaweed disease (Ed.), Fish health management in Asia-Pacific. Report on a regional study and workshop
+    on disease and health management (pp. 397–408). Bangkok, Thailand: ADB/NACA.
+Uppalapti, S. R., & Fujita, Y. (2002). Red rot of cultivated Porphyra (‘nori’) in Japan. Fisheries Science, 68, 1319–1320.
+Uyenco, F. R., Saniel, L. S., & Jacinto, G. S. (1981). The “ice-ice” problem in seaweed farming. Paper presented at the 10th
+    International Seaweed Symposium. New York, NY: Walter de Gruyter, 625–630.
+Vairappan, C. S. (2006). Seasonal occurrences of epiphytic algae on the commercially cultivated red alga Kappaphycus
+    alvarezii (Solieraceae, Gigartinales, Rhodophyta). Journal of Applied Phycology, 18, 611–617.
+Vairappan, C. S., Chung, C. S., Hurtado, A. Q., Msuya, F. E., Bleicher Lhonneur, G., & Critchley, A. (2008). Distribution and
+    symptoms of epiphyte infection in major carrageenophyte-producing farms. Journal of Applied Phycology, 20, 477–483.
+Valero, M., Guillemin, M.-L., Destombe, C., Jacquemin, B., Gachon, C. M. M., Badis, Y., … Faugeron, S. (2017). Perspectives
+    on domestication research for sustainable seaweed aquaculture. Perspectives in Phycology, 4, 33–46.
+Vallet, M., Strittmatter, M., Murúra, P., Lacoste, S., Dupont, J., Hubas, C., … Prado, S. (2018). Chemically-mediated interac-
+    tions between macroalgae, their fungal endophytes, and protistan pathogens. Frontiers in Microbiology, 9, 3161. https://
+    doi.org/10.3389/fmicb.2018.03161
+Vallet, M., Strittmatter, M., Murúra, P., Lacoste, S., Dupont, J., Hubas, C., … Zhaolan, M. (2018). Characterisation of Pythium
+    chondricola associated with red rot disease Pyropia yezoensis (Ueda) (Bangiales, Rhodophyta) from Lianyungang, China.
+    Journal of Oceanology and Limnology, 37(3), 1102–1112. https://doi.org/10.1007/s00343-019-8075-3
+Wang, X., Broch, O. J., Forbord, S., Handå, A., Skjermo, J., Reitan, K. I., … Olsen, Y. (2014). Assimilation of inorganic nutrients
+    from salmon (Salmo salar) farming by the macroalgae (Saccharina latissima) in an exposed coastal environment: implica-
+    tions for integrated multi-trophic aquaculture. Journal of Applied Phycology, 26(4), 1869–1878.
+Wang, G., Shuai, L., Li, Y., Lin, W., Zhao, X., & Duan, D. (2008). Phylogenetic analysis of epiphytic marine bacteria on Hole-
+    Rotten diseased sporophytes of Laminaria japonica. Journal of Applied Phycology, 40, 403–409.
+                                                                                                                                   17497345, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jwas.12649 by Nat Prov Indonesia, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+828                                                                                                                WARD ET AL.
+
+
+
+Yamanoi, H., & Takami, J. (2008). A Pseudomonas-like bacterium isolated from diseased conchocelis of Porphyra. Nippon
+   Suisan Gakkashi, 76, 1024–1029.
+Yang, L.-E., Lu, Q. Q., & Brodie, J. (2017). A review of the bladed Bangiales (Rhodophyta) in China: history, culture and taxon-
+   omy. European Journal of Phycology, 52, 1–13.
+Yumoto, I., Ezura, Y., & Kimura, T. (1989). Distribution of the Alteromonas sp., the causative agent of red-spots on the culture
+   bed of Makonbu Laminaria japonica, in the coastal area of Funka Bay. Nippon Suisan Gakkaishi, 55, 453–462.
+
+
+
+
+      How to cite this article: Ward GM, Faisan Jr JP, Cottier-Cook EJ, et al. A review of reported seaweed
+      diseases and pests in aquaculture in Asia. J World Aquacult Soc. 2020;51:815–828. https://doi.org/10.1111/
+      jwas.12649
+

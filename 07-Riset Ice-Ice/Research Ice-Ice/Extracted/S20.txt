@@ -1,0 +1,1016 @@
+Nguyen et al. Discover Environment   (2026) 4:530
+https://doi.org/10.1007/s44274-026-01089-1
+                                                                                                                            Discover Environment
+
+
+    REVIEW                                                                                                                                           Open Access
+
+Sustainable seaweed aquaculture
+development in the Mekong Delta
+under climate change
+Phu‑Tho Nguyen1,2*, Phuong‑Loan Phan1,2, Huu‑Thanh Nguyen1,2 and Huu‑Tri Nguyen1,2
+
+
+*Correspondence:
+nptho@agu.edu.vn                      Abstract
+1
+  An Giang University, An Giang,      This structured narrative review synthesizes current knowledge on the development
+Vietnam                               of seaweed aquaculture in the Mekong Delta under climate change. Literature searches
+2
+  Vietnam National University, Ho     were conducted through 30 June 2026 using Scopus, Web of Science, and Google
+Chi Minh City, Vietnam
+                                      Scholar, followed by screening and thematic synthesis. The Mekong Delta is increas‑
+                                      ingly exposed to sea-level rise, salinity intrusion, and extreme weather events, which
+                                      are undermining the viability of conventional agricultural systems and rural livelihoods.
+                                      In this context, identifying climate-resilient and sustainable production alternatives
+                                      has become an urgent regional priority. Seaweed aquaculture has emerged as a prom‑
+                                      ising nature-based option because of its potential to generate economic benefits,
+                                      deliver ecosystem services, and enhance coastal resilience in low-lying and climate-
+                                      vulnerable areas of the Delta. By integrating environmental, economic, and institutional
+                                      perspectives, this review examines seaweed aquaculture as a climate-responsive
+                                      and policy-relevant pathway for coastal development in the region. The review
+                                      indicates that seaweed farming could support climate adaptation, nutrient removal,
+                                      livelihood diversification, and broader ecosystem-service provision in the Mekong
+                                      Delta. Current regional evidence most clearly documents the red seaweed Gracilaria
+                                      tenuistipitata in improved-extensive shrimp and shrimp–crab pond systems. However,
+                                      its expansion remains constrained by interconnected environmental, financial, insti‑
+                                      tutional, and technological barriers. In response, the study proposes a policy-oriented
+                                      framework for sustainable scaling, emphasizing that the long-term viability of seaweed
+                                      aquaculture in the Mekong Delta depends on the effective alignment of technological
+                                      innovation, market development, and institutional support. Overall, the review posi‑
+                                      tions seaweed aquaculture not merely as an alternative production activity, but as a
+                                      strategic option for sustainable coastal transformation under climate change.
+                                      Keywords: Seaweed aquaculture, Mekong Delta, Climate change adaptation,
+                                      Ecosystem services, Sustainable development, Blue economy
+
+                                    1 Introduction
+                                    Located in southern Vietnam, the Mekong Delta is a low-lying, river-dominated region
+                                    whose economy and coastal livelihoods are closely linked to land and water resources.
+                                    For the purposes of this review, the coastal Mekong Delta comprises coastal areas within
+
+
+
+                                    © The Author(s) 2026. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+                                    International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long
+                                    as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you
+                                    modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of
+                                    it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise
+                                    in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted
+                                    by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy
+                                    of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by-​nc-​nd/4.​0/.
+Nguyen et al. Discover Environment   (2026) 4:530                                                                Page 2 of 20
+
+
+
+
+                  the provinces of Dong Thap, Vinh Long, Ca Mau, and An Giang, as well as Can Tho City,
+                  extending from the eastern estuarine zone along the East Sea to the Gulf of Thailand.
+                  The Mekong Delta is one of the most productive agricultural regions in Southeast Asia
+                  and plays a vital role in ensuring national food security while contributing significantly
+                  to global rice and aquaculture markets [1]. However, the region is increasingly vulnerable
+                  to the impacts of climate change, including sea-level rise, salinity intrusion, land subsid-
+                  ence, and more frequent extreme weather events, all of which have altered hydrologi-
+                  cal regimes and undermined ecosystem stability [2–4]. Anthropogenic land subsidence,
+                  driven largely by intensive groundwater extraction, further compounds these pressures,
+                  with annual subsidence rates reaching several centimetres in some locations and thereby
+                  increasing relative sea-level rise, inundation, and salinization risks across the low-lying
+                  Delta [5]. These changes are placing growing pressure on conventional agricultural sys-
+                  tems, particularly in low-lying coastal areas where water scarcity and salinity intrusion
+                  have become more severe and less predictable [6].
+                    Traditional production systems in the Mekong Delta, especially intensive rice culti-
+                  vation and shrimp monoculture, are becoming increasingly constrained under chang-
+                  ing climatic and hydrological conditions [7, 8]. Rice farming, which depends heavily on
+                  freshwater availability, is becoming less viable due to prolonged drought and saline water
+                  intrusion [6, 9]. During normal dry seasons, water with salinity above 4 g L⁻1 typically
+                  penetrates approximately 40–60 km inland, further increasing the vulnerability of fresh-
+                  water-dependent rice production [10]. At the same time, shrimp monoculture, although
+                  economically attractive in the short term, has often been associated with environmental
+                  degradation, including mangrove loss, water pollution, and greater disease risks [11, 12].
+                  Together, these pressures highlight the urgent need for alternative production models
+                  that are both environmentally sustainable and economically resilient [8, 13].
+                    In this context, seaweed aquaculture has emerged as a promising nature-based solu-
+                  tion that aligns with the goals of sustainable development and climate adaptation [14].
+                  Seaweed farming provides multiple ecological and socioeconomic co-benefits, including
+                  carbon uptake, nutrient removal from eutrophic waters, and coastal protection through
+                  wave attenuation [15]. It also offers opportunities for income diversification and liveli-
+                  hood resilience among coastal communities, particularly in areas where the productiv-
+                  ity of traditional agriculture and aquaculture is declining [16]. In addition, integrating
+                  seaweed into existing aquaculture systems, such as shrimp ponds, may improve resource
+                  efficiency and reduce environmental externalities [17].
+                    Despite growing interest in seaweed aquaculture, existing studies on this sector in
+                  Vietnam and the broader region remain fragmented [18, 19]. Previous research has
+                  tended to examine ecological functions, market and value-chain issues, or governance
+                  and policy dimensions separately, rather than through an integrated lens [18, 19]. As
+                  a result, comprehensive analyses that connect these dimensions to assess the develop-
+                  ment potential of seaweed aquaculture in the Mekong Delta are still limited. This gap
+                  limits the evidence base needed to design coordinated strategies for the sustainable scal-
+                  ing of the sector under climate change [19]. Addressing this gap requires an integrated
+                  synthesis that connects environmental, economic, and institutional evidence within
+                  the specific context of the Mekong Delta. Accordingly, this review synthesizes current
+                  knowledge on seaweed aquaculture development in the Mekong Delta by integrating
+Nguyen et al. Discover Environment   (2026) 4:530                                                               Page 3 of 20
+
+
+
+
+                  these perspectives, with particular attention to its development potential, sustainability
+                  challenges, and policy-oriented solutions. In doing so, the study aims to provide a more
+                  comprehensive foundation for future research and policymaking on climate-resilient
+                  and sustainable coastal development in the region.
+                    The remainder of this review is organized as follows. Section 2 describes the meth-
+                  odological approach, and Sect. 3 presents the conceptual background and integrated
+                  analytical framework. Sections 4., 5. and 6. examine the current status and development
+                  potential, key constraints, and strategic solutions, respectively. Section 7 discusses pol-
+                  icy implications, limitations of the current evidence base, and future research priorities.
+
+                  2 Methodological approach
+                  This study adopted a structured narrative review approach to synthesize current knowl-
+                  edge on the development of seaweed aquaculture in the Mekong Delta under climate
+                  change. The review was not designed as a systematic review and was not preregistered.
+                  Accordingly, PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-
+                  Analyses) 2020 items were considered only where applicable for reporting transparency,
+                  without implying full PRISMA compliance. The procedures for literature identification,
+                  screening, eligibility assessment, inclusion, and thematic synthesis were explicitly docu-
+                  mented. The review covered the environmental, economic, technological, market, social,
+                  and institutional dimensions of seaweed aquaculture, with particular emphasis on evi-
+                  dence relevant to climate adaptation and sustainable coastal development in the Mekong
+                  Delta.
+                    Initial literature searches were conducted in January 2025 and updated on 30 June 2026
+                  using Scopus, Web of Science, and Google Scholar. Additional policy and technical doc-
+                  uments were identified through searches of the official repositories and websites of the
+                  Food and Agriculture Organization of the United Nations, the World Bank, the World
+                  Wide Fund for Nature, the United Nations Conference on Trade and Development, and
+                  relevant Vietnamese institutions. The searches combined terms related to the produc-
+                  tion system, geographical scope, and analytical themes. In Scopus, the exact search syn-
+                  tax was: TITLE-ABS-KEY(("seaweed aquaculture" OR "seaweed farming" OR "seaweed
+                  cultivation") AND ("Mekong Delta" OR Vietnam) AND ("climate change" OR adaptation
+                  OR "ecosystem services" OR livelihood* OR "value chain" OR policy OR governance)). In
+                  Web of Science Core Collection, the corresponding syntax was: TS=(("seaweed aquacul-
+                  ture" OR "seaweed farming" OR "seaweed cultivation") AND ("Mekong Delta" OR Viet-
+                  nam) AND ("climate change" OR adaptation OR "ecosystem services" OR livelihood* OR
+                  "value chain" OR policy OR governance)). In Google Scholar, where field tags and trun-
+                  cation functions are more limited, the adapted search string was: ("seaweed aquaculture"
+                  OR "seaweed farming" OR "seaweed cultivation") AND ("Mekong Delta" OR Vietnam)
+                  AND ("climate change" OR adaptation OR "ecosystem services" OR livelihood OR "value
+                  chain" OR policy OR governance). Transferable international evidence was additionally
+                  identified through thematic reference-list and citation searching without geographical
+                  restrictions.
+                    No lower publication-year restriction was imposed because earlier foundational stud-
+                  ies and policy documents were retained when they remained relevant to the concep-
+                  tual or regional analysis. The initial database searches were restricted to publications
+Nguyen et al. Discover Environment   (2026) 4:530                                                                Page 4 of 20
+
+
+
+
+                  in English and Vietnamese. Eligible sources included peer-reviewed research articles,
+                  review articles, doctoral theses, and authoritative policy or technical reports. Publi-
+                  cations were included when they provided substantive evidence on at least one of the
+                  following topics: the current status of seaweed aquaculture; economic and livelihood
+                  potential; ecosystem services and environmental effects; cultivation technologies; mar-
+                  ket and value-chain development; climate adaptation; or institutional and policy con-
+                  ditions. Duplicate records, publications unrelated to seaweed cultivation or sectoral
+                  development, non-substantive web materials, and documents without sufficient infor-
+                  mation for thematic analysis were excluded. Laboratory, biochemical, or taxonomic
+                  studies were considered only when their findings were directly relevant to cultivation
+                  suitability, value addition, product development, or sustainability assessment. Grey lit-
+                  erature was not subjected to a formal risk-of-bias assessment tool; however, policy and
+                  technical reports were appraised prior to inclusion based on source authority, method-
+                  ological transparency, geographical relevance, and sufficient substantive detail for the-
+                  matic synthesis.
+                     The literature search identified 358 records, including 322 records from Scopus, Web
+                  of Science, and Google Scholar and 36 additional records from institutional reposito-
+                  ries, organizational websites, reference-list searching, and citation searching. Dupli-
+                  cate records were identified using the duplicate-detection function in EndNote X8 and
+                  subsequently verified manually by comparing titles, DOIs, author names, and publica-
+                  tion years. After 79 duplicate records were removed, 279 records underwent title and
+                  abstract screening. Of these, 160 records were excluded because they were clearly unre-
+                  lated to the geographical or thematic scope of the review. The full texts of 119 potentially
+                  relevant documents were subsequently assessed against the eligibility criteria. Sixty-two
+                  documents were excluded because they were outside the geographical or thematic scope
+                  (n = 25), had insufficient relevance to seaweed aquaculture development and sustain-
+                  ability (n = 21), contained insufficient substantive information for thematic synthesis (n
+                  = 10), or were unavailable in full text (n = 6). A final set of 57 sources was included in
+                  the narrative synthesis. The review process is summarized in Fig. 1.
+                     For each included source, information was extracted on geographical coverage, pub-
+                  lication type, study or document characteristics, cultivation system or seaweed species
+                  where applicable, principal findings, and relevance to the analytical framework. Evi-
+                  dence was interpreted according to its methodological transparency, source authority,
+                  geographical relevance, and consistency with the broader literature. During the thematic
+                  synthesis, greater interpretive weight was given to peer-reviewed and Mekong Delta-
+                  specific evidence, while Vietnam-level and international evidence was used cautiously
+                  to address regional knowledge gaps. The evidence was synthesized thematically across
+                  five areas: conceptual background; current development and potential; key challenges
+                  and constraints; strategic solutions; and policy and research implications. Because the
+                  included sources differed substantially in design, geographical setting, evidence type,
+                  and reported outcomes, quantitative meta-analysis was not appropriate.
+                     As a structured narrative review, this study may not have captured every relevant
+                  publication, particularly locally published or non-indexed Vietnamese-language evi-
+                  dence. The inclusion of Google Scholar and institutional grey literature improved
+                  regional and policy coverage but introduced variation in source quality and reporting
+Nguyen et al. Discover Environment      (2026) 4:530                                                                            Page 5 of 20
+
+
+
+
+                   Fig. 1 Flow of literature identification, deduplication, screening, eligibility assessment, inclusion, and
+                   thematic synthesis for the structured narrative review. Source: Authors’ compilation
+
+
+
+
+                  detail. Moreover, evidence derived from locations outside the Mekong Delta may not be
+                  directly transferable to the region’s distinctive ecological, production, market, and gov-
+                  ernance conditions. Accordingly, conclusions were framed cautiously, and quantitative
+                  or causal claims were avoided where they were not adequately supported by the available
+                  evidence.
+
+
+                  3 Conceptual background: seaweed aquaculture and sustainability
+                  3.1 Seaweed aquaculture as a nature‑based solution
+                  Seaweed aquaculture is increasingly recognized as a nature-based solution that can
+                  simultaneously address environmental degradation, climate change challenges, and live-
+                  lihood sustainability [14]. In contrast to many conventional aquaculture systems that
+                  depend on external feed and other resource-intensive inputs, seaweed cultivation is a
+                  non-fed production system that requires little to no freshwater, fertilizer, or feed inputs,
+                  making it comparatively low-impact and resource-efficient [20].
+                     One of the most important ecological functions of seaweed is its capacity to
+                  absorb carbon through photosynthesis and convert it into biomass, thereby contrib-
+                  uting to climate change mitigation [15]. For quantitative context, Pessarrodona et al.
+                  [15] used a more realistic carbon-fixation value of approximately 350 g C m⁻2 y⁻1
+                  based on the mean global harvested yield. Seaweed cultivation has also been dis-
+                  cussed as a potential pathway for enhancing blue carbon benefits in coastal ecosys-
+                  tems; however, carbon fixation in cultivated biomass should not be equated directly
+Nguyen et al. Discover Environment   (2026) 4:530                                                          Page 6 of 20
+
+
+
+
+                  with long-term carbon sequestration, which remains highly context dependent [14,
+                  21]. In addition, seaweed can remove excess nutrients, particularly nitrogen (N) and
+                  phosphorus (P), from aquatic environments, thereby helping to mitigate eutrophica-
+                  tion and improve water quality [22]. This function is especially relevant in coastal
+                  areas affected by agricultural runoff and aquaculture effluents, where nutrient
+                  enrichment has become a persistent environmental concern [23].
+                    Seaweed farming may also contribute to coastal protection by attenuating wave
+                  energy and supporting shoreline resilience [24, 25]. Model-based studies of sus-
+                  pended kelp canopies have evaluated shallow-water depths of approximately 2–4 m,
+                  with greater wave attenuation occurring in shallower water where the canopy occu-
+                  pies a larger proportion of the water column. Effective configurations generally
+                  involve dense longline canopies suspended near the surface, with longer and wider
+                  blades providing greater interaction with wave-driven flow; however, the optimal
+                  depth and canopy structure remain species- and site-specific [24, 25]. These ecosys-
+                  tem-based functions are particularly important in low-lying and climate-vulnerable
+                  coastal regions, where nature-based production systems can help strengthen both
+                  ecological stability and adaptive capacity. In this sense, seaweed aquaculture should
+                  not be understood merely as a source of biomass production, but as a multifunc-
+                  tional coastal activity with broader environmental value.
+
+
+
+                  3.2 Contribution to sustainable development
+                  Beyond its ecological functions, seaweed aquaculture also contributes to the broader
+                  goals of sustainable development across economic, social, and environmental
+                  dimensions [14, 18]. Economically, seaweed farming offers opportunities for income
+                  diversification, particularly for small-scale coastal households that are increasingly
+                  exposed to climate-related disruptions affecting conventional agriculture and aqua-
+                  culture [16]. Its relatively low capital requirements and short production cycles may
+                  make it a more accessible livelihood option than many other forms of aquaculture
+                  [16]. In addition, rising demand for seaweed-based products, including food ingredi-
+                  ents, pharmaceuticals, and bio-based materials, creates scope for value addition and
+                  market expansion [26].
+                    From a social perspective, seaweed aquaculture may strengthen livelihood resil-
+                  ience by reducing dependence on a narrow set of climate-sensitive activities [27]. It
+                  can also support gender inclusion, as women often participate actively in cultivation,
+                  post-harvest handling, processing, and trading across seaweed value chains [28].
+                  Such participation may generate wider community benefits and contribute to local
+                  adaptive capacity, especially in vulnerable coastal settings [14].
+                    Environmentally, seaweed farming provides multiple ecosystem services, includ-
+                  ing water purification, habitat support for marine organisms, and carbon regulation
+                  [18]. These functions can improve ecological health while also supporting the sus-
+                  tainability of adjacent aquaculture and fisheries systems. Taken together, these con-
+                  tributions suggest that seaweed aquaculture has the potential to function not only
+                  as an economic activity, but also as a strategic pathway toward more resilient and
+                  sustainable coastal development.
+Nguyen et al. Discover Environment   (2026) 4:530                                                                         Page 7 of 20
+
+
+
+
+                  3.3 Integrated analytical framework
+                  To examine the role of seaweed aquaculture in sustainable development more system-
+                  atically, an integrated analytical framework is needed to connect climate pressures,
+                  production responses, and sustainability outcomes [14, 29]. In this review, seaweed
+                  aquaculture is conceptualized as a pathway through which climate change pressures
+                  shape sector development and, in turn, influence economic, social, and environmen-
+                  tal sustainability outcomes (Fig. 2).
+                    Within this framework, climate change is understood not only as a source of vul-
+                  nerability, but also as a driver of adaptation and innovation in coastal production sys-
+                  tems [30]. Seaweed aquaculture is therefore framed as a potential adaptive response
+                  through which environmental constraints may be transformed into opportunities
+                  for more sustainable forms of production and livelihood development. Its outcomes
+                  may be reflected in improved income diversification, stronger social resilience, and
+                  enhanced environmental performance [14].
+                    At the same time, the development of seaweed aquaculture does not depend on
+                  climate and ecological conditions alone. Its expansion is also shaped by technologi-
+                  cal capacity, market opportunities, and institutional support. Institutional support
+                  can moderate these sustainability outcomes through different pathways. Economi-
+                  cally, clear regulations, extension services, market coordination, and access to finance
+                  can reduce investment uncertainty and improve producers’ ability to capture value,
+                  whereas environmentally, effective zoning, monitoring, and production standards can
+                  help control ecological risks and strengthen the delivery of ecosystem services [29].
+                  For this reason, the framework adopted in this study provides a foundation for ana-
+                  lysing seaweed aquaculture not simply as a biological or technical activity, but as a
+                  socio-ecological development pathway. The analytical relationships discussed above
+                  are summarized in Fig. 2, which illustrates how climate change pressures shape sea-
+                  weed aquaculture development and how sustainability outcomes are mediated by
+                  technological, market, and institutional conditions. Building on this analytical frame-
+                  work, the following section examines the current development status and the eco-
+                  nomic and environmental potential of seaweed aquaculture in the Mekong Delta.
+
+
+
+
+                   Fig. 2 Integrated analytical framework for seaweed aquaculture development in the Mekong Delta under
+                   climate change. Source: Authors’ synthesis based on the reviewed literature
+Nguyen et al. Discover Environment   (2026) 4:530                                                                Page 8 of 20
+
+
+
+
+                  4 Current development and potential in the Mekong Delta
+                  4.1 Current status
+                  Compared with dominant aquaculture activities such as shrimp and fish farming, sea-
+                  weed aquaculture in the Mekong Delta remains at an early stage of development.
+                  Although Vietnam cultivates several commercially important seaweed species, includ-
+                  ing Kappaphycus alvarezii, Kappaphycus striatus, Eucheuma denticulatum, and several
+                  Gracilaria taxa, large-scale production is still concentrated mainly outside the Delta [19,
+                  31]. Within the Mekong Delta, current evidence most clearly documents the cultivation
+                  and management of the red seaweed Gracilaria tenuistipitata, particularly in improved-
+                  extensive shrimp and shrimp–crab pond systems [32, 33]. Other locally occurring mac-
+                  roalgae, including Cladophoraceae and Enteromorpha spp., are also found in shrimp
+                  ponds but are generally naturally occurring rather than established commercial crops
+                  [33]. Accordingly, Kappaphycus and Eucheuma species are better regarded as candidate
+                  taxa for future regional expansion than as major cultivated crops currently established in
+                  the Delta.
+                    Where seaweed cultivation has been adopted, it is commonly integrated into shrimp-
+                  based farming systems, where it may improve resource efficiency and provide additional
+                  ecological functions [32]. However, these practices remain limited in scale and are not
+                  yet supported by sufficiently strong technical standardization, extension services, or
+                  development programs [19, 33]. Available evidence from the Mekong Delta primarily
+                  documents naturally occurring Gracilaria tenuistipitata biomass in improved-extensive
+                  shrimp ponds [33]. Vegetative propagation through retained thallus material is techni-
+                  cally feasible for this species [34], but the reviewed literature did not identify dedicated
+                  commercial seaweed nurseries or hatcheries operating at regional scale in the Delta. As
+                  a result, seaweed aquaculture has so far made only a modest contribution to the wider
+                  aquaculture economy of the Mekong Delta, despite its potentially strategic relevance in
+                  the context of climate change and coastal livelihood transition.
+
+
+
+                  4.2 Economic potential
+                  Despite its currently limited scale, seaweed aquaculture has considerable economic
+                  potential in the Mekong Delta, particularly through value addition and closer integra-
+                  tion with expanding global seaweed markets [26]. Seaweed biomass can be processed
+                  into high-value hydrocolloids such as agar and carrageenan, which are widely used in
+                  food, pharmaceutical, and industrial applications [35]. Seaweeds are also increasingly
+                  recognized as sources of bioactive compounds for functional foods, nutraceuticals, and
+                  pharmaceutical products [36]. In Vietnam, seaweed products currently serve domestic
+                  markets for human food and animal feed and are also used as raw materials for cosmet-
+                  ics and traditional medicine, while a proportion of production is directed toward inter-
+                  national markets [19]. At the same time, growing demand for sustainable and bio-based
+                  materials is creating new market opportunities for seaweed-producing regions [26].
+                    In the Mekong Delta, these trends suggest that the economic value of seaweed
+                  aquaculture lies not only in primary production, but also in its downstream process-
+                  ing and market diversification potential. Stronger investment in processing technolo-
+                  gies, quality assurance systems, and certification could improve competitiveness and
+Nguyen et al. Discover Environment   (2026) 4:530                                                              Page 9 of 20
+
+
+
+
+                  facilitate entry into higher-value market segments [26]. At the local level, seaweed
+                  farming may also contribute to employment and income generation. Small-scale
+                  nearshore or pond-based cultivation may have relatively modest entry costs com-
+                  pared with many fed aquaculture systems [16]. However, transition toward com-
+                  mercially scaled production requires substantial investment in farm infrastructure,
+                  quality seedlings, post-harvest handling, processing facilities, certification, and mar-
+                  ket development [26]. In this regard, seaweed aquaculture may serve both as a live-
+                  lihood diversification strategy and as an emerging component of a broader coastal
+                  bioeconomy.
+
+
+
+                  4.3 Environmental potential
+                  In addition to its economic prospects, seaweed aquaculture offers significant environ-
+                  mental potential that is highly relevant to the ecological challenges of the Mekong Delta
+                  [18]. One of its most important functions is the removal of excess nutrients, particularly
+                  N and P, from aquaculture effluents and agricultural runoff, thereby improving water
+                  quality and supporting the ecological sustainability of surrounding aquatic systems [22].
+                  In laboratory experiments, nutrient uptake rates reported for Gracilaria tenuistipi-
+                  tata var. liui reached approximately 0.32–0.36 μmol N g⁻1 h⁻1 and 0.017–0.018 μmol P
+                  g⁻1 h⁻1 under favorable light conditions. Nutrient uptake varied with environmental fac-
+                  tors including light intensity, pH, temperature, and salinity, with higher N and P uptake
+                  observed at temperatures of 21–26 °C [37]. By assimilating dissolved nutrients, seaweed
+                  cultivation may help reduce eutrophication in intensive farming areas and lower the risk
+                  of harmful algal blooms and related ecosystem degradation [23].
+                    Seaweed aquaculture may also contribute to both climate change mitigation and
+                  adaptation through carbon uptake and climate-regulating functions [15]. In addi-
+                  tion, its physical structure can attenuate wave energy and enhance coastal resilience,
+                  which is particularly valuable in low-lying coastal areas exposed to sea-level rise, ero-
+                  sion, and extreme weather events [24]. For the Mekong Delta, where environmental
+                  degradation and climate vulnerability are increasingly intertwined, these ecosystem-
+                  based functions strengthen the case for considering seaweed aquaculture not only
+                  as a productive activity, but also as part of a broader strategy for sustainable coastal
+                  management. Overall, the region possesses substantial yet underutilized potential for
+                  seaweed aquaculture, and realizing this potential will depend on the effective align-
+                  ment of technological innovation, market development, and policy support.
+
+
+
+                  5 Key challenges and constraints
+                  Despite its considerable promise, the development of seaweed aquaculture in the
+                  Mekong Delta is constrained by a set of interrelated environmental, economic, insti-
+                  tutional, and technological barriers. These constraints not only limit the scalability of
+                  the sector, but also undermine its long-term sustainability, productivity, and competi-
+                  tiveness. Understanding these challenges is therefore essential for assessing whether
+                  seaweed aquaculture can realistically evolve into a viable climate-resilient develop-
+                  ment pathway in the region.
+Nguyen et al. Discover Environment   (2026) 4:530                                                               Page 10 of 20
+
+
+
+
+                  5.1 Environmental constraints
+                  Environmental pressures represent one of the most significant constraints on the expan-
+                  sion of seaweed aquaculture in the Mekong Delta. A major concern is the degradation of
+                  mangrove ecosystems associated with aquaculture expansion, particularly shrimp farm-
+                  ing [13]. The conversion of mangrove forests into aquaculture ponds has contributed to
+                  biodiversity loss, weakened coastal protection, and increased greenhouse gas emissions,
+                  highlighting the trade-off between short-term economic gains and long-term ecologi-
+                  cal sustainability [38]. In addition, water pollution and chemical runoff from intensive
+                  agriculture and aquaculture pose serious risks to seaweed cultivation [39]. The discharge
+                  of nutrients, antibiotics, and pesticides into coastal waters can degrade water quality
+                  and disrupt surrounding ecosystems, especially in densely farmed areas where water
+                  exchange is limited and environmental monitoring remains weak [39]. These conditions
+                  may directly affect seaweed growth and overall farm performance. Moreover, because
+                  environmental contaminants, including pesticides and pharmaceuticals, can attach to or
+                  be taken up by seaweeds, agrochemical and antibiotic residues in exchanged pond water
+                  could compromise tissue quality and food safety [40].
+                     The Mekong Delta is also highly exposed to climate-related stressors, including salin-
+                  ity fluctuations, temperature variability, and extreme weather events [41]. For Gracilaria
+                  tenuistipitata, the best-documented seaweed in local shrimp-based systems [32, 33],
+                  however, a locally validated upper thermal tolerance threshold has not yet been estab-
+                  lished. Consequently, the available regional evidence is insufficient to determine whether
+                  seasonal temperature peaks consistently exceed its physiological tolerance, although epi-
+                  sodic heat stress may still reduce growth and cultivation stability. Such factors can alter
+                  seaweed physiology, reduce biomass yield, affect biochemical composition, and increase
+                  susceptibility to disease. As a result, environmental instability introduces significant
+                  uncertainty into cultivation systems and weakens production reliability, particularly for
+                  small-scale producers with limited adaptive capacity.
+
+                  5.2 Economic and financial barriers
+                  From an economic perspective, the development of seaweed aquaculture in the Mekong
+                  Delta is constrained by several structural barriers. One of the most important is limited
+                  access to capital and credit among small-scale producers, which restricts investment in
+                  cultivation infrastructure, quality seedlings, and post-harvest processing [16]. Formal
+                  collateral requirements can further restrict smallholders’ access to credit, thereby lim-
+                  iting their capacity to invest in separate inlet and outlet canals, pumps, reservoirs, and
+                  filtration structures needed to improve pond-level water exchange and biosecurity [42].
+                  High initial costs for farm establishment, equipment, and processing facilities may fur-
+                  ther discourage new entrants and limit the expansion of existing operations [26].
+                     These financial constraints are compounded by market uncertainty, including price
+                  fluctuations, unstable demand in some commodity segments, and strong competi-
+                  tion from established seaweed-producing countries [26]. Another major challenge is
+                  the weakness and fragmentation of seaweed value chains, as poor coordination among
+                  producers, processors, traders, and buyers reduces value addition and weakens farm-
+                  ers’ bargaining power [26]. In many cases, producers remain dependent on interme-
+                  diaries, which can compress profit margins and make income streams less stable and
+Nguyen et al. Discover Environment   (2026) 4:530                                                               Page 11 of 20
+
+
+
+
+                  predictable. Taken together, these barriers limit the economic attractiveness of seaweed
+                  aquaculture, especially in the absence of stronger downstream market support.
+
+                  5.3 Institutional and policy gaps
+                  Institutional and policy-related barriers also significantly constrain the development of
+                  the seaweed sector in the Mekong Delta [19]. One key issue is the lack of clear spatial
+                  planning and coherent governance arrangements for coastal aquaculture activities. At
+                  the local level, responsibilities for coastal aquaculture zoning and sea-area management
+                  are shared among provincial People’s Committees, provincial Departments of Agricul-
+                  ture and Environment through their fisheries and marine–environmental management
+                  functions, and commune-level People’s Committees for certain sea-area allocation and
+                  management responsibilities. This distribution of responsibilities can create coordina-
+                  tion gaps in spatial planning, licensing, environmental management, and resource allo-
+                  cation, thereby discouraging investment and hindering long-term sector development
+                  [43]. In addition, technical standardization and operational guidance for safe produc-
+                  tion, quality assurance, and risk management remain insufficient in emerging seaweed
+                  value chains [43]. This limits producers’ ability to meet market requirements, maintain
+                  consistent quality, and secure stable off-take agreements. Policy support for seaweed
+                  aquaculture also remains relatively limited compared with more established aquacul-
+                  ture sectors, reducing its attractiveness to both smallholders and private investors [19].
+                  More broadly, seaweed aquaculture is still only partially integrated into marine spatial
+                  planning, climate adaptation policy, and coastal management strategies. This weak pol-
+                  icy integration reduces the sector’s visibility in public planning and limits access to the
+                  institutional support needed for sustainable expansion. For the Mekong Delta, where
+                  climate adaptation and coastal governance are increasingly interconnected, such policy
+                  gaps represent a major constraint on scaling seaweed aquaculture in a coordinated and
+                  strategic manner.
+
+                  5.4 Knowledge and technology gaps
+                  A further barrier to the sustainable expansion of seaweed aquaculture lies in the lim-
+                  ited availability of scientific knowledge and technological innovation tailored to local
+                  conditions [19]. Existing research on seaweed cultivation in the Mekong Delta remains
+                  limited, particularly with regard to optimal farming techniques, species selection, and
+                  carrying-capacity assessment [31, 43]. This restricts the evidence base needed to support
+                  appropriate farm design and site-specific management decisions.
+                    There is also still insufficient understanding of the ecological implications and long-
+                  term sustainability of large-scale seaweed farming, especially in relation to surround-
+                  ing ecosystems and local environmental performance [44]. In addition, the potential of
+                  integrated systems such as integrated multi-trophic aquaculture (IMTA) remains under-
+                  explored in the regional context, despite their documented benefits in other settings
+                  [31, 45]. Equally important is the limited transfer of technology and practical knowl-
+                  edge to producers. Weak extension systems and insufficient training support can slow
+                  the adoption of improved farming practices, reduce productivity gains, and widen the
+                  gap between research and practice [46]. As a result, technological constraints in the
+                  Mekong Delta are not simply a matter of innovation availability, but also of adaptation,
+Nguyen et al. Discover Environment   (2026) 4:530                                                              Page 12 of 20
+
+
+
+
+                  dissemination, and local implementation capacity. Overall, addressing these knowledge
+                  and technology gaps will require stronger connections among research institutions,
+                  extension services, producers, and policymakers.
+
+
+                  6 Strategic solutions for sustainable development
+                  Unlocking the full potential of seaweed aquaculture in the Mekong Delta will require a
+                  coordinated and multidimensional strategy. Because the barriers facing the sector are
+                  environmental, economic, institutional, and technological in nature, the correspond-
+                  ing solutions must also be integrated across these domains. Sustainable development
+                  of the sector therefore depends not on a single intervention, but on the alignment of
+                  innovation, market development, governance support, capacity building, and climate
+                  adaptation.
+
+
+                  6.1 Technological innovations
+                  Technological innovation is a key prerequisite for improving productivity, resilience, and
+                  environmental performance in seaweed aquaculture [47]. One important priority is the
+                  development of disease- and climate-tolerant strains that can maintain yield stability
+                  under salinity fluctuations, temperature stress, and pathogen pressure [41]. Advances in
+                  selection, priming, and breeding technologies offer significant potential in this regard
+                  [41]. At the farm level, the adoption of improved cultivation practices is equally impor-
+                  tant. Optimized seeding methods, site-specific farm design, and better harvest timing
+                  can increase production efficiency while reducing environmental risks [47]. A particu-
+                  larly promising pathway is the expansion of IMTA, in which seaweed is co-cultivated
+                  with species such as shrimp or fish [17]. In such systems, seaweed functions as a natural
+                  biofilter by absorbing excess nutrients and improving water quality, thereby enhancing
+                  both production efficiency and ecological sustainability [17]. When IMTA is imple-
+                  mented with shrimp, biosecurity should include the use of health-screened stocking
+                  material, quarantine of new stocks where appropriate, filtration or screening of incom-
+                  ing water, routine health monitoring, and cleaning and disinfection of shared equipment
+                  to minimize pathogen introduction and cross-transmission among cultured components
+                  [45]. For the Mekong Delta, where shrimp-based systems are already widespread, the
+                  promotion of IMTA may provide a practical route toward more circular and resource-
+                  efficient aquaculture models.
+
+
+                  6.2 Value chain development
+                  Strengthening the seaweed value chain is essential for improving economic returns and
+                  market competitiveness [26]. A central priority is to improve linkages among farmers,
+                  processors, traders, and exporters, as better coordination can reduce inefficiencies,
+                  improve market transparency, and increase the bargaining power of primary producers
+                  [26]. Without stronger vertical and horizontal connections across the value chain, pro-
+                  ducers are likely to remain locked into low-value and unstable market positions.
+                    Promoting value-added products is another critical strategy. Rather than relying
+                  primarily on raw or minimally processed seaweed, investment should support pro-
+                  cessing technologies that enable higher-value outputs such as hydrocolloids, func-
+                  tional foods, pharmaceuticals, and bio-based materials [26, 35]. This shift could
+Nguyen et al. Discover Environment   (2026) 4:530                                                                Page 13 of 20
+
+
+
+
+                  improve profit margins, diversify market outlets, and reduce dependence on lower-
+                  value commodity segments. In addition, branding and certification systems, including
+                  eco-labels and sustainability standards, can strengthen product credibility, facilitate
+                  market access, and improve compliance with quality and traceability requirements
+                  [48]. In the Mekong Delta, such measures would be particularly important for mov-
+                  ing the sector from small-scale supplementary production toward a more competitive
+                  and commercially viable development model.
+
+
+
+                  6.3 Policy and governance improvements
+                  Effective policy and governance frameworks are essential for creating an enabling
+                  environment for sustainable seaweed development [49]. One of the most immediate
+                  priorities is the establishment of clear spatial planning and aquaculture zoning, which
+                  can reduce resource-use conflicts, improve spatial efficiency, and encourage long-
+                  term investment [43]. For a coastal region such as the Mekong Delta, where multiple
+                  production systems and environmental pressures intersect, spatial clarity is especially
+                  important.
+                    Governments should also introduce targeted financial incentives and support
+                  mechanisms, including concessional credit, grants for technology adoption, and tai-
+                  lored assistance for smallholder producers, in order to lower entry barriers and stim-
+                  ulate investment across the sector [50]. At the same time, seaweed aquaculture should
+                  be more explicitly integrated into national and regional climate adaptation strategies,
+                  given its potential role as a nature-based solution within coastal development policy
+                  [50]. Better integration with broader marine spatial planning and coastal management
+                  frameworks would improve policy coherence, expand access to climate and develop-
+                  ment finance, and support more strategic sectoral scaling. In this sense, governance
+                  reform is not simply a matter of regulation, but of creating an institutional environ-
+                  ment in which seaweed aquaculture can develop with clearer direction and stronger
+                  public support.
+
+
+
+                  6.4 Capacity building and knowledge transfer
+                  Human capacity development is a critical component of sustainable sector growth [14].
+                  Training programs for farmers can strengthen technical skills in cultivation, harvesting,
+                  post-harvest handling, and farm management, thereby supporting higher productivity
+                  and more consistent product quality [50]. In emerging sectors such as seaweed aquacul-
+                  ture in the Mekong Delta, such capacity building is particularly important because many
+                  producers may have limited prior experience with specialized farming and processing
+                  techniques. Participatory research approaches that involve farmers, researchers, and
+                  local stakeholders can also facilitate the co-creation of knowledge and help adapt tech-
+                  nological innovations to local conditions [51]. In parallel, stronger extension systems
+                  are needed to bridge the gap between research and practice. Effective extension can
+                  disseminate best practices, provide technical guidance, and encourage the adoption of
+                  improved technologies at scale [52]. Taken together, these measures can help ensure that
+                  innovation is not only developed, but also effectively translated into field-level practice.
+Nguyen et al. Discover Environment    (2026) 4:530                                                                              Page 14 of 20
+
+
+
+
+                  6.5 Climate adaptation strategies
+                  Given the high climate vulnerability of the Mekong Delta, adaptive strategies are essen-
+                  tial to the long-term sustainability of seaweed aquaculture [30]. One key measure is the
+                  careful selection of cultivation sites based on environmental factors such as salinity, tem-
+                  perature, water depth, and nutrient availability, as site suitability strongly influences both
+                  productivity and risk exposure [53]. In this respect, site-selection planning should be
+                  treated as a foundational step rather than a purely technical afterthought.
+                    The adoption of seasonal and adaptive farming practices is also important. Adjust-
+                  ments in cultivation timing, species choice, and farm management can improve resil-
+                  ience to climate variability and reduce production losses under changing environmental
+                  conditions. In addition, ecosystem-based management approaches can help integrate
+                  seaweed aquaculture into broader coastal systems by linking cultivation with mangrove
+                  conservation, water-quality protection, and the sustainable use of marine resources [54].
+                  Such approaches are particularly relevant in the Mekong Delta, where the long-term
+                  viability of aquaculture depends on the health and resilience of interconnected coastal
+                  ecosystems. Overall, the sustainable development of seaweed aquaculture in the Mekong
+                  Delta requires a holistic strategy that combines technological innovation, value chain
+                  development, policy reform, capacity building, and climate adaptation. Only through
+                  the integration of these elements can seaweed farming evolve into a resilient, competi-
+                  tive, and environmentally sustainable sector. The current development and potential, key
+                  challenges and constraints, and corresponding strategic solutions discussed in Sects. 4.,
+                  5. and 6. are synthesized in Fig. 3. The organization of the figure follows the subsection
+                  structure of these three sections to facilitate cross-referencing.
+                    Table 1 further synthesizes the main development opportunities, key constraints,
+                  strategic responses, and policy implications for seaweed aquaculture in the Mekong
+                  Delta. Building on this synthesis, the following section discusses the broader policy
+
+
+
+
+                   Fig. 3 Schematic synthesis corresponding to Sects. 4., 5. and 6.: current development and potential, key
+                   challenges and constraints, and strategic solutions for sustainable seaweed aquaculture development in the
+                   Mekong Delta. Source: Authors’ synthesis based on the reviewed literature
+Table 1 Synthesis of development opportunities, key constraints, strategic responses, and policy implications for sustainable seaweed aquaculture in the Mekong Delta
+                                                                                                                                                                                                                     Nguyen et al. Discover Environment
+
+Dimension                    Key opportunities                              Major constraints                              Strategic responses                           Policy implications
+
+Economic                     - Value addition through hydrocolloids,        - Limited access to capital and credit         - Invest in processing technologies and       Promote seaweed aquaculture as a
+                             functional foods, pharmaceuticals, and         - High start-up and processing costs           post-harvest infrastructure                   strategic coastal livelihood and value-
+                             bio-based materials                            - Market volatility and weak value-chain       - Improve certification, traceability, and    added industry rather than a low-value
+                             - Income diversification for coastal           coordination                                   quality assurance systems                     supplementary activity                      (2026) 4:530
+                             households                                                                                    - Strengthen linkages among producers,
+                             - Potential contribution to a coastal                                                         processors, traders, and export markets
+                             bioeconomy
+Environmental                - Nutrient removal from aquaculture            - Water pollution and chemical runoff          - Develop and adopt climate-resilient         Position seaweed aquaculture within
+                             effluents and agricultural runoff              - Mangrove degradation associated with         strains and improved farm design              coastal environmental management,
+                             - Climate-related benefits through             coastal aquaculture expansion                  - Expand IMTA and ecosystem-based             marine spatial planning, and nature-based
+                             carbon uptake                                  - Climate-related stressors affecting yield,   management approaches                         climate adaptation strategies
+                             - Support for coastal resilience and           biomass quality, and cultivation stability     - Integrate site suitability assessment and
+                             ecosystem-service provision                                                                   water-quality planning into cultivation
+                                                                                                                           strategies
+Social                       - Livelihood diversification for coastal       - Limited technical skills and practical       - Expand farmer training, extension           Embed seaweed aquaculture in inclusive
+                             communities                                    knowledge among producers                      services, and technical support               rural and coastal development programs
+                             - Greater resilience for climate-vulnerable    - Weak extension, training, and advisory       - Promote participatory research and co-      with strong community participation and
+                             households                                     support                                        learning among stakeholders                   capacity building
+                             - Potential for gender inclusion and local     - Uncertain adoption at the community          - Strengthen local implementation
+                             participation across the value chain           level                                          capacity and community engagement
+Institutional/governance - Better integration into coastal and              - Fragmented governance and overlap‑           - Improve aquaculture zoning and              Create an enabling governance environ‑
+                         marine planning                                    ping institutional responsibilities            coastal spatial planning                      ment that reduces uncertainty, strength‑
+                         - Opportunity to align with blue econ‑             - Limited sector-specific policy support       - Provide targeted incentives, technical      ens coordination, and supports long-term
+                         omy and climate adaptation policies                - Weak spatial planning, technical stand‑      assistance, and institutional support         sectoral scaling
+                         - Potential to improve coordination                ards, and regulatory guidance                  - Align seaweed aquaculture policy with
+                         across coastal development sectors                                                                climate adaptation and coastal govern‑
+                                                                                                                           ance frameworks
+IMTA integrated multi-trophic aquaculture. Source: Authors’ synthesis based on the reviewed literature
+
+
+
+
+                                                                                                                                                                                                                     Page 15 of 20
+Nguyen et al. Discover Environment   (2026) 4:530                                                              Page 16 of 20
+
+
+
+
+                  implications and priority research needs for supporting the sustainable scaling of sea-
+                  weed aquaculture in the Mekong Delta.
+
+                  7 Policy implications and research outlook
+                  7.1 Policy implications
+                  The findings of this review suggest that seaweed aquaculture should be recognized as a
+                  strategic sector within the green and blue economy, particularly in climate-vulnerable
+                  coastal regions such as the Mekong Delta [14, 55]. Given its multifunctional capacity to
+                  generate economic benefits, deliver ecosystem services, and support climate adaptation,
+                  seaweed farming can contribute meaningfully to more sustainable coastal development
+                  pathways [14]. To realize this potential, seaweed aquaculture should be more system-
+                  atically integrated into coastal management frameworks, including aquaculture zoning,
+                  marine resource governance, and coordination with mangrove conservation and resto-
+                  ration efforts [43]. Such integration would help reduce resource-use conflicts, improve
+                  environmental outcomes, and support longer-term sector development. In addition,
+                  seaweed aquaculture should be incorporated more explicitly into national and regional
+                  climate adaptation strategies, particularly in recognition of its role as a nature-based
+                  solution [50].
+                    Policy frameworks should therefore move beyond general support and instead provide
+                  targeted instruments for sector development. These may include financial incentives,
+                  technical assistance, and institutional mechanisms that facilitate public–private partner-
+                  ships, producer participation, and community-based implementation [50]. Within the
+                  Mekong Delta, a coherent and forward-looking policy framework is especially impor-
+                  tant, as the long-term viability of seaweed aquaculture depends not only on biological
+                  feasibility, but also on the alignment of governance, investment, and coastal adaptation
+                  planning. In this sense, seaweed aquaculture should be viewed not as a marginal sup-
+                  plementary activity, but as a potentially strategic component of climate-resilient coastal
+                  transformation.
+
+                  7.2 Limitations of the current evidence base and future research outlook
+                  The current evidence base on seaweed aquaculture in the Mekong Delta remains lim-
+                  ited, fragmented, and uneven across environmental, economic, social, and institutional
+                  dimensions. Much of the available knowledge on ecosystem services, market develop-
+                  ment, and cultivation technologies has been derived from studies conducted in other
+                  coastal regions. Although these findings provide useful comparative insights, their direct
+                  applicability to the ecological conditions, production systems, market structures, and
+                  governance context of the Mekong Delta has not yet been sufficiently validated. In addi-
+                  tion, the lack of long-term field studies, standardized assessment methods, and locally
+                  grounded economic data limits the extent to which the productivity, environmental
+                  performance, and scalability of seaweed aquaculture can currently be assessed with
+                  confidence.
+                    Against this background, several research priorities should be addressed to support
+                  evidence-based policymaking and sustainable sector development. First, more robust
+                  quantification of the ecosystem services provided by seaweed farming is needed, par-
+                  ticularly with regard to carbon-related climate benefits, nutrient removal, and coastal
+Nguyen et al. Discover Environment   (2026) 4:530                                                                Page 17 of 20
+
+
+
+
+                  protection [56]. Such evidence is essential for determining whether, and under what
+                  conditions, these benefits can be incorporated into environmental accounting, policy
+                  evaluation, climate-finance mechanisms, and investment decisions. Further research
+                  should also distinguish short-term carbon uptake by cultivated biomass from long-term
+                  carbon sequestration to avoid overstating the potential climate-mitigation contribution
+                  of seaweed farming.
+                    Second, improved economic valuation approaches are required to capture both the
+                  market and non-market benefits of seaweed aquaculture. A more comprehensive valu-
+                  ation framework could clarify the sector’s broader contribution to sustainable develop-
+                  ment while providing a stronger basis for public investment, financial incentives, and
+                  policy integration [57]. Future assessments should consider not only production reve-
+                  nues, but also establishment and operating costs, market volatility, processing require-
+                  ments, ecosystem-service benefits, livelihood effects, and the distribution of costs and
+                  benefits among farmers, processors, communities, and other stakeholders.
+                    Third, more research is needed on the long-term environmental effects of seaweed cul-
+                  tivation. Although seaweed farming may provide nutrient-removal and habitat-related
+                  benefits, large-scale expansion could also generate unintended ecological consequences,
+                  including changes in nutrient cycling, light availability, hydrodynamic conditions, habi-
+                  tat structure, and interactions with surrounding species. These potential effects should
+                  be examined through longitudinal, site-specific, and system-based assessments before
+                  extensive cultivation is promoted [44]. Particular attention should also be given to carry-
+                  ing capacity, site suitability, species selection, disease risks, and the cumulative impacts
+                  of seaweed farms when combined with other coastal production activities.
+                    Finally, the conditions under which IMTA systems can be adapted and scaled up in
+                  the Mekong Delta require closer examination. In these systems, seaweed is co-cultivated
+                  with species such as shrimp or fish to recycle dissolved nutrients and improve resource-
+                  use efficiency. However, their wider adoption depends on locally demonstrated techni-
+                  cal feasibility, economic viability, environmental performance, farmer acceptance, and
+                  institutional support [17]. Future studies should therefore evaluate appropriate species
+                  combinations, farm configurations, stocking and harvesting practices, biosecurity meas-
+                  ures, and governance arrangements under the salinity, temperature, hydrological, and
+                  production conditions of the Mekong Delta.
+                    The future development of seaweed aquaculture in the region will consequently
+                  depend on the generation of a stronger, locally validated, and interdisciplinary evidence
+                  base. Priority should be given to long-term field experiments, pilot-scale production
+                  models, comparative economic assessments, carrying-capacity evaluations, and partici-
+                  patory studies involving farmers, researchers, industry actors, and policymakers. Such
+                  research would help determine where seaweed aquaculture is environmentally appro-
+                  priate, economically viable, and socially acceptable. In parallel, technological innovation
+                  should be aligned with market development and institutional support so that promis-
+                  ing cultivation models can progress beyond isolated or small-scale initiatives. Rather
+                  than assuming that seaweed aquaculture is universally suitable across the Mekong Delta,
+                  future research and policy should identify the specific locations, production systems,
+                  value chains, and governance conditions under which it can contribute effectively to cli-
+                  mate-resilient and inclusive coastal development.
+Nguyen et al. Discover Environment        (2026) 4:530                                                                                        Page 18 of 20
+
+
+
+
+                  Acknowledgements
+                  This research is funded by Vietnam National University HoChiMinh City (VNU-HCM) under a project within the framework
+                  of the Program titled “Strengthening the capacity for education and basic scientific research integrated with strategic
+                  technologies at VNU-HCM, aiming to achieve advanced standards comparable to regional and global levels during the
+                  2025-2030 period, with a vision toward 2045”.
+
+                  Author contributions
+                  Conceptualization, writing—original draft preparation: H-TN, P-TN; writing—review and editing: P-LP, H-TN; supervision:
+                  P-TN.
+
+                  Funding
+                  This research is funded by Vietnam National University HoChiMinh City (VNU-HCM) under grant number CB2025-16-01.
+
+                  Data availability
+                  No datasets were generated or analysed during the current study.
+
+
+                  Declarations
+                  Ethics approval and consent to participate
+                  Not applicable. This article is a structured narrative review and did not involve human participants, animals, or primary
+                  data collection.
+
+                  Consent for publication
+                  Not applicable.
+
+                  Competing interests
+                  The authors declare no competing interests.
+
+                  Received: 13 April 2026 Accepted: 23 September 2026
+
+
+
+
+                  References
+                  1. World Bank. Vietnam food smart country diagnostic. Washington, DC: World Bank; 2020.
+                  2. Dang TD, Cochrane TA, Arias ME, Tri VPD. Future hydrological alterations in the Mekong Delta under the impact of
+                      water resources development, land subsidence and sea level rise. J Hydrol Reg Stud. 2018;15:119–33. https://​doi.​
+                      org/​10.​1016/j.​ejrh.​2017.​12.​002.
+                  3. Eslami S, Hoekstra P, Nguyen Trung N, Ahmed Kantoush S, Van Binh D, Duc Dung D, et al. Tidal amplification and salt
+                      intrusion in the Mekong Delta driven by anthropogenic sediment starvation. Sci Rep. 2019;9:18746. https://​doi.​org/​
+                      10.​1038/​s41598-​019-​55018-9.
+                  4. Eslami S, Hoekstra P, Minderhoud PSJ, Trung NN, Hoch JM, Sutanudjaja EH, et al. Projections of salt intrusion in a
+                      mega-delta under climatic and anthropogenic stressors. Commun Earth Environ. 2021;2:142. https://​doi.​org/​10.​
+                      1038/​s43247-​021-​00208-5.
+                  5. Minderhoud PSJ, Erkens G, Pham VH, Bui VT, Erban L, Kooi H, et al. Impacts of 25 years of groundwater extraction on
+                      subsidence in the Mekong Delta, Vietnam. Environ Res Lett. 2017;12:064006. https://​doi.​org/​10.​1088/​1748-​9326/​
+                      aa7146.
+                  6. Minh HV, Lavane K, Ty TV, Downes NK, Hong TT, Kumar P. Evaluation of the impact of drought and saline water intru‑
+                      sion on rice yields in the Mekong Delta, Vietnam. Water. 2022;14:3499. https://​doi.​org/​10.​3390/​w1421​3499.
+                  7. Nguyen MT, Renaud FG, Sebesvari Z. Drivers of change and adaptation pathways of agricultural systems facing
+                      increased salinity intrusion in coastal areas of the Mekong and Red River deltas in Vietnam. Environ Sci Policy.
+                      2019;92:331–48. https://​doi.​org/​10.​1016/j.​envsci.​2018.​10.​016.
+                  8. Kaveney B, Barrett-Lennard E, Chau Minh K, Dang Duy M, Nguyen Thi KP, Kristiansen P, et al. Inland dry season saline
+                      intrusion in the Vietnamese Mekong River Delta is driving the identification and implementation of alternative
+                      crops to rice. Agric Syst. 2023;207:103632. https://​doi.​org/​10.​1016/j.​agsy.​2023.​103632.
+                  9. Thach KSR, Lee JY, Ha MT, Cao MT, Nayga RM, Yang J-E. Effect of saline intrusion on rice production in the Mekong
+                      River Delta. Heliyon. 2023;9:e20367. https://​doi.​org/​10.​1016/j.​heliy​on.​2023.​e20367.
+                  10. Duc PN, Duc TT, Van GP, Van HN, Minh TT. Predicting salinity levels in the Mekong Delta (Viet Nam): analy‑
+                      sis of machine learning and deep learning models. Discov Artif Intell. 2025;5:79. https://​doi.​org/​10.​1007/​
+                      s44163-​025-​00336-3.
+                  11. Le NTT, Armstrong CW, Brækkan EH, Eide A. Climatic events and disease occurrence in intensive Litopenaeus van-
+                      namei shrimp farming in the Mekong area of Vietnam. Aquaculture. 2024;587:740867. https://​doi.​org/​10.​1016/j.​
+                      aquac​ulture.​2024.​740867.
+                  12. Joffre OM, Bosma RH, Bregt AK, van Zwieten PAM, Bush SR, Verreth JAJ. What drives the adoption of integrated
+                      shrimp mangrove aquaculture in Vietnam? Ocean Coast Manag. 2015;114:53–63. https://​doi.​org/​10.​1016/j.​oceco​
+                      aman.​2015.​06.​015.
+                  13. Nguyen H, Chu L, Harper RJ, Dell B, Hoang H. Mangrove-shrimp farming: a triple-win approach for communities in
+                      the Mekong River Delta. Ocean Coast Manag. 2022;221:106082. https://​doi.​org/​10.​1016/j.​oceco​aman.​2022.​106082.
+                  14. Sultana F, Wahab MA, Nahiduzzaman M, Mohiuddin M, Iqbal MZ, Shakil A, et al. Seaweed farming for food and
+                      nutritional security, climate change mitigation and adaptation, and women empowerment: a review. Aquac Fish.
+                      2023;8:463–80. https://​doi.​org/​10.​1016/j.​aaf.​2022.​09.​001.
+Nguyen et al. Discover Environment        (2026) 4:530                                                                                               Page 19 of 20
+
+
+
+
+                  15. Pessarrodona A, Howard J, Pidgeon E, Wernberg T, Filbee-Dexter K. Carbon removal and climate change mitigation
+                      by seaweed farming: a state of knowledge review. Sci Total Environ. 2024;918:170525. https://​doi.​org/​10.​1016/j.​scito​
+                      tenv.​2024.​170525.
+                  16. Valderrama D, Cai J, Hishamunda N, Ridler N, editors. Social and economic dimensions of carrageenan seaweed
+                      farming. FAO Fisheries and Aquaculture Technical Paper No. 580. Rome: FAO; 2013. https://​openk​nowle​dge.​fao.​org/​
+                      handle/​20.​500.​14283/​i3344e
+                  17. Uddin MN, Khan MA, Nielsen M, Nielsen R. The potential of integrated multi-trophic aquaculture as an alternative
+                      to traditional shrimp farming: a global review of environmental, economic and social sustainability. Aquac Rep.
+                      2025;45:103122. https://​doi.​org/​10.​1016/j.​aqrep.​2025.​103122.
+                  18. Hasselström L, Visch W, Gröndahl F, Nylund GM, Pavia H. The impact of seaweed cultivation on ecosystem services
+                      - a case study from the west coast of Sweden. Mar Pollut Bull. 2018;133:53–64. https://​doi.​org/​10.​1016/j.​marpo​lbul.​
+                      2018.​05.​005.
+                  19. Quang NV, Binh TT, Anh NT. Mariculture development in Vietnam: present status and prospects. VMOST J Soc Sci
+                      Humanit. 2023;65(3):11–20. https://​doi.​org/​10.​31276/​VMOST​JOSSH.​65(3).​11-​20.
+                  20. Barrett LT, Theuerkauf SJ, Rose JM, Alleway HK, Bricker SB, Parker M, et al. Sustainable growth of non-fed aquaculture
+                      can generate valuable ecosystem benefits. Ecosyst Serv. 2022;53:101396. https://​doi.​org/​10.​1016/j.​ecoser.​2021.​
+                      101396.
+                  21. Fujita R, Augyte S, Bender J, Brittingham P, Buschmann AH, Chalfin M, et al. Seaweed blue carbon: ready? or not? Mar
+                      Policy. 2023;155:105747. https://​doi.​org/​10.​1016/j.​marpol.​2023.​105747.
+                  22. Racine P, Marley A, Froehlich HE, Gaines SD, Ladner I, MacAdam-Somer I, et al. A case for seaweed aquaculture inclu‑
+                      sion in U.S. nutrient pollution management. Mar Policy. 2021;129:104506. https://​doi.​org/​10.​1016/j.​marpol.​2021.​
+                      104506.
+                  23. Wu J, Rogers SW, Schaummann R, Higgins C, Price N. Bioextractive aquaculture as an an alternative nutrient man‑
+                      agement strategy for water resource recovery facilities. Water Res. 2022;212:118092. https://​doi.​org/​10.​1016/j.​watres.​
+                      2022.​118092.
+                  24. Bodycomb R, Pomeroy AWM, Morris RL. Kelp aquaculture as a nature-based solution for coastal protection: wave
+                      attenuation by suspended canopies. J Mar Sci Eng. 2023;11:1822. https://​doi.​org/​10.​3390/​jmse1​10918​22.
+                  25. Zhu L, Huguenard K, Zou Q-P, Fredriksson DW, Xie D. Aquaculture farms as nature-based coastal protection: Random
+                      wave attenuation by suspended and submerged canopies. Coast Eng. 2020;160:103737. https://​doi.​org/​10.​1016/j.​
+                      coast​aleng.​2020.​103737.
+                  26. World Bank. Global seaweed: new and emerging markets report 2023. 2023. https://​www.​world​bank.​org/​en/​topic/​
+                      envir​onment/​publi​cation/​global-​seawe​ed-​new-​and-​emerg​ing-​marke​ts-​report-​2023
+                  27. Crawford B. An alternative livelihood for small-scale fishers? Socioeconomic impacts of seaweed farming in Indone‑
+                      sia. 2012. https://​www.​crc.​uri.​edu/​downl​oad/​Alt_​Livel​ihood.​pdf
+                  28. Msuya FE, Hurtado AQ. The role of women in seaweed aquaculture in the Western Indian Ocean and South-East
+                      Asia. Eur J Phycol. 2017;52:482–94. https://​doi.​org/​10.​1080/​09670​262.​2017.​13570​84.
+                  29. Jueterbock A, Hoarau-Heemstra H, Wigger K, Duarte B, Bruckner C, Chapman A, et al. Roadmap to sus‑
+                      tainably develop the European seaweed industry. npj Ocean Sustain. 2025;4:22. https://​doi.​org/​10.​1038/​
+                      s44183-​025-​00122-9.
+                  30. Hai TN, Phuong NT, Hoa NV, Viet LQ, Khanh LV, Tao CT, et al. Promoting coastal aquaculture for adaptation to climate
+                      change and saltwater intrusion in the Mekong Delta, Vietnam. World Aquac. 2020;51(2):19–26.
+                  31. Nguyen Van T. Seaweed diversity in Vietnam, with an emphasis on the brown algal genus Sargassum. PhD thesis.
+                      Ghent, Belgium: Ghent University, Faculty of Sciences; 2014. https://​biblio.​ugent.​be/​publi​cation/​69405​54
+                  32. Anh NTN, Nam TNH, Lan LM, Kurihara A, Hai TN. Polyculture of black tiger shrimp Penaeus monodon, mud crab
+                      Scylla paramamosain and red seaweed Gracilaria tenuistipitata, in improved extensive ponds in the Mekong delta,
+                      Vietnam. Aquac Int. 2024;32:1975–2003. https://​doi.​org/​10.​1007/​s10499-​023-​01254-w.
+                  33. Nguyen TNA, Nguyen HV, Lam ML, Tran NH. Survey on the roles and impacts of seaweeds and aquatic plants in the
+                      improved extensive black tiger shrimp farms in Bac Lieu province. Can Tho Univ J Sci. 2021;13:21–9. https://​doi.​org/​
+                      10.​22144/​ctu.​jen.​2021.​013.
+                  34. UNDP/FAO. Training manual on Gracilaria culture and seaweed processing in China. Training Manual No. 6, Regional
+                      Seafarming Development and Demonstration Project (RAS/90/002); 1990. https://​openk​nowle​dge.​fao.​org/​handle/​
+                      20.​500.​14283/​ab730e
+                  35. Rhein-Knudsen N, Ale MT, Meyer AS. Seaweed hydrocolloid production: an update on enzyme assisted extraction
+                      and modification technologies. Mar Drugs. 2015;13:3340–59. https://​doi.​org/​10.​3390/​md130​63340.
+                  36. Matos J, Cardoso C, Serralheiro ML, Bandarra NM, Afonso C. Seaweed bioactives potential as nutraceuticals and
+                      functional ingredients: a review. J Food Compos Anal. 2024;133:106453. https://​doi.​org/​10.​1016/j.​jfca.​2024.​106453.
+                  37. Xu Z, Lin X, Ji X, Wang Z, Huang C. Effect of environmental factors on N and P uptake by Gracilaria tenuistipitata var.
+                      liui Zhang et Xia. Ying Yong Sheng Tai Xue Bao. 2001;12(3):417–21.
+                  38. Järviö N, Henriksson PJG, Guinée JB. Including GHG emissions from mangrove forests LULUC in LCA: a case study
+                      on shrimp farming in the Mekong Delta, Vietnam. Int J Life Cycle Assess. 2018;23:1078–90. https://​doi.​org/​10.​1007/​
+                      s11367-​017-​1332-9.
+                  39. GESAMP. Reducing environmental impacts of coastal aquaculture. GESAMP Reports and Studies No. 47. Food and
+                      Agriculture Organization of the United Nations, Rome. 1991. https://​www.​gesamp.​org/​publi​catio​ns/​reduc​ing-​envir​
+                      onmen​tal-​impac​ts-​of-​coast​al-​aquac​ulture
+                  40. Banach JL, Hoek-van den Hil EF, van der Fels-Klerx HJ. Food safety hazards in the European seaweed chain. Compr
+                      Rev Food Sci Food Saf. 2020;19(2):332–64. https://​doi.​org/​10.​1111/​1541-​4337.​12523.
+                  41. Veenhof RJ, Burrows MT, Hughes AD, Michalek K, Ross ME, Thomson AI, et al. Sustainable seaweed aquaculture and
+                      climate change in the North Atlantic: challenges and opportunities. Front Mar Sci. 2024;11:1483330. https://​doi.​org/​
+                      10.​3389/​fmars.​2024.​14833​30.
+                  42. World Bank. Vietnam agriculture finance diagnostic report: financial inclusion support framework—Vietnam country
+                      program. Washington, DC: World Bank; 2019.
+Nguyen et al. Discover Environment        (2026) 4:530                                                                                              Page 20 of 20
+
+
+
+
+                  43. World Wide Fund for Nature. Environmental and social management framework & process framework blue horizon:
+                      Ocean relief through seaweed aquaculture in Vietnam. 2022. https://​files.​world​wildl​ife.​org/​wwfcm​sprod/​files/​Publi​
+                      cation/​file/​8ir5s​r6bsu_​Vietn​am_​ESMF_​August_​2022_​Final.​pdf
+                  44. Waqas MA, Hashemi F, Mogensen L, Knudsen MT. Environmental performance of seaweed cultivation and use in
+                      different industries: a systematic review. Sustain Prod Consum. 2024;48:123–42. https://​doi.​org/​10.​1016/j.​spc.​2024.​
+                      05.​001.
+                  45. FAO. Integrated mariculture: a global review. 2009. https://​www.​fao.​org/4/​i1092e/​i1092e.​pdf
+                  46. Hoa NX, Yen DT, Thao LP, Giam DQ. A review of research and technology transfer in agricultural universities: practical
+                      issues in Vietnam. Vietnam J Agric Sci. 2025;8:2426–41. https://​doi.​org/​10.​31817/​vjas.​2025.8.​1.​08.
+                  47. Khan N, Sudhakar K, Mamat R. Macroalgae farming for sustainable future: navigating opportunities and driving
+                      innovation. Heliyon. 2024;10:e28208. https://​doi.​org/​10.​1016/j.​heliy​on.​2024.​e28208.
+                  48. ASC-MSC. The ASC-MSC seaweed standard. 2022. https://​asc-​aqua.​org/​produ​cers/​asc-​stand​ards/​speci​es-​stand​ards/​
+                      seawe​ed-​stand​ard/
+                  49. FAO. Policy and governance in aquaculture: Lessons learned and way forward. FAO Fisheries and Aquaculture Tech‑
+                      nical Paper No. 577. Food and Agriculture Organization of the United Nations, Rome. 2015. https://​openk​nowle​dge.​
+                      fao.​org/​server/​api/​core/​bitst​reams/​41fec​aeb-​ab33-​400f-​9128-​972b1​b2740​ab/​conte​nt
+                  50. FAO. Seaweed for the future: Public policy recommendations toward a blue transformation in Latin America. 2025.
+                      https://​openk​nowle​dge.​fao.​org/​server/​api/​core/​bitst​reams/​a6886​f87-​2133-​49a7-​833b-​54d93​b7162​45/​conte​nt
+                  51. FAO. Manual of seaweed production and field guide of discovery-based exercises for farmer field schools. 2017.
+                      https://​openk​nowle​dge.​fao.​org/​server/​api/​core/​bitst​reams/​520a0​716-​03ed-​46f8-​b012-​2d90a​33eaa​dc/​conte​nt
+                  52. FAO. The state of world fisheries and aquaculture 2024. Food and Agriculture Organization of the United Nations;
+                      2024.
+                  53. Tasnim R, Sarker S, Chamily FA, Mohiuddin M, Ferdous A, Haque ABMM, et al. Site suitability mapping for different
+                      seaweed cultivation systems along the coastal and marine waters of Bangladesh: A generalized additive modelling
+                      approach for prediction. Algal Res. 2024;78:103404. https://​doi.​org/​10.​1016/j.​algal.​2024.​103404.
+                  54. Hamilton SL, Gleason MG, Godoy N, Eddy N, Grorud-Colvert K. Ecosystem-based management for kelp forest eco‑
+                      systems. Mar Policy. 2022;136:104919. https://​doi.​org/​10.​1016/j.​marpol.​2021.​104919.
+                  55. UNCTAD. Seaweed for development: Trade, regulations and standards for inclusive growth. 2026. https://​unctad.​
+                      org/​publi​cation/​seawe​ed-​devel​opment-​trade-​regul​ations-​and-​stand​ards-​inclu​sive-​growth
+                  56. Fricke A, Capuzzo E, Bermejo R, Hofmann LC, Hernández I, Pereira R, et al. Ecosystem services provided by seaweed
+                      cultivation: State of the art, knowledge gaps, constraints and future needs for achieving maximum potential in
+                      Europe. Rev Fish Sci Aquac. 2025;33:238–56. https://​doi.​org/​10.​1080/​23308​249.​2024.​23993​55.
+                  57. European Commission. A platform for market exploitation / material on monetizing ecosystem services from
+                      seaweed cultivation. n.d. https://​ec.​europa.​eu/​resea​rch/​parti​cipan​ts/​docum​ents/​downl​oadPu​blic?​docum​entIds=​
+                      08016​6e50b​4a98b​9&​appId=​PPGMS
+
+
+                  Publisher’s Note
+                  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+

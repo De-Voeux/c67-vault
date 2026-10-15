@@ -1,0 +1,34 @@
+---
+type: source-register
+project: "[[Challenge Final]]"
+created: 2026-10-14
+tags: [challenge-final, ice-ice, sources]
+---
+
+# Literatur Tambahan - Indikator Warning
+
+Corpus untuk [[Kajian Indikator Warning Ice-Ice - Uji Asumsi Fitur]]. Empat belas record; W13 menelusuri eksperimen klasik yang sudah dikutip review lokal, bukan replikasi baru. W14 adalah abstract konferensi. Source IDs menjadi citation keys dalam catatan ini. Sumber dengan akses abstract/highlights dibatasi sesuai teks yang diperiksa, tanpa mengasumsikan full methods.
+
+| ID / sumber primer | Scope baca | Relevansi dan batas |
+|---|---|---|
+| W01: [Azizi et al. (2018)](https://link.springer.com/article/10.1007/s13205-018-1354-4)<!--ref:W01--> — Evaluation of disease resistance and tolerance to elevated temperature stress of the selected tissue-cultured Kappaphycus alvarezii under optimized laboratory conditions | abstract penerbit | Challenge bakteri dan suhu; respons berbeda menurut asal host. |
+| W02: [Faisan et al. (2024a)](https://link.springer.com/article/10.1007/s10811-023-03164-z)<!--ref:W02--> — Seasonal growth, carrageenan properties, and resistance to disease and epiphytic pests between tissue-cultured and farm-sourced Kappaphycus alvarezii | abstract penerbit | Tiga run 60 hari; onset teramati DOC45–60; asal bibit membedakan kejadian IID. |
+| W03: [Faisan et al. (2024b)](https://link.springer.com/article/10.1007/s10811-024-03242-w)<!--ref:W03--> — Temporal variation in the incidence of seaweed health problems affecting farmed Kappaphycus striatus in relation to environmental conditions in shallow waters | abstract penerbit / abstract PDF terindeks; full PDF institusi diblokir | Monitoring 12 bulan satu farm; asosiasi IID dengan cuaca/lingkungan, bukan validasi future forecast. |
+| W04: [Gacura et al. (2025)](https://onlinelibrary.wiley.com/doi/10.1111/jpy.70044)<!--ref:W04--> — To plant or not to plant? Nutrient uptake, growth, and biochemistry of eucheumatoids under low salinity as influenced by nutrient-rich freshwater outflow | abstract dan metadata penerbit | Salinitas/nutrisi dimanipulasi bersama; pertumbuhan bukan endpoint IID. |
+| W05: [Li et al. (2026)](https://www.sciencedirect.com/science/article/abs/pii/S2211926425005855)<!--ref:W05--> — Hyposalinity disrupts photosynthesis and induces oxidative stress leading to ice-ice disease development in Eucheuma denticulatum | abstract/highlights penerbit melalui search; full text tidak diakses | PSII mendahului gejala pada uji hiposalinitas; belum lead time field alarm. |
+| W06: [Taenzer et al. (2024)](https://www.nature.com/articles/s41598-024-52182-5)<!--ref:W06--> — Assessment of hydrogen peroxide as a bioindicator of stress in seaweed aquaculture | PDF full text; Results/Discussion/Methods relevan | H2O2 sebagai biomarker stres pada Ulva/Palmaria; analogi, bukan validasi IID Kappaphycus. |
+| W07: [Faisan et al. (2025)](https://link.springer.com/article/10.1007/s10811-025-03620-y)<!--ref:W07--> — Comparative analysis of the temporal abundance of the epiphytic pest, Melanothamnus thailandicus, affecting farmed Kappaphycus striatus: Visual and molecular detection approaches | abstract penerbit | PCR mendeteksi epifit pada thallus visual sehat; bukan future IID prediction. |
+| W08: [Luhan et al. (2015)](https://link.springer.com/article/10.1007/s10811-014-0365-8)<!--ref:W08--> — Effect of short-term immersion of Kappaphycus alvarezii in high nitrogen on the growth, nitrogen assimilation, carrageenan quality, and occurrence of ice-ice disease | abstract penerbit | Intervensi nitrogen; tidak menentukan cutoff nutrient-air. |
+| W09: [Pang et al. (2015)](https://link.springer.com/article/10.1007/s10811-014-0507-z)<!--ref:W09--> — Observations on pests and diseases affecting a eucheumatoid farm in China | abstract penerbit | Outbreak EFA/IID dan perbedaan spesies pada waktu/lokasi sama; tidak mengisolasi efek EFA. |
+| W10: [Sondak et al. (2025)](https://link.springer.com/article/10.1007/s44289-025-00065-6)<!--ref:W10--> — Evaluation of effectiveness on-farm biosecurity measure practices to the productivity of Eucheuma denticulatum at Nain Island, Indonesia | full text Methods/Results/Discussion relevan | Tiga farm / enam bulan; paket biosecurity, gejala pucat awal, pengukuran dua mingguan. |
+| W11: [Barillé et al. (2025)](https://www.sciencedirect.com/science/article/pii/S2352513424006458)<!--ref:W11--> — Variability of Kappaphycus alvarezii cultivation in South-Sulawesi related to the monsoon shift: Water quality, growth and colour quantification | highlights penerbit melalui search | Musim dengan IID juga memiliki pertumbuhan/produksi tertinggi; penyakit tidak identik dengan hasil bersih terendah. |
+| W12: [Hardiana et al. (2026)](https://www.tandfonline.com/doi/abs/10.1080/01431161.2026.2648101)<!--ref:W12--> — Mapping the relocation and expansion of Kappaphycus alvarezii cultivation units based on rainfall and sea surface temperature from high and low resolution satellite data in Bone Bay, Indonesia | abstract dan excerpt Methods penerbit melalui search | Pemetaan area/unit budidaya, bukan prediksi IID sebelum gejala. |
+| W13: [Largo et al. (1995a)](https://link.springer.com/article/10.1007/BF00003940)<!--ref:W13--> — Laboratory-induced development of the ice-ice disease of the farmed red algae Kappaphycus alvarezii and Eucheuma denticulatum | abstract penerbit; diperiksa pada diskusi threshold | PAR/suhu menginduksi whitening; wound injury tidak menginduksi whitening serupa pada uji ini. HTML salinitas bermasalah. |
+| W14: [Aris, Ibrahim, & Labenua (2022, conference abstract)](https://www.was.org/Meeting/Program/PaperDetail/159724)<!--ref:W14--> — Development of PCR technic with specific primer for quick detection of bacterial pathogen causing ice ice disease on seaweed | abstract konferensi penyelenggara | PCR strain-spesifik; turnaround sekitar6jam bukan leadtime atau disease-risk threshold. |
+
+
+Dataset/documentation yang diperiksa: [NASA MUR](https://podaac.jpl.nasa.gov/MEaSUREs-MUR), [NASA SMAP RSSV5](https://salinity.oceansciences.org/data-smap-v5.htm), [NASA IMERG](https://gpm.nasa.gov/data/imerg). Spesifikasi produk tidak menjadi bukti akurasi disease forecast.
+
+Lead teknologi yang belum menjadi bukti inti: [MIT2021](https://news.mit.edu/2021/saving-seaweed-machine-learning-1022) melaporkan alat yang sedang dikembangkan; record publisher [KNN vision2024](https://doi.org/10.1109/ITIS64716.2024.10845286) teridentifikasi tetapi abstract tidak berhasil dibaca. Keduanya tidak dipakai untuk mengklaim performance warning IID. Model niche, prediksi produksi agregat, dan pemetaan budidaya dipisahkan dari prediksi penyakit baru.
+
+Keberadaan record dicocokkan dengan sumber penerbit/penyelenggara. Tidak dilakukan audit indexing/retraction menyeluruh atau review manusia. [[Jejak Penelusuran - Indikator Warning]] mencatat bentuk penelusuran.

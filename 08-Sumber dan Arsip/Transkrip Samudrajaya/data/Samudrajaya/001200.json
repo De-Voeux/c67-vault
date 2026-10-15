@@ -1,0 +1,1116 @@
+{
+  "text": " itu minimal aturan perusahaan 45 hari sampai 60 hari baru panen nah kalau pas kita bicara panen ya 10 hari atau 2 minggu bisa panen selesai udah kalau lagi musim hujan musim-musim hujan tampak 2 hektar bisa sampai 16-17 ton kering lebih kencang lagi ya tumbuhnya Iya masukannya Jenis yang ini tuh Justru bagusnya kalau misalnya ada hujan gitu ya Iya kayak sekarang nih Musim kemarau, masuk ada musim hujan Air ada payau Itu lebih cepat perkembangannya Tambah subur Yang di luar kita pikir Ya tiga kali lipat dari hasil ininya Dulu kita Panggil dulu ya saya ditanggung boleh boleh Terima kasih.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.88,
+      "text": " itu minimal aturan perusahaan 45 hari sampai 60 hari baru panen",
+      "tokens": [
+        50365,
+        9032,
+        13206,
+        412,
+        12125,
+        680,
+        301,
+        4408,
+        282,
+        6905,
+        33264,
+        38569,
+        4060,
+        33264,
+        36171,
+        2462,
+        268,
+        50626
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37457012308054954,
+      "compression_ratio": 1.617283950617284,
+      "no_speech_prob": 1.4985596097361054e-11,
+      "words": [
+        {
+          "word": " itu",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.54443359375
+        },
+        {
+          "word": " minimal",
+          "start": 0.28,
+          "end": 0.82,
+          "probability": 0.9287109375
+        },
+        {
+          "word": " aturan",
+          "start": 0.82,
+          "end": 2.34,
+          "probability": 0.9091796875
+        },
+        {
+          "word": " perusahaan",
+          "start": 2.34,
+          "end": 2.68,
+          "probability": 0.96240234375
+        },
+        {
+          "word": " 45",
+          "start": 2.68,
+          "end": 3.04,
+          "probability": 0.5439453125
+        },
+        {
+          "word": " hari",
+          "start": 3.04,
+          "end": 3.54,
+          "probability": 0.5888671875
+        },
+        {
+          "word": " sampai",
+          "start": 3.54,
+          "end": 3.84,
+          "probability": 0.93505859375
+        },
+        {
+          "word": " 60",
+          "start": 3.84,
+          "end": 4.12,
+          "probability": 0.93603515625
+        },
+        {
+          "word": " hari",
+          "start": 4.12,
+          "end": 4.34,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " baru",
+          "start": 4.34,
+          "end": 4.52,
+          "probability": 0.931640625
+        },
+        {
+          "word": " panen",
+          "start": 4.52,
+          "end": 4.88,
+          "probability": 0.94580078125
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.88,
+      "end": 12.06,
+      "text": " nah kalau pas kita bicara panen ya 10 hari atau 2 minggu bisa panen",
+      "tokens": [
+        50626,
+        17170,
+        20218,
+        1736,
+        8965,
+        34472,
+        2419,
+        2462,
+        268,
+        2478,
+        1266,
+        33264,
+        22823,
+        568,
+        275,
+        278,
+        2794,
+        14386,
+        2462,
+        268,
+        50980
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37457012308054954,
+      "compression_ratio": 1.617283950617284,
+      "no_speech_prob": 1.4985596097361054e-11,
+      "words": [
+        {
+          "word": " nah",
+          "start": 4.88,
+          "end": 6.08,
+          "probability": 0.359130859375
+        },
+        {
+          "word": " kalau",
+          "start": 6.08,
+          "end": 6.32,
+          "probability": 0.71630859375
+        },
+        {
+          "word": " pas",
+          "start": 6.32,
+          "end": 6.54,
+          "probability": 0.90869140625
+        },
+        {
+          "word": " kita",
+          "start": 6.54,
+          "end": 6.82,
+          "probability": 0.8115234375
+        },
+        {
+          "word": " bicara",
+          "start": 6.82,
+          "end": 7.82,
+          "probability": 0.947265625
+        },
+        {
+          "word": " panen",
+          "start": 7.82,
+          "end": 8.22,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " ya",
+          "start": 8.22,
+          "end": 8.4,
+          "probability": 0.53515625
+        },
+        {
+          "word": " 10",
+          "start": 8.4,
+          "end": 9.14,
+          "probability": 0.83740234375
+        },
+        {
+          "word": " hari",
+          "start": 9.14,
+          "end": 9.52,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " atau",
+          "start": 9.52,
+          "end": 9.9,
+          "probability": 0.98486328125
+        },
+        {
+          "word": " 2",
+          "start": 9.9,
+          "end": 10.36,
+          "probability": 0.60400390625
+        },
+        {
+          "word": " minggu",
+          "start": 10.36,
+          "end": 10.84,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " bisa",
+          "start": 10.84,
+          "end": 11.64,
+          "probability": 0.86083984375
+        },
+        {
+          "word": " panen",
+          "start": 11.64,
+          "end": 12.06,
+          "probability": 0.994140625
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.700000000000001,
+      "end": 18.72,
+      "text": " selesai udah kalau lagi musim hujan musim-musim hujan",
+      "tokens": [
+        50980,
+        5851,
+        279,
+        1301,
+        25231,
+        20218,
+        17742,
+        1038,
+        332,
+        2137,
+        14763,
+        1038,
+        332,
+        12,
+        18761,
+        332,
+        2137,
+        14763,
+        51304
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37457012308054954,
+      "compression_ratio": 1.617283950617284,
+      "no_speech_prob": 1.4985596097361054e-11,
+      "words": [
+        {
+          "word": " selesai",
+          "start": 14.700000000000001,
+          "end": 15.42,
+          "probability": 0.97265625
+        },
+        {
+          "word": " udah",
+          "start": 15.42,
+          "end": 15.62,
+          "probability": 0.7939453125
+        },
+        {
+          "word": " kalau",
+          "start": 15.62,
+          "end": 17.04,
+          "probability": 0.86376953125
+        },
+        {
+          "word": " lagi",
+          "start": 17.04,
+          "end": 17.26,
+          "probability": 0.908203125
+        },
+        {
+          "word": " musim",
+          "start": 17.26,
+          "end": 17.62,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " hujan",
+          "start": 17.62,
+          "end": 17.88,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " musim",
+          "start": 17.88,
+          "end": 18.18,
+          "probability": 0.5771484375
+        },
+        {
+          "word": "-musim",
+          "start": 18.18,
+          "end": 18.38,
+          "probability": 0.826171875
+        },
+        {
+          "word": " hujan",
+          "start": 18.38,
+          "end": 18.72,
+          "probability": 0.986328125
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.72,
+      "end": 22.06,
+      "text": " tampak 2 hektar bisa sampai 16-17 ton kering",
+      "tokens": [
+        51304,
+        21424,
+        514,
+        568,
+        415,
+        2320,
+        289,
+        14386,
+        38569,
+        3165,
+        12,
+        7773,
+        2952,
+        350,
+        1794,
+        51478
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37457012308054954,
+      "compression_ratio": 1.617283950617284,
+      "no_speech_prob": 1.4985596097361054e-11,
+      "words": [
+        {
+          "word": " tampak",
+          "start": 18.72,
+          "end": 19.12,
+          "probability": 0.7333984375
+        },
+        {
+          "word": " 2",
+          "start": 19.12,
+          "end": 19.28,
+          "probability": 0.681640625
+        },
+        {
+          "word": " hektar",
+          "start": 19.28,
+          "end": 19.56,
+          "probability": 0.77734375
+        },
+        {
+          "word": " bisa",
+          "start": 19.56,
+          "end": 19.76,
+          "probability": 0.8642578125
+        },
+        {
+          "word": " sampai",
+          "start": 19.76,
+          "end": 20.2,
+          "probability": 0.9345703125
+        },
+        {
+          "word": " 16",
+          "start": 20.2,
+          "end": 20.74,
+          "probability": 0.9814453125
+        },
+        {
+          "word": "-17",
+          "start": 20.74,
+          "end": 21.5,
+          "probability": 0.759765625
+        },
+        {
+          "word": " ton",
+          "start": 21.5,
+          "end": 21.74,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " kering",
+          "start": 21.74,
+          "end": 22.06,
+          "probability": 0.98828125
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.06,
+      "end": 23.62,
+      "text": " lebih kencang lagi ya tumbuhnya",
+      "tokens": [
+        51478,
+        20451,
+        18787,
+        66,
+        656,
+        17742,
+        2478,
+        42994,
+        3232,
+        7457,
+        51549
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37457012308054954,
+      "compression_ratio": 1.617283950617284,
+      "no_speech_prob": 1.4985596097361054e-11,
+      "words": [
+        {
+          "word": " lebih",
+          "start": 22.06,
+          "end": 22.46,
+          "probability": 0.82568359375
+        },
+        {
+          "word": " kencang",
+          "start": 22.46,
+          "end": 22.84,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " lagi",
+          "start": 22.84,
+          "end": 23.1,
+          "probability": 0.94873046875
+        },
+        {
+          "word": " ya",
+          "start": 23.1,
+          "end": 23.2,
+          "probability": 0.7822265625
+        },
+        {
+          "word": " tumbuhnya",
+          "start": 23.2,
+          "end": 23.62,
+          "probability": 0.9228515625
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2362,
+      "start": 23.62,
+      "end": 25.54,
+      "text": " Iya masukannya",
+      "tokens": [
+        50365,
+        47600,
+        42364,
+        24225,
+        50463
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Iya",
+          "start": 23.62,
+          "end": 24.26,
+          "probability": 0.2196044921875
+        },
+        {
+          "word": " masukannya",
+          "start": 24.26,
+          "end": 25.54,
+          "probability": 0.48388671875
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2362,
+      "start": 27.24,
+      "end": 28.42,
+      "text": " Jenis yang ini tuh",
+      "tokens": [
+        50463,
+        9228,
+        271,
+        5581,
+        7408,
+        26849,
+        50609
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Jenis",
+          "start": 27.24,
+          "end": 27.84,
+          "probability": 0.50927734375
+        },
+        {
+          "word": " yang",
+          "start": 27.84,
+          "end": 27.98,
+          "probability": 0.7998046875
+        },
+        {
+          "word": " ini",
+          "start": 27.98,
+          "end": 28.22,
+          "probability": 0.96728515625
+        },
+        {
+          "word": " tuh",
+          "start": 28.22,
+          "end": 28.42,
+          "probability": 0.94580078125
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2362,
+      "start": 28.42,
+      "end": 30.56,
+      "text": " Justru bagusnya kalau misalnya ada hujan gitu ya",
+      "tokens": [
+        50609,
+        1449,
+        894,
+        48348,
+        7457,
+        20218,
+        3346,
+        38656,
+        11063,
+        2137,
+        14763,
+        20156,
+        2478,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Justru",
+          "start": 28.42,
+          "end": 29.0,
+          "probability": 0.61474609375
+        },
+        {
+          "word": " bagusnya",
+          "start": 29.0,
+          "end": 29.36,
+          "probability": 0.90966796875
+        },
+        {
+          "word": " kalau",
+          "start": 29.36,
+          "end": 29.5,
+          "probability": 0.60205078125
+        },
+        {
+          "word": " misalnya",
+          "start": 29.5,
+          "end": 29.72,
+          "probability": 0.70068359375
+        },
+        {
+          "word": " ada",
+          "start": 29.72,
+          "end": 29.86,
+          "probability": 0.9501953125
+        },
+        {
+          "word": " hujan",
+          "start": 29.86,
+          "end": 30.16,
+          "probability": 0.982421875
+        },
+        {
+          "word": " gitu",
+          "start": 30.16,
+          "end": 30.34,
+          "probability": 0.91796875
+        },
+        {
+          "word": " ya",
+          "start": 30.34,
+          "end": 30.56,
+          "probability": 0.93603515625
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2362,
+      "start": 30.56,
+      "end": 32.28,
+      "text": " Iya kayak sekarang nih",
+      "tokens": [
+        50715,
+        47600,
+        22438,
+        29047,
+        27438,
+        50807
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Iya",
+          "start": 30.56,
+          "end": 31.24,
+          "probability": 0.41259765625
+        },
+        {
+          "word": " kayak",
+          "start": 31.24,
+          "end": 31.66,
+          "probability": 0.424072265625
+        },
+        {
+          "word": " sekarang",
+          "start": 31.66,
+          "end": 32.12,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " nih",
+          "start": 32.12,
+          "end": 32.28,
+          "probability": 0.99462890625
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2362,
+      "start": 32.28,
+      "end": 34.7,
+      "text": " Musim kemarau, masuk ada musim hujan",
+      "tokens": [
+        50807,
+        3569,
+        332,
+        803,
+        6209,
+        1459,
+        11,
+        42364,
+        11063,
+        1038,
+        332,
+        2137,
+        14763,
+        50919
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Musim",
+          "start": 32.28,
+          "end": 33.06,
+          "probability": 0.54736328125
+        },
+        {
+          "word": " kemarau,",
+          "start": 33.06,
+          "end": 33.56,
+          "probability": 0.955078125
+        },
+        {
+          "word": " masuk",
+          "start": 33.86,
+          "end": 33.9,
+          "probability": 0.88623046875
+        },
+        {
+          "word": " ada",
+          "start": 33.9,
+          "end": 34.16,
+          "probability": 0.7197265625
+        },
+        {
+          "word": " musim",
+          "start": 34.16,
+          "end": 34.48,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " hujan",
+          "start": 34.48,
+          "end": 34.7,
+          "probability": 0.990234375
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2362,
+      "start": 34.7,
+      "end": 37.02,
+      "text": " Air ada payau",
+      "tokens": [
+        50919,
+        5774,
+        11063,
+        1689,
+        1459,
+        51038
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Air",
+          "start": 34.7,
+          "end": 34.98,
+          "probability": 0.0799560546875
+        },
+        {
+          "word": " ada",
+          "start": 34.98,
+          "end": 36.42,
+          "probability": 0.81884765625
+        },
+        {
+          "word": " payau",
+          "start": 36.42,
+          "end": 37.02,
+          "probability": 0.806640625
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2362,
+      "start": 37.02,
+      "end": 38.82,
+      "text": " Itu lebih cepat perkembangannya",
+      "tokens": [
+        51038,
+        39109,
+        20451,
+        45026,
+        267,
+        680,
+        330,
+        2504,
+        656,
+        24225,
+        51126
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Itu",
+          "start": 37.02,
+          "end": 37.66,
+          "probability": 0.87744140625
+        },
+        {
+          "word": " lebih",
+          "start": 37.66,
+          "end": 37.86,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " cepat",
+          "start": 37.86,
+          "end": 38.14,
+          "probability": 0.6435546875
+        },
+        {
+          "word": " perkembangannya",
+          "start": 38.14,
+          "end": 38.82,
+          "probability": 0.99072265625
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2362,
+      "start": 41.199999999999996,
+      "end": 42.1,
+      "text": " Tambah subur",
+      "tokens": [
+        51126,
+        18176,
+        545,
+        23519,
+        51291
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Tambah",
+          "start": 41.199999999999996,
+          "end": 41.8,
+          "probability": 0.97265625
+        },
+        {
+          "word": " subur",
+          "start": 41.8,
+          "end": 42.1,
+          "probability": 0.90478515625
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2362,
+      "start": 43.839999999999996,
+      "end": 45.74,
+      "text": " Yang di luar kita pikir",
+      "tokens": [
+        51291,
+        11978,
+        1026,
+        10438,
+        289,
+        8965,
+        49928,
+        347,
+        51471
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Yang",
+          "start": 43.839999999999996,
+          "end": 44.44,
+          "probability": 0.98876953125
+        },
+        {
+          "word": " di",
+          "start": 44.44,
+          "end": 44.7,
+          "probability": 0.77685546875
+        },
+        {
+          "word": " luar",
+          "start": 44.7,
+          "end": 45.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " kita",
+          "start": 45.02,
+          "end": 45.28,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " pikir",
+          "start": 45.28,
+          "end": 45.74,
+          "probability": 0.96435546875
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2362,
+      "start": 45.74,
+      "end": 47.66,
+      "text": " Ya tiga kali lipat dari hasil ininya",
+      "tokens": [
+        51471,
+        6080,
+        256,
+        9900,
+        41690,
+        8280,
+        267,
+        15597,
+        575,
+        388,
+        294,
+        28507,
+        51567
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Ya",
+          "start": 45.74,
+          "end": 45.86,
+          "probability": 0.2183837890625
+        },
+        {
+          "word": " tiga",
+          "start": 45.86,
+          "end": 46.12,
+          "probability": 0.88134765625
+        },
+        {
+          "word": " kali",
+          "start": 46.12,
+          "end": 46.36,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " lipat",
+          "start": 46.36,
+          "end": 46.66,
+          "probability": 0.998046875
+        },
+        {
+          "word": " dari",
+          "start": 46.66,
+          "end": 46.84,
+          "probability": 0.873046875
+        },
+        {
+          "word": " hasil",
+          "start": 46.84,
+          "end": 47.28,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " ininya",
+          "start": 47.28,
+          "end": 47.66,
+          "probability": 0.826171875
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2362,
+      "start": 50.26,
+      "end": 51.14,
+      "text": " Dulu kita",
+      "tokens": [
+        51567,
+        413,
+        12845,
+        8965,
+        51743
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Dulu",
+          "start": 50.26,
+          "end": 50.86,
+          "probability": 0.9619140625
+        },
+        {
+          "word": " kita",
+          "start": 50.86,
+          "end": 51.14,
+          "probability": 0.9951171875
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2362,
+      "start": 51.14,
+      "end": 52.06,
+      "text": " Panggil dulu ya",
+      "tokens": [
+        51743,
+        49499,
+        29965,
+        31643,
+        2478,
+        51787
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3008592475965185,
+      "compression_ratio": 1.5483870967741935,
+      "no_speech_prob": 2.3374193205971672e-11,
+      "words": [
+        {
+          "word": " Panggil",
+          "start": 51.14,
+          "end": 51.8,
+          "probability": 0.5380859375
+        },
+        {
+          "word": " dulu",
+          "start": 51.8,
+          "end": 51.94,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " ya",
+          "start": 51.94,
+          "end": 52.06,
+          "probability": 0.61181640625
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5206,
+      "start": 52.06,
+      "end": 53.38,
+      "text": " saya ditanggung boleh boleh",
+      "tokens": [
+        50365,
+        9160,
+        6176,
+        656,
+        70,
+        1063,
+        25835,
+        25835,
+        50536
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -1.4934102838689631,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 1.7737446927901246e-11,
+      "words": [
+        {
+          "word": " saya",
+          "start": 52.06,
+          "end": 52.22,
+          "probability": 0.297607421875
+        },
+        {
+          "word": " ditanggung",
+          "start": 52.22,
+          "end": 52.56,
+          "probability": 0.303466796875
+        },
+        {
+          "word": " boleh",
+          "start": 52.56,
+          "end": 53.0,
+          "probability": 0.57763671875
+        },
+        {
+          "word": " boleh",
+          "start": 53.0,
+          "end": 53.38,
+          "probability": 0.374755859375
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5338,
+      "start": 53.38,
+      "end": 53.8,
+      "text": " Terima kasih.",
+      "tokens": [
+        50365,
+        6564,
+        4775,
+        35894,
+        13,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8600564002990723,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 1.4199148801186112e-10,
+      "words": [
+        {
+          "word": " Terima",
+          "start": 53.38,
+          "end": 53.78,
+          "probability": 0.5322265625
+        },
+        {
+          "word": " kasih.",
+          "start": 53.78,
+          "end": 53.8,
+          "probability": 0.919921875
+        }
+      ]
+    }
+  ],
+  "language": "id"
+}

@@ -1,0 +1,1146 @@
+Journal of Applied Phycology (2021) 33:3179–3197
+https://doi.org/10.1007/s10811-021-02530-z
+
+
+
+
+Seaweed aquaculture: a preliminary assessment of biosecurity
+measures for controlling the ice‑ice syndrome and pest outbreaks
+of a Kappaphycus farm
+Cicilia S. B. Kambey1 · Iona Campbell2 · Elizabeth J. Cottier‑Cook2 · Adibi R. M. Nor3 · Azhar Kassim4 ·
+Ahemad Sade4 · Phaik E. Lim1
+
+Received: 23 February 2021 / Revised and accepted: 6 June 2021 / Published online: 2 August 2021
+© The Author(s) 2021
+
+
+Abstract
+The application of biosecurity in seaweed aquaculture plays an important role in reducing the impact of disease and pest
+outbreaks. The continuous occurrence of seaweed pests including the macroalgal epiphytes, epi-endophytic filamentous algae
+and biofilms on Kappaphycus farms may also potentially induce further incidences of the ice-ice syndrome. In this study,
+on-farm biosecurity management measures were tested on the commercially grown seaweeds Kappaphycus malesianus
+and Kappaphycus alvarezii during peak ice-ice season at Gallam-Gallam Village, Sabah, Malaysia. The investigation was
+focused on preventative control measures including the early detection of the ice-ice syndrome and pests through propagule
+health checks, regular cleaning of the crop thallus and associated long-line ropes and monitoring of the environment. Farm
+procedures and practices were also assessed in terms of their biosecurity ‘risk’ using the hazard analysis and critical control
+point (HCCAP) approach. Observations were replicated in two different farm management systems; one system adopted
+routine biosecurity measures and the other had no biosecurity measures. The results showed that the ice-ice syndrome and
+pest outbreak was significantly decreased by 60–75% for K. malesianus and 29–71% for K. alvarezii at the farm which adopted
+the routine biosecurity measures compared with the no biosecurity treatment. The biosecurity measures also significantly
+improved growth rate and seaweed quality. The infection levels of the epi-endophyte Melanothamnus sp. contributed to the
+ice-ice syndrome in K. malesianus, whilst the epiphyte coverage was correlated to the ice-ice incidence in K. alvarezii. This
+study provides the first evidence of biosecurity management measures significantly decreasing the incidence of the ice-ice
+syndrome and pests on a commercial seaweed farm.
+
+Keywords Biosecurity · Farm practices · Ice-ice syndrome · Kappaphycus farm · Rhodophyta · Seaweed aquaculture
+
+
+                                                                            Introduction
+
+                                                                            Seaweed is highly nutritious and has been consumed by
+                                                                            humans for centuries. In 2018, the total production of world
+                                                                            seaweed aquaculture reached 32 million tonnes fresh weight
+                                                                            (FW), increasing by 200% within eight years (FAO 2020).
+* Phaik E. Lim                                                              The red seaweed Kappaphycus/Eucheuma has been reported
+  phaikeem@um.edu.my                                                        to be the most rapidly expanding sector of the seaweed mar-
+1
+    Institute of Ocean and Earth Sciences, University of Malaya,            ket and recently contributed to 34% of the world’s seaweed
+    50603 Kuala Lumpur, Malaysia                                            production (FAO 2020). South-East Asia is a major global
+2
+    Scottish Association for Marine Science, Oban,                          producer of Kappaphycus/Eucheuma and the industry has
+    Argyll PA37 1QA, UK                                                     supported national economic growth and significantly
+3
+    Institute for Advanced Studies, University of Malaya,                   improved the livelihood of millions of farmers (Valderrama
+    50603 Kuala Lumpur, Malaysia                                            et al. 2015; Cottier-Cook et al. 2016; FAO 2020).
+4
+    Department of Fisheries Sabah, 88624 Kota Kinabalu, Sabah,                 Changes in the aquatic environment, however, as a conse-
+    Malaysia                                                                quence of global climate change have had led to significant
+
+
+                                                                                                                                1  3
+                                                                                                                         Vol.:(0123456789)
+3180                                                                              Journal of Applied Phycology (2021) 33:3179–3197
+
+
+impacts on the biological and chemical responses of sea-        Vairappan et al. 2008). The outbreak has continued over the
+weeds, particularly relating to increased seawater tem-         last few years at Omadal Island and the nearby Semporna
+perature and eutrophication (Chung et al. 2017; Duarte          region, where the majority of the seaweed is cultivated
+et al. 2017; Roleda and Hurd 2019; Campbell et al. 2019;        (Eranza et al. 2017). High epiphyte and epi-endophyte
+Kumar et al. 2020). The occurrence of ‘ice-ice’ syndrome        infestations on seaweed thallus and associated long lines,
+in eucheumatoid farms, defined as the whitening/discoloura-     such as Laurencia sp. and Neoshiponia sp. in productive
+tion of old thallus that causes the massive fragmentation       areas at Selakan Island and Blambangan Island, were also
+and degradation of seaweed quality, has become a major          linked to the occurrence of the ice-ice syndrome (Vairappan
+problem for the seaweed industry (Valderrama et al. 2015;       et al. 2008, 2010). The local and national economic loss
+Hurtado et al. 2019; Largo et al. 2020). The causative agents   due to the syndrome has been reported in previous studies
+and the pathways of the ice-ice syndrome have been identi-      (Sade et al. 2006; Kaur and Ang 2009; Vairappan et al.
+fied and reported (Ward et al. 2020). Elevation of seawater     2010; Eranza et al. 2017; Nor et al. 2020). In addition, a
+temperature, high variability in salinity and the availabil-    lack of farm management practices related to reducing the
+ity of seaweed pests have been shown to be key factors in       risk of the syndrome and pest outbreaks in the productive
+increasing the susceptibility of Kappaphycus/Eucheuma to        areas in Malaysia may be having a detrimental effect on
+the infectious microbial pathogens, which can cause an ice-     the sustainability of the seaweed industry (Vairappan et al.
+ice syndrome (Vairappan et al. 2010; Pang et al. 2015; Largo    2008, 2010; Eranza et al. 2017). Grazing pressure by turtles
+et al. 2020; Kopprio et al. 2021). Epiphytic macroalgae are     in areas not subjected to the ice-ice incidence and pest
+also considered to be a major pest by eucheumatoid seaweed      outbreaks has also severely compromised the industry in
+farmers, as they are associated with a high mortality of the    Malaysia (Ali et al. 2020; Nor et al. 2020).
+whole or partial thallus, reduced growth rates and decreased       Biosecurity is a proven means of minimising the intro-
+reproduction (Vairappan 2006; Vairappan et al. 2010; Wahl       duction and subsequent spread of disease and pests in many
+et al. 2012; Ingle et al. 2018). In addition, epi-endophytic    aquaculture industries and it has driven research into farm
+filamentous algae, which are now almost ubiquitous on           management measures and practices, which can contribute
+Kappaphycus/Eucheuma farms throughout South-East Asia,          to product sustainability (Rodgers et al. 2015; Bondad-
+can devastate the health condition and quality of the crop      Reantaso et al. 2018; Scarfe and Palić 2020). The adoption
+(Mendoza et al. 2002; Hurtado et al. 2019; Ali et al. 2020).    of the biosecurity concept, including application and risk
+More recent studies have also found that the holobiont effect   management, by the seaweed industry has been identified
+on seaweed bacteria, which are typically found on the sea-      as far behind other aquaculture industries (Campbell et al.
+weed surface, can affect health performance and resilience      2020). In fish aquaculture, using the biosecurity approach
+(Wahl et al. 2012; Ward et al. 2020). These factors have sub-   to sustain the production system by introducing effective
+sequently impacted the sustainability of the Kappaphycus/       management practices has significantly reduced disease out-
+Eucheuma value chain, which supports the viability of this      breaks (Mohan et al. 2008; Bondad-Reantaso et al. 2018;
+industry (Nor et al. 2020). As a consequence, the production    Subasinghe et al. 2019). In eucheumatoid farming, however,
+of eucheumatoid seaweeds declined by 10% in Indonesia           effective management practices for reducing the risk of the
+and Malaysia in 2018 (FAO 2020). Minimal biosecurity            ice-ice syndrome and pest outbreaks are lacking. Very few
+guidance and regulations in the majority of countries pro-      quarantine procedures exist, the farming guidelines contain
+ducing seaweeds in South-East Asia and globally have also       minimal biosecurity-related guidance, no surveillance meth-
+exacerbated the problem of the ice-ice syndrome and pest        ods for controlling outbreaks on the farm exist and there are
+outbreaks in the seaweed eucheumatoid industry (Campbell        no standardised methods of ensuring the health quality of the
+et al. 2020; Mateo et al. 2020; Rusekwa et al. 2020; Kambey     harvested Kappaphycus/Eucheuma crop (Sulu et al. 2004;
+et al. 2020a).                                                  Azanza and Ask 2017; Rusekwa et al. 2020; Mateo et al.
+    In Malaysia, eucheumatoid seaweed production has            2020). Currently, the existing measures include the use of a
+significantly declined from 331 to 173 thousand tonnes          commercial fertiliser and biostimulants to improve seaweed
+fresh weight (FW) from 2012 to 2018, respectively (DOFM         health (DOFM 2012; Yong et al. 2014; Loureiro et al. 2017;
+2020; FAO 2020). This decline has been primarily caused         Ali et al. 2020), but these measures, however, do not offer
+by persistent outbreaks of ice-ice syndrome during the          any control or mitigation measures for the ice-ice syndrome
+hot-dry monsoon season, which has led to a short supply         or pest occurrence and there is a general lack of biosecurity
+of healthy propagules for restocking purposes (Lim et al.       concern regarding wider environmental sustainability. In
+2013; Vairappan et al. 2014; Eranza et al. 2017; Ali et al.     Malaysia, the Department of Fisheries Malaysia has intro-
+2020). Since 2005, cultivation of Eucheuma spp. was even        duced guidelines for cultivating Kappaphycus/Euchema
+halted due to a severe ice-ice outbreak in Kudat, Sabah—a       (DOFM 2012; Department of Standards Malaysia 2012),
+once, highly productive region in Malaysia (Vairappan 2006;     which also includes some general biosecurity-related
+
+13
+Journal of Applied Phycology (2021) 33:3179–3197                                                                                    3181
+
+measures. This initiative, however, has not been widely dis-              measures, (3) assessing the environmental parameters, which
+seminated at the industry level, due to poor engagement and               may influence the occurrence of the ice-ice syndrome and/or
+lack of awareness of the programme amongst stakeholders                   pests outbreaks and 4) conducting a farm risk identification
+(Nor et al. 2017, 2020).                                                  for biosecurity-related hazards.
+   The implementation of scientifically robust, seaweed-
+specific biosecurity measures, therefore, is crucial for the
+industry to thrive. The identification of high-risk path-                 Materials and methods
+ways and the introduction of effective management pro-
+cedures to control the impact of the ice-ice syndrome and                 Study site
+pest outbreaks are imperative to enable the industry to
+tackle this significant problem (Ingle et al. 2018; Camp-                 A field study was conducted at the seaweed aquaculture site
+bell et al. 2019). The biosecurity management practices                   in Gallam-Gallam Village, Bum-Bum Island, Semporna,
+though should be simple, science-based, cost-effective,                   Sabah (N 04°29.44.0, E 118° 39.30.8) from 18 June to 28
+appropriate to their context (Mohan et al. 2008) and posi-                July 2019 (Fig. 1). The observation was carried out during a
+tively contribute to food security, market acceptability                  period known for high ice-ice incidence and pest outbreaks
+and provide a healthier environment (Cottier-Cook et al.                  in the seaweed farm in the Semporna area (May–August;
+2016; Bondad-Reantaso et al. 2018; Hurtado et al. 2019;                   DOFM 2020). No seaweed was cultivated commercially in
+Campbell et al. 2019, 2020). Evidence of how biosecurity                  the area during this period. The cultivation area is situated
+measures impact crop outcomes in terms of production                      500 m from the coastline and surrounded by hard coral,
+and quality are, therefore, needed to support evidence-                   with an average water depth of 3–4 m. The water param-
+based policy and industry decisions.                                      eters showed initial temperature, salinity, turbidity and water
+   To provide this evidence, an assessment of the application             currents ranging from 29.9–30.0 °C, 31–33 ‰, 3–4 m and
+of basic biosecurity measures on a commercial Kappaphycus                 < 0.1 to 0.18 m ­s−1, respectively.
+spp. farm was conducted. In addition, biosecurity-related
+risks were identified and documented to inform future biose-              Farm preparation and experimental design
+curity plans. The aims of the study included (1) assessing the
+effectiveness of biosecurity measures for reducing ice-ice                The experimental farm was set up for the culture of
+syndrome and farm risk in two different treatment systems                 two commercial species of Kappaphycus alvarezii and
+by comparing the ice-ice incidence and the pest coverages,                Kappaphycus malesianus. For both species, propagules were
+(2) comparing crop quality between a farm system adopting                 collected vegetatively from existing farms in Karindingan
+basic biosecurity measures with a farm with no biosecurity                Island, also in the Semporna region, where widespread
+
+
+
+
+Fig. 1  Map of Sabah State and the location of farm site in Gallam-Gallam Village
+
+
+                                                                                                                              13
+3182                                                                                          Journal of Applied Phycology (2021) 33:3179–3197
+
+disease and pest outbreaks are less and the crop is considered          500 m apart to ensure there was no interference between the
+good quality (DOFM 2020). Approximately 15 kg of                        two farms and the current flow direction was also consid-
+propagules was transported in a cool box to the Gallam-                 ered when installing the farms to minimise the transfer of
+Gallam Village, using boat transportation in less than an               material or propagules from one farm to another. At each
+hour. Pre-deployment, a basic health check was conducted                farm, five horizontal ropes for the seaweed K. alvarezii and
+at the working place (platform), where each of the individual           five ropes for K. malesianus were deployed separately and
+propagule was visually checked for signs of bleaching or                50 individual propagules (bundle) of each species were
+discolouration, wounds, epiphyte/epi-endophytes, biofilm                deployed at both treatment farms (Fig. 2). Each bundle con-
+waste, general biofouling or any other unwanted associated              sisted of 50 g FW and the initial weight was chosen to avoid
+material. Propagules with any signs of ill health and/or                overgrowth during observation. The common long-line cul-
+pests including those covered by epiphytes, epi-endophytes,             tivation technique was used in this experiment.
+biofilm, or biofouling attached were discarded to landfill and
+not included in the experiment. All the experimental farm               Environmental parameters measurement
+equipment was purchased as new, including the main culture
+ropes, line ropes, propagule ties ropes and plastic flotation            Environmental parameters including temperature, salinity
+buoys. The use of old rope was avoided as it was considered              and pH were measured in situ using a YSI Pro Plus multi-
+a high-risk mode of transmission of microbial pathogen and               parameter probe (Arachem Inc.). The water current was
+pests to the new crop.                                                   measured using Portable Current Meter (Mirong LJ20-A,
+    Two identical farms were established: one farm with the              Nanjing, China). The parameters were measured at the
+implementation of biosecurity measures and the other farm                beginning of the cultivation period and then regularly every
+with normal cultivation processes (i.e., without the applica-            3 to 4 days depending on weather conditions at 09.00 AM.
+tion of any measures) (Table 1). The biosecurity treatment               Measurements of inorganic ammonium ­(NH4+) and nitrate
+farm (BTF) and the non-biosecurity treatment farm (NBTF)                ­(NO3−) were taken at the same time as the environmental
+were evaluated over 40-day culture periods (normal growing               parameters. The nutrient samples were taken between the
+period 30−45 days). Each treatment farm was approximately                horizontal ropes and close to a seaweed line at both farm
+
+
+Table 1  Biosecurity measures applied in two treatment farms
+Biosecurity measure           BTF                                                      NBTF
+
+1. Propagules treatment      ○ Visually health checked for thallus bleached,           ○ Visually health checked for the propagules was ran-
+                              wounds, epiphytes/epi-endophytes, biofilm, fouling        domly carried out in the preparation process only.
+                              organisms, waste material attached at the preparation,   ○ Initial propagule used as BTF
+                              grow-out and harvest                                     ○ Source of propagules known
+                             ○ Only used the propagules with healthy sign, many
+                              shoot tips and visually cleaned from pests attached
+                             ○ Source of propagules known
+2. Farm equipment treatment ○ Newly purchased ropes (anchor ropes, planting ropes      ○ As BTF
+                              and tying ropes)
+                             ○ The boat was cleaned and sun-dried before use.
+3. Cleaning treatment        ○ Epiphytes/epi-endophytes, biofilm, fouling and all      ○ Seaweed crops and ropes were left uncleaned.
+                              waste attached were carefully removed manually           ○ Bleached/discoloured thallus was fragmented natu-
+                              from the crop and the ropes (using tissue paper or        rally without maintenance.
+                              soft fabrics).
+                             ○ Bleached/discoloured thallus removed from the farm
+                              by cutting the bleached thallus apart
+4. Farm waste treatment      ○ All bleached/discoloured thallus, epiphytes/epi-        ○ No measure in maintaining the farm wastes included
+                              endophytes, biofilm and all waste materials were          the bleached/discoloured thallus and the pests
+                              gathered and disposed landfill, and avoided to throw      attached
+                              within farm area.
+5. Environment monitor       ○ Physical environmental parameters were measured         ○ As BTF
+                              at the beginning of the experiment and regularly
+                              throughout the grow-out phase within 3–4 days.
+6. Monitoring and evaluation ○ Every 2 days for cleaning and removing pests,           ○ Measuring the growth, pests coverage and ice-ice
+                              bleached, and checking the health status of crops         incidence as BTF
+                             ○ Every 10 days for measuring the growth, pests cov-      ○ No cleaning, removing and checking health of crops
+                              erage and ice-ice incidence
+
+
+
+13
+Journal of Applied Phycology (2021) 33:3179–3197                                                                       3183
+
+Fig. 2  The experimental design
+of two treatment farms
+
+
+
+
+sites using a Niskin bottle, from a depth of approximately      by the total number of available bundles in each farm. The
+1 m. The water samples were immediately filtered through        measurement of the pest coverage was obtained every 10
+0.45-μm pore size placed in a 50-mL container tube and kept     days at both farms. Detailed photographs of the epiphytes
+frozen for further analysis. The nutrient concentrations were   and epi-endophytes were taken for species identification
+determined in the laboratory; ­NH4+ and ­NO3− were analysed     using a digital camera, whilst biofilm samples were not
+using the APHA 4500 ­NH3B-based method and CH17-16              included in the species identification.
+based method, respectively. All environmental data were
+obtained through three replicates and are presented as their    Ice‑ice incidence
+average values.
+                                                                All seaweed bundles were observed closely for the occur-
+Pest coverage                                                   rence of the ice-ice syndrome, in particular the secondary
+                                                                or primary branches of the thallus, in which bleaching typi-
+The measurement of the seaweed Kappaphycus pest cov-            cally occurs. Any tip, bleached or desiccated as a result of
+erage included macroalgal epiphytes, epi-endophytic fila-       air exposure, was discounted as an ice-ice syndrome. Cal-
+mentous algae and biofilms in each seaweed bundle. Cover-       culation of the incidence of ice-ice in each farm was meas-
+age was calculated based on the percentage area covered         ured from the total number of infected bundles divided by
+by the individual pest over the entire bundle. A hundred        available bundles in the farm. The higher the proportion of
+percent (100%) area covered was recorded if the epiphytes,      infected seaweed bundles, the higher the ice-ice syndrome
+epi-endophytes and biofilm covered the entire seaweed bun-      risk on the farm.
+dle: 50% cover rate if the pest covered half the bundle; 25%
+cover rate if the pest covered a quarter of the bundle and so   Seaweed quality measurement
+on. The average of epiphytes, epi-endophytes and biofilm
+coverage in each farm and each Kappaphycus species, was         Twenty bundles of each species from each farm were ran-
+calculated based on the total percentage of the epiphytes,      domly measured for growth rate. The growth rate was
+epi-endophytes and biofilm-cover in each bundle, divided        calculated by weighing individual bundles every 10 days
+
+
+                                                                                                                 13
+3184                                                                                 Journal of Applied Phycology (2021) 33:3179–3197
+
+(together with the ice-ice incidence and pest measurements).      between farms and farm period was calculated using a two-
+The growth measurement was obtained by calculating the            way ANOVA, and the Pairwise t-test was used to observe
+specific growth rate (SGR) using the following equation:          the value of carrageenan yield and gel strength between
+                    ⌊ (( ) ( ))⌋                                  farms. Calculation of the averages (mean) was given with the
+      (     −1
+               )     In Wt -In W0                                 standard error (SE) and with the significance difference set
+SGR %day         =                        × 100
+                               t                                  at 0.05. The statistical analysis was performed using SPSS
+                                                                  Version 23.0 (IBM, USA).
+    where SGR is specific growth rate (% ­day−1), ­Wt and ­W0
+are the final and initial weights (g FW), respectively and t is
+the time of the observation period (day).
+    To measure seaweed quality, the bleached infected bun-
+                                                                  Results
+dles (n = 5) and healthy bundles (n = 20) were analysed for
+                                                                  Environmental parameters
+semi-refined carrageenan yield and gel strength following
+the methods previously described by Yong et al. (2014). The
+                                                                  During the cultivation period, the water temperature was
+carrageenan yield (%) was calculated from the semi-refined
+                                                                  shown to have slightly increased from pre-deployment meas-
+carrageenan weight (CW) divided by the initial seaweed
+                                                                  urement in the range of 29.2 to 30.7 °C, with an average of
+dried weight (SW), whilst the gel strength (g ­m−2) was quan-
+                                                                  29.96 ± 0.1 at the BTF and 29.88 ± 0.1 at the NBTF. No
+tified using a rheometer. The seaweed quality measurement
+                                                                  significant difference in temperature was detected between
+of each bundle was analysed in triplicate.
+                                                                  the two treatment farms (p = 0.37; F = 0.80), among farm
+                                                                  period (p = 0.82; F = 0.31) and the interaction between
+Identifying farm biosecurity risk                                 farms and farm period (p = 0.79; F = 0.35) (Fig. 3, Table 2).
+                                                                  The water salinity varied from 31.86 to 33.77‰ at both
+The biosecurity-related risks for each farm were identified       farms with mean 33.17 ± 0.1‰ and 33.13 ± 0.1‰, at the
+based on farm processes from propagule preparation, grow-         BTF and NBTF, respectively. Heavy rains in the initial cul-
+out and harvest over a 40-day observation. Potential risks        tivation period decreased the salinity to 31.8 ‰ and it con-
+and mitigation measures in each farm phase were identified        tinued to increase thereafter (Fig. 3). No significant differ-
+based on current farm practices, existing literature on-farm      ence in salinity was found between farms and the interaction
+regulations in Malaysia and experience-based studies. The         between farms and farm periods (p = 1.00) (Table 2).
+literature reviewed provided a theoretical baseline for limit-        The seawater pH value ranged from 7.71 to 8.09 and was
+ing the risk level.                                               significantly greater at the BTF with an average of 8.01
+                                                                  ± 0.01 compared with the NBTF with an average of 7.97
+Data analysis                                                     ± 0.01 (p < 0.05; F = 9.24). The seawater pH showed an
+                                                                  increasing trend over the farming period at the BTF com-
+Data of the environmental parameters, pest coverage and           pared with the NBTF (p < 0.05; F = 9.24) (Fig. 3). However,
+ice-ice incidence, and the seaweed growth rate in both farms      the interaction between farms and farm period showed no
+were tested for normality and homogeneity using the Kol-          significant difference in the pH values (p = 0.67; F = 0.51).
+mogorov–Smirnov and Levene’s tests. For data analysis, the        Similarly, water current showed a consistent range of speed
+environmental parameter data were normally distributed            from 0.08 to 0.17 m ­s−1 at both farms with an average 0.08
+and categorised into four groups following the four peri-         ± 0.01 m ­s−1 at the BTF and 0.09 ± 0.01 m ­s−1 at the NBTF
+ods of observation. Significant differences in each of the        (p = 0.82; F = 0.51). The water current speed was not sta-
+environmental parameters between farm and farm period             tistically differed in the interaction between farms and farm
+were tested using a two-way ANOVA, followed by post hoc           period (p = 0.73; F= 0.44) (Fig. 3, Table 2).
+Tukey’s HSD to make pairwise comparisons of the treatment             Inorganic nutrients ­NH4+ at the BTF and NBTF, ranged
+means amongst farm period. To observe the trend amongst           from 0.09 to 0.51 mg ­L−1 (0.19 ± 0.02) and from 0.06 to
+the environmental parameters in each farm, a simple regres-       0.5 mg ­L−1 (0.22 ± 0.02), respectively. The concentrations of
+sion analysis was conducted. Percentage pest coverage and         the nutrient significantly fluctuated over time (p < 0.05; F =
+the ice-ice incidences on both farms did not show any nor-        6.53), but there was no significant difference in concentrations
+mality; therefore, these data were run using nonparametric        between the two farms (p = 0.36; F= 0.84) and the inter-
+Kruskal–Wallis to test for significant differences between the    action between farms and farm period (p = 0.48; F= 0.82)
+two treatment farms. Spearman rank correlation was used to        (Table 2). The concentrations of inorganic ­NO3− were lower
+determine which pests (epiphytes, epi-endophytes and bio-         at the NBTF with ranges from < 0.01 to 0.04 mg ­L−1 (0.02
+film) were closely correlated with the incidence of ice-ice       ± 0.01 mg ­L−1), compared with the BTF ranged from < 0.01
+syndrome in each species and farm. The SGR of seaweed             to 0.15 mg ­L−1 (0.04 ± 0.01 mg ­L−1) (p < 0.05; F = 26.26)
+
+
+13
+Journal of Applied Phycology (2021) 33:3179–3197                                                                         3185
+
+Fig. 3  Temporal variability of
+seawater temperature, salinity,
+pH and water current at the BTF
+(black colour) and the NBTF
+(grey colour) during the cultiva-
+tion period from 18 June to 28
+July 2019
+
+
+
+
+(Fig. 4). The results indicated a significant difference in the   Pest coverages
+interaction between farms and farm period with value p <
+0.05; F = 13.18 (Table 2).                                        The rate of epiphyte coverage in K. malesianus and K.
+                                                                  alvarezii at both farms showed a significant difference
+                                                                  (Kruskal–Wallis p < 0.05). The average rate of epiphyte
+Ice‑ice incidence                                                 coverage on the seaweed thallus at the BTF was signifi-
+                                                                  cantly lower, at a rate of 3.52 ± 0.3% in K. malesianus and
+The incidence of ice-ice syndrome in K. malesianus and            4.32 ± 1.2% in K. alvarezii (Fig. 5a, b) compared with the
+K. alvarezii between farms was significantly different            average rate at the NBTF of 31.67 ± 0.01% and 16.39 ±
+(Kruskal–Wallis p < 0.05) with a lower rate at the BTF            0.01%, respectively (Fig. 5c, d). A significant increase in
+(Fig. 5a, b) compared to the NBTF (Fig. 5c, d). The ice-          epiphyte coverage was observed, along with increasing
+ice incidence at the BTF in each period showed an average         epi-endophytes, in both species and farms (Tables 3 and 4).
+rate of 5.50 ± 0.8% in K. malesianus and 4.50 ± 1.8% in K.        However, the epiphyte coverage had a low correlation with
+alvarezii, whilst at the NBTF the incidence was found higher      the ice-ice incidence in K. alvarezii at the BTF and NBTF
+to average 25.0 ± 2.3% and 11.5 ± 1.3%, respectively. The         (r = 0.18; p = 0.01 and r =0.14; p = 0.04, respectively) and
+ice-ice syndrome was initially recorded after 20 days at the      no correlation with the ice-ice incidence in K. malesianus
+BTF with an average rate < 10% in both species. However,          (Tables 3 and 4).
+at the NBTF, the ice-ice incidence was recorded within               During the observation period, the epi-endophyte
+10 days, with an average rate of 26.0 ± 0.8% and 10.0 ±           coverage in K. malesianus was higher at the NBTF with
+0.2% in K. malesianus and K. alvarezii, respectively, and         an average of 17.34 ± 7.5% compared with the BTF
+the rates were increased periodically. By the final day (40       with an average of 14.98 ± 3.0% (Fig. 5a, c). High epi-
+days), healthy bundles of K. malesianus and K. alvarezii          endophyte coverage in K. alvarezii at the NBTF was also
+were retained 92% and 96% at the BTF, respectively, whilst        detected with an average of 5.81 ± 0.9% compared with
+at the NBTF the healthy bundles were only 68% and 86%,            4.52 ± 1.1% at the BTF (Fig. 5 b, d). The coverage of epi-
+respectively. The bleached thallus defined as either ice-ice      endophytes on the two Kappaphycus species was shown
+syndrome or non-ice-ice syndrome is shown in Fig. 6a–d.           to be significantly different between the BTF and NBTF
+
+
+                                                                                                                   13
+3186                                                                                   Journal of Applied Phycology (2021) 33:3179–3197
+
+Table 2  Two-way ANOVA of the environmental parameters in both      was not correlated with the ice-ice syndrome in both
+farms and farm periods                                              seaweeds (Table 4).
+Variable       Source of vari-    df Mean square F value p value       The biofilm coverage in K. malesianus between farms
+               ation                                                was shown to be statistically different (Kruskal–Wallis p =
+                                                                    0.01), whilst in K. alvarezii there was no significant differ-
+Temperature   Farm                1   0.08       0.80    0.37
+                                                                    ence (Kruskal–Wallis p = 0.61). The occurrence of biofilm
+              Farm period         3   0.03       0.31    0.82
+                                                                    on the thallus of both species at the BTF averaged 11.99 ±
+              Farm × farm         3   0.04       0.35    0.79
+               period                                               1.32% and 4.92 ± 1.39%, respectively (Fig. 5a, b), whilst at
+Salinity      Farm                1   0.00       0.00   1.00        the NBTF the coverage was slightly higher with an average
+              Farm period         3   10.55      121.57 < 0.001*    of 17.24 ± 4.2% and 5.11 ± 1.3%, respectively (Fig. 5c, d).
+              Farm × farm         3   0.0        0.0    1.00        The increasing coverage of biofilm on the seaweed thallus
+               period                                               at the BTF was poorly correlated with increasing ice-ice
+Water current Farm                1   0.03       0.51    0.82       incidence in K. alvarezii (r = 0.24) and the availability of the
+              Farm period         3   0.0        3.24    0.03*      epi-endophyte coverage in K. malesianus and K. alvarezii (r
+              Farm × farm         3   0.0        0.44    0.73       = 0.32 and r = 0.23, respectively) (Table 3).
+               period                                                  At the NBTF, the biofilm coverage had poor correlation
+pH            Farm                1   0.03       9.24    < 0.001*   with the incidence of ice-ice in K. alvarezii (r = 0.18; p <
+              Farm period         3   0.07       22.28   < 0.001*   0.05) (Table 4). Comparison of biosecurity cost and standard
+              Farm × farm         3   0.0        0.51    0.67       cost at two treatment farms is shown in Table 5.
+               period
+NH4+          Farm                1   0.01       0.84    0.36
+                                                                    Seaweed quality
+              Farm period         3   0.08       6.53    < 0.001*
+              Farm × farm         3   0.01       0.82    0.48
+                                                                    Seaweed quality was measured by the carrageenan yield and
+               period
+                                                                    gel strength at day 40. At the NBTF, the ice-ice infected
+NO3−          Farm                1   0.01       26.26   < 0.001*
+                                                                    thallus of K. alvarezii had a higher carrageenan yield in the
+              Farm period         3   0.01       22.47   < 0.001*
+                                                                    range of 41.73–57.21% compared with K. malesianus, which
+              Farm × farm         3   0.01       13.18   < 0.001*
+               period                                               had a range of 43.26–52.67%, respectively. The gel strength
+                                                                    of these infected thalli indicated a similar pattern, with a
+                                                                    range of 180–260 g ­cm−2 and 160–230 g ­cm−2, respectively.
+(Kruskal–Wallis p = 0.04 and p = 0.03, respectively).               The result indicated no significant difference in carrageenan
+At the BTF, increasing epi-endophyte coverage in K.                 yield (p = 0.57; t = − 0.61) and gel strength (p = 0.08; t =
+malesianus was moderately correlated with an increase               − 2.25) for both Kappaphycus species related to quality of
+in ice-ice syndrome (r = 0.34; p < 0.05) and the biofilm            the infected thalli (Table 6). No comparison was made on
+coverage in the seaweed thallus (r = 0.32, p < 0.05).               the quality of the ice-ice thalli between two treatment farms
+However, the epi-endophyte coverage in K. alvarezii                 due to the insufficient weight of infected thalli at the BTF.
+indicated a poor correlation to the incidence of the ice-ice           The carrageenan yield and gel strength of healthy thalli
+syndrome (r = 0.22; p < 0.05) (Table 3). At the NBTF, the           of K. malesianus and K. alvarezii at the BTF were higher
+epi-endophyte coverage in K. malesianus and K. alvarezii            compared with these species at the NBTF (Table 6). The
+                                                                    value of carrageenan yield at the BTF was ranged from
+
+Fig. 4  Temporal variability of
+inorganic nutrients ­NH4+ and
+­NO3− at the BTF (black colour)
+ and the NBTF (grey colour)
+ during the cultivation period
+ from 18 June to 28 July 2019
+
+
+
+
+13
+Journal of Applied Phycology (2021) 33:3179–3197    3187
+
+Fig. 5  Variation in coverage
+of epiphyte, epi-endophyte,
+biofilm and the incidence of
+ice-ice syndrome on each spe-
+cies in both farms are shown
+by a K. malesianus at the BTF,
+b K. alvarezii at the BTF, c K.
+malesianus at the NBTF and d
+K. alvarezii at the NBTF
+
+
+
+
+Fig. 6  Bleached thallus caused
+by ice-ice syndrome and the
+common bleached tip, as result
+of air exposure in the early
+cultivation period: a the epi-
+endophytes Melanothamnus
+sp. covering rotten bleached
+thallus of K. malesianus at the
+NBTF at 10 days, b bleached
+K. malesianus at the BTF at 40
+days with 70% epi-endophyte
+coverage, c bleached K.
+alvarezii thallus observed at 40
+days at the BTF, d bleached tips
+in K. malesianus at the BTF
+(scale bar: 3 cm)
+
+
+
+
+                                                   13
+3188                                                                                               Journal of Applied Phycology (2021) 33:3179–3197
+
+Table 3  Spearman correlation of the pest coverage and the incidences of the ice-ice syndrome in K. malesianus and K. alvarezii at the BTF
+                                                                 Correlations
+                                                                 IIDKM      EpKM      EEpKM      BKM        IIDKA      EpKA      EEpKA       BKA
+
+Spearman’s rho         IIDKM**       Correlation coefficient     1.00
+                                     Sig. (2-tailed)
+                       EpKM          Correlation coefficient     0.13       1.00
+                                     Sig. (2-tailed)             0.07
+                       EEpKM         Correlation coefficient     0.34*      0.14*     1.00
+                                     Sig. (2-tailed)             0.00       0.04
+                       BKM           Correlation coefficient     0.13       0.03      0.32*      1.00
+                                     Sig. (2-tailed)             0.06       0.68      0.00
+                       IIDKA         Correlation coefficient     0.04       0.16*     − 0.05     − 0.05     1.00
+                                     Sig. (2-tailed)             0.55       0.02      0.51       0.45
+                       EpKA          Correlation coefficient     0.06       0.04      0.07       0.07       0.18*      1.00
+                                     Sig. (2-tailed)             0.37       0.56      0.34       0.32       0.01
+                       EEpKA         Correlation coefficient     0.05       0.09      0.07       − 0.09     0.22*      0.16*     1.00
+                                     Sig. (2-tailed)             0.49       0.23      0.29       0.16       0.00       0.02
+                       BKA           Correlation coefficient     0.15*      0.12      0.24*      0.03       0.24*      0.03      0.23*       1.00
+                                     Sig. (2-tailed)             0.03       0.09      0.00       0.66       0.00       0.68      0.00
+*
+    Correlation is significant at the 0.05 level (2-tailed), N = 200
+**
+  IIDKM ice-ice syndrome in K. malesianus, EpKM epiphytes in K. malesianus, EEpKM epi-endophytes in K. malesianus, BKM biofilm in K.
+malesianus, IIDKA ice-ice syndrome in K. alvarezii, EpKA epiphytes in K. alvarezii, EEpKA epi-endophytes in K. alvarezii, BKA biofilm in K.
+alvarezii
+
+
+
+45.22 to 62.72% in K. malesianus and 46.40 to 70.44% in                         ranged from 280 to 450 g ­cm−2 and from 300 to 490 g ­cm−2,
+K. alvarezii, whilst at the NBTF was ranged from 42.40                          respectively, whilst at the NBTF the gel strength ranged from
+to 60.53% and from 46.44 to 61.87%, respectively. The                           200 to 300 g ­cm−2 and from 220 to 380 g ­cm−2, respectively.
+gel strength in K. malesianus and K. alvarezii at the BTF                       However by t-test statistical analysis, there was no difference
+
+
+Table 4  Spearman correlation of the pest coverage and the incidences of ice-ice syndrome in K. malesianus and K. alvarezii at the NBTF
+                                                                 Correlations
+                                                                 IIDKM      EpKM      EEpKM      BKM       IIDKA       EpKA      EEpKA       BKA
+
+Spearman’s rho         IIDKM        Correlation coefficient      1.00
+                                    Sig. (2-tailed)
+                       EpKM         Correlation coefficient      0.11       1.00
+                                    Sig. (2-tailed)              0.12
+                       EEpKM        Correlation coefficient      0.06       0.39*     1.00
+                                    Sig. (2-tailed)              0.42       0.00
+                       BKM          Correlation coefficient      0.05       0.02      − 0.01     1.00
+                                    Sig. (2-tailed)              0.44       0.78      0.85
+                       IIDKA        Correlation coefficient      − 0.01     0.09      0.01       0.09      1.00
+                                    Sig. (2-tailed)              0.88       0.18      0.89       0.22
+                       EpKA         Correlation coefficient      0.13       0.29*     0.39*      − 0.05    0.14*       1.00
+                                    Sig. (2-tailed)              0.06       0.00      0.00       0.47      0.04
+                       EEpKA        Correlation coefficient      − 0.10     0.20      0.05       − 0.02    0.03        0.11      1.00
+                                    Sig. (2-tailed)              0.15       0.00      0.45       0.75      0.66        0.12
+                       BKA          Correlation coefficient      0.09       0.07      0.14       0.09      0.18*       0.12      0.08        1.00
+                                    Sig. (2-tailed)              0.19       0.31      0.06       0.22      0.01        0.09      0.29
+*
+    Correlation is significant at the 0.05 level (2-tailed), N = 200
+
+
+13
+Journal of Applied Phycology (2021) 33:3179–3197                                                                                   3189
+
+Table 5  Comparison of biosecurity and standard cost at two treat-        in carrageenan yield in the healthy thallus between farms
+ment farms                                                                of K. alvarezii (p = 0.13; t = 1.56) and K. malesianus (p =
+Variable cost                       Standard cost    Biosecurity cost     0.20; t = 1.32), whilst the gel strength showed a significant
+                                                                          difference of the two species between farms (p = 0.01; t =
+Propagule cost                      14.40            14.40
+                                                                          3.21 and p = 0.00; t = 4.32), respectively.
+Labour cost                         7.20             7.20
+                                                                             The SGR of K. malesianus and K. alvarezii cultivated
+Additional labour cost (for         -                144
+                                                                          at the BTF demonstrated high growth rates for the period
+ cleaning treatment)
+                                                                          10–20 days, with rates ranging from 0.43 to 8.37% ­day−1 and
+Equipment & consumable cost         112a             280b
+                                                                          from 0.66 to 9.87% ­day−1, respectively. At the NBTF, the
+Total cost                          133.60           445.60
+                                                                          SGR of K. malesianus and K. alvarezii ranged from 0.63 to
+Number of healthy bundles           77               94
+                                                                          5.76% ­day−1 and from 0.82 to 6.25% ­day−1, respectively. The
+Cost per bundle                     1.74             4.49
+                                                                          SGR of the two seaweed species was significantly higher at
+Standard cost applied at NBTF (in USD; 1 MYR =0.24 USD)                   the BTF compared with the NBTF (p < 0.05; F = 18.05 and
+Biosecurity cost applied at BTF (in USD)                                  p < 0.05; F = 13.08, respectively, Fig. 7). However, with
+a
+ Standard cost for equipment & consumable includes purchasing             continuously decreasing SGR in each growth period, the
+ropes and buoys, and boat rental                                          statistical analysis confirmed that the interaction between
+b
+ Biosecurity cost for equipment & consumable includes additional          farm periods and farms in K. malesianus and K. alvarezii
+cost for purchasing the cleaning tools, extra boat rental for regular
+                                                                          did not show any significant difference (p = 0.92; F = 0.16
+cleaning activities, and all standard cost
+                                                                          and p = 0.12: F = 1.96, respectively; Table 7).
+
+                                                                          Identification of farm biosecurity risk
+
+Table 6  Comparison of mean carrageenan yield, gel strength of K.         The identification of potential risks related to ice-ice syn-
+malesianus and K. alvarezii in relation to thallus condition at the BTF   drome and pest outbreaks at the Kappaphycus farm revealed
+and the NBTF                                                              risk hazards from the farm preparation stage, to grow-out
+Variable                     BTF               NBTF           p value     and harvesting stages at the two treatment farms (Table 8).
+                                                                          The potential risks at the farm preparation stage included a
+K. malesianus healthy thallus
+                                                                          lack of water movement in the initial farming period, low
+   Carrageenan yield (%) 52.72 ± 2.9           47.39 ± 1.7    p = 0.20
+                                                                          salinity levels, interference of herbivorous grazers and epi-
+   Gel strength (g ­cm−2) 330 ± 16.4           270 ± 9.9      p = 0.00*
+                                                                          endophytes attached to the propagules, desiccation of prop-
+K. alvarezii healthy thallus
+                                                                          agules in the initial stage, a lack of disinfecting and clean-
+   Carrageenan yield (%) 60.57 ± 2.0           53.08 ± 1.3    p = 0.13
+                                                                          ing of farm equipment, pollution of the surrounding area
+   Gel strength (g ­cm−2) 370 ± 13.5           310 ± 11.7     p = 0.01*
+                                                                          with municipal waste and the influence of epiphyte blooms.
+Ice-ice thallus              K. malesianus     K. alvarezii
+                                                                          In the grow-out phase, the potential risks included initial
+   Carrageenan yield (%) 48.25 ± 1.5           51.88 ± 2.6    p = 0.57
+                                                                          propagules with desiccated thallus leading to bleached tips
+   Gel strength (g ­cm−2) 180 ± 10.0           210 ± 13.1     p = 0.08
+                                                                          and wounds, fast growth of epiphytes and epi-endophytes on
+*
+ Significant value at the 0.05 level, healthy thallus n = 20; ice-ice     thallus and ropes, discarded bleached and/or infected thallus
+thallus n = 5                                                             and pests not removed from the grow-out area and a lack of
+
+
+
+Fig. 7  Variability of the SGR of
+seaweed: a K. malesianus and b
+K. alvarezii at the BTF and the
+NBTF
+
+
+
+
+                                                                                                                             13
+3190                                                                                      Journal of Applied Phycology (2021) 33:3179–3197
+
+Table 7  Two-way ANOVA on the SGR of K. malesianus and K. alvarezii    suggested this as a potential method to reduce outbreaks of
+between farms and farm periods                                         the ice-ice syndrome (Vairappan et al. 2010; WWF 2014;
+Variable           Source of        Df Mean square F value p value     Kim et al. 2017; Largo et al. 2020). This method though does
+                   variation                                           lead to high labour costs in pest removal and may become
+                                                                       an obstacle to the implementation of this technique by the
+K. malesianus Farm                  1    56.33      18.05   < 0.001*
+                                                                       seaweed farmer. However, the cost-effectiveness of bios-
+              Farm period           3    7.02       2.25    0.08
+                                                                       ecurity measures could balance the additional cost against
+              Farm × farm           3    0.50       0.16    0.92
+               period                                                  the higher quality crop that is produced (Hester and Cacho
+K. alvarezii  Farm                  1    46.54      13.08   < 0.001*   2017). This study confirmed that manual cleaning meth-
+              Farm period           3    8.54       2.39    0.07       ods, albeit time-consuming, are an effective management
+              Farm × farm           3    7.00       1.96    0.12       measure in eucheumatoid farming and should be taken into
+               period                                                  account when developing best farming practices to control
+*
+                                                                       farm risk related disease management strategies, although
+    Significant value at the 0.05 level, n = 20
+                                                                       long-term investment and incentives would also be required
+                                                                       (Fasina et al. 2012; Cottier-Cook et al. 2016; Scarfe and
+cleaning on the thallus and ropes. The harvest stage had the           Palić 2020).
+lowest potential risk to the seaweed cultivation process, but
+a high risk was identified to the wider environment system, if         Controlling the pests outbreak
+the farm was left unmanaged. In addition, there was no clear
+information regarding the migration route for the turtles—a             Several macroalgae such as Laurencia spp., Chaetomorpha
+major grazer of cultivated seaweeds, no regular monitor-                spp., Cladophora spp., Ceramium spp., Acanthopora spp.
+ing and control of the on-farm systems by the competent                 and Ulva spp. were regularly attached to the thallus with
+authority, limited availability of healthy propagules for cul-          various coverage rates from 30 to 100% in K. malesianus
+tivation purposes and a lack of evidence on whether ice-ice             and 25 to 80% in K. alvarezii, in addition to the farm ropes.
+syndrome can be moved through the transfer of equipment                 Our study demonstrated that the abundance of macroalgae
+between farms.                                                          epiphytes covering K. malesianus and K. alvarezii was not
+                                                                        strongly linked to the incidence of ice-ice syndrome in both
+                                                                        species. However, the correlation analysis showed a similar
+Discussion                                                              pattern between the occurrence of macroalgae epiphytes and
+                                                                        the ice-ice syndrome in K. alvarezii. There are several fac-
+Controlling the ice‑ice syndrome                                        tors that may trigger the ice-ice syndrome in Kappaphycus
+                                                                        due to the presence of epiphytic macroalgae (Vairappan et al.
+This study has demonstrated for the first time that biosecu-            2010; Potin 2012; Ingle et al. 2018; Sahu et al. 2020). Firstly,
+rity measures, including both preventative and detection                the epiphytic macroalgae (e.g., Ulva sp. and Cladophora sp.)
+approaches to limit coverage of epiphytes, epi-endophytes               may hinder host growth through competition for biological
+and biofilm also lowered the incidence of ice-ice syndrome              resources, such as light, nutrients and carbon, thus weaken-
+in Kappaphycus farm. These biosecurity measures produced                ing the condition of the thallus based upon the extent of
+a disease-free crop (up to 96%) throughout the entire culture           their coverage (Potin 2012; Largo et al. 2020; Kambey et al.
+period. In contrast, the incidence of the ice-ice syndrome              2020b; Sahu et al. 2020). Secondly, the abundance of mac-
+was more than 3× the levels on the farm without the addi-               roalgae epiphytes (e.g. Laurencia sp. and Acanthopora sp.)
+tional biosecurity measures, in which a third of the crop was           may act as a transmission route for the microscopic patho-
+infected by the end of the culture period. Understanding the            genic agents that cause ice-ice syndrome (Vairappan et al.
+pest species composition and their temporal occurrence can,             2010; Ingle et al. 2018). Thirdly, high inorganic ­NH4+ and
+therefore, give an advantage for farm management, in terms             ­NO3− concentrations in the surrounding farm area (up to
+of predicting the extent of the risk impact and the mitiga-             0.52 mg ­L−1 and 0.15 mg ­L−1, respectively) has been shown
+tion process (Walls et al. 2017). This study confirmed that             to facilitate epiphyte and epi-endophyte blooms, whilst a low
+macroalgae epiphytes and filamentous epi-endophytes were                water current < 0.1 m ­s−1 may have enabled the elevated
+dominant seaweed pests at the study site and by removing                biofilm coverage, which may have enabled the attachment
+these pests consistently, the causative agents of the ice-ice           of the pathogenic microorganisms to the thallus surface. By
+syndrome were removed from the farm system.                             removing the macroalgae epiphytes and biofilm, therefore,
+    This manual cleaning method, therefore, provides the                the incidence of ice-ice syndrome in both species can be
+first evidence to support the numerous studies that have                controlled.
+
+
+
+13
+     Table 8  Identification of potential risks related to ice-ice syndrome and pests occurrence on a Kappaphycus farm
+     Process              Risk components                Risk exposure observed                         Theoretical suggestion for limiting exposure   Challenges
+                                                                                                        level
+
+     1. Farm Preparation Environment                     1. Reduced water movement can increase    1. Site cultivation located where environment       1. Different competent authorities for monitor-
+                                                           biofilm/epiphyte attachment.              parameter variability is low and unpolluted         ing environmental parameters
+                                                         2. Heavy rain can lower salinity.           (Department of Standards Malaysia (2012),         2. Unclear information regarding seaweed
+                                                         3. Pollution of the farming area by human   DOFM 2012).                                         cultivation area and turtle conservation areas
+                                                           waste                                   2. Avoid seaweed cultivation in turtle migra-         in Sabah
+                                                         4. Disturbed by turtles grazing             tion/conservation area, unless, protected         3. Net cages are expensive to implement to a
+                                                                                                     by net (Department of Standards Malaysia            farmer.
+                                                                                                     (2012))
+                          Propagule preparation      1. Random visual health checked               1. Recommend to use healthy seed (Depart-           1. Limited availability of propagules, so
+                                                     2. Propagules initially observed with small     ment of Standards Malaysia (2012),                  traceability has typically been ignored and
+                                                       epi-endophytes attached and numbered of       DOFM (2012)).                                       the majority of propagules from unknown
+                                                                                                                                                                                                          Journal of Applied Phycology (2021) 33:3179–3197
+
+
+
+                                                       blackspot                                   2. Using diseased/infected seed may continue          sources.
+                                                                                                     to spread disease within the farm (DOFM           2. No quarantine/isolation required for prop-
+                                                                                                     (2012), Sulu et al. (2004)).                        agule
+                                                                                                   3. Using propagules with epi-endophytes             3. Limited time and knowledge to track epi-
+                                                                                                     attached, triggers ice-ice syndrome/pest            endophytes in preparation stage
+                                                                                                     outbreak on the farm (DOFM (2012), Ingle
+                                                                                                     et al. (2018), Vairappan 2006, Vairappan
+                                                                                                     et al. (2010))
+                                                                                                   4. Traceability of seed and farm history
+                                                                                                     (Department of Standards Malaysia
+                                                                                                     (2012))
+                          Platform preparation       1. Unshaded place for tying the propagules,   1. Platform should be in a shaded place to          1. The farmer would not have time to clean/
+                                                       put some of the seed in desiccated earlier    keep propagule in appropriate conditions            disinfect the platform.
+                                                     2. Propagules can dehydrate through a long      (Department of Standards Malaysia (2012),         2. Low awareness of the cleaning procedure
+                                                       tying process, consequently affecting their   DOFM (2012)).                                       by farmer
+                                                       growth and cause bleaching at post-deploy- 2. Platform should be cleaned from unwanted          3. No information on disease transmission by
+                                                       ment.                                         material (Department of Standards Malay-            an unclean platform
+                                                                                                     sia (2012)).
+                                                                                                   3. Bleached can cause by high irradiance
+                                                                                                     (Department of Standards Malaysia
+                                                                                                     (2012)).
+                                                                                                   4. Keep the seed in good moisture and avoid
+                                                                                                     early desiccation (DOFM (2012))
+                          Farm equipment preparation 1. High transmission of ice-ice agent and     1. Uncleaned, un-disinfected ropes may              1. Lack of evidence on pathogen caused ice-
+                                                       pests spores through ropes submerged for      induce microbial pathogens, whilst sun-             ice transmitted by uncleaned ropes
+                                                       long period within the farm area              dried ropes can kill attached pathogens           2. No disinfection procedure for seaweed farm
+                                                     2. Manual cleaning of farm equipment by         (Georgiades et al. (2016))                          equipment
+                                                       hand                                        2. Epiphyte spores may continually attach
+                                                                                                     to the ropes through water transmission
+                                                                                                     (Ganesan et al. (2015)).
+13
+                                                                                                                                                                                                          3191
+     Table 8  (continued)
+                                                                                                                                                                                                    3192
+     Process                Risk components          Risk exposure observed                         Theoretical suggestion for limiting exposure   Challenges
+                                                                                                    level
+13
+     2. Grow-out            Planting methods         1. The part of propagule exposure to air in  1. Appropriate planting methods can help    1. Appropriate acclimatisation procedures in
+                                                       the early grow-out period can cause tip      seaweed grow well without bleaching         the early growing stage was lack imple-
+                                                       bleached, then the bleached tips were weak   (Department of Standards Malaysia (2012), mented
+                                                       and easily wounded.                          DOFM (2012)).
+                                                     2. K. malesianus was fragile and easily      2. Lowering the rope below 50-cm water
+                                                       infected.                                    depth helps to acclimate seaweed for the
+                                                                                                    first 10 days (WWF (2014))
+                                                                                                  3. Bleached tips also can occur at high
+                                                                                                    stocking densities due to competition of
+                                                                                                    nutrients (Kambey et al. (2020b)).
+                            Crop monitoring          1. Epiphytes occur within 2–3 days post-     1. Epiphytes and epi-endophytes may act as 1. Lack of farmer awareness of seaweed
+                                                       deployment                                   a transmission vector for ice-ice syn-          epiphytes, epi-endophytes and biofilm waste
+                                                     2. Biofilms remained longer as the tips grew   drome (Vairappan (2006), Vairappan et al.       leading to re-infections to new propagule
+                                                       larger.                                      (2010)).                                      2. Cleaning epiphytes, epi-endophytes, bio-
+                                                     3. High growth of epi-endophytes and unable 2. Biofilm with an accumulation of microor-        films from the thallus is time-consuming and
+                                                       to remove                                    ganisms can be a pathogenic agent (Wahl         considered a waste of money.
+                                                     4. Infected thallus, epiphytes and wastes      et al. (2012)).                               3. Cleaning in the thallus, ropes were required
+                                                       discarded within the farm                  3. Heavily covered of epiphytes can reduce        additional cost.
+                                                     5. Loss of tips due to bleach may low growth   seaweed growth rates (Department of
+                                                       rates                                        Standards Malaysia (2012), DOFM (2012))
+                                                                                                  4. Diseased thallus and unwanted farm
+                                                                                                    material, if discarded within the cultivation
+                                                                                                    area, may stay in sediment (Arasamuthu
+                                                                                                    and Edward (2018)).
+                            Environment monitoring   1. Low salinity can trigger bleaching events   1. Water conditions need to be maintained,    1. Lack of farmer knowledge related to
+                                                       in early grow-out.                             assisted by appropriate planting procedures   environmental variability which can affect
+                                                     2. Lack of water movement caused seaweed         and daily monitoring (Department of           seaweed production.
+                                                       to become covered with epiphytes and           Standards Malaysia (2012), DOFM (2012))
+                                                       biofilm.                                     2. Water movement/current is important
+                                                                                                      for the growth of seaweed (Kambey et al.
+                                                                                                      (2020b)).
+                            Equipment monitoring     1. Cleaning treatment on farm ropes was        1. Disinfection on ropes is required because 1. Farmers often re-used rope without sun-
+                                                       conducted at BTF, making the site cleaner      the rope can be a disease pathway            drying
+                                                       with few epiphytes and a low incidence of      (Georgiades et al. (2016)).                2. Sharing equipment between farmers is com-
+                                                       ice-ice/ pests.                              2. Avoid sharing equipment to reduce micro-    mon and allows for cost efficiency.
+                                                                                                      bial pathogen transmission (Ganesan et al.
+                                                                                                      (2015)).
+
+
+                                                                                                                                                                                                    Journal of Applied Phycology (2021) 33:3179–3197
+ Journal of Applied Phycology (2021) 33:3179–3197                                                                                                                                                                                                                                3193
+
+                                                                                                                                                                                                                         In contrast, the cleaning method was not effective in
+
+
+                                                                      1. Combine bleached thallus and healthy thal-
+                                                                                                                                                                                                                      removing the epi-endophytes, particularly the commonly
+                                                                                                                                                                                                                      occurring filamentous alga Melanothamnus sp. (formerly
+
+
+
+                                                                                                                                                                      1. Less awareness of farmer on cleaning
+                                                                                                                                                                                                                      known as Neosiphonia sp.), which was found in the
+                                                                                                                                                                                                                      majority of the bleached thallus of K. malesianus at both
+
+
+                                                                        lus for post-harvest may affect the low price
+                                                                                                                                                                                                                      farms. The results showed that the occurrence of the epi-
+                                                                                                                                                                                                                      endophytes was significantly related to the presence of
+
+
+
+
+                                                                                                                                                                        equipment at post-harvest
+                                                                                                                                                                                                                      ice-ice syndrome, as reported in other studies (Vairappan
+                                                                                                                                                                                                                      et al. 2008; Pang et al. 2015; Tsiresy et al. 2016; Hurtado
+
+
+                                                                        of the product
+                                                                                                                                                                                                                      et al. 2019). Melanothamnus rhizoids can penetrate deep
+
+                       Challenges
+                                                                                                                                                                                                                      into the cortex and the medullary tissue of the Kappaphycus
+                                                                                                                                                                                                                      thallus and subsequently can facilitate secondary bacterial
+                                                                                                                                                                                                                      infection (Vairappan 2006; Vairappan et al. 2008). This
+                                                                                                                                                                                                                      process leads to tissue bleached and thallus disintegration
+
+
+
+
+                                                                      1. Bleached thallus and healthy seaweed        1. Combine bleached thallus and healthy
+                       Theoretical suggestion for limiting exposure
+                                                                                                                                                                      1. Uncleaned/un-disinfected equipment can
+                                                                                                                                                                                                                      (Leonardi et al. 2006; Tsiresy et al. 2016). In addition, K.
+                                                                                                                                                                                                                      malesianus propagules used in this study were covered by
+                                                                                                                                                                                                                      numerous black spots and were the first to show signs of
+
+                                                                                                                                                                        increase the risk of ice-ice syndrome/pest
+                                                                                                                                                                                                                      infection by Melanothamnus sp. (Vairappan 2006; Tsiresy
+                                                                                                                                                                                                                      et al. 2016). These black spots are commonly observed
+                                                                                                                                                                                                                      in late February to June in eucheumatoid farms in Sabah
+
+
+
+                       level
+                                                                                                                                                                        transmission to the next cycle (Georgiades
+
+
+
+                                                                        were different in the quality of carrageenan   thallus at post-harvest were affected by the
+                                                                                                                                                                                                                      and both Kappaphycus species are often exposed to this
+                                                                                                                                                                                                                      epi-endophyte (Vairappan 2006; Ali et al. 2020). A strict
+                                                                                                                                                                                                                      quarantine protocol, whilst transporting seaweed propagules
+
+                                                                                                                                                                        et al. (2016)).
+                                                                                                                                                                                                                      between areas should, therefore, be regularly practiced by
+                                                                                                                                                                                                                      the farmers and monitored by the competent authority, to
+                                                                                                                                                                                                                      reduce the risk of introduction and spread of this damaging
+
+
+
+
+                                                                        and gel strength.                              low quality of seaweed, such as low gel
+                                                                                                                                                                                                                      pest. Initial inspection of the health status of the propagules,
+
+
+                                                                                                                                                                      1. Uncleaned rope covered with epiphytes
+                                                                                                                                                                                                                      including of presence of the black spot in the thallus, should
+                                                                                                                                                                                                                      be routinely practiced as a precaution to minimise the spread
+                                                                                                                                                                                                                      of disease and pests. A lack of detection in the initial stage
+                                                                                                                                                                                                                      of this study was assumed to be responsible for the heavy
+
+
+                                                                                                                                                                        or other biofouling left in the surrounding
+                                                                                                                                                                                                                      infestations of Melanothamnus sp. in both farms and species,
+
+
+
+
+                                                                                                                       strength (Mendoza et al. (2002)).
+                                                                                                                                                                                                                      particularly in K. malesianus which indicated to have less
+
+
+
+                       Risk exposure observed
+                                                                                                                                                                                                                      resistance to this pest compared with K. alvarezii.
+                                                                                                                                                                                                                         The biofilm attached to the Kappaphycus thallus, how-
+
+                                                                                                                                                                        water for years
+                                                                                                                                                                                                                      ever, was not found to have any strong influence on the
+                                                                                                                                                                                                                      occurrence of the ice-ice syndrome, irrespective of seaweed
+                                                                                                                                                                                                                      species and whether biosecurity measures were present or
+                                                                                                                                                                                                                      not. However, the biofilm attached to the Kappaphycus thal-
+                                                                                                                                                                                                                      lus was correlated with increasing epi-endophyte growth.
+                                                                                                                                                                                                                      Previous studies have confirmed that biofilms can be detri-
+                                                                                                                                                                                                                      mental for seaweeds due to their aggregation of pathogenic
+                                                                                                                                                                                                                      microorganisms and settlement spores of the various pests
+
+
+                       Risk components                                Harvesting crop
+                                                                                                                                                                                                                      (Wahl et al. 2012; Potin 2012; Tsiresy et al. 2016), as well
+
+                                                                                                                                                                      Equipment
+                                                                                                                                                                                                                      as infectious bacteria causing ice-ice syndrome (Arasamuthu
+                                                                                                                                                                                                                      and Edward 2018; Kopprio et al. 2021). In this study, the
+                                                                                                                                                                                                                      biofilms, irrespective of the cultivation period, were easily
+                                                                                                                                                                                                                      removed by regular farm cleaning. A study by Pang et al.
+
+
+
+Table 8  (continued)
+                                                                                                                                                                                                                      (2015) confirmed that water currents greater than 0.1 m ­s−1
+                                                                                                                                                                                                                      were able to keep the thallus clean from the biofilms; how-
+                                                                                                                                                                                                                      ever, the effect of interactions between the biofilm and the
+                       Process                                        3. Harvest                                                                                                                                      host seaweed is largely thought to be host-specific (Lachnit
+                                                                                                                                                                                                                      et al. 2009; Mancuso et al. 2016).
+
+
+                                                                                                                                                                                                                                                                           13
+3194                                                                               Journal of Applied Phycology (2021) 33:3179–3197
+
+
+Improvement in seaweed quality                                   Vairappan et al. 2010; Kambey et al. 2020b). In this study,
+                                                                 high seawater temperatures up to 30.6 °C, coupled with
+The implementation of biosecurity measures on the                low water movement (average < 0.10 mg ­L−1), may have
+Kappaphycus farm led to a significantly higher quality           stressed the seaweed to uptake the nutrients for photosyn-
+seaweed crop. Numerous studies have previously reported          thesis and growth (Luhan et al. 2015; Kambey and Chung
+that a thallus with the ice-ice syndrome and high epiphyte       2016; Roleda and Hurd 2019; Kambey et al. 2020b, c). In
+and epi-endophyte coverage had reduced seaweed quality           addition, the high variability in salinity in the study area
+compared with healthy (i.e. no ice-ice infection or pest         may have increased the stress on the thallus (Pang et al.
+coverage) thallus (Mendoza et al. 2002; Vairappan et al.         2015). Consequently, a weakening of the thallus may have
+2014; Yong et al. 2014; Periyasamy et al. 2016). This            increased the susceptibility of the thin epidermis layer of
+study reported that ice-ice infected and uncleaned thallus       K. malesianus to the pest Melanothamnus sp. compared
+have a 10–14% reduction in carrageenan yield and 16–45%          with K. alvarezii.
+reduction in gel strength compared with healthy thallus             Our findings have demonstrated that almost all environ-
+produced by the farm with biosecurity measures. The              mental parameters measured in both farms were similar
+ranges of carrageenan yield and gel strength from healthy        in value and concentration, with the exception of pH and
+Kappaphycus in this study were similar to those found            inorganic ­NO3−, but the incidence of ice-ice and pest cov-
+for healthy Kappaphycus in previous studies (53–62%              erage between farms was significantly different. Increasing
+and 193–650 g ­cm−2, respectively) (Mendoza et al. 2002;         temperature and nutrient concentrations, together with low
+Luhan et al. 2015; Ali et al. 2020). With high carrageenan       water current/movement though may be associated with the
+yield and gel strength reported, this study demonstrated         ‘ice-ice-season’ in Malaysia. Site selection and regular envi-
+that biosecurity measures involving the cleaning and             ronmental monitoring are, therefore, extremely important to
+removal of pests, improved seaweed quality and thus, would       enable farmers to manage their farm and production more
+influence the market price of the seaweed. Interestingly,        effectively year-round.
+this study also found that ‘healthy’ K. alvarezii had a better
+carrageenan quality and gel strength compared with healthy       Farm risks identification
+K. malesianus.
+   The SGR of the two Kappaphycus species was higher in          The assessment of biosecurity-related risk on a ‘typical’
+the biosecurity farm compared with farms without biosecu-        Kappaphycus farm provides insight into the potential man-
+rity measures. A reduction in the growth rate of seaweed         agement-based biosecurity measures from the preparation,
+grown on the farm without biosecurity measures was corre-        grow-out to the harvesting stage. No isolation or local quar-
+lated with the high incidence of the ice-ice syndrome, which     antine procedures were observed following the arrival of the
+disintegrated the main or secondary thallus (Hurtado et al.      new propagules prior to deployment on the farm. In the cur-
+2019). To promote high growth rates and to avoid ice-ice         rent study, the health condition of the propagules was only
+syndrome, it is therefore advised, that knowledge of early       superficially assessed visually. Studies have shown, however,
+detection and how to prevent the introduction of causa-          that many pests are microscopic, including the epi-endo-
+tive agents, particularly at the propagule preparation stage,    phyte Melanothamnus sp., (e.g., appearance as black spot),
+should be recommended to farmers and included in any             which has spores that reside inside the thallus (Vairappan
+farming best practice guidelines.                                2006; Tsiresy et al. 2016; Largo et al. 2020). This stage of
+                                                                 the process, therefore, was considered as high risk in terms
+Environmental influences on ice‑ice syndrome                     of biosecurity, even though the propagules were purchased
+and pests                                                        from an ‘ice-ice-free’ or ‘less infected’ area. Isolation of
+                                                                 the new propagule may, therefore, be an important initial
+In general, certain environment parameters can signifi-          preventative measure to detect any occurrence of ice-ice syn-
+cantly increase the risk of an ice-ice or pest outbreak.         drome or pests to reduce the contamination risk (Sulu et al.
+Regular environmental monitoring has been shown to               2004; DOFM 2012; Araujo et al. 2020).
+limit the farm risk related to ice-ice and pest outbreaks           The propagule preparation time was also identified
+since, for example ice-ice syndrome has been shown to            as a high risk for the ice-ice syndrome, due to potential
+occur seasonally (Vairappan et al. 2008, 2014; Pang et al.       desiccation of the thallus. In this study, longer air exposure
+2015; Ward et al. 2020). Numerous experiments have also          prior to the deployment stage led to tip bleaching and thallus
+shown that extreme temperatures, heatwaves, high fluc-           fragmentation in the early cultivation period. Equipment,
+tuations in salinity, high light intensity, low water cur-       particularly ropes, was also highlighted as high risk for
+rent and lack of water movement can trigger ice-ice syn-         introducing or spreading the causative agents of the ice-ice
+drome in Kappaphycus species (Largo et al. 1995, 2020;           syndrome and pests on the farm (Ganesan et al. 2015; Tsiresy
+
+
+13
+Journal of Applied Phycology (2021) 33:3179–3197                                                                                           3195
+
+et al. 2016). The use of natural disinfectant processes, such    including (1) lack of propagule monitoring (early detec-
+as sun-drying for farm equipment and ropes is, therefore,        tion and preventative treatment of the epi-endophytes) in
+recommended to de-activate the pathogenic organisms              the preparation stage, (2) lack of cleaning the farm ropes
+(Rodgers et al. 2015; Georgiades et al. 2016), and to reduce     and crop from pests and bleached thallus, (3) reduced water
+the operational costs of buying new equipment (Department        motion/ current and (4) discarding of the pests and the
+of Standards Malaysia 2012). New ropes were used in this         infected thallus into the water column. This lack of a ‘whole
+study, but without cleaning treatment, the occurrence of         system’ biosecurity approach has resulted in a significant
+ice-ice syndrome on Kappaphycus seaweed was found high.          decline in general production and crop quality on seaweed
+The disinfection process followed by cleaning treatment,         Kappaphycus farms in Malaysia and across South-East Asia.
+therefore, should be a standard requirement as a biosecurity     Employing relatively simple cleaning methods to remove
+measure in Kappaphycus farms.                                    the macroalgal epiphytes and biofilm on the seaweed thal-
+   In the grow-out phase, this study recommends the              lus and ropes, in combination with quarantine procedures to
+removal of infected thallus and pests, and their disposal in     detect filamentous epi-endophytes and throughout the entire
+landfill and not into the adjacent water, as usually practiced   cultivation period, either in the normal or ‘ice-ice season’,
+by the farmer. This biosecurity measure should be consid-        can lead to a significant reduction in the incidence of the
+ered as a high priority in farm management to avoid the          ice-ice syndrome and pests on the farm. Further studies
+likelihood of spreading pathogenic agents to other parts of      though are recommended to determine the optimum farm
+the farm or underlying sediment (Pang et al. 2015; Ganesan       site and seasonal variations in biosecurity measures, as well
+et al. 2015; Arasamuthu and Edward 2018; Campbell et al.         as, conducting a full cost-benefit analysis of these biosecu-
+2019). In addition, the farmers often re-used the healthy        rity measures to strengthen the supportive evidence-base so
+part of the infected and bleached thalli as new propagules       that these measures can be replicated and scaled up across
+for the next cycle without any detection measures (Farmer,       the Kappaphycus industry nationally and globally.
+M. Bangkoko, pers. comm). This practice could explain
+why the ice-ice syndrome and pest infestation have propa-        Acknowledgements The authors would like to acknowledge to Global
+                                                                 SeaweedSTAR Malaysian Team, Fisheries officer for the Semporna
+gated from one to another farm. In the harvest stage, the        area and Mr. M Bangkoko (seaweed farmer) who assisted the authors
+farmers also often mix the infected with the healthy thallus     during fieldwork.
+at the post-harvest processing stage, which can lower the
+end-product quality. This inadequate practice can reduce         Funding This work was part of the GlobalSeaweedSTAR project sup-
+the market purchasing price and affect the farmer-buyer          ported by the UK Research and Innovation - Global Challenge Research
+                                                                 Fund (GCRF), Biotechnology and Biological Sciences Research Coun-
+relationship (Mariño et al. 2019; Nor et al. 2020). There-       cil Grant 2017 No. BB/PO27806/1; University of Malaya Grant No.
+fore, incentives will need to be provided by the competent       IF015-2019 and Higher Center of Excellence (HiCoE) grant funded by
+authority to enable the new recommendations to be fully          the Ministry of Higher Education IOES-2014H.
+implemented.
+   Effective biosecurity measures should, therefore, require     Open Access This article is licensed under a Creative Commons Attri-
+                                                                 bution 4.0 International License, which permits use, sharing, adapta-
+a comprehensive understanding of every stage in the farming      tion, distribution and reproduction in any medium or format, as long
+process, including the introduction pathways of the caustic      as you give appropriate credit to the original author(s) and the source,
+agents for ice-ice syndrome and pests. The critical control      provide a link to the Creative Commons licence, and indicate if changes
+points on the Kappaphycus farm should be identified to           were made. The images or other third party material in this article are
+                                                                 included in the article’s Creative Commons licence, unless indicated
+inform management decisions, particularly in an industry         otherwise in a credit line to the material. If material is not included in
+such as eucheumatoid farming, which currently has minimal        the article’s Creative Commons licence and your intended use is not
+biosecurity-related policy and guidance (Mateo et al. 2020;      permitted by statutory regulation or exceeds the permitted use, you will
+Rusekwa et al. 2020; Kambey et al. 2020a).                       need to obtain permission directly from the copyright holder. To view a
+                                                                 copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+
+
+Conclusions
+                                                                 References
+This study investigated the application of biosecurity meas-
+ures in a commercial seaweed Kappaphycus farm. To our            Ali MKM, Critchley AT, Hurtado AQ (2020) The impacts of AMPEP
+knowledge, this work represents the first study to assess the         K+ (Ascophyllum marine plant extract, enhanced with potassium)
+                                                                      on the growth rate, carrageenan quality, and percentage incidence
+use of biosecurity measures to reduce ice-ice syndrome and
+                                                                      of the damaging epiphyte Neosiphonia apiculata on four strains
+pest outbreaks on a commercial Kappaphycus farm. The                  of the commercially important carrageenophyte Kappaphycus,
+results from this study highlighted four contributing fac-            as developed by micropropagation techniques. J Appl Phycol
+tors in heightening the risk of an ice-ice or pest outbreaks          32:1907–1916
+
+
+                                                                                                                                   13
+3196                                                                                             Journal of Applied Phycology (2021) 33:3179–3197
+
+Arasamuthu A, Edward JKP (2018) Occurrence of ice-ice disease in            Ingle KN, Polikovsky N, Chemodanov A, Golberg A (2018) Marine
+     seaweed Kappaphycus alvarezii at Gulf of Mannar and Palk Bay,               integrated pest management (MIPM) approach for sustainable
+     Southeastern India. Indian J Geo-Marine Sci 47:1208–1216                    seagriculture. Algal Res 29:223–232
+Araujo PG, Nardelli AE, Gelli VC, Fujii MT, Chow F (2020) Monitor-          Kambey C, Chung IK (2016) A stella model for evaluating the effi-
+     ing environment risk of the exotic species Kappaphycus alvarezii            ciency of integrated multi-tropic aquaculture system (IMTA).
+     (Rhodophyta) after two decades of introduction in Southestern               Aquacult Indo 16:38–49
+     Brazil. Bot Mar 63:551–558                                             Kambey CSB, Campbell I, Sondak CFA, Nor ARM, Lim PE, Cottier-
+Azanza RV, Ask EI (2017) Reproductive biology and ecophysiology                  Cook EJ (2020) An analysis of the current status and future of
+     of farmed Kappaphycus and Eucheuma. In: Hurtado AQ, Chritch-                biosecurity frameworks for the Indonesian seaweed industry. J
+     ley AT, Neish IC (eds) Tropical seaweed farming trends, prob-               Appl Phycol 32:2147–2160
+     lems and opportunities: focus on Kappaphycus and Eucheuma.             Kambey CSB, Sondak CFA, Chung IK (2020b) Potential growth and
+     Springer, Cham, pp 45–53                                                    nutrient removal of Kappaphycus alvarezii in a fish floating-net
+Bondad-Reantaso MG, Sumption K, Subasinghe R, Lawrence M,                        cage system in Sekotong Bay, Lombok, Indonesia. J World Aqua-
+     Berthe F (2018) Progressive management pathway to improve                   cult Soc 51:944–959
+     aquaculture biosecurity (PMP/AB)1. FAO Aquac Newslett                  Kambey CSB, Kang JW, Chung IK (2020c) Impact of temperature,
+     58:9–11                                                                     low pH and ­NH4+ enrichment on ecophysiological responses
+Campbell I, Macleod A, Sahlmann C, Neves L, Funderud J, Overland                 of a green tide species Ulva australis Areschoug. Ocean Sci J
+     M, Hughes AD, Stanley M (2019) The environmental risks                      55:115–127
+     associated with the development of seaweed farming in Europe-          Kaur CR, Ang MGH (2009) Seaweed culture and utilization in Malay-
+     prioritizing key knowledge gaps. Front Mar Sci 6:1–22                       sia: status, challenges and economic potential. Paper presented at
+Campbell I, Kambey CSB, Mateo JP, Rusekwa SB, Hurtado AQ,                        the Seminar on Developing the Seaweed Aquaculture Sector in
+     Msuya FE, Stentiford G, Cottier-Cook EJ (2020) Biosecurity                  Malaysia. MIMA Bull 16:32–36
+     policy and legislation for the global seaweed aquaculture industry.    Kim JK, Yarish C, Hwang EK, Park M, Kim Y (2017) Seaweed aqua-
+     J Appl Phycol 32:2133–2146                                                  culture: cultivation technologies, challenges, and its ecosystem
+Chung IK, Sondak CFA, Beardall J (2017) The future of seaweed aqua-              service. Algae 32:1–13
+     culture in a rapidly changing world. Eur J Phycol 52:495–505           Kopprio GA, Cuong LH, Luyen ND, Duc TM, Ha TH, Huong LM,
+Cottier-Cook EJ, Nagabhatla N, Badis Y, Campbell M, Chopin T, Dai                Gardes A (2021) Carrageenophyte-attached and planktonic bacte-
+     W, Fang J, He P, Hewitt C, Kim GH, Huo Y, Jiang Z, Kema G,                  rial communities in two distinct bays of Vietnam: eutrophication
+     Li X, Liu F, Liu H, Lu Q, Luo Q, Mao Y, Msuya FE, Rebours C,                indicators and insights on ice-ice disease. Ecol Indic 121:107067
+     Shen H, Stentiford GD, Yarish C, Wu H, Yang Z, Zhang J, Zhou           Kumar YN, Poong SW, Gachon C, Brodie J, Sade A, Lim PE (2020)
+     Y, Gachon CMM (2016) Safeguarding the future of the global sea-             Impact of elevated temperature on the physiological and biochem-
+     weed aquaculture industry. United National University (INWEH)               ical responses of Kappaphycus alvarezii (Rhodophyta). PLoS One
+     and Scottish Association for Marine Science Policy Brief. ISBN              15:e0239097
+     978– 92–808-6080 pp 1–12                                               Lachnit T, Blümel M, Imhoff JF, Wahl M (2009) Specific epibacterial
+Department of Standards Malaysia (2012) Seaweed cultivation-code of              communities on macroalgae: phylogeny matters more than habitat.
+     practices MS No. 2467. Standards Malaysia 2012. 6 pp                        Aquat Biol 5:181–186
+DOFM (2012) Manual pengkulturan rumpai laut (Kappaphycus/                   Largo DB, Fukami K, Nishijima T (1995) Occasional pathogenic
+     Eucheuma). Jabatan Perikanan Malaysia. 66 pp                                bacteria promoting ice-ice disease in the carrageenan-producing
+DOFM (2020) Portal Resmi Jabatan Perikanan. Department Fisheries                 red algae Kappaphycus alvarezii and Eucheuma denticulatum
+     Malaysia. https://​www.​dof.​gov.​my (Visit 7 Sept, 2020)                   (Solieriaceae, Gigartinales, Rhodophyta). J Appl Phycol
+Duarte CM, Wu J, Xiao X, Bruhn A, Krause-Jensen D (2017) Can                     7:545–554
+     seaweed farming play a role in climate change mitigation and           Largo DB, Msuya FE, Menezes A (2020) Understanding disease and
+     adaptation? Front Mar Sci 4:1–8                                             control in seaweed farming in Zanzibar. FAO Fisheries and Aqua-
+Eranza DR, Bahron A, Alin J, Mahmud R, Malusirang S (2017) On                    culture Technical Paper No 662. FAO, Rome
+     going assessment of issues in the seaweed farming industry in          Leonardi PI, Miravalles AB, Faugeron S, Flores V, Beltrán J, Correa
+     Sabah, Malaysia. J Asian Acad Appl Bus 4:49–60                              JA (2006) Diversity, phenomenology and epidemiology of epi-
+FAO (2020) The State of World Fisheries and Aquaculture 2020. Sus-               phytism in farmed Gracilaria chilensis (Rhodophyta) in Northern
+     tainability in action. Rome, 206 pp                                         Chile. Eur J Phycol 41:247–257
+Fasina FO, Ali AM, Yilma YM, Thieme O, Ankers P (2012) The cost-            Lim PE, Tan J, Phang SM, Nikmatullah A, Hong DD, Sunarpi H,
+     benefit of biosecurity measures on infectious disease in the Egyp-          Hurtado AQ (2013) Genetic diversity of Kappaphycus Doty and
+     tian household poultry. Prev Ved Med 103:178–191                            Eucheuma J. Agardh (Solieriaceae, Rhodophyta) in Southeast
+Ganesan M, Selvaraj K, Chithra K, Sirajudeen S (2015) Epiphytism                 Asia. J Appl Phycol 26:1253–1272
+     differences in Gelidiella acerosa cultivated with floating rafts and   Loureiro RR, Hurtado AQ, Chritchley AT (2017) Impact of AMPEP
+     concrete blocks. J Appl Phycol 27:399–412                                   on epiphytes and diseases in Kappaphycus and Eucheuma
+Georgiades E, Fraser R, Jones B (2016) Options to strengthen on-farm             cultivation. In: Hurtado AQ, Critchley AT, Neish IC (eds) Tropical
+     biosecurity management for commercial and non-commercial                    seaweed farming trends, problems and opportunities: focus on
+     aquaculture. Prepared for the Aquaculture Unit, Ministry for Pri-           Kappaphycus and Eucheuma. Springer, Cham, pp 111–120
+     mary Industries. MPI Technical Paper No: 2016/47. 360 pp               Luhan MRJ, Avañcena SS, Mateo JP (2015) Effect of short-term
+Hester SM, Cacho OJ (2017) The contribution of passive surveillance              immersion of Kappaphycus alvarezii (Doty) Doty in high nitro-
+     to invasive species management. Biol Invasions 19:737–748                   gen on the growth, nitrogen assimilation, carrageenan quality, and
+Hurtado AQ, Neish IC, Critchley AT (2019) Phyconomy: the extensive               occurrence of “ice-ice” disease. J Appl Phycol 27:917–922
+     cultivation of seaweeds, their sustainability and economic value,      Mancuso FP, D’Hondt S, Willems A, Airoldi L, De Clerck O (2016)
+     with particular reference to important lessons to be learned and            Diversity and temporal dynamics of the epiphytic bacterial com-
+     transferred from the practice of eucheumatoid farming. Phycolo-             munities associated with the canopy-forming seaweed Cystoseira
+     gia 58:472–483                                                              compressa (Esper) Gerloff and Nizamuddin. Front Microbiol
+                                                                                 7:476
+
+
+13
+Journal of Applied Phycology (2021) 33:3179–3197                                                                                            3197
+
+Mariño M, Breckwoldt A, Teichberg M, Kasec A, Reuter H (2019)            Subasinghe RP, Delamare-Deboutteville J, Mohan CV, Phillips MJ
+     Livelihood aspects of seaweed farming in Rote Island, Indonesia.         (2019) Vulnerabilities in aquatic animal production. Rev Sci Tech
+     Mar Policy 107:103600                                                    Off Int Epiz 38:423–436
+Mateo JP, Campbell I, Cottier-Cook EJ, Luhan MRJ, Ferriols VMEN,         Sulu R, Kumar L, Hay C, Pickering T (2004) Kappaphycus seaweed
+     Hurtado AQ (2020) Analysis of biosecurity-related policies gov-          in the Pacific: review of introductions and field testing proposed
+     erning the seaweed industry in the Philippines. J Appl Phycol            quarantine protocols. Secretariat of the Pacific Community,
+     32:2009–2022                                                             Noumea pp 1–84
+Mendoza WG, Montaño NE, Ganzon-Fortes ET, Villanueva RD                  Tsiresy G, Preux J, Lavitra T, Dubois P, Lepoint G, Eeckhaut I (2016)
+     (2002) Chemical and gelling profile of ice-ice infected car-             Phenology of farmed seaweed Kappaphycus alvarezii infestation
+     rageenan from Kappaphycus striatum (Schmitz) Doty “sacol”                by the parasitic epiphyte Polysiphonia sp. in Madagascar. J Appl
+     strain (Solieriaceae, Gigartinales, Rhodophyta). J Appl Phycol           Phycol 28:2903–2914
+     14:409–418                                                          Vairappan CS (2006) Seasonal occurrence of epiphytic algae on
+Mohan CV, Phillips MJ, Bhat BV, Umesh NR, Padiyar PA (2008)                   the commerciallly cultivated red alga Kappaphycus alvarezii
+     Farm-level plans and husbandry measures for aquatic animal               (Solieriaceae, Gigartinales, Rhodophyta). J Appl Phycol 18:611–617
+     disease and emergencies. Rev Sci Tech Off Int Epiz 27:161–173       Vairappan CS, Chung CS, Hurtado AQ, Soya FE, Lhonneur GB,
+Nor AM, Gray TS, Caldwell GS, Stead SM (2017) Is a cooperative                Critchley A (2008) Distribution and symptoms of epiphyte infec-
+     approach to seaweed farming effectual? An analysis of seaweed            tion in major carrageenophyte-producing farms. J Appl Phycol
+     cluster project (SCP) Malaysia. J Appl Phycol 29:2323–2337               20:477–483
+Nor AM, Gray TS, Caldwell GS, Stead SM (2020) A value chain analy-       Vairappan CS, Anangdan SP, Tan KL, Matsunaga S (2010) Role of
+     sis of Malaysia’s seaweed industry. J Appl Phycol 32:2161–2171           secondary metabolites as defense chemicals against ice-ice dis-
+Pang T, Liu J, Liu Q, Li H, Li J (2015) Observations on pests and             ease bacteria in biofouler at carrageenophyte farms. J Appl Phycol
+     diseases affecting a eucheumatoid farm in China. J Appl Phycol           22:305–311
+     27:1975–1984                                                        Vairappan CS, Chung CS, Matsunaga S (2014) Effect of epiphyte infec-
+Periyasamy C, Rao PVS, Anantharaman P (2016) Spatial and tempo-               tion on physical and chemical properties of carrageenan produced
+     ral variation in carrageenan yield and gel strength of cultivated        by Kappaphycus alvarezii Doty (Soliericeae, Gigartinales, Rho-
+     Kappaphycus alvarezii (Doty) Doty in relation to environmental           dophyta). J Appl Phycol 26:923–931
+     parameters in Palk Bay Waters, Tamil Nadu, Southeast coast of       Valderrama D, Cai J, Hishamunda N, Ridler N, Neish IC, Hurtado AQ,
+     India. J Appl Phycol 28:525–532                                          Msuya FE, Krishnan M, Narayanakumar R, Kronen M, Robledo
+Potin P (2012) Intimate associations between epiphytes, endophytes,           D, GascaLeyva E, Fraga J (2015) The economics of Kappaphycus
+     and parasites of seaweeds. In: Bischof K, Wiencke C (eds) Sea-           seaweed cultivation in developing countries: a comparative analy-
+     weed biology: novel insights into ecophysiology, ecology and             sis of farming systems. Aquac Econ Manag 19:251–277
+     utilization. Springer, New York, pp 203–234                         Wahl M, Goecke F, Labes A, Dobretsov S, Weinberger F (2012) The
+Rodgers CJ, Carnegie RB, Chavez-Sanchez MC, Martinez-Chavez                   second skin: ecological role of epibiotic biofilms on marine organ-
+     CC, Furones Nozal MD, Hine PM (2015) Legislative and regula-             isms. Front Microbiol 3:292
+     tory aspect of molluscan health management. J Invertebr Pathol      Walls AM, Edwards MD, Firth LB, Johnson MP (2017) Successional
+     131:242–255                                                              changes of epibiont fouling communities of the cultivated kelp
+Roleda MY, Hurd CL (2019) Seaweed nutrient physiology: applica-               Alaria esculenta: predictability and influences. Aqua Environ
+     tion of concepts to aquaculture and bioremediation. Phycologia           Interact 9:57–71
+     58:552–562                                                          Ward GM, Faisan-Jr JP, Cottier-Cook EJ, Gachon C, Hurtado AQ,
+Rusekwa SB, Campbell I, Msuya FE, Buriyo AS, Cottier-Cook EJ                  Lim PE, Matoju I, Msuya FE, Bass D, Brodie J (2020) A review
+     (2020) Biosecurity policy and legislation of the seaweed aquacul-        of reported seaweed diseases and pests in aquaculture in Asia. J
+     ture industry in Tanzania. J Appl Phycol 32:4411–4422                    World Aquacult Soc 51:815–828
+Sade A, Ali I, Ariff MRM (2006) The seaweed industry in Sabah, East      WWF (2014) Better management practices: budidaya rumput laut
+     Malaysia. Jati 2:97–107                                                  kotoni (Kappaphycus), sacol (K. striatum) and spinosum
+Sahu SK, Ingle KN, Mantri VA (2020) Epiphytism in seaweed farm-               (Eucheuma denticulatum). WWF Indonesia, 48 pp
+     ing: causes, status, and implications. In: Gothandam K, Ranjan      Yong WTL, Chin JYY, Thien VY, Yasir S (2014) Evaluation of growth
+     S, Dasgupta N, Lichtfouse E (eds) Environmental Biotechnology            rate and semi-refined carrageenan properties of tissue-cultured
+     Vol. 1. Environmental Chemistry for a Sustainable World, vol 44.         Kappaphycus alvarezii (Rhodophyta, Gigartinales). Phycol Res
+     Springer, Cham, pp 227–242                                               62:316–321
+Scarfe AD, Palić D (2020) Aquaculture biosecurity: practical
+     approach to prevent, control, and eradicate diseases. Aqua Health   Publisher’s note Springer Nature remains neutral with regard to
+     Manag:75–116                                                        jurisdictional claims in published maps and institutional affiliations.
+
+
+
+
+                                                                                                                                    13
+

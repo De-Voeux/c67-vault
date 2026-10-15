@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-14",
+  "type": "targeted_search",
+  "records": [
+    {
+      "citation_key": "W01",
+      "author_year": "Azizi et al. (2018)",
+      "title": "Evaluation of disease resistance and tolerance to elevated temperature stress of the selected tissue-cultured Kappaphycus alvarezii under optimized laboratory conditions",
+      "url": "https://link.springer.com/article/10.1007/s13205-018-1354-4",
+      "read_scope": "abstract penerbit",
+      "relevance": "Challenge bakteri dan suhu; respons berbeda menurut asal host."
+    },
+    {
+      "citation_key": "W02",
+      "author_year": "Faisan et al. (2024a)",
+      "title": "Seasonal growth, carrageenan properties, and resistance to disease and epiphytic pests between tissue-cultured and farm-sourced Kappaphycus alvarezii",
+      "url": "https://link.springer.com/article/10.1007/s10811-023-03164-z",
+      "read_scope": "abstract penerbit",
+      "relevance": "Tiga run 60 hari; onset teramati DOC45–60; asal bibit membedakan kejadian IID."
+    },
+    {
+      "citation_key": "W03",
+      "author_year": "Faisan et al. (2024b)",
+      "title": "Temporal variation in the incidence of seaweed health problems affecting farmed Kappaphycus striatus in relation to environmental conditions in shallow waters",
+      "url": "https://link.springer.com/article/10.1007/s10811-024-03242-w",
+      "read_scope": "abstract penerbit / abstract PDF terindeks; full PDF institusi diblokir",
+      "relevance": "Monitoring 12 bulan satu farm; asosiasi IID dengan cuaca/lingkungan, bukan validasi future forecast."
+    },
+    {
+      "citation_key": "W04",
+      "author_year": "Gacura et al. (2025)",
+      "title": "To plant or not to plant? Nutrient uptake, growth, and biochemistry of eucheumatoids under low salinity as influenced by nutrient-rich freshwater outflow",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jpy.70044",
+      "read_scope": "abstract dan metadata penerbit",
+      "relevance": "Salinitas/nutrisi dimanipulasi bersama; pertumbuhan bukan endpoint IID."
+    },
+    {
+      "citation_key": "W05",
+      "author_year": "Li et al. (2026)",
+      "title": "Hyposalinity disrupts photosynthesis and induces oxidative stress leading to ice-ice disease development in Eucheuma denticulatum",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2211926425005855",
+      "read_scope": "abstract/highlights penerbit melalui search; full text tidak diakses",
+      "relevance": "PSII mendahului gejala pada uji hiposalinitas; belum lead time field alarm."
+    },
+    {
+      "citation_key": "W06",
+      "author_year": "Taenzer et al. (2024)",
+      "title": "Assessment of hydrogen peroxide as a bioindicator of stress in seaweed aquaculture",
+      "url": "https://www.nature.com/articles/s41598-024-52182-5",
+      "read_scope": "PDF full text; Results/Discussion/Methods relevan",
+      "relevance": "H2O2 sebagai biomarker stres pada Ulva/Palmaria; analogi, bukan validasi IID Kappaphycus."
+    },
+    {
+      "citation_key": "W07",
+      "author_year": "Faisan et al. (2025)",
+      "title": "Comparative analysis of the temporal abundance of the epiphytic pest, Melanothamnus thailandicus, affecting farmed Kappaphycus striatus: Visual and molecular detection approaches",
+      "url": "https://link.springer.com/article/10.1007/s10811-025-03620-y",
+      "read_scope": "abstract penerbit",
+      "relevance": "PCR mendeteksi epifit pada thallus visual sehat; bukan future IID prediction."
+    },
+    {
+      "citation_key": "W08",
+      "author_year": "Luhan et al. (2015)",
+      "title": "Effect of short-term immersion of Kappaphycus alvarezii in high nitrogen on the growth, nitrogen assimilation, carrageenan quality, and occurrence of ice-ice disease",
+      "url": "https://link.springer.com/article/10.1007/s10811-014-0365-8",
+      "read_scope": "abstract penerbit",
+      "relevance": "Intervensi nitrogen; tidak menentukan cutoff nutrient-air."
+    },
+    {
+      "citation_key": "W09",
+      "author_year": "Pang et al. (2015)",
+      "title": "Observations on pests and diseases affecting a eucheumatoid farm in China",
+      "url": "https://link.springer.com/article/10.1007/s10811-014-0507-z",
+      "read_scope": "abstract penerbit",
+      "relevance": "Outbreak EFA/IID dan perbedaan spesies pada waktu/lokasi sama; tidak mengisolasi efek EFA."
+    },
+    {
+      "citation_key": "W10",
+      "author_year": "Sondak et al. (2025)",
+      "title": "Evaluation of effectiveness on-farm biosecurity measure practices to the productivity of Eucheuma denticulatum at Nain Island, Indonesia",
+      "url": "https://link.springer.com/article/10.1007/s44289-025-00065-6",
+      "read_scope": "full text Methods/Results/Discussion relevan",
+      "relevance": "Tiga farm / enam bulan; paket biosecurity, gejala pucat awal, pengukuran dua mingguan."
+    },
+    {
+      "citation_key": "W11",
+      "author_year": "Barillé et al. (2025)",
+      "title": "Variability of Kappaphycus alvarezii cultivation in South-Sulawesi related to the monsoon shift: Water quality, growth and colour quantification",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352513424006458",
+      "read_scope": "highlights penerbit melalui search",
+      "relevance": "Musim dengan IID juga memiliki pertumbuhan/produksi tertinggi; penyakit tidak identik dengan hasil bersih terendah."
+    },
+    {
+      "citation_key": "W12",
+      "author_year": "Hardiana et al. (2026)",
+      "title": "Mapping the relocation and expansion of Kappaphycus alvarezii cultivation units based on rainfall and sea surface temperature from high and low resolution satellite data in Bone Bay, Indonesia",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/01431161.2026.2648101",
+      "read_scope": "abstract dan excerpt Methods penerbit melalui search",
+      "relevance": "Pemetaan area/unit budidaya, bukan prediksi IID sebelum gejala."
+    },
+    {
+      "citation_key": "W13",
+      "author_year": "Largo et al. (1995a)",
+      "title": "Laboratory-induced development of the ice-ice disease of the farmed red algae Kappaphycus alvarezii and Eucheuma denticulatum",
+      "url": "https://link.springer.com/article/10.1007/BF00003940",
+      "read_scope": "abstract penerbit; diperiksa pada diskusi threshold",
+      "relevance": "PAR/suhu menginduksi whitening; wound injury tidak menginduksi whitening serupa pada uji ini. HTML salinitas bermasalah."
+    },
+    {
+      "citation_key": "W14",
+      "author_year": "Aris, Ibrahim, & Labenua (2022, conference abstract)",
+      "title": "Development of PCR technic with specific primer for quick detection of bacterial pathogen causing ice ice disease on seaweed",
+      "url": "https://www.was.org/Meeting/Program/PaperDetail/159724",
+      "read_scope": "abstract konferensi penyelenggara",
+      "relevance": "PCR strain-spesifik; turnaround sekitar6jam bukan leadtime atau disease-risk threshold."
+    }
+  ]
+}

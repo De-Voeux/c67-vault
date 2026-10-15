@@ -1,0 +1,407 @@
+B IOD I V E R S I TA S                                                                                                        ISSN: 1412-033X
+Volume 25, Number 3, March 2024                                                                                             E-ISSN: 2085-4722
+Pages: 964-970                                                                                                    DOI: 10.13057/biodiv/d250308
+
+
+
+
+    Isolation and identification of bacterial pathogens causing ice-ice
+disease in Eucheuma cottonii seaweed at Seira Island Waters, Tanimbar
+                   Islands District, Maluku, Indonesia
+
+            NOVIANTY C. TUHUMURY1,, JACQUELINE M. F. SAHETAPY2, JOLEN MATAKUPAN2
+   1Department of Aquatic Resources Management, Faculty of Fisheries and Marine Sciences, Universitas Pattimura. Jl. Chr. Soplanit, Kampus Poka,
+
+                                  Ambon, Indonesia. Tel. +62-811-472239, email: noviantytuhumury@gmail.com
+   2Department of Aquaculture, Faculty of Fisheries and Marine Sciences, Universitas Pattimura. Jl. Chr. Soplanit, Kampus Poka, Ambon, Indonesia
+
+
+
+                                    Manuscript received: 3 September 2023. Revision accepted: 12 March 2024.
+
+
+
+Abstract. Tuhumury NC, Sahetapy JMF, Matakupan J. 2024. Isolation and identification of bacterial pathogens causing ice-ice disease
+in Eucheuma cottonii seaweed at Seira Island Waters, Tanimbar Islands District, Maluku, Indonesia. Biodiversitas 25: 964-970.
+Seaweed cultivation has proven to be beneficial and enhances the well-being of communities. Production of seaweed in the waters of
+Maluku has increased despite facing the problem of ice-ice disease. Therefore, this research aimed to isolate and identify bacteria on the
+Eucheuma cottonii seaweed species affected by ice-ice disease in the waters of Seira Island, Tanimbar Islands District, Maluku. It was
+conducted in August 2023 at three observation stations, and water quality samples were collected in situ at all three stations, including
+temperature, salinity, pH, dissolved oxygen (DO), and turbidity. Furthermore, bacterial isolation and identification were carried out at
+the Laboratory of Marine Aquaculture, Ambon. Bacteria isolation and purification were performed on TCBS media using the streak
+plate technique, while identification used the API 20E test. The results showed that water quality parameters supported seaweed growth.
+Four bacteria that caused ice-ice disease in the waters of Seira were identified as Vibrio alginolyticus, Vibrio fluvalis, Vibrio cholerae,
+and Aeromonas caviae. Moreover, all four bacteria found were gram-negative and pathogenic. Bacteria belonging to the genera Vibrio
+and Aeromonas have been proven to cause infections in marine organisms, including seaweed. In conclusion, four types of bacteria were
+identified in seaweed affected by ice-ice disease.
+
+Keywords: API 20E, bacteria, Eucheuma cottonii, ice-ice disease, Seira Island
+
+
+                       INTRODUCTION                                        provided livelihoods and fulfilled the needs of cultivators
+                                                                           for sustenance and necessities (Larson et al. 2021).
+    Seaweed production in Indonesia is crucial in the global               Therefore, seaweed can be used for the welfare of the
+industry. As the world's largest producer, Indonesia                       Indonesian people.
+contributes significantly to meeting the global demand for                     Considering the potential and significant economic
+various types of seaweed (Efendi et al. 2015). According to                value of seaweed, efforts to increase production are necessary
+recent data, the production accounts for 98% of the total                  (Zhang et al. 2022). The success depends on selecting
+Indonesian mariculture production and contributes to 84%                   suitable cultivation locations, selecting and ensuring the
+of the overall value (Mulyaningrum et al. 2019). Seaweed                   availability of seedlings, adopting appropriate cultivation
+is a beneficial resource due to its high nutritional value and             methods, maintaining regular care to prevent diseases, and
+the presence of bioactive components (Xu et al. 2023).                     implementing effective harvesting processes (Abdullah et
+Despite being one of the important marine natural resources                al. 2020). One recurring challenge faced by cultivators is
+in Indonesia, seaweed has not been maximally managed,                      ice-ice disease (Ward et al. 2021). Previous studies showed
+which stands as a flagship commodity within fisheries and                  that seaweed affected by the ice-ice disease is characterized
+marine industries (Bintang et al. 2019). This is due to the                by excessive mucus production and the presence of white
+vast potential of Indonesian waters that support the                       spots on the thallus, causing the plant to become brittle
+development of seaweed, but it has not been adequately                     (Tahiluddin and Terzi 2021). The onset of this disease is
+used. The characteristics of the Maluku region, consisting                 associated with alterations in environmental water conditions,
+of island seas, strongly support the growth of seaweed                     rendering seaweed more vulnerable to bacterial infections
+(Basir et al. 2017). According to data from the Maluku                     (Ward et al. 2020). Changes in water quality parameters
+Maritime and Fisheries Office, seaweed production in the                   include temperature, salinity, and weak currents (Arasamuthu
+Maluku Province reached 71,928 tons in 2021, with the                      and Edward 2018). Currents are also important in the
+largest contribution coming from the Tanimbar Islands                      cleansing process and the removal of particles adhering to
+District at 34,573 tons. However, only 10% of the water in                 seaweed. Moreover, the influence of epiphytes adhering to
+this district is used for seaweed cultivation. This commodity              the thallus affects the growth. Epiphytes, as disruptive or
+has been proven to enhance the coastal community's                         parasitic plants, derive nutrients from seaweed, facilitating
+economy (Rimmer et al. 2021). Sales of dried seaweed                       bacterial infection (Badraeni et al. 2020).
+                                       TUHUMURY et al. – Bacterial identification in seaweed                                     965
+
+    One of seaweed species most commonly found in                    in the waters of Seira Island, Tanimbar Islands District,
+Indonesian seawater is Eucheuma cottonii, which is                   Maluku. For the people of Seira Island, seaweed cultivation
+cultivated for food and non-food purposes (Supriyono et al.          is the only source of income, hence, harvest failure due to
+2022). Eucheuma cottonii is a species that belongs to                ice-ice disease is causing unrest. A single cultivator was
+Rhodophyceae class (Sudirman et al. 2018). This species              able to produce 1 to 2 tons of dried seaweed in 2022, but
+produces carrageenan (Diharmi et al. 2019), an additive              the subsequent year experienced a significant decrease
+used to thicken and preserve food and drinks. Carrageenan            (personal communication with seaweed farmer, Mr.
+is very important for the resistance of seaweed in high              Simon). To effectively manage ice-ice disease, it is
+salinity environments because it plays a role in maintaining         important to identify the bacterial pathogens responsible
+ion balance in cells (Rijoly et al. 2020). The industrial            for the occurrence in E. cottonii cultivation. Therefore, this
+demand for carrageenan, specifically in the food and                 study was conducted to isolate and identify bacteria in E.
+beverage sector, is quite high in accordance with market             cottonii seaweed affected by ice-ice disease in the waters of
+demand. Moreover, excessive acidity or alkalinity in the             Seira Island, Tanimbar Islands District, Maluku, Indonesia.
+water can affect carrageenan content in seaweed
+(Mujiyanto et al. 2020). This plant is widely cultivated in
+Asian, African, and Oceania countries because of the                               MATERIALS AND METHODS
+abundance and high economic value. However, ice-ice
+disease, along with epiphytes, is a major problem in                 Study area
+Eucheuma cultivation. The characteristics of seaweed                     This study was conducted in the water of Seira Island,
+infected with ice-ice are marked by the loss of                      Tanimbar Islands District, Maluku, in August 2023 (Figure
+pigmentation in the thallus, followed by the detachment of           1). Meanwhile, water and seaweed samples were collected
+seaweed from the cultivation ropes, leading to a biomass             at three stations, namely Tatun Ngatun cultivation site as
+decrease. This can have negative impacts on seaweed                  Station 1 (St 1), Kalenan Island as Station 2 (St 2), and
+farming industry (Brakel et al. 2021). Despite the presence          Ngolin Island as Station 3 (St 3). Each station had two sub-
+of harmful bacteria, studies showed that bacteria associated         stations as replicates, where data on water quality
+with E. cottonii was a source of antibacterial substances,           parameters, including temperature, salinity, dissolved
+but investigations on this aspect were still limited (Purnami        oxygen (DO), pH, and turbidity was collected.
+et al. 2022). Several studies on the isolation and
+identification of bacteria in E. cottonii seaweed infected           Procedures
+with ice-ice disease showed the presence of bacteria such            Sample handling
+as Vibrio sp., Pseudomonas sp., and Bacillus sp. (Riyaz et              Water and seaweed samples collected at each station
+al. 2019; Rahman et al. 2019). Other findings have reported          were placed in sample bottles and plastic bags (Figure 2).
+the existence of bacteria such as Pasteurella sp.,                   Subsequently, the samples were placed in a cool box
+Edwardsiella sp., Plesiomonas sp., and Chromobacterium               containing seawater ice for transport to the Laboratory of
+sp. (Azis et al. 2022). Ice-ice disease in seaweed production        Marine Aquaculture Fisheries Center, Ambon, Indonesia.
+results in decreased yields, leading to reduced income.
+Currently, this harvesting failure occurs among cultivators
+
+
+
+
+Figure 1. Sampling locations for water and seaweed in the waters of Seira Island, Tanimbar Islands District, Maluku, Indonesia
+966                                     B I OD I V E R S ITA S 25 (3): 964-970, March 2024
+
+
+Measurement of water quality parameters                           recorded on the API 20E result sheet. The data were
+    This study also carried out in-situ measurements of           entered into a computer using specialized software or an
+water quality parameters that supported seaweed growth,           API 20E result reading online application (API web).
+including temperature, salinity, Dissolved Oxygen (DO),
+pH, and turbidity. Salinity measurement was performed
+using a refractometer (portable refractometer ATC), while                       RESULTS AND DISCUSSION
+temperature was measured using an oxygen meter (Lutron
+DO-5510HA) to determine dissolved oxygen levels. The              Water quality parameters
+pH and turbidity were measured using a pH meter and                   The measurement at the three stations obtained ranges
+turbidity meter (Lutron TU-2016).                                 of 26.7-29.7°C, 32-33 ppt, 7.62-7.7, 6.5-8.7 mg/L, and 0.12
+                                                                  to 0.39 ntu for the average water temperature values,
+Bacterial isolation and identification                            salinity, pH, dissolved oxygen and turbidity, respectively
+    The isolation and identification of bacteria in this          (Table 1). The parameter values were still within the
+research focused on parts of seaweed that had been infected       established quality standard as evidenced by the water
+with ice-ice disease. Seaweed samples infected with ice-ice       quality parameters supporting seaweed growth. This was
+disease exhibited white coloration on the thallus (Figure 3).     outlined in the Indonesian National Standard (SNI)
+Bacterial isolation was performed by cutting the white-           7673.2:2011 for the production of E. cottonii seaweed
+colored thallus parts. Subsequently, grinding was                 seedlings (Indonesian National Standard 2010). The
+performed using a mortar and pestle, and for water                standard specifies that suitable water quality conditions for
+samples, 0.1 mL of seawater sample was taken.                     E. cottonii growth include temperature between 24 and
+Furthermore, the inoculation process was carried out by           32°C, salinity ranging from 28 to 33 ppt, and pH values
+taking samples using a hypodermic needle, which was then          between 7 and 8.5. Meanwhile, turbidity values at Station 3
+placed into Nutrient Broth (NB) media. The samples were           were lower than those at the other stations.
+incubated at a temperature of 37°C for 24 hours. Bacterial
+growth in this process was indicated by turbidity in the
+media. Subsequently, the bacteria grown on NB media
+were inoculated into Thiosulfate Citrate Bile Salt Sucrose
+(TCBS) media as a selective medium aseptically, meaning
+it was free from contamination with other microorganisms.
+Bacterial colonies were taken using a hypodermic needle
+and transferred to TCBS media using the streak plate
+technique, and incubated at 37°C for 24 hours. After
+incubation, a purification process was carried out to obtain
+a pure culture ready for identification.
+
+Biochemical tests
+    Biochemical tests were conducted to identify bacteria at      Figure 2. Sample Collection and Handling Process
+the species level using the API (Analytical Profile Index)
+20E test. The test offers the advantage of rapid and
+efficient identification of bacteria belonging to the
+Enterobacteriaceae family based on biochemical properties
+(Topić Popović et al. 2022; Holmes et al. 1978). The
+procedure started with the preparation of bacterial
+suspension by transferring a single isolate colony into a 5
+mL API NaCl 0.85% ampule. The bacterial suspension was
+then pipetted into the wells of the API 20E kit until the
+bottom of the well was filled. While CIT (Citrate), VP
+(Voges-Proskauer), and GEL (Gelatin) wells were filled
+with the bacterial suspension, the ADH (Arginine
+Dihydrolase), ODC (Ornithine Decarboxylase), LDC
+(Lysine Decarboxylase), H2S (Hydrogen Sulfide), and Ure
+(Urea) wells were sealed with sterile oil. The API 20E kit
+was incubated in an incubator for 18-48 hours at a
+temperature of 36°C ± 2°C. After incubation, color changes
+were observed and recorded. Additional tests were
+performed requiring extra reagents in the TDA, IND, VP,
+and GLU wells. TDA and JAMES reagents were added to
+the TDA and VP wells, while VP1 and VP2 reagents were
+added to the VP well. NIT1 and NIT2 reagents were added           Figure 3. Section of Eucheuma cottonii seaweed sample infected
+to the GLU well and color changes were observed and               with ice-ice disease
+                                       TUHUMURY et al. – Bacterial identification in seaweed                                         967
+
+Identification of bacteria causing ice-ice disease in                 (Indole) test with a pinkish-red color, the GLU (Glucose)
+seaweed                                                               fermentation test with a pale-yellow color, and the MAN
+    The API 20E test showed the identification of four                (Mannitol), SAC (Sucrose) fermentation tests, and AMY
+types of bacteria in both water and seaweed infected with             (Amygdalin) fermentation tests, all showing a yellow color.
+ice-ice disease, including Vibrio alginolyticus, Vibrio
+fluvialis, Vibrio cholerae, and Aeromonas caviae (Table 2).
+Vibrio bacteria are Gram-negative bacteria commonly                   Table 2. Bacteria identified from seaweed and water at the three
+found in marine habitats, pathogenic, and can cause disease           observation stations
+in the hosts. The colonies on TCBS media spread out,
+appearing yellow with round colony shapes (Figure 4.A, B,             Sample        Station   Sub station        Bacterial species
+and C). The yellow color arises due to the ability to ferment         Seaweed         1           A         Vibrio alginolyticus
+sucrose from the media. The use of TCBS media, as a                                               B         Vibrio fluvialis
+selective medium containing thiosulfate, inhibits the                                 2           A         Vibrio cholerae
+growth of other bacteria and supports Vibrio growth. Vibrio                                       B         Vibrio cholerae
+fluvialis and Vibrio cholerae were found in seaweed                                   3           A         Vibrio alginolyticus
+samples, while Vibrio alginolyticus were reported in both                                         B         Vibrio alginolyticus
+water and seaweed samples.                                            Water           1           A         Vibrio alginolyticus
+    Aeromonas bacteria in water samples belong to the                                             B         Aeromonas caviae
+Aeromonadaceae family and are Gram-negative with a                                    2           A         Aeromonas caviae
+shiny cream color (Figure 4.D). The isolates exhibited                                            B         Aeromonas caviae
+positive reactions in the ONPG (o-nitrophenyl-β-D-                                    3           A         Vibrio alginolyticus
+galactopyranoside) test with a yellow color, the IND                                              B         Vibrio alginolyticus
+
+
+
+Table 1. The average values of water quality parameters at the three observation stations
+
+                                                                                              Dissolved Oxygen
+Station               Temperature (°C)          Salinity (ppt)                pH                                     Turbidity (ntu)
+                                                                                                   (mg/L)
+1                             26.7                    33                      7.7                    8.7                   0.37
+2                             27.8                    32                      7.6                    7.9                   0.39
+3                             29.7                    33                      7.7                    6.5                   0.12
+
+
+
+
+                                                                 A                                B
+
+
+
+
+                                                               C                                  D
+
+Figure 4. Bacteria species identified in water and seaweed infected with ice-ice disease in the waters of Seira Island. A. Vibrio
+alginolyticus, B. Vibrio fluvialis, C. Vibrio cholerae, D. Aeromonas caviae
+968                                     B I OD I V E R S ITA S 25 (3): 964-970, March 2024
+
+
+    Water quality parameters are supporting factors in            the rainy season and 5.6-6.4 mg/L for the dry season (Aris
+determining seaweed cultivation locations (Maradhy et al.         and Labenua 2020).
+2021). The locations at the three observation stations were           Gram-negative bacteria are identified in almost all ice-
+not close to the mainland, and there were no rivers nearby.       ice disease-causing bacteria. Vibrio is primarily found in
+The unique aspect of seaweed cultivation in the waters of         the sea, although Vibrio cholerae is also found in
+Seira Island is that the homes of cultivators are situated in     freshwater (Newman 2022). Vibrio alginolyticus isolated
+the middle of the sea. At Stations 1 and 2, their homes are       from seaweed was found in the waters of Kutuh Beach,
+built in the sea to be close to their cultivation sites. At       Bali (Saraswati and Darmasetiyawana 2016) and Southeast
+Station 3, the homes of cultivators were built on land and        Maluku. This bacterium was also reported in the samples
+the waters around Seira Island were not prone to pollution        and seaweed in the waters of Southeast Maluku (Erbabley
+due to the lack of human settlements. The waste generated         and Kelabora 2018). Seaweed ecosystems can be
+from daily activities, such as the disposal of wastewater         negatively affected by the presence of Vibrio alginolyticus.
+and feces, has the potential to cause pollution. One of the       Due to the pathogenic nature of Vibrio alginolyticus,
+criteria for suitable seaweed cultivation locations is the        seaweed populations can experience reduced growth,
+absence of pollution (Paruch et al. 2019). Therefore, the         increased susceptibility to diseases, and population
+location of cultivator’s homes should not be near the             declines. Furthermore, Vibrio alginolyticus has indirect
+cultivation areas.                                                impacts on other organisms in the seaweed ecosystem,
+    According to SNI 7673.2:2011, an appropriate seaweed          (Sampaio et al. 2022), leading to shifts in ecological
+cultivation location should be sheltered from waves. The          dynamics. Besides seaweed (Sugumaran et al. 2022),
+protection of the locations at the three stations can be          Vibrio sp. causes ice-ice disease in fish and shrimp (Sarjito
+considered satisfactory since they are situated between           et al. 2022). Contamination of the bacteria in seafood leads
+Seira and Yamdena Island. However, among the western              to extra-intestinal infections in humans due to the
+monsoon and the transitional phase, specifically spanning         consumption of raw or undercooked seafood products (Cao
+from April to early June, alterations in water quality            et al. 2018). Contamination of Vibrio alginolyticus in fish
+manifest due to the influence of prevailing winds and             results in acute gastroenteritis (intestinal and stomach
+waves. This phenomenon is noteworthy since the three              infections) through the gills, skin, and gastrointestinal tract
+stations are strategically situated to the south of Seira         (Hao et al. 2023). In addition, waste generated from daily
+Island. Waves and winds influence the movement of                 farming activities is directly discharged into the sea,
+currents, stirring up bottom sediments, and increasing the        leading to the emergence of pathogenic bacteria.
+turbidity. Meanwhile, water turbidity is closely related to       Aeromonas caviae, a species of the genus Aeromonas, has
+cloudiness caused by the abundance of organic and mineral         been found in seaweed, raising concerns about potential
+particles such as sand, microorganisms, decaying plants,          risks to public health and the ecosystem. The presence of
+and animals, as well as human waste discharge (Liang et al.       Aeromonas bacteria is quite high in wastewater
+2022). Murky waters also obstruct the penetration of              (Fernández-Bravo and Figueras 2020). Water serves as a
+sunlight, hindering optimal photosynthesis in seaweed. The        medium for the spread of Aeromonas bacteria, which is
+turbidity level in the waters of Seira Island is low and          suspected to infect seaweed during processing (Løvdal et
+conducive to seaweed growth. However, strong waves and            al. 2021). These bacteria thrive in cold temperatures,
+currents during the transitional season can lead to high          posing a danger to seaweed products and other seafood.
+turbidity, resulting in harvest failures.                         Furthermore, when Aeromonas caviae thrive in the
+    The results of the measurement of temperature and             seaweed ecosystem, it may have negative impacts on the
+salinity parameters in this study showed values that are          health of other organisms and disrupt ecological balance.
+suitable and feasible for seaweed growth. Changes in              Seaweed as a natural host for Vibrios provides an ideal
+environmental conditions shown through changes in both            environment for the survival and growth of Vibrio
+water quality parameters can trigger the emergence of ice-        cholerae. This bacterium is found free-living in marine
+ice disease in seaweed. Seaweed is a marine plant that            environments and is known to have elevated levels in
+undergoes photosynthesis throughout its entire body.              association with various eukaryotic hosts, including
+Moreover, water temperature directly affects the                  seaweeds (Kechker et al. 2017). Furthermore, Vibrio
+physiological processes of seaweed, such as photosynthesis        cholerae infect seaweed and pose a pathogenic threat to
+and nutrient absorption. Optimal photosynthesis occurs            humans. There have been reported infection cases in
+under high solar intensity and at optimum temperatures.           humans who consumed raw seaweed after one month. A
+Similarly, salinity affects seaweed growth and its changes        woman ate fresh, raw seaweed from the Philippines
+lead to alterations in osmotic pressure, impacting nutrient       containing V. cholerae while on holiday and became
+absorption in the water (Balasubramaniam et al. 2023).            infected one month later. Seaweed is known to be a
+Increased salinity can cause shrinkage of stomata which           suitable habitat for Vibrio fluvialis, a species of Vibrio
+plays a role in absorbing CO2 and nutrients, thereby              bacteria. This was supported by a research that showed
+inhibiting growth. The growth rate is also influenced by the      Vibrio species often colonize seaweed surfaces (Løvdal et
+concentration of dissolved oxygen in the process of               al. 2021). Research also showed that Vibrio fluvialis was
+photosynthesis and respiration. Previous studies showed           one of the most common bacteria found in surface waters
+the dissolved oxygen content that was beneficial for              in the world, emphasizing its adaptability to a variety of
+maintaining seaweed was in the range of 6.4-6.8 mg/L for          aquatic habitats (Igbinosa and Okoh 2010). The presence of
+                                            TUHUMURY et al. – Bacterial identification in seaweed                                                  969
+
+Vibrio fluvialis in seaweed ecosystems has a significant                     Basir AP, Abukena L, Amiludin M. 2017. The growth of seaweed
+                                                                                  (Kappaphycus Alvarezii) cultivated with long line and off bottom
+impact, which can cause population decline, as well as                            method on Tita Banda Neira Maluku coastal area. J Fish Mar Res 1
+affect biodiversity and ecological balance (Fernández et al.                      (1): 20-23. DOI: 10.21776/ub.jfmr.2017.001.01.4.
+2020).                                                                       Bintang AS, Huang WC, Asmara R. 2019. Forecasting of Indonesia
+    Based on observations, the largest harvest failure                            seaweed export: A comparison of fuzzy time series with and without
+                                                                                  markov chain. Agric Soc Econ J 19 (3): 155-164. DOI:
+occurred at cultivation station 3 on Ngolin Island. Even
+                                                                                  10.21776/ub.agrise.2019.019.3.4.
+though the turbidity value at this station was low, station 3                Brakel J, Sibonga RC, Dumilag RV, Montalescot V, Campbell I,
+was more exposed, allowing for changes in water quality                           Cottier‐Cook EJ, Ward G, Le Masson V, Liu T, Msuya FE, Brodie J.
+during transitional seasons. Information obtained indicated                       2021. Exploring, harnessing and conserving marine genetic resources
+                                                                                  towards a sustainable seaweed aquaculture. Plants People Planet 3
+that farmers did not know the cause of the white                                  (4): 337-349. DOI: 10.1002/ppp3.10190.
+discoloration of seaweed. The results showed that the                        Cao J, Zhang J, Ma L, Li L, Zhang W, Li J. 2018. Identification of fish
+seedlings used to date were obtained in 2006. The success                         source Vibrio alginolyticus and evaluation of its bacterial ghosts
+of seaweed cultivation and its production is influenced by                        vaccine immune effects. Microbiologyopen 7 (3): e00576. DOI:
+                                                                                  10.1002/mbo3.576.
+the choice of seedlings (Jiksing et al. 2022). The cultivation               Diharmi A, Rusnawati, Irasari N. 2019. Characteristic of carrageenan
+process affected by ice-ice disease produces low-quality                          Eucheuma cottonii collected from the coast of Tanjung Medang
+seedlings, with a reduced level of production. Therefore,                         Village and Jaga Island, Riau. IOP Conf Ser: Earth Environ Sci 404:
+new seedlings that are free from and resistant to ice-ice                         012049. DOI: 10.1088/1755-1315/404/1/012049.
+                                                                             Efendi F, Handajani R, Nursalam N. 2015. Searching for the best agarose
+disease are needed. Based on the observations, it can be
+                                                                                  candidate from genus Gracilaria, Eucheuma, Gelidium and local
+concluded that the water quality at all three locations was                       brands. Asian Pac J Trop Biomed 5 (10): 865-869. DOI:
+suitable for the cultivation of E. cottonii seaweed. The                          10.1016/j.apjtb.2015.06.009.
+results of bacterial identification showed 4 types of bacteria               Erbabley NY, Kelabora DM. 2018. Identification of Kappaphycus
+                                                                                  alvarezii seaweed bacteria based on growing season in Southeast
+causing ice-ice disease in E. cottonii seaweed in Seira
+                                                                                  Maluku Waters. Akuatika Indonesia 3 (1): 19-25. DOI:
+waters, namely Vibrio alginolyticus, Vibrio fluvialis, Vibrio                     10.24198/jaki.v3i1.23398. [Indonesian]
+cholerae, and Aeromonas caviae. Future studies need to                       Fernández-Bravo A, Figueras MJ. 2020. An update on the genus
+conduct a similar investigation using molecular detection                         Aeromonas: Taxonomy, epidemiology, and pathogenicity.
+                                                                                  Microorganisms 8 (1): 129. DOI: 10.3390/microorganisms8010129.
+methods through genomic DNA analysis based on PCR                            Fernández PA, Gaitán-Espitia JD, Leal PP, Schmid M, Revill AT, Hurd
+techniques. The use of 16S-rRNA gene has been employed                            CL. 2020. Nitrogen sufficiency enhances thermal tolerance in habitat-
+as a systematic parameter and marker for bacterial species                        forming kelp: Implications for acclimation under thermal stress. Sci
+identification.                                                                   Rep 10 (1): 3186. DOI: 10.1038/s41598-020-60104-4.
+                                                                             Purnami PP, Indraningrat AA, Darmayasa IB. 2022. Antibacterial activity
+                                                                                  screening of bacterial isolates Associated with seaweed Eucheuma
+                                                                                  cottonii from coastal area in Buleleng, Bali. Biotropika: J Trop Biol
+                  ACKNOWLEDGEMENTS                                                10 (2): 132-140. DOI: 10.21776/ub.biotropika.2022.010.02.07.
+                                                                             Hao Y, Zhao Y, Zhang Y, Liu Y, Wang G, He Z, Cao W, Han T, Zhang
+                                                                                  X, Zhang Z, Wang Y, Gong C, Hou J. 2023. Population response of
+    This regular fundamental research was funded by the                           intestinal microbiota to acute Vibrio alginolyticus infection in half-
+Ministry of Education, Culture, Research, and Technology,                         smooth tongue sole (Cynoglossus semilaevis). Front Microbiol 14:
+Indonesia for the 2023 fiscal year. The authors are grateful                      1178575. DOI: 10.3389/fmicb.2023.1178575.
+to seaweed farmers in the waters of Seira Island who                         Holmes B, Willcox WR, Lapage SP. 1978. Identification of
+                                                                                  Enterobacteriaceae by the API 20E system. J Clin Pathol 31 (1): 22-
+helped with field data collection and provided information                        30. DOI: 10.1136/jcp.31.1.22.
+for the completion of this research.                                         Igbinosa EO, Okoh AI. 2010. Vibrio fluvialis: An unusual enteric
+                                                                                  pathogen of increasing public health concern. Intl J Environ Res
+                                                                                  Public Health 7 (10): 3628-3643. DOI: 10.3390/ijerph7103628.
+                                                                             Indonesian National Standard. 2010. Production of kotoni seaweed
+                          REFERENCES                                              (Eucheuma cottonii) - Part 2: Long-line method. In National
+                                                                                  Standardization Agency (Issue 2).
+Abdullah N, Wibowo ES, Irfan M, Muchdar F, Malan S. 2020. Seaweed            Jiksing C, Ongkudon MM, Thien VY, Rodrigues KF, Yong WT. 2022.
+    kappaphycus alvarezii cultivation using longline method in Kastela            Recent advances in seaweed seedling production: A review of
+    waters, Ternate Island, Indonesia. Aquac Aquarium Conserv                     eucheumatoids and other valuable seaweeds. Algae 37 (2): 105-121.
+    Legislation 13 (4): 2336-2342.                                                DOI: 10.4490/algae.2022.37.5.11.
+Arasamuthu A, Edward JK. 2018. Occurrence of ice-ice disease in              Kechker P, Ken-Dror S, Laviad-Shitrit S, Arakawa E, Halpern M. 2017.
+    seaweed Kappaphycus alvarezii at Gulf of Mannar and Palk Bay,                 Otitis media caused by V. cholerae O100: A case report and review of
+    Southeastern India. Indian J Geo-Mar Sci 47 (6): 1208-1216.                   the      literature.   Front    Microbiol      8:   277089.      DOI:
+Aris M, Labenua R. 2020. Evaluation of land suitability of Kappaphycus            10.3389/fmicb.2017.01619.
+    alvarezii cultivation in the dry and rainy season. IOP Conf Ser: Earth   Larson S, Stoeckl N, Fachry ME, Mustafa MD, Lapong I, Purnomo AH,
+    Environ Sci 584: 012025. DOI: 10.1088/1755-1315/584/1/012025.                 Rimmer MA, Paul NA. 2021. Women’s well-being and household
+Azis, Achmad M, Indarjo A, Salim G, Rozi. 2022. Identification of                 benefits from seaweed farming in Indonesia. Aquaculture 530:
+    bacteria in seaweed (Kapapphycus alvarezii) affected by the ice-ice           735711. DOI: 10.1016/j.aquaculture.2020.735711.
+    disease in Amal and Tanjung Tarakan waters, Indonesia. AACL              Liang Z, Wang W, Liu L, Li G, Xia B. 2022. Influence of commercial-
+    Bioflux 15 (6): 3061-3068.                                                    scale seaweed cultivation on water quality: A case study in a typical
+Badraeni, Syamsuddin R, Haryati, Samawi F. 2020. Weeds, epiphytes and             laver culture area of the Yellow Sea, North China. J Mar Sci Eng 10
+    ice-ice disease on green-strained Kappaphycus alvarezii (doty) in             (5): 681. DOI: 10.3390/jmse10050681.
+    Takalar Waters, South Sulawesi in different seasons and locations of     Løvdal T, Lunestad BT, Myrmel M, Rosnes JT, Skipnes D. 2021.
+    cultivation. Plant Arch 20: 2327-2332.                                        Microbiological food safety of seaweeds. Foods 10 (11): 2719. DOI:
+Balasubramaniam T, Shen G, Esmaeili N, Zhang H. 2023. Plants’                     10.3390/foods10112719.
+    response mechanisms to salinity stress. Plants 12 (12): 2253. DOI:       Maradhy E, Syarief R, Hadi S, Syahbana M, Fedi M. 2021. Evaluation of
+    10.3390/plants12122253.                                                       water suitability for sustainable seaweed (Kappaphycus alvarezii)
+970                                             B I OD I V E R S ITA S 25 (3): 964-970, March 2024
+
+    cultivation to support science technopark in North Kalimantan. J Nat          Waters.      J   Mar      Aquat     Sci     2    (1):    11.   DOI:
+    Resour Environ Manag 11 (3): 490-503.                                         10.24843/jmas.2016.v2.i01.11-15. [Indonesian]
+Mujiyanto, Syam AR, Wijaya D, Purnamaningtyas SE. 2020. Suitability          Sarjito S, Amalia R, Sabdaningsih A. 2022. Screening of sponge-
+    water quality parameters for seaweed culture at Muara Gembong                 associated bacteria to control vibriosis in vannamei shrimp
+    coastal area, Bekasi District. IOP Conf Ser: Earth Environ Sci 521:           (Litopenaeus vannamei). Biodiversitas 23 (10): 5333-5341. DOI:
+    012012. DOI: 10.1088/1755-1315/521/1/012012.                                  10.13057/biodiv/d231043.
+Mulyaningrum SRH, Suwoyo HS, Paena M, Tampangallo BR. 2019.                  Sudirman S, Hsu Y-H, He J-L, Kong Z-L. 2018. Dietary polysaccharide-
+    Epiphyte identification on Kappaphycus alvarezii seaweed farming              rich extract from Eucheuma cottonii modulates the inflammatory
+    area in Arungkeke Waters, Jeneponto and the effect on carrageenan             response and suppresses colonic injury on dextran sulfate
+    quality. Ilmu Kelautan: Indones J Mar Sci 24 (3): 146-152. DOI:               sodiuminduced colitis in mice. PLoS ONE 13 (10): e0205252. DOI:
+    10.14710/ik.ijms.24.3.146-152.                                                10.1371/journal.pone.0205252.
+Newman SG. 2022. An update on vibriosis, the major bacterial disease         Sugumaran R, Padam BS, Yong WTL, Saallah S, Ahmed K, Yusof NA.
+    shrimp farmers face. Global Aquaculture Advocate 2022: 1-8.                   2022. A retrospective review of global commercial seaweed
+Topić Popović N, Kepec S, Kazazić SP, Strunjak-Perović I, Bojanić K,              production - current challenges, biosecurity and mitigation measures
+    Čož-Rakovac R. 2022. Identification of environmental aquatic                  and prospects. Intl J Environ Res Public Health 19 (12): 7087. DOI:
+    bacteria by mass spectrometry supported by biochemical                        10.3390/ijerph19127087.
+    differentiation.   PLoS      ONE       17   (6):    e0269423.    DOI:    Supriyono E, Lideman, Hastuti YP, Arifka AR. 2022. Combination effect
+    10.1371/journal.pone.0269423.                                                 of atonic growth regulator with PES (Provasoli Enrich Seawater) on
+Rahman SA, Sukenda S, Widanarni W, Alimuddin A, Ekasari J. 2019.                  Seaweed (Eucheuma cottonnii) growth. IOP Conf Ser: Earth Environ
+    Isolation and identification of endophytic bacteria from the mangrove         Sci 1033: 012019. DOI: 10.1088/1755-1315/1033/1/012019.
+    leaves of Avicennia marina and evaluation of inhibition to bacterium     Tahiluddin A, Terzi E. 2021. Ice-ice disease in commercially cultivated
+    causing ice-ice disease. AACL Bioflux 12 (3): 941-952.                        seaweeds Kappaphycus spp. and Eucheuma spp.: A review on the
+Rijoly SMA, Killay A, Rupilu JA. 2020. Soaking urea fertiliser and                causes, occurrence, and control measures. Mar Sci Technol Bull 10
+    concentration levels on Eucheuma cottonii seaweed carrageenan.                (3): 234-243. DOI: 10.33714/masteb.917788.
+    Rumphius: Pattimura Biol J 2 (1): 30-40. [Indoensian]                    Ward GM, Faisan Jr JP, Cottier‐Cook EJ, Gachon C, Hurtado AQ, Lim
+Rimmer MA, Larson S, Lapong I, Purnomo AH, Pong‐masak PR,                         PE, Matoju I, Msuya FE, Bass D, Brodie J. 2020. A review of
+    Swanepoel L, Paul NA. 2021. Seaweed aquaculture in Indonesia                  reported seaweed diseases and pests in aquaculture in Asia. J World
+    contributes to social and economic aspects of livelihoods and                 Aquac Soc 51 (4): 815-828. DOI: 10.1111/jwas.12649.
+    community wellbeing. Sustainability 13 (19): 10946. DOI:                 Ward GM, Kambey CSB, Faisan Jr JP, Tan P.-L, Daumich CC, Matoju I,
+    10.3390/su131910946.                                                          Stentiford GD, Bass D, Lim P-E, Brodie J, Poong S-W. 2021. Ice-ice
+Riyaz SUM, Nalini S, Kavitha G, Sutha SAD, Inbakandan D. 2019.                    disease: An environmentally and microbiologically driven syndrome
+    Characterization and identification of isolated bacteria from ice-ice         in tropical seaweed aquaculture. Rev Aquac 14 (1): 414-439. DOI:
+    disease infected seaweed Kappaphycus alvarezii. Indian J Geo-Mar              10.1111/raq.12606.
+    Sci 48 (8): 1286-1290.                                                   Xu J, Liao W, Liu Y, Guo Y, Jiang S, Zhao C. 2023. An overview on the
+Sampaio A, Silva V, Poeta P, Aonofriesei F. 2022. Vibrio spp.: Life               nutritional and bioactive components of green seaweeds. Food Prod
+    strategies, ecology, and risks in a changing environment. Diversity 14        Process Nutr 5 (1): 5-18. DOI: 10.1186/s43014-023-00132-5.
+    (2): 97. DOI: 10.3390/d14020097.                                         Zhang L, Liao W, Huang Y, Wen Y, Chu Y, Zhao C. 2022. Global
+Saraswati SA, Darmasetiyawana IMS. 2016. Identification of bacteria on            seaweed farming and processing in the past 20 years. Food Prod
+    Euchema spinosum seaweed with ice-ice disease in Kutuh Beach                  Process Nutr 4 (23): 1-30. DOI: 10.1186/s43014-022-00103-2.
+

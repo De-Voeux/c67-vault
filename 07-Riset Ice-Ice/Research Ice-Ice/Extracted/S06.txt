@@ -1,0 +1,654 @@
+                                                                                                            AQUATIC RESEARCH
+                                                                                                            E-ISSN 2618-6365
+
+
+
+    Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                                                 Research Article
+
+
+
+Effects of inorganic nutrient enrichment on the carrageenan yield,
+growth, and ice-ice disease occurrence of red alga Kappaphycus
+striatus
+
+Jurmin H. SARRI1,3, Yusop A. ABDULMUTALIB1, Melapearl E. MOHAMMAD TILKA1, Ertuğrul TERZİ2,
+Albaris B. TAHILUDDIN1,3
+
+
+Cite this article as:
+Sarri, J.H.., Abdulmutalib, Y.A., Mohammad Tilka, M.E., Terzi, E., Tahiluddin, A.B. (2022). Effects of inorganic nutrient enrichment on the carragee-
+nan yield, growth, and ice-ice disease occurrence of red alga Kappaphycus striatus. Aquatic Research, 5(2), 99-109.
+https://doi.org/10.3153/AR22009
+
+1
+    Mindanao State University Tawi-Tawi     ABSTRACT
+    College of Technology and
+    Oceanography, College of Fisheries,     One of the problems in Kappaphycus farming is the slow growth in some farms due to nutrient
+    Sanga-Sanga, Bongao, 7500               insufficiency caused by overstocking. In the southern Philippines, most seaweed farmers practice
+    Tawi-Tawi/Philippines
+                                            inorganic nutrient enrichment of Kappaphycus to boost growth and decrease ice-ice disease oc-
+2
+    Kastamonu University, Faculty of
+    Fisheries, 37200 Kastamonu/Türkiye
+                                            currence using ammonium phosphate at an average concentration of 8.82 g L-1. In this study, ex-
+                                            periments with Kappaphycus striatus enriched with inorganic nutrients were carried out at
+3
+    Kastamonu University, Institute of
+    Science, Department of Aquaculture,     Pasiagan, Bongao, Tawi-Tawi, southern Philippines, using different inorganic nutrients (T1=8.82
+    37200 Kastamonu/Türkiye                 g L-1 of urea, T2=8.82 g L-1 of phosphorus, and T3=control) within 45 days. Seaweeds were en-
+                                            riched in these three inorganic solutions for 30 seconds, placed into a large mat, covered with
+ORCID IDs of the author(s):                 canvas, and left overnight. After 15 days, findings showed that the specific growth rates of T1
+J.H.S. 0000-0002-4798-0566                  (6.99% day-1) and T3 (6.72% day-1) groups were significantly higher than the T2 (5.84% day-1)
+Y.A.A. 0000-0001-9238-9372
+                                            group (p<0.05). Inorganic nutrient enrichment did not significantly influence the occurrence of
+                                            ice-ice disease. Moreover, inorganic nutrient enrichment did not affect the carrageenan yield after
+M.E.M.T. 0000-0002-3503-6674
+                                            45 days. K. striatus nutrient-enriched with urea could increase growth at day 15, but no effect on
+E.T. 0000-0003-2811-6497
+                                            the occurrence of ice-ice disease and carrageenan yield. Hence, inorganic nutrient enrichment us-
+A.B.T. 0000-0002-3237-3552                  ing urea provides a positive effect to farmed K. striatus by enhancing its growth without affecting
+Submitted: 24.09.2021                       its health and carrageenan yield.
+Revision requested: 23.11.2021
+                                            Keywords: Carrageenan yield, Ice-ice disease, Kappaphycus striatus, Nutrient enrichment,
+Last revision received: 06.12.2021
+                                                      Specific growth rate
+Accepted: 06.12.2021
+Published online: 28.01.2022
+Correspondence:
+Albaris B. TAHILUDDIN
+E-mail: albarist20@gmail.com
+
+
+
+
+© 2022 The Author(s)
+Available online at
+http://aquatres.scientificwebjournals.com
+
+
+
+
+                                                                                                                                                        99
+       Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                                  Research Article
+
+
+      Introduction
+      Kappaphycus striatus is one of the many fishery resources           plant and its growth (Uchida, 2000). Increased source nitrate
+      that abound in Tawi-Tawi waters, southern Philippines,              or ammonium concentrations supplies can result in high ni-
+      mostly of high commercial value in the national and interna-        trogen accumulation, increased growth as well as increased
+      tional markets (Arupin, 1997). Kappaphycus, a red seaweed           nitrogen sufficiency of the seaweed Fucus spiralis (Topinka
+      locally known as Guso (Cebuano) or Agar-agar (Tausug), is           & Robbins, 1976).
+      an important export product in Asia. It is one of the country’s     In addition, phosphorus plays a major role in energy storage.
+      top three exports of marine-based products. France, China,          It helps to improve plant growth, reduces the incidence of dis-
+      and the USA are the main markets for seaweed products in            eases, and improves the quality of some plants (Uchida,
+      the Philippines (BFAR, 2016). Red seaweeds are harvested            2000). Phosphorus application in agriculture substantially
+      globally (either from the farm-raised or wild) and have nu-         improved the relative water content of plant’s leaf, including
+      merous applications as food for human consumption and as a          the rate of photosynthesis of Alnus cremastogyne seedlings
+      source of two hydrocolloids: carrageenan and agar, which are        even under drought period (Tariq et al., 2018). Enrichment
+      widely utilized as an emulsifier, binder, gelling and thicken-      of phosphorus significantly increased the photosynthetic
+      ing agents as well as food and non-food products (McHugh,           rates and growth of Sargassum fluitans and S. natans
+      2003).                                                              (Lapointe, 1986). Sekar et al. (1995) showed that the seaweed
+      In the late 1960s, the line and stake method were utilized as       liquid fertilizer at 0.25% concentration increased seaweed
+      the first commercial cultivation of Kappaphycus from the            growth and increased total nitrogen and phosphorus accumu-
+      southern Philippines, and for over decades, the Philippines         lation. In Tawi-Tawi, southern Philippines, farmers are using
+      was the top producer of Kappaphycus until it was surpassed          inorganic nutrients such as ammonium phosphate with an es-
+      by Indonesia in 2008, although production from the Philip-          timated average concentration of 8.82 g L-1 to reduce ice-ice
+      pines has been on a downward trend since 2011 (Hurtado et           disease occurrence and to enhance the growth of Kappaphy-
+      al., 2015). However, in 2019, China was the top producer of         cus, which likewise proven effective in the field experiment
+      aquatic plants, including seaweeds, where the Philippines           (Tahiluddin, 2018; Tahiluddin et al., 2021a). However, it is
+      ranked 4th (FAO, 2020). On the same year, the top fisheries         still unclear which of the two important nutrients is more es-
+      performance in the Philippines was tuna having the export           sential for K. striatus. Thus, this study aimed to determine the
+      value at US$ 478 million, followed by seaweed, which went           effects of urea and phosphorus on carrageenan yield, growth
+      up 13% US$ 207 million in 2018 to US$ 250 million in 2019           rate, and occurrence of ice-ice disease on the red alga K. stri-
+      or 22% total earnings for that year (BFAR, 2019).                   atus.
+      The decreased material quality or overstocking is one of the        Material and Methods
+      main hurdles in seaweed production, which causes a decrease
+                                                                          Study Site and Duration
+      in nutrients and stunted seaweed growth (Luhan et al., 2015).
+      Temperature, salinity, water movements, turbidity, and light        The study was carried out at the seaweed farm of Pasiagan,
+      intensity are abiotic factors that can cause ice-ice disease, ep-   Bongao, Tawi-Tawi, southern Philippines (05° 00.424' N,
+      iphytes infestation, and poor seedling quality of grown sea-        199° 45.39' E) from February to March 2019 for 45 days.
+      weeds (Largo, 2002; Tahiluddin & Terzi, 2021a; Tahiluddin
+                                                                          Preparation of Seedlings
+      & Terzi, 2021b). One of the important factors in determining
+      seaweed production sustainability and its yield is the fertility    Untreated and healthy K. striatus seedlings were purchased
+      of water. The cultivation of Kappaphycus is primary depen-          from the farmer in the field. Seedlings were placed in
+      dent on the natural fertility of the water (Hurtado et al., 2001;   styrofoam with Sargassum sp. on the top and bottom of sea-
+      Munoz et al., 2004; Hayashi et al., 2007a). One of the control      weeds to maintain the moisture and temperature and trans-
+      measures to reduce the occurrence of ice-ice disease in Eu-         ported to the study site via a small boat. After the seedlings
+      cheuma and Kappaphycus species is by nutrient enrichment            were transferred from the source to the study area, the seed-
+      before out-planting (Tahiluddin & Terzi, 2021a). Two nutri-         lings were conditioned. The styrofoam with seaweeds was
+      ents, nitrogen, and phosphorus, are vital supplements for the       gently dipped into the farm area until the seaweeds were com-
+      growth and production of seaweeds (Harrison & Hurd, 2001).          pletely submerged. The seedlings were planted for three (3)
+      Nitrogen combines biologically with carbon, hydrogen, oxy-          days for acclimatization using the fixed-off bottom method.
+      gen, and sulfur to form amino acids, which are the protein          Seedlings were prepared by cutting with the help of a knife to
+      building blocks and are utilized for the development of the         50 g per bunch. These were tied into a rope line (5 m) using
+
+
+
+
+100
+ Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                               Research Article
+
+a soft straw with a distance of 25 cm (Hurtado et al., 2008).    specific growth rate (µ) was computed using the formula be-
+Each line consisted of 20 bunches, and 9 lines were prepared.    low (Luhan et al., 2015).
+Inorganic Nutrient Enrichment                                                         ln(Wf) − ln(Wi)
+                                                                                 µ=                   × 100
+Inorganic nutrient enrichment was carried out late in the af-                              DOC
+ternoon using the method previously reported (Tahiluddin,        Where:
+2018). Two nutrient solutions were prepared: T1=8.82 g L-1
+                                                                 DOC = days of culture
+of urea, T2=8.82 g L-1 of phosphorus, and the control group
+(T3= control). Simultaneously, all 3 lines were immersed in      Wf = final weight
+solutions for 30 seconds, placed into a large mat, and covered
+                                                                 Wi = initial weight
+with canvas overnight. Seedlings were immersed in seawater
+for less than 30 minutes. Re-application of nutrient enrich-     Analysis of Carrageenan Yield
+ment was done every 15 days (day 0, day 15, and day 30).         Carrageenan yield was determined every 15 days. Seaweeds
+Planting                                                         were cleaned by removing silt, sand, and other foreign matter.
+                                                                 Seaweeds were dried in a solar drier for 3-5 days. The dried
+Seedlings were transported to the farm area using a small
+                                                                 seaweeds were brought to the Seaweed Post-harvest Labora-
+boat. Wooden poles were placed under the substrate as stakes.
+                                                                 tory of the Mindanao State University-Tawi-Tawi College of
+Seedlings were planted in Randomized Complete Block De-
+                                                                 Technology and Oceanography. Carrageenan yield was de-
+sign (RCBD) using the fixed-off bottom method (Trono,
+                                                                 termined following the method of Luhan et al. (2015) and cal-
+1992). The distance from the seedlings to the bottom was 30
+                                                                 culated by dividing the weight of carrageenan seaweeds
+cm.
+                                                                 treated with an alkali solution to dry weight and times by 100.
+Farm Maintenance
+                                                                 Data Analysis
+The farm site was visited every seven days to maintain the
+                                                                 IBM SPSS software version 20 was used to analyze the data
+cleanliness of the farm by removing epiphytes and debris at-
+                                                                 of carrageenan yield, growth rate, and occurrence of ice-ice
+tached to the seaweeds. The monitoring water parameters
+                                                                 disease of seaweed K. striatus. Determination of significant
+such as salinity, temperature, pH, as well as water depth were
+                                                                 difference was computed through the One-way Analysis of
+recorded every seven days using the refractometer (Atago
+                                                                 Variance (ANOVA), and Post hoc (Duncan) was used to rank
+Master), thermometer, pH meter (Smart Sensor), and meter
+                                                                 the mean.
+stick, respectively. Water current was determined every
+seven days using improvised drogue.                              Results and Discussion
+Ice-Ice Disease Monitoring                                       Physicochemical Parameters
+Monitoring of occurrence of ice-ice disease was done every       Table 1 shows the environmental status of the farmed area.
+15 days (day 0, day 15, and day 30). One or more soft white      The temperature ranged from 27.68 ±0.43 to 32.87 ±0.19 °C;
+branches were labeled as an ice-ice disease (Luhan et al.,       pH was measured between 6.93 ±0.03 to 8.43 ±0.03; salinity
+2015; Tahiluddin & Terzi, 2021a). Seaweeds with soft white       of the farmed area was 30.17 ±0.44 to 35.00 ±0.29 ‰; water
+branches were summed up and divided by the number of             current ranged between 0.05 ±0.00 to 0.16 ±0.03 m s -1; depth
+planted seaweeds per line. The occurrence of ice-ice disease     of farm area varied between 27.68 ±0.29 to 129.17 ±0.88 cm.
+was computed using the following formula (Largo et al.,
+1995a).                                                          Growth
+
+ Percent of ice − ice disease                                    The specific growth rates (SGR) of T1, T2, and T3 groups were
+                    number of infected bunches                   6.99 ±0.16 % day-1, 5.84 ±0.30 % day-1, and 6.72 ±0.17 %
+                 =                             × 100             day-1, respectively, at day 15 of the culture period (Figure 1).
+                      total number of bunches                    Statistical analysis revealed that SGR of T3 and T1 groups
+Growth Sampling                                                  were significantly higher (p<0.05) than the T2 group. At day
+Sampling was done every 15 days of the culture period. Five      30, SGR of T1 (5.58 ±0.53 % day-1), T2 (4.14 ±0.10 % day-1),
+random subsamples or 25% of seedlings samples per line           and T3 (5.02 ±0.40 % day-1) groups were not differ signifi-
+were taken. To remove excess water, seaweeds were patted         cantly (p>0.05). At 45 days of the culture period, T1, T2, and
+with a smooth cloth and weighed using a weighing scale. The      T3 groups achieved SGR of 3.90 ±0.46 % day-1, 2.41 ±1.41 %
+
+
+
+
+                                                                                                                                    101
+      Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                                                                 Research Article
+
+      day-1, and 2.98 ±0.34 % day-1, respectively, and no significant                                   disease of T1, T2, and T3 groups were 44.48 ±4.66 %, 64.08
+      difference between treatments was found (p>0.05).                                                 ±4.59 %, and 37.85±12.04%, respectively. On day 45, the
+                                                                                                        ice-ice disease occurrence of T1, T2, and T3 groups were 39.95
+      Ice-Ice Disease Occurrence
+                                                                                                        ±2.53 %, 45.90 ±5.33 %, and 61.48 ±15.59 %, respectively.
+      Occurrence of ice-ice disease of farmed K. striatus was ob-                                       Throughout the sampling period, there was no significant dif-
+      served in all treatments throughout the sampling period (Fig-                                     ference (p>0.05) between treatments, suggesting that the use
+      ure 2). On day 15, the ice-ice disease occurrence of T1, T2,                                      of fertilizers (urea and phosphorus) did not affect the K. stri-
+      and T3 groups were 24.12 ±11.77 %, 34.83±8.74%, and 32.22                                         atus in terms of ice-ice disease occurrence.
+      ±5.02 %, respectively. On day 30, the incidence of ice-ice
+
+
+      Table 1. Physico-chemical parameters of the farm
+                                                                                             Sampling period
+
+                                Parameters                    Day 0          Day 7          Day 14            Day 21            Day 28        Day 35          Day 42
+        Temperature (°C)                                   27.68±0.43    32.87±0.19       28.08±0.26         29.8±0.56         28.2±0.29     27.8±0.08      28.33±0.12
+                                            pH             7.72±0.01      7.44±0.03        6.93±0.03         8.43±0.03         7.59±0.11     8.25±0.10       8.00±0.06
+                               Salinity (‰)                33.50±0.58    30.17±0.44       31.00±1.04        35.00±0.29         34.83±0.17   35.00±0.00      34.67±0.17
+                   Current (m s )                -1
+                                                           0.06±0.00      0.07±0.00        0.05±0.00         0.07±0.00         0.05±0.00     0.16±0.03       0.09±0.01
+                                    Depth (cm)             27.68±0.29    59.17±0.67       103.50±0.58       129.17±0.88    103.50±0.29      104.83±0.17     77.17±1.67
+
+
+
+
+                                        8
+                                                 a
+
+
+
+
+       Specific growth rate (% day-1)
+                                        7                     a
+                                                       b                 a
+                                        6
+                                                                                      a
+                                        5
+                                                                               a                a                         T1
+                                        4                                                               a
+                                                                                                             a            T2
+                                        3                                                                                 T3
+                                        2
+                                        1
+                                        0
+                                                     Day 15                  Day 30                 Day 45
+                                                                       Sampling period
+      Figure 1. Specific growth rate of K. striatus in every sampling. T1=8.82 g L-1 of urea, T2=8.82
+                g L-1 of phosphorus, and T3=control. Bars with the same letters are not significantly
+                different (p>0.05). Error bars in SEM (standard error mean), n=5-15.
+
+
+
+
+102
+ Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                                Research Article
+
+
+                                   100
+                                    90                               a                   a
+                                                                a
+
+
+
+
+  Ice-ice disease occurrence (%)
+                                    80
+                                    70
+                                                                                  a
+                                    60                      a
+                                                                                             T1
+                                    50         a                            a
+                                                                                             T2
+                                    40   a            a
+                                                                                             T3
+                                    30
+                                    20
+                                    10
+                                     0
+                                             Day 15          Day 30             Day 45
+                                                          Sampling period
+Figure 2. Ice-ice disease occurrence of K. striatus in every sampling. T1=8.82 g L-1 of urea,
+            T2=8.82 g L-1 of phosphorus, and T3=controlBars with the same letters are not signifi-
+            cantly different (p>0.05). Error bars in SEM (standard error mean), n=5-20.
+                                                                  stated that the cultivation of Kappaphycus spp. is mainly de-
+Carrageenan Yield
+                                                                  pendent on the natural enrichment of the sea (Hurtado et al.,
+Carrageenan yields of alkali-treated seaweeds K. striatus in      2001; Munoz et al., 2004; Hayashi et al., 2007a). Fertilization
+T1, T2, and T3 groups were 28.33 ±0.29 %, 31.53 ±1.07%, and       of the water is very important in order to determine the sus-
+29.27 ±0.54%, respectively on day 15. One-way ANOVA re-           tainability, yield, and productivity of seaweeds (Luhan et al.,
+vealed that the T2 group was significantly higher (p<0.05)        2015). Thus, the addition of nutrients can be beneficial to sea-
+than the T1 group but not significantly different (p>0.05)        weeds depending on the fertilizer used as well as its concen-
+from the T3 group. On day 30, carrageenan yields of T1, T2,       tration. In this study, K. striatus nutrient enriched with urea
+and T3 groups were 25.65 ±0.63 %, 25.78 ±0.19 %, and              increased the growth (6.99 % day-1) on day 15 and obtained
+27.11±0.8 %, respectively. On day 45, carrageenan yields of       higher growth (3.90% day-1) after 45 days, although not sig-
+T1, T2, and T3 groups were 33.71±0.83 %, 36.20 ±0.10 %, and       nificantly different from the control. According to Luhan et
+31.04 ±2.49 %, respectively. There was no significant differ-     al. (2015), seaweed K. alvarezii enriched with sodium nitrate
+ence (p>0.05) between treatments as revealed by One-way           (0.01 g L-1) showed an increase in growth (2.34% day-¹) after
+ANOVA on days 30 and 45 (Figure 3). In terms of change in         day 45 of culture period in a grow-out cage. They also stated
+culture period, carrageenan yield of T1 significantly dropped     that a lower nitrogen concentration resulted in slower growth,
+(p<0.05) from day 15 to day 30 and significantly increased        and a higher nitrogen concentration exhibited faster growth.
+(p<0.05) from day 30 to day 45. Carrageenan yield of the T2       A similar study used nitrate (1mM NO3-N) to enhance the
+group significantly decreased (p<0.05) from day 15 to day 30      growth (0.97 % day-1) of K. alvarezii cultured at the labora-
+and significantly increased (p<0.05) from day 30 to day 45.       tory (Sahoo & Ohno, 2003). The used nitrate (35 µg NO3 L-1)
+In the T3 group, carrageenan yield significantly dropped          to Fucus spiralis enhanced the growth (0.83 % day-1) after 12
+(p<0.05) from day 15 to day 30. However, there was no sig-        days of culture period in plastic regime rack (Topinka & Rob-
+nificant change (p>0.05) from day 30 to day 45 (Figure 4).        bins, 1976). Uchida (2000) stated that nitrogen is vital be-
+                                                                  cause it is the main component of chlorophyll and necessary
+Growth
+                                                                  for photosynthesis. Hence, the enrichment of urea provided
+Phosphorus and nitrogen, which are mostly found in a natural      an additional nitrogen source to K. striatus, thereby enhanc-
+environment, are important nutrients for the growth of sea-       ing its growth.
+weeds (Harrison & Hurd, 2001). Many researchers have
+
+
+
+                                                                                                                                     103
+      Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                                                      Research Article
+
+
+
+
+                                             40
+                                                                                                                         a
+                                                                                                                a            a
+                                             35                   a
+                                                          b               ab
+
+
+
+
+                     Carrageenan yield (%)
+                                             30                                                     a
+                                                                                       a     a
+                                             25
+                                                                                                                                      T1
+                                             20
+                                                                                                                                      T2
+                                             15                                                                                       T3
+                                             10
+
+                                             5
+
+                                             0
+                                                              Day 15                       Day 30                   Day 45
+                                                                                     Sampling period
+      Figure 3. Carrageenan yield of K. striatus in every sampling. T1=8.82 g L-1 of urea,
+                                                  T2=8.82 g L-1 of phosphorus, and T3=control. Bars with the same letters are
+                                                  not significantly different (p>0.05). Error bars in SEM (standard error
+                                                  mean), n=9.
+
+
+                                40
+                                                                                             a
+                                                                      a                                             ab
+                                35                                               b
+                                                     b                                                  b
+
+
+
+
+        Carrageenan yield (%)
+                                30                                                                          c
+                                                              c                        c
+                                25                                                                                               T1
+                                20                                                                                               T2
+
+                                15                                                                                               T3
+
+                                10
+                                       5
+                                       0
+                                                     15       30 45             15 30 45                15 30 45
+                                                                               Sampling period
+      Figure 4. Change in alkali-treated carrageenan yield of K. striatus throughout the culture
+               period. T1=8.82 g L-1 of urea, T2=8.82 g L-1 of phosphorus, and T3=control. Bars
+               with the same letters are not significantly different (p>0.05). Error bars in SEM
+               (standard error mean), n=9.
+
+
+
+
+104
+ Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                                 Research Article
+
+On the other hand, stimulation of photosynthetic rates and         Terzi, 2021b). The increased temperature of 33-35 °C re-
+growth of some algae can be improved by phosphorus enrich-         sulted in the paling and whitening of seaweeds (Largo et al.,
+ment (Lapointe, 1986; Villares et al., 1999; Martin et al.,        1995a). Similar to the current study, where on day 7, the tem-
+2011). According to Xu et al. (2010), a high amount of carbon      perature of the farmed area was about 33 °C which could
+dioxide (720µl L-1) and phosphorus (30µM) increased the            cause the occurrence of ice-ice disease. Less than 50 µmol
+growth of red alga Gracilaria lemaneiformis ranged from ap-        photon m-2 s-1 light intensity and less than 20‰ salinity could
+proximately 1.6 to 2.8% day-1 after 16 days cultured in the        lead to the occurrence of ice-ice disease (Largo et al., 1995a).
+laboratory. Red alga Agardhiella subulate enriched with            Pathogenic bacteria and fungi are other factors that cause ice-
+phosphorus (6 µM) obtained an SGR of 0.025% day-1                  ice disease occurrence (Largo et al., 1995b; Solis et al., 2010;
+(Chopin, 1990). According to Uchida (2000), phosphorus             Tahiluddin et al., 2021a; Tahiluddin et al., 2021b). Slow wa-
+plays a vital role in the transfer of energy and other compo-      ter movement triggered the pathogenic bacteria to colonize
+nents of genetic information found in plant photosynthesis         the seaweed thalli can also cause ice-ice disease incidence
+and respiration. In our study, phosphorus-enriched K. striatus     (Largo, 2002).
+achieved 2.40% day-1 growth after 45 days and was lower
+                                                                   The occurrence of ice-ice disease is high from May to August
+than the control, indicating that higher phosphorus concentra-
+                                                                   (Uyenco et al., 2019). In addition, seaweeds are also suscep-
+tions may lead to slow growth of seaweed K. striatus. Excess
+                                                                   tible to ice-ice disease during the months of April, October,
+phosphorus reduces the plant’s ability to take up essential mi-
+                                                                   and December (Tisera & Naguit, 2009). This study was car-
+cronutrients, particularly zinc and iron (Provin & Pitt, 2008).
+                                                                   ried out between February and March, where the ice-ice dis-
+They also noted that phosphorus' overuse could become wa-
+                                                                   ease appeared throughout the culture period. Intense heating
+ter-soluble and mobile, entering surface water and causing
+                                                                   and other environmental factors coupled with the presence of
+the growth of algae and other undesirable plants. The sug-
+                                                                   pathogenic microorganisms can cause the occurrence of ice-
+gested concentration of the phosphorus fertilizer based on its
+                                                                   ice disease of cultivated K. striatus.
+prescription on the label is 4.5 g L-1. However, this study used
+100% phosphate fertilizer (Seachem) with a high concentra-         Production of seaweed, which has been affected by the ice-
+tion of 8.82 g L-1, an average concentration of ammonium           ice disease, has influenced seaweed farmers and the nation as
+phosphate used by the seaweed farmers in Sibutu, Tawi-             a whole, particularly affected by the severe decline in produc-
+Tawi, Philippines (Tahiluddin, 2018) in K. striatus, which         tion of aquaculture (Tisera & Naguit, 2009). The occurrence
+may be the reason of obtaining slow growth of the seaweed.         of ice-ice disease in seaweed farms could lead to a significant
+                                                                   decline in seaweed production. (Doty & Alvares, 1975;
+Ice-Ice Disease Occurrence
+                                                                   Trono, 1993).
+Urea (46-0-0) and phosphorus (pure) inorganic nutrient en-
+                                                                   Carrageenan Yield
+richment had no effect in cultured K. striatus in terms of ice-
+ice disease occurrence. However, in other studies, nutrient        Carrageenan, extracted from red seaweeds and usually obtai-
+enrichment reduced ice-ice disease occurrence. Luhan et al.        ned by the extraction with water or alkaline water, is widely
+(2015) used sodium nitrate (0.01 g L-1) to reduce the occur-       utilized in the food industry as thickening, gelling, and stabi-
+rence of K. alvarezii ice-ice disease to 8.75% compared to         lizing agents, and as ingredients for pharmaceutical, cosme-
+untreated (97%). Ammonium phosphate (8.82 g L-1) used in           tic, personal care, and among others (Thirumaran et al., 2009;
+K. striatus significantly lowered the incidence of ice-ice dis-    Hayashi et al., 2011; Ahmad, 2014; Husin, 2014). The main
+ease by up to 42% compared to untreated (78%) planted dur-         source of kappa-carrageenan is red alga K. striatus (Trono,
+ing the ice-ice season (Tahiluddin, 2018). Therefore, when         1997). Most kappa-carrageenan are produced by the pres-
+there is a combination of these nutrients, seaweed K. striatus     ence of potassium ions under a process called potassium pre-
+may lessen ice-ice disease occurrence. Loureiro et al. (2009)      cipitation (McHugh, 1987). Inorganic nutrient enrichment
+showed that Acadian Marine Plant Extract Powder (AMPEP)            used in the present study did not influence the carrageenan
+fertilizers effectively reduced the occurrence of ice-ice dis-     yield of K. striatus after 45 days of culture. In terms of the
+ease and epiphytes infestation of K. alvarezii cultured in raft    culture period, 45 days achieved the highest carrageenan
+method.                                                            yield compared to 30 and 15 days, but no significant differ-
+                                                                   ences were observed between treatments (p>0.05). On the
+The primary cause of the occurrence of ice-ice disease is due
+                                                                   contrary, Hurtado et al. (2008) obtained the highest carragee-
+to adverse environmental factors such as nutrient insuffi-
+                                                                   nan yield of K. striatum var. sacol on day 30 compared to 45
+ciency and high or low salinity, light intensity, and tempera-
+                                                                   and 60 days. In addition, Hayashi et al. (2007b) revealed that
+ture (Largo, 2002; Tahiluddin & Terzi, 2021a; Tahiluddin &
+                                                                   the highest carrageenan yield was higher at day 28 compared
+
+
+
+                                                                                                                                      105
+       Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                                      Research Article
+
+      to 45 and 59 days. In this study, K. striatus nutrient enriched         Acknowledgments: The authors are grateful to the Bureau of Fish-
+      with urea obtained a carrageenan yield of 33.71% after 45               eries and Aquatic Resources (BFAR) and Mindanao State Univer-
+      days. It was lower than the study of Luhan et al. (2015), where         sity Tawi-Tawi College of Technology and Oceanography (MSU-
+      K. alvarezii enriched with 0.01 g L-1 of sodium nitrate ob-             TCTO), College of Fisheries (COF).
+      tained a carrageenan yield of 42.55% after 45 days. Neish et            Disclosure: -
+      al. (1977) recorded a carrageenan yield of 35.9% in Chondrus
+      crispus enriched with 6 µM nitrogen. A previous study
+      demonstrated that nitrogen supply positively affects the phy-           References
+      cocoloids in eucheumatoids (Rui et al., 1990; Chopin &
+      Wagey, 1999; Sahoo & Ohno, 2003).                                       Ahmad, S.M.B. (2014). Extraction of kappa-carrageenan
+                                                                              from local edible seaweeds. 1-14.
+      Moreover, phosphorus enrichment significantly increased the
+      carrageenan yield of seaweeds and the vital mechanism of the            Arupin (1997). The socio-economic study of Euchuema Sea-
+      flow of carbon in C. crispus towards carrageenan (Chopin et             weeds Industry. Technical report published by Research De-
+      al., 1991). In this study, the K. striatus nutrient enriched with       partment, MSU-TCTO, Sanga-Sanga, Bongao, Tawi-Tawi
+      phosphorus obtained a carrageenan yield of 36.20% after 45              12(1), 97.
+      days and was higher than the carrageenan yield (30%) of red
+      alga K. striatus enriched with 9 g L-1 ammonium phosphate               Bureau of Fisheries and Aquatic Resources (BFAR)
+      after 35 days (Robles, 2020). In addition, 45 days of culture           (2016). Philippine Fisheries Profiles 2016. 70p.
+      period achieved the highest yield of carrageenan in the pre-
+      sent study compared to the study of Hurtado et al. (2008), in           Bureau of Fisheries and Aquatic Resources (BFAR)
+      which K. striatum var. sacol yielded the highest carrageenan            (2019). Philippine Fisheries Profiles 2019. 76p.
+      for a duration of 30 days, and they also stated that extension
+      of cultivation duration from 45 to 60 days might result in the          Chopin, T., Hanisak, M.D., Koehn, F.E. (1991). Effects of
+      drop of carrageenan yield. Moreover, the present study coin-            seawater phosphorus concentration on floridean starch con-
+      cided with Hayashi et al. (2007b), where the only duration              tent in Agardhiella subulata (C. Agardh) Kraft et Wynne
+      significantly affected the highest carrageenan yield was 28             (Rhodophyta). Botanica Marina, 34, 369-373.
+      days of cultivation time.                                               https://doi.org/10.1515/botm.1991.34.4.369
+      Conclusion                                                              Chopin, T., Wagey, B. (1999). Factorial study of the effects
+      Inorganic nutrient enrichment of K. striatus in a high concen-          of phosphorus and nitrogen enrichments on nutrient and car-
+      tration of urea could improve growth as early as 15 days, alt-          rageenan content in Chondrus crispus (Rhodophyceae)
+      hough not significantly different from the control, but did not         and on residual nutrient concentration in seawater. Botanica
+      affect the growth at 45 days of the culture period. On the other        Ma-rina, 42, 23-31.
+      hand, both inorganic nutrient enrichments did not affect ice-           https://doi.org/10.1515/BOT.1999.004
+      ice disease occurrence throughout the culture period. In addi-
+      tion, both inorganic nutrient enrichment had no effect on the           Doty M.S., Alvarez, V.B. (1975). Status, problems, advances
+      carrageenan yield of cultured K. striatus. However, in terms            and economics of Eucheuma farms. Marine Technology So-
+      of the culture period, 45 days recorded the highest and better          ciety Journal, 9, 30-35.
+      carrageenan yield. Refinement of application of enriched nu-
+      trients such as the time of dipping and concentration of nutri-         FAO (2020). The State of World Fisheries and Aquaculture
+      ents still need to be studied and improved.                             2020. Sustainability in Action. Food & Agriculture
+                                                                              Organization.
+
+      Compliance with Ethical Standard                                        Harrison, P.J., Hurd, C.L. (2001). Nutrient physiology of
+      Conflict of interests: The authors declare that for this article they   seaweed: application of concepts to aquaculture. Cashiers de
+      have no actual, potential or perceived conflict of interests.           Biologie Marine, 42(1-2), 71-82.
+      Ethics committee approval: Ethics committee approval is not re-
+                                                                              Hayashi L., de Paula, E., Chow, F. (2007a). Growth rate
+      quired.
+                                                                              and carrageenan analyses in four strains of Kappaphycus al-
+      Funding disclosure: -                                                   varezii (Rhodophyta, Gigartinales) farmed in the subtropical
+
+
+
+
+106
+ Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                             Research Article
+
+waters of Sao Paulo State, Brazil Journal Applied Phycology,     Jr., T.R. & Luhan M.R.J. (Eds) Proceedings of the National
+19, 393-399.                                                     Seaweed Planning Workshop. Philippines. pp. 35-42.
+https://doi.org/10.1007/s10811-913-6
+                                                                 Largo, D.B., Fukami, K., Nishijima, T., Ohno, M. (1995a).
+Hayashi, L., Oliveira, E., Bleicher-Lhonneu, G., Bou-            Laboratory-induced development of ice-ice disease of the
+lenguer, P., Pereira, R.T.L., Seckendorff, R. Shimoda, V.,       farmed red algae Kappaphycus alvarezii and Eucheuma den-
+Leflamand, A., Vallée, P., Critchley, A. (2007b). The ef-        ticulatum (Solieriaceae, Gagartinales, Rhodophyta). Journal
+fects of selected cultivation conditions on the carrageenan      of Applied Phycology 7(6), 539-543.
+characteristics of Kappaphycus alvarezii (Rhodophyta, Gi-        https://doi.org/10.1007/Bf00003940
+gartinales) in Ubatuba Bay, Sán Paulo State, Brazil. Journal
+of Applied Phycology, 19, 505-511.                               Largo, D.B., Fukami, K., Nishijima, T. (1995b). Occa-
+https://doi.org/10.1007/s10811-007-9163-x                        sional pathogenic bacteria promoting ice-ice disease in the
+                                                                 carrageenan producing red algae Kappaphycus alvarezii and
+Hayashi, L., Santos, A.A., Faria, G.S., Nunes, B.G., Souza,      Eucheuma denticulatum (Solieriaceae, Gigartinales, Rhodo-
+M.S., Fonseca, A.L., Barreto, P.L., Oliveira, E.C., Bou-         phyta). Journal of Applied Phycology 7(6), 545-554.
+zon, Z.L. (2011). Kappaphycus alvarezii (Rhodophyta,             https://doi.org/10/1007/Bf00003941
+Areschougiaceae) Cultivated in subtropical waters in South-
+ern Brazil. Journal of Applied Phycology, 23(3), 337-343.        Laurienzo, P. (2010). Marine polysaccharides in pharmaceu-
+https://doi.org/10.1007/s10811-010-9543-5                        tical applications: An overview. Marine Drugs, 8(9), 2435-
+                                                                 2465.
+Hurtado, A.Q., Agbayani, R.F., Sanares, R., Castro-Mal-          https://doi.org/10.3390/md8092435
+lare, M.T. (2001). The seasonality and economic feasibility
+of cultivating Kappaphycus alvarezii in Panagatan Cays,          Loureiro, R.R., Reis, R.P., Critchley, A.T. (2009). In vitro
+Caluya, Antique Philippines. Aquaculture, 199(3-4),              cultivation of three Kappaphycus alvarezii (Rhodophyta,
+295-310.                                                         Areschougiaceae) variants (green, red and brown) exposed to
+https://doi.org/10.1016/S0044-8486(00)00553-6                    a commercial extract of the brown alga
+                                                                 Ascophyllum nodosum (Fucaceae, Ochrophyta) Journal of
+Hurtado, A., Critchley, A., Trespoey, A. (2008). Growth          Applied Phycol-ogy, 22(1), 101-104.
+and carrageenan quality of Kappaphycus striatum var. sacol       https://doi.org/10.1007/s10811-009-9412-2
+grown at different stocking densities, duration of culture and
+depth. Journal of Applied Phycology, 20, 551-555.                Luhan, M.R.J., Avañcena, S.S., Mateo, J.P. (2015). Effects
+https://doi.org/10.1007/s10811-008-9339-z                        of short-term immersion of Kappaphycus alvarezii (Doty)
+                                                                 Doty in high nitrogen on the growth, nitrogen assimilation,
+Hurtado, A.Q., Iain, C.N., Alan, T.C. (2015). Develop-           carrageenan quality, and occurrence of ice-ice disease. Jour-
+ments in production technology of Kappaphycus in the Phil-       nal of Applied Phycology, 27(2), 917-922.
+ippines: more than four decades of farming. Journal of Ap-       https://doi.org/10.1007/s10811-014-0365-8
+plied Phycology, 27(5), 1945-1961.
+                                                                 Martins, A.P., Junior, O.N., Colepicolo, P., Yokota, N.S.
+Husin, A.B. (2014). Extraction of kappa-carrageenan from         (2011). Effects of nitrate and phosphate availabilities on
+local seaweeds. University Malaysia Pahang, 1-18.                growth, photosynthesis and pigment and protein contents in
+https://umpir.ump.edu.my/id/eprint/10682                         colour strain of Hypinea musciformis (Wulfen in Jacqu.) J.V.
+                                                                 Lamour. (Gigartinales, Rhodophyta). Revista Brasileira de
+Lapointe, B.E. (1986). Phosphorus-limited photosynthesis         Farmacognosia Brazilian Journal of Pharmacognosy, 21(2),
+and growth of Sargassum natans and Sargassum fluitans            340-348.
+(Phaeophyceae) in the Western North Atlantic. Deep-Sea Re-       https://doi.org/10.1590/S0102-695X2011005000078
+search, 33(3), 391-399.
+https://doi.org/10.1016/0198-0149(86)90099-3                     McHugh, D.J. (1987). Production, properties and uses of al-
+                                                                 ginates. FAO Fisheries Technical paper 288, 58-115.
+Largo, D.B. (2002). Recent developments in seaweed dis-
+eases. In; Hurtado, A.Q., Guanzon N.G., Castro-Mallare, de
+
+
+
+
+                                                                                                                                 107
+      Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                              Research Article
+
+      Neish, A.C., Shacklock, P.F., Fox, C.H., Simpson, F.J.           measures. Marine Science and Technology Bulletin, 10(3),
+      (1977). The cultivation of Chondrus crispus. Factors affect-     234-243.
+      ing growth under greenhouse conditions. Canadian Journal         https://doi.org/10.33714/masteb.917788
+      Botany, 55, 2263-2271.
+      https://doi.org/10.1139/b77-256                                  Tahiluddin, A., Terzi, E. (2021b). An overview of fisheries
+                                                                       and aquaculture in the Philippines. Journal of Anatolian En-
+      Provin, T.L., Pitt, J.L. (2008). Phosphorus--Too much and        vironmental and Animal Sciences.
+      plants may suffer. Produce by Agricultural Communications,       https://doi.org/10.35229/jaes.944292
+      The Texas A&M University System. 2pp.
+      https://hdl.handle.net/1969.1/86793                              Tahiluddin, A.B., Nuñal, S.N., Luhan, M.R.J., Santan-
+                                                                       der–de Leon, S.M.S. (2021a). Vibrio and heterotrophic ma-
+      Robles, R.J.F. (2020). Effects of different concentrations of    rine bacteria composition and abundance in nutrient-enriched
+      ammonium phosphate on the yield and the quality of carra-        Kappaphycus striatus. Philippine Journal of Science,
+      geenan, Kappaphycus striatus (Schmitz) Doty ex Silva. Jour-      150(6B), 1549-1761.
+      nal of Fisheries, Livestock and Veterinary Science. 1(1), 1-9.
+      https://doi.org/10.18801/jflvs.010120.01                         Tahiluddin, A.B., Alawi, T.I., Hassan, N.S.A., Jaji, S.N.A.,
+                                                                       Terzi, E. (2021b). Abundance of culturable heterotrophic
+      Romero, J.B., Montaño, N.E., Merca, F.E., Rumbaoa,               marine bacteria in Ulva lactuca associated with farmed sea-
+      R.G.O., Villanueva, R.D. (2000). Effect of sucrose on some       weeds Kappaphycus spp. and Eucheuma denticulatum. Jour-
+      physical properties of different Phillippine agar. Philippine    nal of Agricultural Production, 2(2), 44-47.
+      Journal of Sciences, 129(1), 7-13.                               https://doi.org/10.29329/agripro.2021.360.1
+
+      Rui, L., Jiajun, L., Chaoyuan, W. (1990). Effect of ammo-        Tariq, A., Pan, K., Olatunji, O.A., Graciano, C., Li, Z.,
+      nium on growth and carrageenan content in Kappaphycus al-        Sun, F., Zhang, L., Wu, X., Chen, W., Song, D., Huang,
+      varezii (Gigartinales, Rhodophyta). Thirteenth International     D., Xue, T., Zhang, A. (2018). Phosphorus fertilization alle-
+      Seaweed Symposium, 499-503.                                      viates drought effects on Alnus cremastogyne by regulating
+      https://doi.org/10.1007/978-94-009-2049-1_71                     its antioxidant and osmotic potential. Scientific Report, 8,
+                                                                       5644.
+      Sahoo, D., Ohno, M. (2003). Culture of Kappaphycus al-           https://doi.org/10.1038/s41598-018-24038-2
+      varezii in deep seawater and nitrogen enrichment medium.
+      Bulletin of Marine Sciences and Fisheries, 22, 89-96.            Thirumaran, G., Arumugan, M., Arumugan, R., Anan-
+                                                                       tharaman, P. (2009). Effect of seaweed liquid fertilizer on
+      Sekar, R., Thangaraju, N., Rengasamy, R. (1995). Effects         growth and pigment concentration of Cyamopsis tet-
+      of seaweed liquid fertilizers from Ulva lactuca on Vigna un-     rogonolaba (L) Taub. American-Eurasian Journal of Agron-
+      guiculata L. (walp.), Phykos, 34, 49-53.                         omy, 2(2), 57-66.
+
+      Solis, M.J., Draeger, S., Dela Cruz, T.E. (2010). Marine-        Tisera, W.L. Naguit, M.R.A. (2009). Ice-ice disease occur-
+      derived fungi from Kappaphycus alvarezii and K. striatus as      rence in seaweed farms in Bais Bay, Negros Oriental and
+      potential causative agents of ice-ice disease in farmed sea-     Zamboanga del Norte. The Threshold, 4, 1-16.
+      weeds. Botanica Marina, 53(6), 587-594.
+      https://doi.org/10.1515/bot.2010.071                             Topinka, J.A., Robbins, J.V. (1976). Effect of nitrate and
+                                                                       ammonium enrichment on growth and nitrogen physiology in
+      Tahiluddin, A.B. (2018). Influence of fertilization on the oc-   Fucus spiralis. Limnology and Oceanography, 21(5),
+      currence of Vibrio, “ice-ice” disease and growth of seaweed      659-664.
+      Kappaphycus striatus (F. Schmitz) Doty ex P.C. Silva.            https://doi.org/10.4319/lo.1976.21.5.0659
+      [M.Sc. Thesis. University of the Philippines Visayas].
+                                                                       Trono G.C. Jr. (1992). Eucheuma and Kappaphycus: taxon-
+      Tahiluddin, A.B., Terzi, E. (2021a). Ice-ice disease in com-     omy and cultivation. Bulletin Marine Science Institute Col-
+      mercially cultivated seaweeds Kappaphycus spp. and Eu-           lege of Science, 12, 51-65.
+      cheuma spp.: A review on the causes, occurrence, and control
+
+
+
+
+108
+ Aquat Res 5(2), 99-109 (2022) • https://doi.org/10.3153/AR22009                                           Research Article
+
+Trono G.C. Jr. (1993). Effects of biological, physical and     Uyenco, F.R., Saniel, L.S., Jacinto, G.S. (2019). The ice-ice
+socio-economic factors on the productivity of Eu-              problem in seaweed farming. In Levring T (eds.), Proc. Tenth
+cheuma/Kappaphycus farming industry. In: Calumpong H.P.        Int. Seaw. Symp. Walter de Gruyter & Co., Berlin, 625-630.
+and Menez E.G. (eds), Proc. Second RP-USA Phycology            https://doi.org/10.1515/9783110865271-084
+Symp./Workshop., Cebu City and Dumaguete City, Philip-
+pines 239-245.                                                 Villares, R., Puente, X., Carballeira, A. (1999). Nitrogen
+                                                               and phosphorus in Ulva sp. in the Galician Rias Bajas (north-
+Trono G.C. Jr. (1997). Field Guide and Atlas of the Sea-       west Spain): Seasonal fluctuations influence on growth. Bo-
+weeds Resources of the Philippines. Bookmark, Inc, Makati      letin-Instituto Español de Oceanografia, 15 (1-4), 337-341.
+City, Philippines 302 pp.
+                                                               Zhiguang, X., Zou, D., Gao, K. (2010). Effect of elevated
+Uchida, R. (2000). Essential Nutrients for Plant Growth: Nu-   CO2 and phosphorus supply on growth, photosynthesis
+trient Functions and Deficiency Symptoms R. Uchida. From       and nutrient uptake in the marine macroalgae Gracilaria
+Plant Nutrient Management in Hawaii’s Soils, Approaches        lemanei-formis (Rhodophyta). Botanica Marina, 53,
+for Tropical and Subtropical Agriculture and Human Re-         123-129. https://doi.org/10.1515/BOT.2010.012
+sources, University of Hawaii at Manoa.
+
+
+
+
+                                                                                                                               109
+
