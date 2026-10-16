@@ -1,0 +1,38 @@
+name: Project Management
+description: Team planning, coordination, retrospectives, and project decisions
+title: "[Project Management] "
+labels: ["workstream:project-management"]
+type: Task
+projects: ["De-Voeux/1"]
+body:
+  - type: markdown
+    attributes:
+      value: Add a specific outcome after the [Project Management] prefix. This issue is public; link only shareable material.
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective and context
+      description: What team process, plan, or decision needs attention, and why now?
+    validations:
+      required: true
+  - type: textarea
+    id: participants
+    attributes:
+      label: People and dependencies
+      description: Which roles or teams need to contribute? Link related issues or plans.
+    validations:
+      required: false
+  - type: textarea
+    id: output
+    attributes:
+      label: Expected output
+      description: Describe the plan, decision record, retrospective actions, or coordination result.
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Done when
+      description: What must be agreed, documented, or communicated before this task can close?
+    validations:
+      required: true
