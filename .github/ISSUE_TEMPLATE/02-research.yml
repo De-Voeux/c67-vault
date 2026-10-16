@@ -1,0 +1,45 @@
+name: Research
+description: Desk research, interviews, field observations, and evidence synthesis
+title: "[Research] "
+labels: ["workstream:research"]
+type: Task
+projects: ["De-Voeux/1"]
+body:
+  - type: markdown
+    attributes:
+      value: Add a specific question or output after the [Research] prefix. Separate source findings, participant accounts, and team interpretations. This issue is public; keep contact and consent records in a restricted location.
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question
+      description: What do we need to learn, and which product or team decision will it inform?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and method
+      description: Name the population, place, timeframe, and method where relevant (for example, desk research, interview, or observation).
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and existing evidence
+      description: Link vault notes, papers, prior interviews, or other starting material. Note gaps or conflicting evidence.
+    validations:
+      required: false
+  - type: textarea
+    id: output
+    attributes:
+      label: Expected output and done when
+      description: What synthesis, evidence table, interview notes, or recommendation will be delivered? What review is needed?
+    validations:
+      required: true
+  - type: textarea
+    id: findings
+    attributes:
+      label: Findings and limitations (update before closing)
+      description: Summarize what was learned, what remains uncertain, and link the final evidence or notes.
+    validations:
+      required: false

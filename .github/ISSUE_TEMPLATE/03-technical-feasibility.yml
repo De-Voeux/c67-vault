@@ -1,0 +1,45 @@
+name: Technical Feasibility
+description: Test whether an idea can be implemented with available data, tools, and constraints
+title: "[Technical Feasibility] "
+labels: ["workstream:technical-feasibility"]
+type: Task
+projects: ["De-Voeux/1"]
+body:
+  - type: markdown
+    attributes:
+      value: Add the capability being assessed after the [Technical Feasibility] prefix. Link the product question and any follow-up development issue. This issue is public; link only shareable material. Treat pilot measurements and proposed thresholds as unvalidated until evidence supports them.
+  - type: textarea
+    id: question
+    attributes:
+      label: Feasibility question
+      description: What exactly must be possible, and what product or research decision depends on the answer?
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: Candidate approach and alternatives
+      description: Describe the options to evaluate, including relevant data sources, devices, services, or implementation choices.
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints and dependencies
+      description: List access, accuracy, coverage, cost, time, privacy, and field conditions as relevant. Link known evidence.
+    validations:
+      required: true
+  - type: textarea
+    id: test
+    attributes:
+      label: Test or proof plan
+      description: What small check, prototype, calculation, or expert review will answer the question? Define the evidence to collect.
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Done when
+      description: State the decision criteria and how results, limitations, and next steps will be recorded.
+    validations:
+      required: true

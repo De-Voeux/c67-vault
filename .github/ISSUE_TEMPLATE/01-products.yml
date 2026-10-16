@@ -1,0 +1,38 @@
+name: Products
+description: Product problems, opportunities, scope, priorities, and decisions
+title: "[Products] "
+labels: ["workstream:products"]
+type: Task
+projects: ["De-Voeux/1"]
+body:
+  - type: markdown
+    attributes:
+      value: Add a specific outcome after the [Products] prefix. Link supporting research and related design or development issues. This issue is public; link only shareable material.
+  - type: textarea
+    id: problem
+    attributes:
+      label: User problem or opportunity
+      description: Who is affected, in what situation, and what decision or need makes this work important?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and open assumptions
+      description: Link interviews, research notes, or other sources. State what has not yet been verified.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Proposed outcome and scope
+      description: Describe the product outcome to define or decide, including what is in scope.
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Done when
+      description: What decision, artifact, or acceptance criteria will close this task? Name who needs to review it.
+    validations:
+      required: true
