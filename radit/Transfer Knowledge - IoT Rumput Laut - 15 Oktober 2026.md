@@ -2,7 +2,7 @@
 type: knowledge-transfer
 project: "[[Challenge Final]]"
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-20
 status: working-understanding
 tags: [challenge-final, radit, iot, rumput-laut, ice-ice, poc, fusion]
 ---
@@ -11,7 +11,9 @@ tags: [challenge-final, radit, iot, rumput-laut, ice-ice, poc, fusion]
 
 Pemahaman Codex berdasarkan percakapan dengan Radit sampai 15 Oktober 2026, catatan kelayakan teknis yang diberikan Radit, serta percakapan Claude yang ditempelkan Radit. Catatan ini merupakan handoff untuk melanjutkan riset dan PoC; bukan spesifikasi final atau hasil validasi lapangan.
 
-**Arah terbaru:** alat low budget yang merekam kondisi selama dipasang di kebun, kemudian diambil kembali untuk membaca data. Radit sudah mengonfirmasi bahwa tali rumput laut menggantung dekat permukaan dengan pelampung. Jadwal pengambilan, metode transfer, aturan risiko, serta hardware final masih terbuka.
+**Pembaruan keputusan per 20 Oktober 2026:** variabel inti yang dipahami Radit adalah **salinitas dan suhu air**. Alat dipasang selama **5 jam**, kemudian diangkat dan data disinkronkan ke app melalui **BLE**. Batas biaya total **Rp1–2 juta**; tim tidak memiliki alat ukur untuk dipinjam dan bersedia belajar merakit board. Rincian di bawah yang menyebut variabel atau komunikasi masih terbuka menggambarkan pembahasan hingga 15 Oktober; lihat bagian pembaruan terbaru di akhir catatan.
+
+**Arah pada catatan 15 Oktober:** alat low budget yang merekam kondisi selama dipasang di kebun, kemudian diambil kembali untuk membaca data. Radit sudah mengonfirmasi bahwa tali rumput laut menggantung dekat permukaan dengan pelampung. Pada tanggal itu, jadwal pengambilan, metode transfer, aturan risiko, serta hardware final masih terbuka; pembaruan 20 Oktober di atas menggantikan status jadwal dan transfer.
 
 ## 1. Tujuan dan konteks
 
@@ -185,3 +187,45 @@ Rujukan teknis yang dibaca saat menilai transfer Claude pada 15 Oktober 2026:
 - [Datawell — FAQ](https://datawell.nl/faq/): konfigurasi tambatan buoy bergantung pada kondisi pengukuran. Ini referensi prinsip, bukan validasi MPU6050 atau housing draft kita.
 
 Dokumen transfer awal dibuat sebelum tambahan konteks Claude. Catatan ini menjadi versi pemahaman yang lebih baru untuk diteruskan di folder `radit`; keputusan yang masih terbuka sengaja dipertahankan sebagai terbuka.
+
+## 10. Pembaruan kebutuhan dan audit komponen — 20 Oktober 2026
+
+Bagian ini memperbarui status kebutuhan setelah diskusi dan pencarian komponen. Keputusan pengguna mengenai kebutuhan variabel dan alur kerja menjadi acuan terkini; saran komponen tetap berstatus kandidat sampai spesifikasi dan uji alat mendukungnya.
+
+### Kebutuhan yang dikonfirmasi
+
+- Dua variabel inti: **salinitas** dan **suhu air**.
+- Satu alat merekam selama **5 jam**, lalu diambil dan disinkronkan ke app iOS melalui **BLE**.
+- Anggaran total satu PoC: **Rp1–2 juta**. Tidak tersedia alat ukur pinjaman; tim bersedia belajar merakit dan menyolder.
+- Cahaya dan gerak/arus tidak termasuk variabel inti saat ini. Keduanya pernah dibahas sebelumnya, tetapi tidak perlu dimasukkan ke BOM inti.
+
+### Arti pengukuran salinitas
+
+Salinitas dapat diturunkan dari konduktivitas listrik (EC) dengan kompensasi suhu dan metode yang sesuai. Karena itu sistem sebaiknya menyimpan **bacaan EC mentah, suhu air, dan nilai salinitas hasil perhitungan** secara terpisah, beserta satuan, waktu, status kalibrasi, dan versi rumus. EC sendiri bukan pengukuran nutrien tertentu atau diagnosis ice-ice.
+
+### Kandidat biaya rendah yang ditemukan
+
+[Sensor Konduktivitas / TDS / Kadar Garam Depoinovasi](https://depoinovasi.co.id/sensor-konduktivitas-tds-kadar-garam/) tercantum **Rp150.000** saat diperiksa. Halaman menyebut catu 5 V, keluaran analog 0–5 V, dan elektroda stainless di dalam pipa PVC. Namun halaman itu tidak menyatakan rentang EC, akurasi, grade stainless, kompensasi suhu, metode konversi salinitas, atau batas perendaman. Jadi ini **kandidat uji**, bukan pilihan sensor laut yang tervalidasi. Keluaran 0–5 V juga tidak boleh langsung masuk ke pin ESP32; batas input dan rangkaian harus diperiksa dahulu.
+
+Probe DS18B20 waterproof lokal tercantum sekitar **Rp21.000** di [Jogjarobotika](https://jogjarobotika.com/produk/250/sensor-suhu-water-proof-ds18b20/). Itu harga chip/probe generik, bukan bukti bahwa seal dan selubungnya tahan air asin. Gunakan hanya setelah materi probe dan kemasan pada unit aktual diperiksa serta diuji. Pull-up data ke 3,3 V diperlukan untuk ESP32.
+
+Referensi alternatif yang lebih terdokumentasi seperti Atlas EC-KIT berharga jauh di atas porsi wajar dari cap proyek. DFRobot DFR0300-H punya rentang EC yang relevan tetapi produsennya memperingatkan agar elektrodanya tidak direndam lama, sehingga belum dipilih untuk sesi 5 jam. [Panduan produsen](https://wiki.dfrobot.com/dfr0300-h/docs/20395).
+
+### Anggaran dan batas keputusan
+
+Audit belum membuktikan bahwa semua bagian alat laut dapat dibeli dan divalidasi dalam Rp2 juta. Tabel anggaran pada dokumen audit adalah **batas alokasi awal**, bukan penawaran harga per SKU. Pengendali, RTC, kartu SD, daya, casing, konektor, alat rakit, larutan standar dan pemeriksaan pembanding harus dihitung bersama sensor. Jangan menetapkan kandidat EC sebagai sensor utama hanya karena harganya cocok.
+
+Tahap berikut yang paling mengurangi risiko adalah meminta spesifikasi teknis kandidat lokal atau menguji satu sampel pada larutan standar dengan nilai EC diketahui, lalu memeriksa apakah bacaannya mencakup kondisi air laut dan tetap stabil selama 5 jam. Keberhasilan uji meja masih perlu diikuti pemeriksaan selubung, sambungan kabel, dan uji terkontrol air asin. Pembelian sampel, jika dilakukan, adalah eksperimen dan mungkin gagal memenuhi kebutuhan.
+
+### Dampak pada Wokwi dan firmware
+
+- Pertahankan ESP32, microSD, sesi 5 jam dan metadata waktu sebagai arah dasar. Jam kalender memerlukan RTC atau sumber waktu yang disetel sebelum pemasangan.
+- Ganti potensiometer simulasi dengan pembaca EC dan probe yang akhirnya lolos uji. Tambahkan perhitungan salinitas yang menggunakan suhu dan simpan EC serta suhu mentah.
+- Ganti sensor suhu hanya setelah komponen fisiknya diputuskan. Driver DS18B20 tidak akan cocok bila pilihan akhir berupa PT1000 + pembaca RTD.
+- Hapus LDR dan MPU6050 dari konfigurasi PoC inti untuk menjaga biaya dan pekerjaan tetap pada dua kebutuhan yang disepakati.
+- Implementasikan BLE nyata di ESP32 dan penerima iOS; transfer Serial saat ini belum menguji koneksi BLE. Perlu potongan data, konfirmasi penyimpanan di app, retry/resume, dan pemeriksaan file utuh.
+- Tambahkan daya, casing kering, seal kabel, dudukan probe, dan pengikat. Uji konsumsi selama 5 jam ditambah waktu transfer.
+
+Wokwi membantu memeriksa alur kode, tetapi tidak membuktikan ketahanan laut, akurasi EC/salinitas, segel casing, masa baterai, ataupun transfer BLE ke app. Revisi firmware yang dibahas sebelumnya telah dikompilasi dan diuji dengan mock lokal, namun belum dijalankan pada ESP32 fisik atau diverifikasi di UI Wokwi.
+
+Catatan pendukung audit: `/Users/radityaaydin/repos/depok/iot-hardware-review/README.md`, `BUDGET_OPTIONS.md`, dan `SENSOR_RESEARCH.md` (di luar vault). Sumber vendor di atas diperiksa 20 Oktober 2026; harga/stok dapat berubah.
