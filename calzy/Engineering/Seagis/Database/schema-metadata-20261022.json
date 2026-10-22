@@ -1,0 +1,6743 @@
+{
+  "project": "kibztbeviortyvbedogg",
+  "inspected_at": "2026-10-22T10:42:58.974431+00:00",
+  "objects": [
+    {
+      "schema": "seagis",
+      "name": "dataset",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "dataset_parameter",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "forecast_run",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "forecast_value",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "ingestion_run",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "observation",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "parameter",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "plot",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "plot_grid_mapping",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "quality_event",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "sensor",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "source",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "name": "source_grid",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "name": "credential",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "name": "packet_receipt",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "name": "reader_plot",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "name": "request_event",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "name": "temperature_policy",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "name": "attempt",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "name": "current_speed",
+      "kind": "v",
+      "rls": false,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "name": "demo_grid_mapping",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "name": "policy",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "name": "schedule_state",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "name": "feature_input",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "name": "feature_snapshot",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "name": "alignment_snapshot",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "name": "policy",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "name": "snapshot_input",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "name": "raw_payload",
+      "kind": "r",
+      "rls": true,
+      "force_rls": false,
+      "comment": null
+    }
+  ],
+  "columns": [
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_key",
+      "position": 1,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "source_key",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "provider_product_id",
+      "position": 3,
+      "type": "text",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "provider_dataset_id",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_version",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "scope",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "native_cadence_seconds",
+      "position": 7,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "resolution_lat_deg",
+      "position": 8,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "resolution_lon_deg",
+      "position": 9,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "source_timezone",
+      "position": 10,
+      "type": "text",
+      "not_null": true,
+      "default_expression": "'UTC'::text",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "licence_url",
+      "position": 11,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "attribution",
+      "position": 12,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "raw_storage_permitted",
+      "position": 13,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": "false",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "real_ingestion_enabled",
+      "position": 14,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": "false",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "metadata_checked_at",
+      "position": 15,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_key",
+      "position": 1,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "parameter_code",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "source_variable",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "native_unit",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "unit",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "conversion_code",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "conversion_factor",
+      "position": 7,
+      "type": "seagis.finite_float",
+      "not_null": true,
+      "default_expression": "1",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "conversion_offset",
+      "position": 8,
+      "type": "seagis.finite_float",
+      "not_null": true,
+      "default_expression": "0",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "temporal_support",
+      "position": 9,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "dataset_key",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "scope",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": "'regional_model'::text",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "ingestion_run_id",
+      "position": 4,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "raw_payload_id",
+      "position": 5,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "is_synthetic",
+      "position": 6,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "run_key",
+      "position": 7,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "run_kind",
+      "position": 8,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "provider_run_id",
+      "position": 9,
+      "type": "text",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "model_initialized_at",
+      "position": 10,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "issued_at",
+      "position": 11,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "issue_time_basis",
+      "position": 12,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "ingested_at",
+      "position": 13,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_run_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "source_grid_id",
+      "position": 3,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "dataset_key",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "is_synthetic",
+      "position": 5,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "parameter_code",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "native_value",
+      "position": 7,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "native_unit",
+      "position": 8,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "value",
+      "position": 9,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "unit",
+      "position": 10,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "conversion_code",
+      "position": 11,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "value_status",
+      "position": 12,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "detection_limit",
+      "position": 13,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "valid_at",
+      "position": 14,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "ingested_at",
+      "position": 15,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "temporal_support",
+      "position": 16,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "interval_status",
+      "position": 17,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "period_start_at",
+      "position": 18,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "period_end_at",
+      "position": 19,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "quality_status",
+      "position": 20,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "dataset_key",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "request_key",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "adapter_version",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "started_at",
+      "position": 5,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "completed_at",
+      "position": 6,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "status",
+      "position": 7,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "is_synthetic",
+      "position": 8,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "error_code",
+      "position": 9,
+      "type": "text",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "plot_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "sensor_id",
+      "position": 3,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "dataset_key",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "ingestion_run_id",
+      "position": 5,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "raw_payload_id",
+      "position": 6,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "is_synthetic",
+      "position": 7,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "source_record_key",
+      "position": 8,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "parameter_code",
+      "position": 9,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "native_value",
+      "position": 10,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "native_unit",
+      "position": 11,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "value",
+      "position": 12,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "unit",
+      "position": 13,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "conversion_code",
+      "position": 14,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "value_status",
+      "position": 15,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "detection_limit",
+      "position": 16,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observed_at",
+      "position": 17,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "ingested_at",
+      "position": 18,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "quality_status",
+      "position": 19,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "parameter",
+      "name": "parameter_code",
+      "position": 1,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "parameter",
+      "name": "unit",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "parameter",
+      "name": "description",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_code",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "name",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "latitude",
+      "position": 4,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "longitude",
+      "position": 5,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "is_synthetic",
+      "position": 6,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "location_status",
+      "position": 7,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "created_at",
+      "position": 8,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "now()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "source_grid_id",
+      "position": 3,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "is_synthetic",
+      "position": 4,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "sampling_method",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "distance_m",
+      "position": 6,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "representativeness",
+      "position": 7,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "effective_from",
+      "position": 8,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "effective_until",
+      "position": 9,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "recorded_at",
+      "position": 10,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "clock_timestamp()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "ingestion_run_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "dataset_key",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "is_synthetic",
+      "position": 4,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "event_key",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "observation_id",
+      "position": 6,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "forecast_value_id",
+      "position": 7,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "event_code",
+      "position": 8,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "severity",
+      "position": 9,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "details",
+      "position": 10,
+      "type": "jsonb",
+      "not_null": true,
+      "default_expression": "'{}'::jsonb",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "created_at",
+      "position": 11,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "now()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_code",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "plot_id",
+      "position": 3,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "dataset_key",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "scope",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": "'local_sensor'::text",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "parameter_code",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": "'water_temperature'::text",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "depth_m",
+      "position": 7,
+      "type": "seagis.finite_float",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "depth_status",
+      "position": 8,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "is_synthetic",
+      "position": 9,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "active",
+      "position": 10,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": "true",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source",
+      "name": "source_key",
+      "position": 1,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source",
+      "name": "provider",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source",
+      "name": "documentation_url",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "dataset_key",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "scope",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": "'regional_model'::text",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "grid_key",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "grid_version",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "identity_basis",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "latitude",
+      "position": 7,
+      "type": "seagis.finite_float",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "longitude",
+      "position": 8,
+      "type": "seagis.finite_float",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "depth_m",
+      "position": 9,
+      "type": "seagis.finite_float",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "is_synthetic",
+      "position": 10,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "label",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "token_sha256",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "kind",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "sensor_id",
+      "position": 5,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "created_at",
+      "position": 6,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "now()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "expires_at",
+      "position": 7,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "revoked_at",
+      "position": 8,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "sensor_id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "source_record_key",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "semantic_sha256",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "observation_id",
+      "position": 4,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "ingestion_run_id",
+      "position": 5,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "flags",
+      "position": 6,
+      "type": "text[]",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "reader_plot",
+      "name": "credential_id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "reader_plot",
+      "name": "plot_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "credential_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "sensor_id",
+      "position": 3,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "http_status",
+      "position": 4,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "code",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "created_at",
+      "position": 6,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "clock_timestamp()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "id",
+      "position": 1,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": "true",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "version",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "min_degc",
+      "position": 3,
+      "type": "double precision",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "max_degc",
+      "position": 4,
+      "type": "double precision",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "max_step_degc",
+      "position": 5,
+      "type": "double precision",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "future_tolerance_seconds",
+      "position": 6,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "stale_after_seconds",
+      "position": 7,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "requests_per_minute",
+      "position": 8,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "dataset_key",
+      "position": 2,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "started_at",
+      "position": 3,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "completed_at",
+      "position": 4,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "status",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "error_code",
+      "position": 6,
+      "type": "text",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "forecast_run_id",
+      "position": 7,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "eastward_value_id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "northward_value_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "forecast_run_id",
+      "position": 3,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "source_grid_id",
+      "position": 4,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "valid_at",
+      "position": 5,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "ingested_at",
+      "position": 6,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "available_at",
+      "position": 7,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "speed_m_s",
+      "position": 8,
+      "type": "double precision",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "current_speed",
+      "name": "derivation",
+      "position": 9,
+      "type": "text",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "plot_id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "plot_is_synthetic",
+      "position": 2,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": "true",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "source_grid_id",
+      "position": 3,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "dataset_key",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "grid_is_synthetic",
+      "position": 5,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": "false",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "example_latitude",
+      "position": 6,
+      "type": "seagis.finite_float",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "example_longitude",
+      "position": 7,
+      "type": "seagis.finite_float",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "coordinate_status",
+      "position": 8,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "distance_m",
+      "position": 9,
+      "type": "seagis.finite_float",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "sampling_method",
+      "position": 10,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "created_at",
+      "position": 11,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "now()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "dataset_key",
+      "position": 1,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "enabled",
+      "position": 2,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": "true",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "purpose",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "licence_url",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "terms_review",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "attribution",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "update_seconds",
+      "position": 7,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "release_offset_seconds",
+      "position": 8,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "stale_seconds",
+      "position": 9,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "retention_mode",
+      "position": 10,
+      "type": "text",
+      "not_null": true,
+      "default_expression": "'metadata_only'::text",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "reviewed_at",
+      "position": 11,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "now()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "dataset_key",
+      "position": 1,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "lease_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "lease_until",
+      "position": 3,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "next_attempt_at",
+      "position": 4,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "'-infinity'::timestamp with time zone",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "last_success_at",
+      "position": 5,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "last_attempt_at",
+      "position": 6,
+      "type": "timestamp with time zone",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "last_error_code",
+      "position": 7,
+      "type": "text",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "failures",
+      "position": 8,
+      "type": "integer",
+      "not_null": true,
+      "default_expression": "0",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "last_forecast_run_id",
+      "position": 9,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "snapshot_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "observation_id",
+      "position": 3,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "forecast_value_id",
+      "position": 4,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "plot_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "is_synthetic",
+      "position": 3,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "as_of",
+      "position": 4,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "generated_at",
+      "position": 5,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_version",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_schema_version",
+      "position": 7,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "features",
+      "position": 8,
+      "type": "jsonb",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "missing_context",
+      "position": 9,
+      "type": "text[]",
+      "not_null": true,
+      "default_expression": "'{}'::text[]",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "status",
+      "position": 10,
+      "type": "text",
+      "not_null": true,
+      "default_expression": "'draft'::text",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "input_manifest_sha256",
+      "position": 11,
+      "type": "text",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "features_sha256",
+      "position": 12,
+      "type": "text",
+      "not_null": false,
+      "default_expression": "seagis.jsonb_sha256(features)",
+      "generated": "s",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "plot_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "mode",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "start_at",
+      "position": 4,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "end_at",
+      "position": 5,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "policy_version",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "source_sha256",
+      "position": 7,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "input_manifest_sha256",
+      "position": 8,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "body",
+      "position": 9,
+      "type": "jsonb",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "body_sha256",
+      "position": 10,
+      "type": "text",
+      "not_null": false,
+      "default_expression": "seagis.jsonb_sha256(body)",
+      "generated": "s",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "created_at",
+      "position": 11,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "clock_timestamp()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "version",
+      "position": 1,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "definition",
+      "position": 2,
+      "type": "jsonb",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "policy_sha256",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "code_sha256",
+      "position": 4,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "registered_at",
+      "position": 5,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": "clock_timestamp()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "snapshot_id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "aligned_at",
+      "position": 2,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "source_ref",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "observation_id",
+      "position": 4,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "forecast_value_id",
+      "position": 5,
+      "type": "uuid",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "id",
+      "position": 1,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": "gen_random_uuid()",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "ingestion_run_id",
+      "position": 2,
+      "type": "uuid",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "dataset_key",
+      "position": 3,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "is_synthetic",
+      "position": 4,
+      "type": "boolean",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "sha256",
+      "position": 5,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "hash_basis",
+      "position": 6,
+      "type": "text",
+      "not_null": true,
+      "default_expression": "'source_bytes'::text",
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "received_at",
+      "position": 7,
+      "type": "timestamp with time zone",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "storage_mode",
+      "position": 8,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "payload",
+      "position": 9,
+      "type": "jsonb",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "object_uri",
+      "position": 10,
+      "type": "text",
+      "not_null": false,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "byte_size",
+      "position": 11,
+      "type": "bigint",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "format",
+      "position": 12,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "licence_snapshot",
+      "position": 13,
+      "type": "text",
+      "not_null": true,
+      "default_expression": null,
+      "generated": "",
+      "comment": null
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "provider_metadata",
+      "position": 14,
+      "type": "jsonb",
+      "not_null": true,
+      "default_expression": "'{}'::jsonb",
+      "generated": "",
+      "comment": null
+    }
+  ],
+  "constraints": [
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_dataset_key_scope_key",
+      "kind": "u",
+      "definition": "UNIQUE (dataset_key, scope)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key",
+        "scope"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_native_cadence_seconds_check",
+      "kind": "c",
+      "definition": "CHECK (native_cadence_seconds > 0)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "native_cadence_seconds"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (dataset_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_resolution_lat_deg_check",
+      "kind": "c",
+      "definition": "CHECK (resolution_lat_deg::double precision > 0::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "resolution_lat_deg"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_resolution_lon_deg_check",
+      "kind": "c",
+      "definition": "CHECK (resolution_lon_deg::double precision > 0::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "resolution_lon_deg"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_scope_check",
+      "kind": "c",
+      "definition": "CHECK (scope = ANY (ARRAY['local_sensor'::text, 'regional_model'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "scope"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_source_key_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (source_key) REFERENCES seagis.source(source_key)",
+      "target_schema": "seagis",
+      "target_table": "source",
+      "columns": [
+        "source_key"
+      ],
+      "target_columns": [
+        "source_key"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_parameter_conversion_factor_check",
+      "kind": "c",
+      "definition": "CHECK (conversion_factor::double precision <> 0::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "conversion_factor"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_parameter_dataset_key_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key) REFERENCES seagis.dataset(dataset_key)",
+      "target_schema": "seagis",
+      "target_table": "dataset",
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": [
+        "dataset_key"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_parameter_dataset_key_parameter_code_native_unit_un_key",
+      "kind": "u",
+      "definition": "UNIQUE (dataset_key, parameter_code, native_unit, unit, conversion_code)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key",
+        "parameter_code",
+        "native_unit",
+        "unit",
+        "conversion_code"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_parameter_parameter_code_unit_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (parameter_code, unit) REFERENCES seagis.parameter(parameter_code, unit)",
+      "target_schema": "seagis",
+      "target_table": "parameter",
+      "columns": [
+        "parameter_code",
+        "unit"
+      ],
+      "target_columns": [
+        "parameter_code",
+        "unit"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_parameter_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (dataset_key, parameter_code)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key",
+        "parameter_code"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_parameter_temporal_support_check",
+      "kind": "c",
+      "definition": "CHECK (temporal_support = ANY (ARRAY['instantaneous'::text, 'mean'::text, 'sum'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "temporal_support"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_check",
+      "kind": "c",
+      "definition": "CHECK ((issue_time_basis = 'unknown'::text) = (issued_at IS NULL))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "issue_time_basis",
+        "issued_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_check1",
+      "kind": "c",
+      "definition": "CHECK (issued_at IS NULL OR issued_at <= ingested_at)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "issued_at",
+        "ingested_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_check2",
+      "kind": "c",
+      "definition": "CHECK (model_initialized_at IS NULL OR model_initialized_at <= ingested_at)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "model_initialized_at",
+        "ingested_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_dataset_key_run_key_key",
+      "kind": "u",
+      "definition": "UNIQUE (dataset_key, run_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key",
+        "run_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_dataset_key_scope_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key, scope) REFERENCES seagis.dataset(dataset_key, scope)",
+      "target_schema": "seagis",
+      "target_table": "dataset",
+      "columns": [
+        "dataset_key",
+        "scope"
+      ],
+      "target_columns": [
+        "dataset_key",
+        "scope"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_id_dataset_key_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (id, dataset_key, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_issue_time_basis_check",
+      "kind": "c",
+      "definition": "CHECK (issue_time_basis = ANY (ARRAY['provider_verified'::text, 'unknown'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "issue_time_basis"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_raw_payload_id_ingestion_run_id_dataset_key_i_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (raw_payload_id, ingestion_run_id, dataset_key, is_synthetic) REFERENCES seagis_raw.raw_payload(id, ingestion_run_id, dataset_key, is_synthetic)",
+      "target_schema": "seagis_raw",
+      "target_table": "raw_payload",
+      "columns": [
+        "raw_payload_id",
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_run_kind_check",
+      "kind": "c",
+      "definition": "CHECK (run_kind = ANY (ARRAY['forecast'::text, 'analysis'::text, 'analysis_forecast_unspecified'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "run_kind"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_scope_check",
+      "kind": "c",
+      "definition": "CHECK (scope = 'regional_model'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "scope"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_check",
+      "kind": "c",
+      "definition": "CHECK (seagis.valid_value(value::double precision, native_value::double precision, value_status, detection_limit::double precision))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "value",
+        "native_value",
+        "value_status",
+        "detection_limit"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_check1",
+      "kind": "c",
+      "definition": "CHECK (seagis.valid_support(valid_at, temporal_support, interval_status, period_start_at, period_end_at))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "valid_at",
+        "temporal_support",
+        "interval_status",
+        "period_start_at",
+        "period_end_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_dataset_key_parameter_code_native_unit_unit_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key, parameter_code, native_unit, unit, conversion_code) REFERENCES seagis.dataset_parameter(dataset_key, parameter_code, native_unit, unit, conversion_code)",
+      "target_schema": "seagis",
+      "target_table": "dataset_parameter",
+      "columns": [
+        "dataset_key",
+        "parameter_code",
+        "native_unit",
+        "unit",
+        "conversion_code"
+      ],
+      "target_columns": [
+        "dataset_key",
+        "parameter_code",
+        "native_unit",
+        "unit",
+        "conversion_code"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_forecast_run_id_dataset_key_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (forecast_run_id, dataset_key, is_synthetic) REFERENCES seagis.forecast_run(id, dataset_key, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "forecast_run",
+      "columns": [
+        "forecast_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_forecast_run_id_source_grid_id_parameter_cod_key",
+      "kind": "u",
+      "definition": "UNIQUE (forecast_run_id, source_grid_id, parameter_code, valid_at)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "forecast_run_id",
+        "source_grid_id",
+        "parameter_code",
+        "valid_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_id_dataset_key_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (id, dataset_key, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_quality_status_check",
+      "kind": "c",
+      "definition": "CHECK (quality_status = ANY (ARRAY['unreviewed'::text, 'accepted'::text, 'suspect'::text, 'rejected'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "quality_status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_source_grid_id_dataset_key_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (source_grid_id, dataset_key, is_synthetic) REFERENCES seagis.source_grid(id, dataset_key, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "source_grid",
+      "columns": [
+        "source_grid_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_check",
+      "kind": "c",
+      "definition": "CHECK (completed_at IS NULL OR completed_at >= started_at)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "completed_at",
+        "started_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_check1",
+      "kind": "c",
+      "definition": "CHECK ((status = 'running'::text) = (completed_at IS NULL))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "status",
+        "completed_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_dataset_key_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key) REFERENCES seagis.dataset(dataset_key)",
+      "target_schema": "seagis",
+      "target_table": "dataset",
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": [
+        "dataset_key"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_dataset_key_request_key_key",
+      "kind": "u",
+      "definition": "UNIQUE (dataset_key, request_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key",
+        "request_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_id_dataset_key_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (id, dataset_key, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_status_check",
+      "kind": "c",
+      "definition": "CHECK (status = ANY (ARRAY['running'::text, 'succeeded'::text, 'partial'::text, 'failed'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_check",
+      "kind": "c",
+      "definition": "CHECK (seagis.valid_value(value::double precision, native_value::double precision, value_status, detection_limit::double precision))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "value",
+        "native_value",
+        "value_status",
+        "detection_limit"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_dataset_key_parameter_code_native_unit_unit_co_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key, parameter_code, native_unit, unit, conversion_code) REFERENCES seagis.dataset_parameter(dataset_key, parameter_code, native_unit, unit, conversion_code)",
+      "target_schema": "seagis",
+      "target_table": "dataset_parameter",
+      "columns": [
+        "dataset_key",
+        "parameter_code",
+        "native_unit",
+        "unit",
+        "conversion_code"
+      ],
+      "target_columns": [
+        "dataset_key",
+        "parameter_code",
+        "native_unit",
+        "unit",
+        "conversion_code"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_id_ingestion_run_id_dataset_key_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (id, ingestion_run_id, dataset_key, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id",
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_parameter_code_check",
+      "kind": "c",
+      "definition": "CHECK (parameter_code = 'water_temperature'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "parameter_code"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_quality_status_check",
+      "kind": "c",
+      "definition": "CHECK (quality_status = ANY (ARRAY['unreviewed'::text, 'accepted'::text, 'suspect'::text, 'rejected'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "quality_status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_raw_payload_id_ingestion_run_id_dataset_key_is_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (raw_payload_id, ingestion_run_id, dataset_key, is_synthetic) REFERENCES seagis_raw.raw_payload(id, ingestion_run_id, dataset_key, is_synthetic)",
+      "target_schema": "seagis_raw",
+      "target_table": "raw_payload",
+      "columns": [
+        "raw_payload_id",
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_sensor_id_parameter_code_source_record_key_key",
+      "kind": "u",
+      "definition": "UNIQUE (sensor_id, parameter_code, source_record_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "sensor_id",
+        "parameter_code",
+        "source_record_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_sensor_id_plot_id_dataset_key_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (sensor_id, plot_id, dataset_key, is_synthetic) REFERENCES seagis.sensor(id, plot_id, dataset_key, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "sensor",
+      "columns": [
+        "sensor_id",
+        "plot_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "plot_id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "parameter",
+      "name": "parameter_parameter_code_unit_key",
+      "kind": "u",
+      "definition": "UNIQUE (parameter_code, unit)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "parameter_code",
+        "unit"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "parameter",
+      "name": "parameter_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (parameter_code)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "parameter_code"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_check",
+      "kind": "c",
+      "definition": "CHECK ((latitude IS NULL) = (longitude IS NULL))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "latitude",
+        "longitude"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_check1",
+      "kind": "c",
+      "definition": "CHECK ((location_status = 'synthetic'::text) = is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "location_status",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_check2",
+      "kind": "c",
+      "definition": "CHECK (location_status <> 'surveyed'::text OR latitude IS NOT NULL)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "location_status",
+        "latitude"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_id_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (id, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_latitude_check",
+      "kind": "c",
+      "definition": "CHECK (latitude::double precision >= '-90'::integer::double precision AND latitude::double precision <= 90::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "latitude"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_location_status_check",
+      "kind": "c",
+      "definition": "CHECK (location_status = ANY (ARRAY['not_surveyed'::text, 'surveyed'::text, 'synthetic'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "location_status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_longitude_check",
+      "kind": "c",
+      "definition": "CHECK (longitude::double precision >= '-180'::integer::double precision AND longitude::double precision <= 180::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "longitude"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_plot_code_key",
+      "kind": "u",
+      "definition": "UNIQUE (plot_code)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "plot_code"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_check",
+      "kind": "c",
+      "definition": "CHECK (effective_until IS NULL OR effective_until > effective_from)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "effective_until",
+        "effective_from"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_distance_m_check",
+      "kind": "c",
+      "definition": "CHECK (distance_m::double precision >= 0::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "distance_m"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_plot_id_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (plot_id, is_synthetic) REFERENCES seagis.plot(id, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "plot",
+      "columns": [
+        "plot_id",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_plot_id_source_grid_id_effective_from_key",
+      "kind": "u",
+      "definition": "UNIQUE (plot_id, source_grid_id, effective_from)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "plot_id",
+        "source_grid_id",
+        "effective_from"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_representativeness_check",
+      "kind": "c",
+      "definition": "CHECK (representativeness = ANY (ARRAY['unverified'::text, 'regional_only'::text, 'land_mask_issue'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "representativeness"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_sampling_method_check",
+      "kind": "c",
+      "definition": "CHECK (sampling_method = ANY (ARRAY['nearest_wet_cell'::text, 'nearest_cell'::text, 'provider_returned_coordinate'::text, 'synthetic'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "sampling_method"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_source_grid_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (source_grid_id) REFERENCES seagis.source_grid(id)",
+      "target_schema": "seagis",
+      "target_table": "source_grid",
+      "columns": [
+        "source_grid_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_check",
+      "kind": "c",
+      "definition": "CHECK (num_nonnulls(observation_id, forecast_value_id) <= 1)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "observation_id",
+        "forecast_value_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_details_check",
+      "kind": "c",
+      "definition": "CHECK (jsonb_typeof(details) = 'object'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "details"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_forecast_value_id_dataset_key_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (forecast_value_id, dataset_key, is_synthetic) REFERENCES seagis.forecast_value(id, dataset_key, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "forecast_value",
+      "columns": [
+        "forecast_value_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_ingestion_run_id_dataset_key_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (ingestion_run_id, dataset_key, is_synthetic) REFERENCES seagis.ingestion_run(id, dataset_key, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "ingestion_run",
+      "columns": [
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_ingestion_run_id_event_key_key",
+      "kind": "u",
+      "definition": "UNIQUE (ingestion_run_id, event_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "ingestion_run_id",
+        "event_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_observation_id_ingestion_run_id_dataset_key__fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (observation_id, ingestion_run_id, dataset_key, is_synthetic) REFERENCES seagis.observation(id, ingestion_run_id, dataset_key, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "observation",
+      "columns": [
+        "observation_id",
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_severity_check",
+      "kind": "c",
+      "definition": "CHECK (severity = ANY (ARRAY['info'::text, 'warning'::text, 'error'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "severity"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_check",
+      "kind": "c",
+      "definition": "CHECK (depth_status <> 'unknown'::text OR depth_m IS NULL)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "depth_status",
+        "depth_m"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_check1",
+      "kind": "c",
+      "definition": "CHECK (depth_status = 'unknown'::text OR depth_m IS NOT NULL)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "depth_status",
+        "depth_m"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_check2",
+      "kind": "c",
+      "definition": "CHECK (depth_status <> 'synthetic'::text OR is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "depth_status",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_dataset_key_parameter_code_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key, parameter_code) REFERENCES seagis.dataset_parameter(dataset_key, parameter_code)",
+      "target_schema": "seagis",
+      "target_table": "dataset_parameter",
+      "columns": [
+        "dataset_key",
+        "parameter_code"
+      ],
+      "target_columns": [
+        "dataset_key",
+        "parameter_code"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_dataset_key_scope_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key, scope) REFERENCES seagis.dataset(dataset_key, scope)",
+      "target_schema": "seagis",
+      "target_table": "dataset",
+      "columns": [
+        "dataset_key",
+        "scope"
+      ],
+      "target_columns": [
+        "dataset_key",
+        "scope"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_depth_m_check",
+      "kind": "c",
+      "definition": "CHECK (depth_m::double precision >= 0::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "depth_m"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_depth_status_check",
+      "kind": "c",
+      "definition": "CHECK (depth_status = ANY (ARRAY['unknown'::text, 'measured'::text, 'synthetic'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "depth_status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_id_plot_id_dataset_key_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (id, plot_id, dataset_key, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id",
+        "plot_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_parameter_code_check",
+      "kind": "c",
+      "definition": "CHECK (parameter_code = 'water_temperature'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "parameter_code"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_plot_id_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (plot_id, is_synthetic) REFERENCES seagis.plot(id, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "plot",
+      "columns": [
+        "plot_id",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_scope_check",
+      "kind": "c",
+      "definition": "CHECK (scope = 'local_sensor'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "scope"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_sensor_code_key",
+      "kind": "u",
+      "definition": "UNIQUE (sensor_code)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "sensor_code"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source",
+      "name": "source_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (source_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "source_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_check",
+      "kind": "c",
+      "definition": "CHECK (identity_basis <> 'synthetic'::text OR is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "identity_basis",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_dataset_key_grid_key_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (dataset_key, grid_key, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key",
+        "grid_key",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_dataset_key_scope_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key, scope) REFERENCES seagis.dataset(dataset_key, scope)",
+      "target_schema": "seagis",
+      "target_table": "dataset",
+      "columns": [
+        "dataset_key",
+        "scope"
+      ],
+      "target_columns": [
+        "dataset_key",
+        "scope"
+      ]
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_depth_m_check",
+      "kind": "c",
+      "definition": "CHECK (depth_m::double precision >= 0::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "depth_m"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_id_dataset_key_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (id, dataset_key, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_identity_basis_check",
+      "kind": "c",
+      "definition": "CHECK (identity_basis = ANY (ARRAY['provider_cell'::text, 'provider_returned_coordinate'::text, 'synthetic'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "identity_basis"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_latitude_check",
+      "kind": "c",
+      "definition": "CHECK (latitude::double precision >= '-90'::integer::double precision AND latitude::double precision <= 90::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "latitude"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_longitude_check",
+      "kind": "c",
+      "definition": "CHECK (longitude::double precision >= '-180'::integer::double precision AND longitude::double precision <= 180::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "longitude"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_scope_check",
+      "kind": "c",
+      "definition": "CHECK (scope = 'regional_model'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "scope"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_check",
+      "kind": "c",
+      "definition": "CHECK ((kind = 'device'::text) = (sensor_id IS NOT NULL))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "kind",
+        "sensor_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_check1",
+      "kind": "c",
+      "definition": "CHECK (expires_at > created_at)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "expires_at",
+        "created_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_kind_check",
+      "kind": "c",
+      "definition": "CHECK (kind = ANY (ARRAY['device'::text, 'reader'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "kind"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_sensor_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (sensor_id) REFERENCES seagis.sensor(id)",
+      "target_schema": "seagis",
+      "target_table": "sensor",
+      "columns": [
+        "sensor_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_token_sha256_check",
+      "kind": "c",
+      "definition": "CHECK (token_sha256 ~ '^[0-9a-f]{64}$'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "token_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_token_sha256_key",
+      "kind": "u",
+      "definition": "UNIQUE (token_sha256)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "token_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "packet_receipt_ingestion_run_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (ingestion_run_id) REFERENCES seagis.ingestion_run(id)",
+      "target_schema": "seagis",
+      "target_table": "ingestion_run",
+      "columns": [
+        "ingestion_run_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "packet_receipt_observation_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (observation_id) REFERENCES seagis.observation(id)",
+      "target_schema": "seagis",
+      "target_table": "observation",
+      "columns": [
+        "observation_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "packet_receipt_observation_id_key",
+      "kind": "u",
+      "definition": "UNIQUE (observation_id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "observation_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "packet_receipt_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (sensor_id, source_record_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "sensor_id",
+        "source_record_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "packet_receipt_semantic_sha256_check",
+      "kind": "c",
+      "definition": "CHECK (semantic_sha256 ~ '^[0-9a-f]{64}$'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "semantic_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "packet_receipt_sensor_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (sensor_id) REFERENCES seagis.sensor(id)",
+      "target_schema": "seagis",
+      "target_table": "sensor",
+      "columns": [
+        "sensor_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "reader_plot",
+      "name": "reader_plot_credential_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (credential_id) REFERENCES seagis_api.credential(id)",
+      "target_schema": "seagis_api",
+      "target_table": "credential",
+      "columns": [
+        "credential_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "reader_plot",
+      "name": "reader_plot_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (credential_id, plot_id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "credential_id",
+        "plot_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "reader_plot",
+      "name": "reader_plot_plot_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (plot_id) REFERENCES seagis.plot(id)",
+      "target_schema": "seagis",
+      "target_table": "plot",
+      "columns": [
+        "plot_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "request_event_credential_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (credential_id) REFERENCES seagis_api.credential(id)",
+      "target_schema": "seagis_api",
+      "target_table": "credential",
+      "columns": [
+        "credential_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "request_event_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "request_event_sensor_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (sensor_id) REFERENCES seagis.sensor(id)",
+      "target_schema": "seagis",
+      "target_table": "sensor",
+      "columns": [
+        "sensor_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "temperature_policy_check",
+      "kind": "c",
+      "definition": "CHECK (min_degc < max_degc AND max_step_degc > 0::double precision AND future_tolerance_seconds > 0 AND stale_after_seconds > 0 AND requests_per_minute > 0)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "min_degc",
+        "max_degc",
+        "max_step_degc",
+        "future_tolerance_seconds",
+        "stale_after_seconds",
+        "requests_per_minute"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "temperature_policy_id_check",
+      "kind": "c",
+      "definition": "CHECK (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "temperature_policy_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "attempt_check",
+      "kind": "c",
+      "definition": "CHECK ((completed_at IS NULL) = (status = 'running'::text))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "completed_at",
+        "status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "attempt_dataset_key_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key) REFERENCES seagis_environment.policy(dataset_key)",
+      "target_schema": "seagis_environment",
+      "target_table": "policy",
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": [
+        "dataset_key"
+      ]
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "attempt_forecast_run_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (forecast_run_id) REFERENCES seagis.forecast_run(id)",
+      "target_schema": "seagis",
+      "target_table": "forecast_run",
+      "columns": [
+        "forecast_run_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "attempt_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "attempt_status_check",
+      "kind": "c",
+      "definition": "CHECK (status = ANY (ARRAY['running'::text, 'succeeded'::text, 'duplicate'::text, 'failed'::text, 'abandoned'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_coordinate_status_check",
+      "kind": "c",
+      "definition": "CHECK (coordinate_status = 'example_not_surveyed'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "coordinate_status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_dataset_key_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key) REFERENCES seagis_environment.policy(dataset_key)",
+      "target_schema": "seagis_environment",
+      "target_table": "policy",
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": [
+        "dataset_key"
+      ]
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_distance_m_check",
+      "kind": "c",
+      "definition": "CHECK (distance_m::double precision >= 0::double precision AND distance_m::double precision <= 30000::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "distance_m"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_example_latitude_check",
+      "kind": "c",
+      "definition": "CHECK (example_latitude::double precision >= '-90'::integer::double precision AND example_latitude::double precision <= 90::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "example_latitude"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_example_longitude_check",
+      "kind": "c",
+      "definition": "CHECK (example_longitude::double precision >= '-180'::integer::double precision AND example_longitude::double precision <= 180::double precision)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "example_longitude"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_grid_is_synthetic_check",
+      "kind": "c",
+      "definition": "CHECK (NOT grid_is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "grid_is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (plot_id, source_grid_id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "plot_id",
+        "source_grid_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_plot_id_check",
+      "kind": "c",
+      "definition": "CHECK (plot_id = ANY (ARRAY['00000000-0000-4000-8000-000000000001'::uuid, '00000000-0000-4000-8000-000000000002'::uuid]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "plot_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_plot_id_plot_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (plot_id, plot_is_synthetic) REFERENCES seagis.plot(id, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "plot",
+      "columns": [
+        "plot_id",
+        "plot_is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_plot_is_synthetic_check",
+      "kind": "c",
+      "definition": "CHECK (plot_is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "plot_is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_sampling_method_check",
+      "kind": "c",
+      "definition": "CHECK (sampling_method = ANY (ARRAY['nearest_cell'::text, 'provider_returned_coordinate'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "sampling_method"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_source_grid_id_dataset_key_grid_is_synth_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (source_grid_id, dataset_key, grid_is_synthetic) REFERENCES seagis.source_grid(id, dataset_key, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "source_grid",
+      "columns": [
+        "source_grid_id",
+        "dataset_key",
+        "grid_is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "policy_check",
+      "kind": "c",
+      "definition": "CHECK (release_offset_seconds >= 0 AND release_offset_seconds < update_seconds)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "release_offset_seconds",
+        "update_seconds"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "policy_check1",
+      "kind": "c",
+      "definition": "CHECK (stale_seconds >= update_seconds)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "stale_seconds",
+        "update_seconds"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "policy_dataset_key_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key) REFERENCES seagis.dataset(dataset_key)",
+      "target_schema": "seagis",
+      "target_table": "dataset",
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": [
+        "dataset_key"
+      ]
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "policy_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (dataset_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "policy_purpose_check",
+      "kind": "c",
+      "definition": "CHECK (purpose = 'noncommercial_educational_prototype'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "purpose"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "policy_retention_mode_check",
+      "kind": "c",
+      "definition": "CHECK (retention_mode = 'metadata_only'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "retention_mode"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "policy_update_seconds_check",
+      "kind": "c",
+      "definition": "CHECK (update_seconds >= 21600)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "update_seconds"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "schedule_state_dataset_key_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (dataset_key) REFERENCES seagis_environment.policy(dataset_key)",
+      "target_schema": "seagis_environment",
+      "target_table": "policy",
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": [
+        "dataset_key"
+      ]
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "schedule_state_failures_check",
+      "kind": "c",
+      "definition": "CHECK (failures >= 0)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "failures"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "schedule_state_last_forecast_run_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (last_forecast_run_id) REFERENCES seagis.forecast_run(id)",
+      "target_schema": "seagis",
+      "target_table": "forecast_run",
+      "columns": [
+        "last_forecast_run_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "schedule_state_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (dataset_key)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "dataset_key"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "feature_input_check",
+      "kind": "c",
+      "definition": "CHECK (num_nonnulls(observation_id, forecast_value_id) = 1)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "observation_id",
+        "forecast_value_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "feature_input_forecast_value_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (forecast_value_id) REFERENCES seagis.forecast_value(id)",
+      "target_schema": "seagis",
+      "target_table": "forecast_value",
+      "columns": [
+        "forecast_value_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "feature_input_observation_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (observation_id) REFERENCES seagis.observation(id)",
+      "target_schema": "seagis",
+      "target_table": "observation",
+      "columns": [
+        "observation_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "feature_input_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "feature_input_snapshot_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (snapshot_id) REFERENCES seagis_features.feature_snapshot(id)",
+      "target_schema": "seagis_features",
+      "target_table": "feature_snapshot",
+      "columns": [
+        "snapshot_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_check",
+      "kind": "c",
+      "definition": "CHECK (generated_at >= as_of)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "generated_at",
+        "as_of"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_check1",
+      "kind": "c",
+      "definition": "CHECK ((status = 'draft'::text) = (input_manifest_sha256 IS NULL))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "status",
+        "input_manifest_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_features_check",
+      "kind": "c",
+      "definition": "CHECK (jsonb_typeof(features) = 'object'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "features"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_input_manifest_sha256_check",
+      "kind": "c",
+      "definition": "CHECK (input_manifest_sha256 ~ '^[0-9a-f]{64}$'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "input_manifest_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_plot_id_as_of_feature_version_input_manife_key",
+      "kind": "u",
+      "definition": "UNIQUE (plot_id, as_of, feature_version, input_manifest_sha256)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "plot_id",
+        "as_of",
+        "feature_version",
+        "input_manifest_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_plot_id_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (plot_id, is_synthetic) REFERENCES seagis.plot(id, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "plot",
+      "columns": [
+        "plot_id",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_status_check",
+      "kind": "c",
+      "definition": "CHECK (status = ANY (ARRAY['draft'::text, 'sealed'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "status"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_body_check",
+      "kind": "c",
+      "definition": "CHECK (jsonb_typeof(body) = 'object'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "body"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_check",
+      "kind": "c",
+      "definition": "CHECK (end_at > start_at AND (end_at - start_at) <= '7 days'::interval)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "end_at",
+        "start_at"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_input_manifest_sha256_check",
+      "kind": "c",
+      "definition": "CHECK (input_manifest_sha256 ~ '^[0-9a-f]{64}$'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "input_manifest_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_mode_check",
+      "kind": "c",
+      "definition": "CHECK (mode = ANY (ARRAY['demo_review'::text, 'operational_review'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "mode"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_plot_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (plot_id) REFERENCES seagis.plot(id)",
+      "target_schema": "seagis",
+      "target_table": "plot",
+      "columns": [
+        "plot_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_plot_id_mode_start_at_end_at_policy_vers_key",
+      "kind": "u",
+      "definition": "UNIQUE (plot_id, mode, start_at, end_at, policy_version, source_sha256)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "plot_id",
+        "mode",
+        "start_at",
+        "end_at",
+        "policy_version",
+        "source_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_policy_version_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (policy_version) REFERENCES seagis_quality.policy(version)",
+      "target_schema": "seagis_quality",
+      "target_table": "policy",
+      "columns": [
+        "policy_version"
+      ],
+      "target_columns": [
+        "version"
+      ]
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_source_sha256_check",
+      "kind": "c",
+      "definition": "CHECK (source_sha256 ~ '^[0-9a-f]{64}$'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "source_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "policy_code_sha256_check",
+      "kind": "c",
+      "definition": "CHECK (code_sha256 ~ '^[0-9a-f]{64}$'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "code_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "policy_definition_check",
+      "kind": "c",
+      "definition": "CHECK (jsonb_typeof(definition) = 'object'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "definition"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "policy_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (version)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "version"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "policy_policy_sha256_check",
+      "kind": "c",
+      "definition": "CHECK (policy_sha256 ~ '^[0-9a-f]{64}$'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "policy_sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "snapshot_input_check",
+      "kind": "c",
+      "definition": "CHECK (num_nonnulls(observation_id, forecast_value_id) = 1)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "observation_id",
+        "forecast_value_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "snapshot_input_check1",
+      "kind": "c",
+      "definition": "CHECK (source_ref =\nCASE\n    WHEN observation_id IS NOT NULL THEN 'observation:'::text || observation_id\n    ELSE 'forecast_value:'::text || forecast_value_id\nEND)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "source_ref",
+        "observation_id",
+        "forecast_value_id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "snapshot_input_forecast_value_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (forecast_value_id) REFERENCES seagis.forecast_value(id)",
+      "target_schema": "seagis",
+      "target_table": "forecast_value",
+      "columns": [
+        "forecast_value_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "snapshot_input_observation_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (observation_id) REFERENCES seagis.observation(id)",
+      "target_schema": "seagis",
+      "target_table": "observation",
+      "columns": [
+        "observation_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "snapshot_input_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (snapshot_id, aligned_at, source_ref)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "snapshot_id",
+        "aligned_at",
+        "source_ref"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "snapshot_input_snapshot_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (snapshot_id) REFERENCES seagis_quality.alignment_snapshot(id)",
+      "target_schema": "seagis_quality",
+      "target_table": "alignment_snapshot",
+      "columns": [
+        "snapshot_id"
+      ],
+      "target_columns": [
+        "id"
+      ]
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_byte_size_check",
+      "kind": "c",
+      "definition": "CHECK (byte_size >= 0)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "byte_size"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_check",
+      "kind": "c",
+      "definition": "CHECK (storage_mode = 'inline'::text AND payload IS NOT NULL AND object_uri IS NULL OR storage_mode = 'object'::text AND payload IS NULL AND object_uri IS NOT NULL AND object_uri ~~ 'storage://%'::text OR storage_mode = 'metadata_only'::text AND payload IS NULL AND object_uri IS NULL)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "storage_mode",
+        "payload",
+        "object_uri"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_hash_basis_v3",
+      "kind": "c",
+      "definition": "CHECK (hash_basis = ANY (ARRAY['source_bytes'::text, 'synthetic_json_canonical_v1'::text, 'jsonb_utf8_v1'::text, 'toolbox_subset_json_v1'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "hash_basis"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_id_ingestion_run_id_dataset_key_is_synthetic_key",
+      "kind": "u",
+      "definition": "UNIQUE (id, ingestion_run_id, dataset_key, is_synthetic)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id",
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_ingestion_run_id_dataset_key_is_synthetic_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (ingestion_run_id, dataset_key, is_synthetic) REFERENCES seagis.ingestion_run(id, dataset_key, is_synthetic)",
+      "target_schema": "seagis",
+      "target_table": "ingestion_run",
+      "columns": [
+        "ingestion_run_id",
+        "dataset_key",
+        "is_synthetic"
+      ],
+      "target_columns": [
+        "id",
+        "dataset_key",
+        "is_synthetic"
+      ]
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_ingestion_run_id_sha256_key",
+      "kind": "u",
+      "definition": "UNIQUE (ingestion_run_id, sha256)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "ingestion_run_id",
+        "sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_inline_synthetic_v2",
+      "kind": "c",
+      "definition": "CHECK (storage_mode <> 'inline'::text OR is_synthetic AND (hash_basis = ANY (ARRAY['synthetic_json_canonical_v1'::text, 'jsonb_utf8_v1'::text])))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "storage_mode",
+        "is_synthetic",
+        "hash_basis"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (id)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "id"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_provider_metadata_check",
+      "kind": "c",
+      "definition": "CHECK (jsonb_typeof(provider_metadata) = 'object'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "provider_metadata"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_sha256_check",
+      "kind": "c",
+      "definition": "CHECK (sha256 ~ '^[0-9a-f]{64}$'::text)",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "sha256"
+      ],
+      "target_columns": []
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_storage_mode_check",
+      "kind": "c",
+      "definition": "CHECK (storage_mode = ANY (ARRAY['inline'::text, 'object'::text, 'metadata_only'::text]))",
+      "target_schema": null,
+      "target_table": null,
+      "columns": [
+        "storage_mode"
+      ],
+      "target_columns": []
+    }
+  ],
+  "indexes": [
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_dataset_key_scope_key",
+      "definition": "CREATE UNIQUE INDEX dataset_dataset_key_scope_key ON seagis.dataset USING btree (dataset_key, scope)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "dataset_pkey",
+      "definition": "CREATE UNIQUE INDEX dataset_pkey ON seagis.dataset USING btree (dataset_key)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_parameter_dataset_key_parameter_code_native_unit_un_key",
+      "definition": "CREATE UNIQUE INDEX dataset_parameter_dataset_key_parameter_code_native_unit_un_key ON seagis.dataset_parameter USING btree (dataset_key, parameter_code, native_unit, unit, conversion_code)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "dataset_parameter_pkey",
+      "definition": "CREATE UNIQUE INDEX dataset_parameter_pkey ON seagis.dataset_parameter USING btree (dataset_key, parameter_code)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_asof",
+      "definition": "CREATE INDEX forecast_run_asof ON seagis.forecast_run USING btree (dataset_key, ingested_at DESC)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_dataset_key_run_key_key",
+      "definition": "CREATE UNIQUE INDEX forecast_run_dataset_key_run_key_key ON seagis.forecast_run USING btree (dataset_key, run_key)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_id_dataset_key_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX forecast_run_id_dataset_key_is_synthetic_key ON seagis.forecast_run USING btree (id, dataset_key, is_synthetic)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "forecast_run_pkey",
+      "definition": "CREATE UNIQUE INDEX forecast_run_pkey ON seagis.forecast_run USING btree (id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_grid_time",
+      "definition": "CREATE INDEX forecast_grid_time ON seagis.forecast_value USING btree (source_grid_id, parameter_code, valid_at DESC)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_forecast_run_id_source_grid_id_parameter_cod_key",
+      "definition": "CREATE UNIQUE INDEX forecast_value_forecast_run_id_source_grid_id_parameter_cod_key ON seagis.forecast_value USING btree (forecast_run_id, source_grid_id, parameter_code, valid_at)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_id_dataset_key_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX forecast_value_id_dataset_key_is_synthetic_key ON seagis.forecast_value USING btree (id, dataset_key, is_synthetic)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "forecast_value_pkey",
+      "definition": "CREATE UNIQUE INDEX forecast_value_pkey ON seagis.forecast_value USING btree (id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_dataset_key_request_key_key",
+      "definition": "CREATE UNIQUE INDEX ingestion_run_dataset_key_request_key_key ON seagis.ingestion_run USING btree (dataset_key, request_key)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_id_dataset_key_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX ingestion_run_id_dataset_key_is_synthetic_key ON seagis.ingestion_run USING btree (id, dataset_key, is_synthetic)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "ingestion_run_pkey",
+      "definition": "CREATE UNIQUE INDEX ingestion_run_pkey ON seagis.ingestion_run USING btree (id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_id_ingestion_run_id_dataset_key_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX observation_id_ingestion_run_id_dataset_key_is_synthetic_key ON seagis.observation USING btree (id, ingestion_run_id, dataset_key, is_synthetic)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_ingestion",
+      "definition": "CREATE INDEX observation_ingestion ON seagis.observation USING btree (ingestion_run_id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_pkey",
+      "definition": "CREATE UNIQUE INDEX observation_pkey ON seagis.observation USING btree (id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_plot_time",
+      "definition": "CREATE INDEX observation_plot_time ON seagis.observation USING btree (plot_id, parameter_code, observed_at DESC)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "observation_sensor_id_parameter_code_source_record_key_key",
+      "definition": "CREATE UNIQUE INDEX observation_sensor_id_parameter_code_source_record_key_key ON seagis.observation USING btree (sensor_id, parameter_code, source_record_key)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "parameter",
+      "name": "parameter_parameter_code_unit_key",
+      "definition": "CREATE UNIQUE INDEX parameter_parameter_code_unit_key ON seagis.parameter USING btree (parameter_code, unit)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "parameter",
+      "name": "parameter_pkey",
+      "definition": "CREATE UNIQUE INDEX parameter_pkey ON seagis.parameter USING btree (parameter_code)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_id_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX plot_id_is_synthetic_key ON seagis.plot USING btree (id, is_synthetic)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_pkey",
+      "definition": "CREATE UNIQUE INDEX plot_pkey ON seagis.plot USING btree (id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "plot_plot_code_key",
+      "definition": "CREATE UNIQUE INDEX plot_plot_code_key ON seagis.plot USING btree (plot_code)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "mapping_grid_plot",
+      "definition": "CREATE INDEX mapping_grid_plot ON seagis.plot_grid_mapping USING btree (source_grid_id, plot_id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_pkey",
+      "definition": "CREATE UNIQUE INDEX plot_grid_mapping_pkey ON seagis.plot_grid_mapping USING btree (id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "plot_grid_mapping_plot_id_source_grid_id_effective_from_key",
+      "definition": "CREATE UNIQUE INDEX plot_grid_mapping_plot_id_source_grid_id_effective_from_key ON seagis.plot_grid_mapping USING btree (plot_id, source_grid_id, effective_from)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_forecast",
+      "definition": "CREATE INDEX quality_event_forecast ON seagis.quality_event USING btree (forecast_value_id) WHERE (forecast_value_id IS NOT NULL)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_ingestion_run_id_event_key_key",
+      "definition": "CREATE UNIQUE INDEX quality_event_ingestion_run_id_event_key_key ON seagis.quality_event USING btree (ingestion_run_id, event_key)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_observation",
+      "definition": "CREATE INDEX quality_event_observation ON seagis.quality_event USING btree (observation_id) WHERE (observation_id IS NOT NULL)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "quality_event_pkey",
+      "definition": "CREATE UNIQUE INDEX quality_event_pkey ON seagis.quality_event USING btree (id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "one_active_temperature_sensor_per_plot",
+      "definition": "CREATE UNIQUE INDEX one_active_temperature_sensor_per_plot ON seagis.sensor USING btree (plot_id) WHERE active"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_id_plot_id_dataset_key_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX sensor_id_plot_id_dataset_key_is_synthetic_key ON seagis.sensor USING btree (id, plot_id, dataset_key, is_synthetic)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_pkey",
+      "definition": "CREATE UNIQUE INDEX sensor_pkey ON seagis.sensor USING btree (id)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "sensor_sensor_code_key",
+      "definition": "CREATE UNIQUE INDEX sensor_sensor_code_key ON seagis.sensor USING btree (sensor_code)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source",
+      "name": "source_pkey",
+      "definition": "CREATE UNIQUE INDEX source_pkey ON seagis.source USING btree (source_key)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_dataset_key_grid_key_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX source_grid_dataset_key_grid_key_is_synthetic_key ON seagis.source_grid USING btree (dataset_key, grid_key, is_synthetic)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_id_dataset_key_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX source_grid_id_dataset_key_is_synthetic_key ON seagis.source_grid USING btree (id, dataset_key, is_synthetic)"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "source_grid_pkey",
+      "definition": "CREATE UNIQUE INDEX source_grid_pkey ON seagis.source_grid USING btree (id)"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_pkey",
+      "definition": "CREATE UNIQUE INDEX credential_pkey ON seagis_api.credential USING btree (id)"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "credential",
+      "name": "credential_token_sha256_key",
+      "definition": "CREATE UNIQUE INDEX credential_token_sha256_key ON seagis_api.credential USING btree (token_sha256)"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "packet_receipt_observation_id_key",
+      "definition": "CREATE UNIQUE INDEX packet_receipt_observation_id_key ON seagis_api.packet_receipt USING btree (observation_id)"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "packet_receipt_pkey",
+      "definition": "CREATE UNIQUE INDEX packet_receipt_pkey ON seagis_api.packet_receipt USING btree (sensor_id, source_record_key)"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "reader_plot",
+      "name": "reader_plot_pkey",
+      "definition": "CREATE UNIQUE INDEX reader_plot_pkey ON seagis_api.reader_plot USING btree (credential_id, plot_id)"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "request_event_actor_time",
+      "definition": "CREATE INDEX request_event_actor_time ON seagis_api.request_event USING btree (credential_id, created_at DESC)"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "request_event_pkey",
+      "definition": "CREATE UNIQUE INDEX request_event_pkey ON seagis_api.request_event USING btree (id)"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "temperature_policy",
+      "name": "temperature_policy_pkey",
+      "definition": "CREATE UNIQUE INDEX temperature_policy_pkey ON seagis_api.temperature_policy USING btree (id)"
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "attempt",
+      "name": "attempt_pkey",
+      "definition": "CREATE UNIQUE INDEX attempt_pkey ON seagis_environment.attempt USING btree (id)"
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "demo_grid_mapping_pkey",
+      "definition": "CREATE UNIQUE INDEX demo_grid_mapping_pkey ON seagis_environment.demo_grid_mapping USING btree (plot_id, source_grid_id)"
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "policy",
+      "name": "policy_pkey",
+      "definition": "CREATE UNIQUE INDEX policy_pkey ON seagis_environment.policy USING btree (dataset_key)"
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "schedule_state",
+      "name": "schedule_state_pkey",
+      "definition": "CREATE UNIQUE INDEX schedule_state_pkey ON seagis_environment.schedule_state USING btree (dataset_key)"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "feature_input_forecast",
+      "definition": "CREATE UNIQUE INDEX feature_input_forecast ON seagis_features.feature_input USING btree (snapshot_id, forecast_value_id) WHERE (forecast_value_id IS NOT NULL)"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "feature_input_observation",
+      "definition": "CREATE UNIQUE INDEX feature_input_observation ON seagis_features.feature_input USING btree (snapshot_id, observation_id) WHERE (observation_id IS NOT NULL)"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "feature_input_pkey",
+      "definition": "CREATE UNIQUE INDEX feature_input_pkey ON seagis_features.feature_input USING btree (id)"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_pkey",
+      "definition": "CREATE UNIQUE INDEX feature_snapshot_pkey ON seagis_features.feature_snapshot USING btree (id)"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "feature_snapshot_plot_id_as_of_feature_version_input_manife_key",
+      "definition": "CREATE UNIQUE INDEX feature_snapshot_plot_id_as_of_feature_version_input_manife_key ON seagis_features.feature_snapshot USING btree (plot_id, as_of, feature_version, input_manifest_sha256)"
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_pkey",
+      "definition": "CREATE UNIQUE INDEX alignment_snapshot_pkey ON seagis_quality.alignment_snapshot USING btree (id)"
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "alignment_snapshot_plot_id_mode_start_at_end_at_policy_vers_key",
+      "definition": "CREATE UNIQUE INDEX alignment_snapshot_plot_id_mode_start_at_end_at_policy_vers_key ON seagis_quality.alignment_snapshot USING btree (plot_id, mode, start_at, end_at, policy_version, source_sha256)"
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "policy_pkey",
+      "definition": "CREATE UNIQUE INDEX policy_pkey ON seagis_quality.policy USING btree (version)"
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "snapshot_input_pkey",
+      "definition": "CREATE UNIQUE INDEX snapshot_input_pkey ON seagis_quality.snapshot_input USING btree (snapshot_id, aligned_at, source_ref)"
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_id_ingestion_run_id_dataset_key_is_synthetic_key",
+      "definition": "CREATE UNIQUE INDEX raw_payload_id_ingestion_run_id_dataset_key_is_synthetic_key ON seagis_raw.raw_payload USING btree (id, ingestion_run_id, dataset_key, is_synthetic)"
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_ingestion_run_id_sha256_key",
+      "definition": "CREATE UNIQUE INDEX raw_payload_ingestion_run_id_sha256_key ON seagis_raw.raw_payload USING btree (ingestion_run_id, sha256)"
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "raw_payload_pkey",
+      "definition": "CREATE UNIQUE INDEX raw_payload_pkey ON seagis_raw.raw_payload USING btree (id)"
+    }
+  ],
+  "triggers": [
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "guard_dataset_identity",
+      "definition": "CREATE TRIGGER guard_dataset_identity BEFORE UPDATE ON seagis.dataset FOR EACH ROW EXECUTE FUNCTION seagis.guard_dataset_identity()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis.dataset_parameter FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis.forecast_run FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "guard_run",
+      "definition": "CREATE TRIGGER guard_run BEFORE INSERT ON seagis.forecast_run FOR EACH ROW EXECUTE FUNCTION seagis.guard_run()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis.forecast_value FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "guard_forecast_value",
+      "definition": "CREATE TRIGGER guard_forecast_value BEFORE INSERT ON seagis.forecast_value FOR EACH ROW EXECUTE FUNCTION seagis.guard_measurement()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "guard_ingestion",
+      "definition": "CREATE TRIGGER guard_ingestion BEFORE INSERT OR UPDATE ON seagis.ingestion_run FOR EACH ROW EXECUTE FUNCTION seagis.guard_ingestion()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis.observation FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "guard_observation",
+      "definition": "CREATE TRIGGER guard_observation BEFORE INSERT ON seagis.observation FOR EACH ROW EXECUTE FUNCTION seagis.guard_measurement()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "guard_mapping",
+      "definition": "CREATE TRIGGER guard_mapping BEFORE INSERT OR UPDATE ON seagis.plot_grid_mapping FOR EACH ROW EXECUTE FUNCTION seagis.guard_mapping()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "immutable_alignment_mapping",
+      "definition": "CREATE TRIGGER immutable_alignment_mapping BEFORE DELETE OR UPDATE ON seagis.plot_grid_mapping FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis.quality_event FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "guard_quality",
+      "definition": "CREATE TRIGGER guard_quality BEFORE INSERT ON seagis.quality_event FOR EACH ROW EXECUTE FUNCTION seagis.guard_quality_event()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "guard_sensor_deployment",
+      "definition": "CREATE TRIGGER guard_sensor_deployment BEFORE UPDATE ON seagis.sensor FOR EACH ROW EXECUTE FUNCTION seagis.guard_sensor_deployment()"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis.source_grid FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "packet_receipt",
+      "name": "receipt_append_only",
+      "definition": "CREATE TRIGGER receipt_append_only BEFORE DELETE OR UPDATE ON seagis_api.packet_receipt FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_api",
+      "table_name": "request_event",
+      "name": "request_event_append_only",
+      "definition": "CREATE TRIGGER request_event_append_only BEFORE DELETE OR UPDATE ON seagis_api.request_event FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_environment",
+      "table_name": "demo_grid_mapping",
+      "name": "immutable_demo_mapping",
+      "definition": "CREATE TRIGGER immutable_demo_mapping BEFORE DELETE OR UPDATE ON seagis_environment.demo_grid_mapping FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis_features.feature_input FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "guard_feature_input",
+      "definition": "CREATE TRIGGER guard_feature_input BEFORE INSERT ON seagis_features.feature_input FOR EACH ROW EXECUTE FUNCTION seagis_features.guard_input()"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "guard_snapshot",
+      "definition": "CREATE TRIGGER guard_snapshot BEFORE INSERT OR UPDATE ON seagis_features.feature_snapshot FOR EACH ROW EXECUTE FUNCTION seagis_features.guard_snapshot()"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "no_snapshot_delete",
+      "definition": "CREATE TRIGGER no_snapshot_delete BEFORE DELETE ON seagis_features.feature_snapshot FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "alignment_snapshot",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis_quality.alignment_snapshot FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "policy",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis_quality.policy FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_quality",
+      "table_name": "snapshot_input",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis_quality.snapshot_input FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "append_only",
+      "definition": "CREATE TRIGGER append_only BEFORE DELETE OR UPDATE ON seagis_raw.raw_payload FOR EACH ROW EXECUTE FUNCTION seagis.reject_mutation()"
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "guard_raw",
+      "definition": "CREATE TRIGGER guard_raw BEFORE INSERT ON seagis_raw.raw_payload FOR EACH ROW EXECUTE FUNCTION seagis.guard_raw()"
+    }
+  ],
+  "policies": [
+    {
+      "schema": "seagis",
+      "table_name": "dataset",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "dataset_parameter",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_run",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "forecast_value",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "ingestion_run",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "observation",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "parameter",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "plot_grid_mapping",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "quality_event",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "sensor",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis",
+      "table_name": "source_grid",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_input",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis_features",
+      "table_name": "feature_snapshot",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    },
+    {
+      "schema": "seagis_raw",
+      "table_name": "raw_payload",
+      "name": "backend_only",
+      "roles": [
+        "service_role"
+      ],
+      "cmd": "ALL",
+      "qual": "true",
+      "with_check": "true"
+    }
+  ],
+  "views": [
+    {
+      "schema": "seagis_environment",
+      "name": "current_speed",
+      "definition": " SELECT u.id AS eastward_value_id,\n    v.id AS northward_value_id,\n    u.forecast_run_id,\n    u.source_grid_id,\n    u.valid_at,\n    u.ingested_at,\n    GREATEST(u.ingested_at, v.ingested_at) AS available_at,\n        CASE\n            WHEN ((u.value_status = 'present'::text) AND (v.value_status = 'present'::text)) THEN sqrt((((u.value)::double precision * (u.value)::double precision) + ((v.value)::double precision * (v.value)::double precision)))\n            ELSE NULL::double precision\n        END AS speed_m_s,\n    'sqrt(uo^2+vo^2); a2-vector-magnitude-v1'::text AS derivation\n   FROM (seagis.forecast_value u\n     JOIN seagis.forecast_value v ON (((u.forecast_run_id = v.forecast_run_id) AND (u.source_grid_id = v.source_grid_id) AND (u.valid_at = v.valid_at))))\n  WHERE ((u.parameter_code = 'current_eastward'::text) AND (v.parameter_code = 'current_northward'::text));"
+    }
+  ],
+  "migrations": [
+    {
+      "version": "0001"
+    },
+    {
+      "version": "0002"
+    },
+    {
+      "version": "0003"
+    },
+    {
+      "version": "0004"
+    },
+    {
+      "version": "0005"
+    }
+  ],
+  "schemas": [
+    {
+      "name": "seagis"
+    },
+    {
+      "name": "seagis_api"
+    },
+    {
+      "name": "seagis_environment"
+    },
+    {
+      "name": "seagis_features"
+    },
+    {
+      "name": "seagis_quality"
+    },
+    {
+      "name": "seagis_raw"
+    }
+  ]
+}
