@@ -53,7 +53,7 @@ Dokumen berikut adalah rencana kerja v0.1, bukan bukti bahwa komponen sudah dite
 - [[Review A3 - Hasil dan Batas Validasi]] — 94 Python + 7 Deno tests; dua snapshot terbaru dengan 20 konteks regional per plot, tetap demo.
 - [[Provenance A3 - Paket Engineering 22 Oktober 2026]] — commit, checksum, bukti operasi dan batas runtime Mac/Supabase.
 
-### B0 — fondasi scientific knowledge vault
+### Database Supabase — schema aktual\n\n- [[Peta Database Supabase Seagis]] — 28 tabel dan 1 view; detail kolom, constraints, relasi, indeks, trigger dan RLS berdasarkan snapshot catalog 22 Oktober 2026.\n\n### B0 — fondasi scientific knowledge vault
 
 - [[Implementasi B0 - Fondasi Vault Pengetahuan Ilmiah Seagis]] — pertanyaan, taksonomi, schema, registry kandidat dan protokol review; 0 temuan terverifikasi.
 - [[Provenance Impor B0 - Seagis Knowledge Vault - 21 Oktober 2026]] — commit sumber dan checksum snapshot 15 file.
