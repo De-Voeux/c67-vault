@@ -9,6 +9,13 @@ tags: [challenge-final, seagis, category/engineering]
 
 Simpan semua catatan engineering baru proyek di folder ini: arsitektur, implementasi, kontrak data, dan panduan operasional. Catatan riset, metode validasi, dan rencana lapangan tetap di [[Indeks - Metode dan Rencana]].
 
+## Rencana implementasi
+
+Dokumen berikut adalah rencana kerja v0.1, bukan bukti bahwa komponen sudah diterapkan atau tervalidasi.
+
+- [[TRACK_A_DATA_ML_ENGINEERING]] — rencana fondasi data, ingestion lingkungan, kualitas data, dan forecasting suhu.
+- [[TRACK_B_SCIENTIFIC_KNOWLEDGE_VAULT]] — rencana evidence vault, verifikasi klaim ilmiah, retrieval, dan interpretasi on-device.
+
 ## Seagis
 
 - [[Pembaruan Desain - Sensor Suhu Hourly dan Inferensi On-Device]] — keputusan perangkat dan inferensi on-device; ingestion IoT ada di A1; ingestion lingkungan regional ada di A2.
