@@ -34,3 +34,13 @@ Navigasi: [[Indeks - Sumber dan Arsip]] · [[Peta Catatan - Challenge Final]].
 | P19 | S19 | [P19 (Kambey et al., 2021).pdf](</Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P19 (Kambey et al., 2021).pdf>) |
 | P20 | S20 | [P20 (Nguyen et al., 2026).pdf](</Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P20 (Nguyen et al., 2026).pdf>) |
 | P21 | S21 | [P21 (Wirantari et al., 2025).pdf](</Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P21 (Wirantari et al., 2025).pdf>) |
+
+## Tambahan ditinjau 20 Oktober 2026
+
+[[Tiga Paper Baru - Implikasi Pengukuran IoT 2026-10-20]] membahas P22–P24. P24 adalah artikel W04 yang kini tersedia full text; tidak dihitung sebagai studi baru independen terhadap W04. Manifest corpus awal S01–S21 tetap dipertahankan.
+
+| Paper | Sumber | PDF |
+|---|---|---|
+| P22 | Tabonda-Nabor et al. (2026); tambahan baru | [P22 (Tabonda-Nabor et al., 2026).pdf](</Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P22 (Tabonda-Nabor et al., 2026).pdf>) |
+| P23 | Aguilar et al. (2026); tambahan baru | [P23 (Aguilar et al., 2026).pdf](</Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P23 (Aguilar et al., 2026).pdf>) |
+| P24 | Gacura et al. (2025); W04 | [P24 (Gacura et al., 2025).pdf](</Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P24 (Gacura et al., 2025).pdf>) |

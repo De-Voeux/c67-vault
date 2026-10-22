@@ -1,13 +1,15 @@
 ---
 type: moc
 project: "[[Challenge Final]]"
-updated: 2026-10-14
+updated: 2026-10-21
 tags: [challenge-final, category/metode-dan-rencana]
 ---
 
 # Indeks - Metode dan Rencana
 
 Navigasi utama: [[Peta Catatan - Challenge Final]] · [[Challenge Final]]. Warna Graph View: `#3B82F6`.
+
+Catatan implementasi dan arsitektur teknis berada di [[Indeks - Engineering]].
 
 ## Catatan
 
@@ -21,3 +23,7 @@ Navigasi utama: [[Peta Catatan - Challenge Final]] · [[Challenge Final]]. Warna
 - [[Riset - Sumber Informasi dan Keputusan Petani Indonesia]]
 
 - [[Rencana Pengukuran IoT Kondisi Laut - Diskusi Mas Ricky]]
+
+## Desain POC
+
+- [[Desain POC - Peta Prioritas Pemeriksaan Rumput Laut]] — desain/form sintetis 16 Oktober dan roadmap.

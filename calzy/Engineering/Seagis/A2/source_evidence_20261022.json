@@ -1,0 +1,55 @@
+{
+  "scope": "Public metadata/terms only; no credentials or science payloads",
+  "sources": [
+    {
+      "key": "copernicus_licence",
+      "url": "https://marine.copernicus.eu/user-corner/service-commitments-and-licence",
+      "retrieved_at": "2026-10-22T04:05:19.744863+00:00",
+      "html_sha256": "78ea624e136b1e7d8d8660b281101d74393feeea767a8b9707f98bd2f54ab911",
+      "http_status": 200
+    },
+    {
+      "key": "open_meteo_terms",
+      "url": "https://open-meteo.com/en/terms",
+      "retrieved_at": "2026-10-22T04:05:19.991092+00:00",
+      "html_sha256": "5317fe6807d04a87b5e5a2f0e12baf30fed489c6267b7b973ce8c79ee75fdb11",
+      "http_status": 200
+    },
+    {
+      "key": "physics_product",
+      "url": "https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_PHY_001_024/description",
+      "retrieved_at": "2026-10-22T04:05:20.270686+00:00",
+      "html_sha256": "141f77ad264a424f4b04aeea75851a4f091fefc4b7cf8a08bb85f835fd88ce80",
+      "http_status": 200
+    },
+    {
+      "key": "bgc_product",
+      "url": "https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_BGC_001_028/description",
+      "retrieved_at": "2026-10-22T04:05:20.697356+00:00",
+      "html_sha256": "d363441427dac9e1fd8e23c84b42e9ae22e3c659479e95b77b4929f2f96bea61",
+      "http_status": 200
+    },
+    {
+      "key": "open_meteo_model_updates",
+      "url": "https://open-meteo.com/en/docs/model-updates",
+      "retrieved_at": "2026-10-22T04:05:21.057219+00:00",
+      "html_sha256": "613880f31ce4cbb6cc529bb5771b380ed2851fbbb4f22deae7fc28093ae2acde",
+      "http_status": 200
+    },
+    {
+      "key": "salinity_update_safeguard",
+      "url": "https://stac.marine.copernicus.eu/metadata/GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy-so_anfc_0.083deg_PT6H-i_202406/dataset.stac.json",
+      "retrieved_at": "2026-10-22T04:09:37.420769+00:00",
+      "metadata_sha256": "02c09364b3ce9b395343470d13d97281f342094cb15f94eec59b4586ee4e46b3",
+      "dataset_versioned_id": "cmems_mod_glo_phy-so_anfc_0.083deg_PT6H-i_202406",
+      "provider_updating_start_date": "2026-10-07T06:00:00.000Z",
+      "interpretation": "Current requested window is inside provider updating range. raise_if_updating=True prevents an incomplete/mutable subset from being accepted."
+    },
+    {
+      "key": "toolbox_update_safeguards_documentation",
+      "url": "https://help.marine.copernicus.eu/en/articles/8684964-using-the-copernicus-marine-toolbox-in-operational-workflows",
+      "retrieved_via": "web tool on 2026-10-22",
+      "scope": "Explanation of raise_if_updating and coordinate selection methods"
+    }
+  ]
+}

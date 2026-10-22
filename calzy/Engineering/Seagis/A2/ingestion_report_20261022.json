@@ -1,0 +1,432 @@
+{
+  "captured_at": "2026-10-22T04:10:21.875399+00:00",
+  "scope": "A2 operational ingestion/deployment inspection, not a test suite",
+  "project_ref": "kibztbeviortyvbedogg",
+  "organization_id": "pawuvcovwmmimqrcudpd",
+  "cloud": {
+    "grids": [
+      {
+        "depth_m": 0.494024991989136,
+        "grid_key": "lat=-5.83332825;lon=106.50000000;depth=0.49402499",
+        "latitude": -5.83332824707031,
+        "longitude": 106.5,
+        "dataset_key": "cmems_currents_6h",
+        "is_synthetic": false,
+        "identity_basis": "provider_cell"
+      },
+      {
+        "depth_m": 0.494025379419327,
+        "grid_key": "lat=-5.75000000;lon=106.50000000;depth=0.49402538",
+        "latitude": -5.75,
+        "longitude": 106.5,
+        "dataset_key": "cmems_nutrients_daily",
+        "is_synthetic": false,
+        "identity_basis": "provider_cell"
+      },
+      {
+        "depth_m": 0,
+        "grid_key": "lat=-5.79888900;lon=106.52344000;depth=0.00000000",
+        "latitude": -5.798889,
+        "longitude": 106.52344,
+        "dataset_key": "open_meteo_gfs",
+        "is_synthetic": false,
+        "identity_basis": "provider_returned_coordinate"
+      }
+    ],
+    "mappings": [
+      {
+        "plot_id": "00000000-0000-4000-8000-000000000001",
+        "distance_m": 4463.86520504651,
+        "dataset_key": "cmems_currents_6h",
+        "source_grid_id": "bc2c5dcf-d32d-4229-9b8f-db5ea7ef8ad8",
+        "sampling_method": "nearest_cell",
+        "example_latitude": -5.795,
+        "coordinate_status": "example_not_surveyed",
+        "example_longitude": 106.488
+      },
+      {
+        "plot_id": "00000000-0000-4000-8000-000000000002",
+        "distance_m": 3984.0056926787,
+        "dataset_key": "cmems_currents_6h",
+        "source_grid_id": "bc2c5dcf-d32d-4229-9b8f-db5ea7ef8ad8",
+        "sampling_method": "nearest_cell",
+        "example_latitude": -5.798,
+        "coordinate_status": "example_not_surveyed",
+        "example_longitude": 106.494
+      },
+      {
+        "plot_id": "00000000-0000-4000-8000-000000000001",
+        "distance_m": 5176.89624596785,
+        "dataset_key": "cmems_nutrients_daily",
+        "source_grid_id": "2ab28d7d-8e80-4576-a38a-21e1069f0bb4",
+        "sampling_method": "nearest_cell",
+        "example_latitude": -5.795,
+        "coordinate_status": "example_not_surveyed",
+        "example_longitude": 106.488
+      },
+      {
+        "plot_id": "00000000-0000-4000-8000-000000000002",
+        "distance_m": 5378.48158257522,
+        "dataset_key": "cmems_nutrients_daily",
+        "source_grid_id": "2ab28d7d-8e80-4576-a38a-21e1069f0bb4",
+        "sampling_method": "nearest_cell",
+        "example_latitude": -5.798,
+        "coordinate_status": "example_not_surveyed",
+        "example_longitude": 106.494
+      },
+      {
+        "plot_id": "00000000-0000-4000-8000-000000000001",
+        "distance_m": 3944.37759405722,
+        "dataset_key": "open_meteo_gfs",
+        "source_grid_id": "9343b27a-16a3-4c35-b744-41e68d9f108b",
+        "sampling_method": "provider_returned_coordinate",
+        "example_latitude": -5.795,
+        "coordinate_status": "example_not_surveyed",
+        "example_longitude": 106.488
+      },
+      {
+        "plot_id": "00000000-0000-4000-8000-000000000002",
+        "distance_m": 3258.33357067031,
+        "dataset_key": "open_meteo_gfs",
+        "source_grid_id": "9343b27a-16a3-4c35-b744-41e68d9f108b",
+        "sampling_method": "provider_returned_coordinate",
+        "example_latitude": -5.798,
+        "coordinate_status": "example_not_surveyed",
+        "example_longitude": 106.494
+      }
+    ],
+    "worker_role": {
+      "rolsuper": false,
+      "rolcreatedb": false,
+      "rolbypassrls": false,
+      "rolcreaterole": false
+    },
+    "raw_retention": [
+      {
+        "manifests": 1,
+        "hash_basis": "source_bytes",
+        "dataset_key": "open_meteo_gfs",
+        "storage_mode": "metadata_only"
+      },
+      {
+        "manifests": 1,
+        "hash_basis": "toolbox_subset_json_v1",
+        "dataset_key": "cmems_nutrients_daily",
+        "storage_mode": "metadata_only"
+      },
+      {
+        "manifests": 1,
+        "hash_basis": "toolbox_subset_json_v1",
+        "dataset_key": "cmems_currents_6h",
+        "storage_mode": "metadata_only"
+      }
+    ],
+    "attempt_outcomes": [
+      {
+        "status": "duplicate",
+        "attempts": 1,
+        "error_code": null,
+        "dataset_key": "cmems_currents_6h"
+      },
+      {
+        "status": "succeeded",
+        "attempts": 1,
+        "error_code": null,
+        "dataset_key": "cmems_currents_6h"
+      },
+      {
+        "status": "failed",
+        "attempts": 1,
+        "error_code": "schema_failure",
+        "dataset_key": "cmems_nutrients_daily"
+      },
+      {
+        "status": "succeeded",
+        "attempts": 1,
+        "error_code": null,
+        "dataset_key": "cmems_nutrients_daily"
+      },
+      {
+        "status": "abandoned",
+        "attempts": 1,
+        "error_code": "lease_expired",
+        "dataset_key": "cmems_salinity_6h"
+      },
+      {
+        "status": "failed",
+        "attempts": 1,
+        "error_code": "schema_failure",
+        "dataset_key": "cmems_salinity_6h"
+      },
+      {
+        "status": "failed",
+        "attempts": 1,
+        "error_code": "provider_updating",
+        "dataset_key": "cmems_salinity_6h"
+      },
+      {
+        "status": "failed",
+        "attempts": 1,
+        "error_code": "schema_failure",
+        "dataset_key": "open_meteo_gfs"
+      },
+      {
+        "status": "succeeded",
+        "attempts": 1,
+        "error_code": null,
+        "dataset_key": "open_meteo_gfs"
+      }
+    ],
+    "enabled_datasets": [
+      {
+        "dataset_key": "cmems_currents_6h",
+        "raw_storage_permitted": false,
+        "real_ingestion_enabled": true
+      },
+      {
+        "dataset_key": "cmems_nutrients_daily",
+        "raw_storage_permitted": false,
+        "real_ingestion_enabled": true
+      },
+      {
+        "dataset_key": "cmems_salinity_6h",
+        "raw_storage_permitted": false,
+        "real_ingestion_enabled": true
+      },
+      {
+        "dataset_key": "open_meteo_gfs",
+        "raw_storage_permitted": false,
+        "real_ingestion_enabled": true
+      },
+      {
+        "dataset_key": "sensor_temperature_v1",
+        "raw_storage_permitted": false,
+        "real_ingestion_enabled": false
+      }
+    ],
+    "iot_observations": {
+      "real": 0,
+      "synthetic": 136
+    },
+    "forecast_datasets": [
+      {
+        "grids": 1,
+        "values": 26,
+        "run_kind": "analysis_forecast_unspecified",
+        "issued_at": null,
+        "parameters": [
+          "current_eastward",
+          "current_northward"
+        ],
+        "valid_from": "2026-10-22T00:00:00+00:00",
+        "dataset_key": "cmems_currents_6h",
+        "ingested_at": "2026-10-22T04:05:54.574817+00:00",
+        "valid_through": "2026-10-25T00:00:00+00:00",
+        "missing_values": 0,
+        "forecast_run_id": "2c3cf785-8d49-4029-b64d-8afd56161a53",
+        "issue_time_basis": "unknown",
+        "synthetic_values": 0,
+        "model_initialized_at": null
+      },
+      {
+        "grids": 1,
+        "values": 8,
+        "run_kind": "analysis_forecast_unspecified",
+        "issued_at": null,
+        "parameters": [
+          "nitrate",
+          "phosphate"
+        ],
+        "valid_from": "2026-10-22T00:00:00+00:00",
+        "dataset_key": "cmems_nutrients_daily",
+        "ingested_at": "2026-10-22T04:09:44.327687+00:00",
+        "valid_through": "2026-10-25T00:00:00+00:00",
+        "missing_values": 0,
+        "forecast_run_id": "995af84a-7f2d-47c1-95ac-745c310e7681",
+        "issue_time_basis": "unknown",
+        "synthetic_values": 0,
+        "model_initialized_at": null
+      },
+      {
+        "grids": 1,
+        "values": 432,
+        "run_kind": "forecast",
+        "issued_at": null,
+        "parameters": [
+          "air_temperature_2m",
+          "cloud_cover",
+          "precipitation",
+          "uv_index",
+          "wind_direction_10m",
+          "wind_speed_10m"
+        ],
+        "valid_from": "2026-10-22T00:00:00+00:00",
+        "dataset_key": "open_meteo_gfs",
+        "ingested_at": "2026-10-22T04:09:45.579822+00:00",
+        "valid_through": "2026-10-24T23:00:00+00:00",
+        "missing_values": 0,
+        "forecast_run_id": "6235ff86-9973-4747-9da2-ed7918308ddc",
+        "issue_time_basis": "unknown",
+        "synthetic_values": 0,
+        "model_initialized_at": null
+      }
+    ],
+    "worker_table_grants": 0,
+    "derived_current_speed_rows": 13
+  },
+  "status": [
+    {
+      "enabled": true,
+      "failures": 0,
+      "grid_count": 1,
+      "attribution": "E.U. Copernicus Marine Service Information; product DOI 10.48670/moi-00016",
+      "dataset_key": "cmems_currents_6h",
+      "lease_until": null,
+      "licence_url": "https://marine.copernicus.eu/user-corner/service-commitments-and-licence",
+      "value_count": 26,
+      "availability": "available",
+      "retention_mode": "metadata_only",
+      "update_seconds": 86400,
+      "last_attempt_at": "2026-10-22T04:07:55.068297+00:00",
+      "last_error_code": null,
+      "last_success_at": "2026-10-22T04:09:17.701352+00:00",
+      "next_attempt_at": "2026-10-22T08:30:00+00:00",
+      "demo_mapping_count": 2,
+      "last_forecast_run_id": "2c3cf785-8d49-4029-b64d-8afd56161a53",
+      "vintage_available_at": "2026-10-22T04:05:54.574817+00:00"
+    },
+    {
+      "enabled": true,
+      "failures": 0,
+      "grid_count": 1,
+      "attribution": "E.U. Copernicus Marine Service Information; product DOI 10.48670/moi-00015",
+      "dataset_key": "cmems_nutrients_daily",
+      "lease_until": null,
+      "licence_url": "https://marine.copernicus.eu/user-corner/service-commitments-and-licence",
+      "value_count": 8,
+      "availability": "available",
+      "retention_mode": "metadata_only",
+      "update_seconds": 86400,
+      "last_attempt_at": "2026-10-22T04:09:17.796554+00:00",
+      "last_error_code": null,
+      "last_success_at": "2026-10-22T04:09:44.327687+00:00",
+      "next_attempt_at": "2026-10-22T12:30:00+00:00",
+      "demo_mapping_count": 2,
+      "last_forecast_run_id": "995af84a-7f2d-47c1-95ac-745c310e7681",
+      "vintage_available_at": "2026-10-22T04:09:44.327687+00:00"
+    },
+    {
+      "enabled": true,
+      "failures": 2,
+      "grid_count": 0,
+      "attribution": "E.U. Copernicus Marine Service Information; product DOI 10.48670/moi-00016",
+      "dataset_key": "cmems_salinity_6h",
+      "lease_until": null,
+      "licence_url": "https://marine.copernicus.eu/user-corner/service-commitments-and-licence",
+      "value_count": 0,
+      "availability": "unavailable",
+      "retention_mode": "metadata_only",
+      "update_seconds": 86400,
+      "last_attempt_at": "2026-10-22T04:09:34.943868+00:00",
+      "last_error_code": "provider_updating",
+      "last_success_at": null,
+      "next_attempt_at": "2026-10-22T04:39:41.162608+00:00",
+      "demo_mapping_count": 0,
+      "last_forecast_run_id": null,
+      "vintage_available_at": null
+    },
+    {
+      "enabled": true,
+      "failures": 0,
+      "grid_count": 1,
+      "attribution": "Weather data by Open-Meteo.com; NOAA GFS; CC BY 4.0 data, API entitlement separate",
+      "dataset_key": "open_meteo_gfs",
+      "lease_until": null,
+      "licence_url": "https://open-meteo.com/en/terms",
+      "value_count": 432,
+      "availability": "available",
+      "retention_mode": "metadata_only",
+      "update_seconds": 21600,
+      "last_attempt_at": "2026-10-22T04:09:44.432653+00:00",
+      "last_error_code": null,
+      "last_success_at": "2026-10-22T04:09:45.579822+00:00",
+      "next_attempt_at": "2026-10-22T04:30:00+00:00",
+      "demo_mapping_count": 2,
+      "last_forecast_run_id": "6235ff86-9973-4747-9da2-ed7918308ddc",
+      "vintage_available_at": "2026-10-22T04:09:45.579822+00:00"
+    }
+  ],
+  "preview": {
+    "a": {
+      "plot_id": "00000000-0000-4000-8000-000000000001",
+      "use": "demo_preview_only; excluded from training",
+      "rows_in_next_48h": 308,
+      "dataset_keys": [
+        "cmems_currents_6h",
+        "cmems_nutrients_daily",
+        "open_meteo_gfs"
+      ],
+      "grid_ids": [
+        "2ab28d7d-8e80-4576-a38a-21e1069f0bb4",
+        "9343b27a-16a3-4c35-b744-41e68d9f108b",
+        "bc2c5dcf-d32d-4229-9b8f-db5ea7ef8ad8"
+      ]
+    },
+    "b": {
+      "plot_id": "00000000-0000-4000-8000-000000000002",
+      "use": "demo_preview_only; excluded from training",
+      "rows_in_next_48h": 308,
+      "dataset_keys": [
+        "cmems_currents_6h",
+        "cmems_nutrients_daily",
+        "open_meteo_gfs"
+      ],
+      "grid_ids": [
+        "2ab28d7d-8e80-4576-a38a-21e1069f0bb4",
+        "9343b27a-16a3-4c35-b744-41e68d9f108b",
+        "bc2c5dcf-d32d-4229-9b8f-db5ea7ef8ad8"
+      ]
+    }
+  },
+  "migrations": [
+    {
+      "version": "0001",
+      "file": "supabase/migrations/0001_initial_schema.sql",
+      "source_sha256": "f83e16be7d676cd1552266f2648444edbe12c01aac6b6ac94d4c6d32161c9b42",
+      "ledger_matches_source": true
+    },
+    {
+      "version": "0002",
+      "file": "supabase/migrations/0002_temperature_api.sql",
+      "source_sha256": "c1547f70b3bf29ea5a54171ff547177713bbd0f4d9bac8e33d47d1c940fd992f",
+      "ledger_matches_source": true
+    },
+    {
+      "version": "0003",
+      "file": "supabase/migrations/0003_environment_ingestion.sql",
+      "source_sha256": "d49a5897bca967b33e3ab79745bb4f1bb9e76babc318544bfc7c024c8993d1f5",
+      "ledger_matches_source": true
+    },
+    {
+      "version": "0004",
+      "file": "supabase/migrations/0004_provider_update_status.sql",
+      "source_sha256": "bf92788ed13dd0ffd60a8f21b25f84627976f5e9b46e27f98b00f4062a4cbe0a",
+      "ledger_matches_source": true
+    }
+  ],
+  "credential_file_mode": "0o600",
+  "transport": {
+    "sslmode": "verify-full",
+    "ca_der_sha256": "807025ad50d4ed219d2c9c7d299c004f824eb00cf7f65afef607d07b72e6cafa",
+    "credential_role": "seagis_environment_worker",
+    "runtime_uses_admin_pat": false
+  },
+  "scheduler": {
+    "kind": "local_macos_launchagent",
+    "installed": true,
+    "label": "org.seagis.environment-ingestion",
+    "dispatcher_interval_seconds": 900,
+    "cloud_always_on": false,
+    "worker_tick_log_exists": true
+  }
+}

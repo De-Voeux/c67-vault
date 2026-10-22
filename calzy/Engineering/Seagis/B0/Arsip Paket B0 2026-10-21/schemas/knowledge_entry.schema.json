@@ -1,0 +1,773 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Z][A-Z0-9_-]+$"
+    },
+    "schema_version": {
+      "const": "0.1.0"
+    },
+    "species": {
+      "type": "array",
+      "items": {
+        "$ref": "taxonomy.schema.json#/$defs/species"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "parameter_tags": {
+      "type": "array",
+      "items": {
+        "$ref": "taxonomy.schema.json#/$defs/parameter_tags"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "relationship_type": {
+      "$ref": "taxonomy.schema.json#/$defs/relationship_type"
+    },
+    "interaction_test": {
+      "$ref": "taxonomy.schema.json#/$defs/interaction_test"
+    },
+    "finding": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "evidence_type": {
+      "$ref": "taxonomy.schema.json#/$defs/evidence_type"
+    },
+    "outcome": {
+      "anyOf": [
+        {
+          "$ref": "taxonomy.schema.json#/$defs/outcome"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "outcome_detail": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "direction": {
+      "$ref": "taxonomy.schema.json#/$defs/direction"
+    },
+    "statistics": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "significance": {
+          "$ref": "taxonomy.schema.json#/$defs/significance"
+        },
+        "p_value": {
+          "anyOf": [
+            {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "test_reported": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "uncertainty_reported": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "significance",
+        "p_value",
+        "test_reported",
+        "uncertainty_reported"
+      ]
+    },
+    "experimental_setting": {
+      "$ref": "taxonomy.schema.json#/$defs/experimental_setting"
+    },
+    "experimental_conditions": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "species_reported": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "minItems": 0
+        },
+        "strain": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "life_stage": {
+          "$ref": "taxonomy.schema.json#/$defs/life_stage"
+        },
+        "location_reported": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "exposures": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "parameter_tag": {
+                "$ref": "taxonomy.schema.json#/$defs/parameter_tags"
+              },
+              "quantity": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/quantity"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "notes": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              }
+            },
+            "required": [
+              "parameter_tag",
+              "quantity",
+              "notes"
+            ]
+          },
+          "minItems": 0
+        },
+        "exposure_duration": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/quantity"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "acclimation": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "sample_size_reported": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "design_and_comparator": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "unknown_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "species_reported",
+        "strain",
+        "life_stage",
+        "location_reported",
+        "exposures",
+        "exposure_duration",
+        "acclimation",
+        "sample_size_reported",
+        "design_and_comparator",
+        "unknown_fields"
+      ]
+    },
+    "numerical_results": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/quantity"
+      },
+      "minItems": 0
+    },
+    "source_id": {
+      "type": "string",
+      "pattern": "^[A-Z][A-Z0-9_-]+$"
+    },
+    "source_location": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/source_location"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "minItems": 1
+    },
+    "limitation_tags": {
+      "type": "array",
+      "items": {
+        "$ref": "taxonomy.schema.json#/$defs/limitation_tags"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "applicability": {
+      "$ref": "taxonomy.schema.json#/$defs/applicability"
+    },
+    "ice_ice_inference": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "related_entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "entry_id": {
+            "type": "string",
+            "pattern": "^[A-Z][A-Z0-9_-]+$"
+          },
+          "relation": {
+            "$ref": "taxonomy.schema.json#/$defs/relation_type"
+          },
+          "notes": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          }
+        },
+        "required": [
+          "entry_id",
+          "relation",
+          "notes"
+        ]
+      },
+      "minItems": 0
+    },
+    "verification_status": {
+      "$ref": "taxonomy.schema.json#/$defs/verification_status"
+    },
+    "verification": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "verified_by": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "verified_at": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "reviewer_type": {
+          "anyOf": [
+            {
+              "$ref": "taxonomy.schema.json#/$defs/reviewer_type"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "checks": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "source_checked": {
+              "type": "boolean"
+            },
+            "units_checked": {
+              "type": "boolean"
+            },
+            "species_checked": {
+              "type": "boolean"
+            },
+            "exposure_checked": {
+              "type": "boolean"
+            },
+            "outcome_checked": {
+              "type": "boolean"
+            },
+            "interpretation_checked": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "source_checked",
+            "units_checked",
+            "species_checked",
+            "exposure_checked",
+            "outcome_checked",
+            "interpretation_checked"
+          ]
+        },
+        "review_notes": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "verified_by",
+        "verified_at",
+        "reviewer_type",
+        "checks",
+        "review_notes"
+      ]
+    },
+    "review_history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "status": {
+            "$ref": "taxonomy.schema.json#/$defs/verification_status"
+          },
+          "actor": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "actor_type": {
+            "$ref": "taxonomy.schema.json#/$defs/reviewer_type"
+          },
+          "at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "notes": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          }
+        },
+        "required": [
+          "status",
+          "actor",
+          "actor_type",
+          "at",
+          "notes"
+        ]
+      },
+      "minItems": 1
+    }
+  },
+  "required": [
+    "id",
+    "schema_version",
+    "species",
+    "parameter_tags",
+    "relationship_type",
+    "interaction_test",
+    "finding",
+    "evidence_type",
+    "outcome",
+    "outcome_detail",
+    "direction",
+    "statistics",
+    "experimental_setting",
+    "experimental_conditions",
+    "numerical_results",
+    "source_id",
+    "source_location",
+    "limitations",
+    "limitation_tags",
+    "applicability",
+    "ice_ice_inference",
+    "related_entries",
+    "verification_status",
+    "verification",
+    "review_history"
+  ],
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Seagis atomic knowledge entry 0.1.0",
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "relationship_type": {
+            "const": "single_parameter"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "parameter_tags": {
+            "maxItems": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "relationship_type": {
+            "enum": [
+              "interaction",
+              "combined_exposure"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "parameter_tags": {
+            "minItems": 2
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "relationship_type": {
+            "const": "interaction"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "interaction_test": {
+            "const": "direct_test_reported"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "verification_status": {
+            "enum": [
+              "extracted",
+              "needs_review",
+              "verified"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "finding": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "outcome": {
+            "$ref": "taxonomy.schema.json#/$defs/outcome"
+          },
+          "source_location": {
+            "$ref": "#/$defs/source_location"
+          },
+          "experimental_conditions": {
+            "properties": {
+              "species_reported": {
+                "minItems": 1
+              },
+              "design_and_comparator": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "verification_status": {
+            "const": "verified"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "verification": {
+            "properties": {
+              "verified_by": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              "verified_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "reviewer_type": {
+                "const": "human"
+              },
+              "checks": {
+                "properties": {
+                  "source_checked": {
+                    "const": true
+                  },
+                  "units_checked": {
+                    "const": true
+                  },
+                  "species_checked": {
+                    "const": true
+                  },
+                  "exposure_checked": {
+                    "const": true
+                  },
+                  "outcome_checked": {
+                    "const": true
+                  },
+                  "interpretation_checked": {
+                    "const": true
+                  }
+                }
+              },
+              "review_notes": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              }
+            }
+          },
+          "applicability": {
+            "not": {
+              "const": "unassessed"
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "verification_status": {
+            "enum": [
+              "rejected",
+              "superseded"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "verification": {
+            "properties": {
+              "review_notes": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "quantity": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "values": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 1
+        },
+        "unit_reported": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "analyte_reported": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "basis": {
+          "$ref": "taxonomy.schema.json#/$defs/quantity_basis"
+        },
+        "original_text": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        }
+      },
+      "required": [
+        "label",
+        "values",
+        "unit_reported",
+        "analyte_reported",
+        "basis",
+        "original_text"
+      ]
+    },
+    "source_location": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "locator_type": {
+          "enum": [
+            "pdf_page",
+            "section",
+            "table",
+            "figure",
+            "paragraph"
+          ]
+        },
+        "value": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "supporting_excerpt": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 600
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "locator_type",
+        "value",
+        "supporting_excerpt"
+      ]
+    }
+  }
+}

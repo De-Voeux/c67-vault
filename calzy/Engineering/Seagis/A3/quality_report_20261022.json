@@ -1,0 +1,1002 @@
+{
+  "captured_at": "2026-10-22T06:22:51.407944Z",
+  "project_ref": "kibztbeviortyvbedogg",
+  "organization_id": "pawuvcovwmmimqrcudpd",
+  "scope": "A3 operational QC/alignment and deployment inspection; no model evaluation",
+  "implementation_commit": "9ba119a",
+  "window": {
+    "from": "2026-10-21T07:00:00Z",
+    "to": "2026-10-22T07:00:00Z",
+    "cutoff_policy": "each UTC hour, from inclusive / to exclusive"
+  },
+  "policy_version": "pilot-quality-2",
+  "code_sha256": "dde4eb5b79edfc3fff1e0ed62befdeea58b162541d9e53962f5dc0f508384ca6",
+  "policy_sha256": "86ef47d8acdb962a1f4de19d5548a79b4914a851e958a0c4679856d689d26cd0",
+  "snapshots": [
+    {
+      "plot_id": "00000000-0000-4000-8000-000000000001",
+      "receipt": {
+        "hour_count": 24,
+        "body_sha256": "5b0e19b4651d49d3da106aee1d9e3841c7cb8cc493ee1b97c3f03b1246a22ea8",
+        "input_count": 23,
+        "snapshot_id": "9e47755b-87c1-42cb-ad1f-d2b27ac70293",
+        "input_manifest_sha256": "0387df066067c59cb88c4e2b9f7ffd4c621b2166a9d609108f03e942a1c2d509"
+      },
+      "source_sha256": "6962018448582ddf0e636abdeb3b4e0386a9f34bf3b381b57d23721bc6f322f2",
+      "mode": "demo_review",
+      "training_authorized": false,
+      "readback_matches": true,
+      "idempotent_replay": true,
+      "quality_report": {
+        "plot_id": "00000000-0000-4000-8000-000000000001",
+        "start_at": "2026-10-21T07:00:00Z",
+        "end_at": "2026-10-22T07:00:00Z",
+        "coverage_basis": "hourly contextual availability; not independent observation count",
+        "drift_assessment": "not_assessable_without_calibrated_colocated_reference",
+        "parameters": [
+          {
+            "dataset_key": "cmems_currents_6h",
+            "parameter_code": "current_eastward",
+            "native_cadence_seconds": 21600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "carried_context": 1,
+              "coarse_regional_grid": 2,
+              "demo_mapping_not_surveyed": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "sensor_depth_unknown": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 2,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 1,
+              "issuance_unknown_receipt_cutoff": 2,
+              "native_step_expired": 1,
+              "upstream_unreviewed": 2
+            },
+            "available_source_records_at_final_cutoff": 2,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "cmems_currents_6h",
+            "parameter_code": "current_northward",
+            "native_cadence_seconds": 21600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "carried_context": 1,
+              "coarse_regional_grid": 2,
+              "demo_mapping_not_surveyed": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "sensor_depth_unknown": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 2,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 1,
+              "issuance_unknown_receipt_cutoff": 2,
+              "native_step_expired": 1,
+              "upstream_unreviewed": 2
+            },
+            "available_source_records_at_final_cutoff": 2,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "cmems_nutrients_daily",
+            "parameter_code": "nitrate",
+            "native_cadence_seconds": 86400,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "coarse_regional_grid": 2,
+              "daily_context_reused": 2,
+              "demo_mapping_not_surveyed": 2,
+              "interval_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "sensor_depth_unknown": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 1,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "daily_context_reused": 1,
+              "interval_unknown": 1,
+              "issuance_unknown_receipt_cutoff": 1,
+              "upstream_unreviewed": 1
+            },
+            "available_source_records_at_final_cutoff": 1,
+            "unique_selected_source_records": 1,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "cmems_nutrients_daily",
+            "parameter_code": "phosphate",
+            "native_cadence_seconds": 86400,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "coarse_regional_grid": 2,
+              "daily_context_reused": 2,
+              "demo_mapping_not_surveyed": 2,
+              "interval_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "sensor_depth_unknown": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 1,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "daily_context_reused": 1,
+              "interval_unknown": 1,
+              "issuance_unknown_receipt_cutoff": 1,
+              "upstream_unreviewed": 1
+            },
+            "available_source_records_at_final_cutoff": 1,
+            "unique_selected_source_records": 1,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "cmems_salinity_6h",
+            "parameter_code": "salinity",
+            "native_cadence_seconds": 21600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 0,
+            "usable_contexts": 0,
+            "value_status_counts": {
+              "not_available": 24
+            },
+            "flag_counts": {
+              "no_mapping_available_at_cutoff": 24,
+              "not_available": 24
+            },
+            "source_records_including_lookback": 2,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {},
+            "available_source_records_at_final_cutoff": 0,
+            "unique_selected_source_records": 0,
+            "coverage_fraction": 0.0
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "air_temperature_2m",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "cloud_cover",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "modeled_zero": 1,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "modeled_zero": 1,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "precipitation",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "modeled_zero": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "accumulation_not_aligned": 6,
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "modeled_zero": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "uv_index",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "wind_direction_10m",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "wind_speed_10m",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "sensor_temperature_v1",
+            "parameter_code": "water_temperature",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 3,
+            "usable_contexts": 0,
+            "value_status_counts": {
+              "not_available": 21,
+              "present": 3
+            },
+            "flag_counts": {
+              "carried_sensor_context": 3,
+              "delayed_packet": 3,
+              "missing_hour": 3,
+              "not_available": 21,
+              "stale_sensor": 3,
+              "upstream:delayed_packet": 3,
+              "upstream_suspect": 3
+            },
+            "source_records_including_lookback": 68,
+            "out_of_order_records": 1,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_sensor_context": 68,
+              "delayed_packet": 68,
+              "missing": 1,
+              "missing_hour": 68,
+              "out_of_order": 1,
+              "outside_pilot_envelope": 1,
+              "stale_sensor": 68,
+              "upstream:delayed_packet": 68,
+              "upstream:gap_before": 5,
+              "upstream:out_of_order": 1,
+              "upstream:outside_pilot_envelope": 1,
+              "upstream:rapid_change": 3,
+              "upstream:sensor_missing": 1,
+              "upstream_rejected": 1,
+              "upstream_suspect": 67
+            },
+            "available_source_records_at_final_cutoff": 68,
+            "unique_selected_source_records": 1,
+            "coverage_fraction": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "plot_id": "00000000-0000-4000-8000-000000000002",
+      "receipt": {
+        "hour_count": 24,
+        "body_sha256": "89f601e95b8bd1202d811d35c582d738e659ea89c887a0523eab91e6f10a8ab1",
+        "input_count": 23,
+        "snapshot_id": "a8af375a-f39b-43b0-9fef-4a9159242b11",
+        "input_manifest_sha256": "4c2af73d679028d0c07f04673c81e387f50c7f84b9872e3220b9f1cf447c0c42"
+      },
+      "source_sha256": "402560f2a0f6c55164c2a2007ff60115b7d0bcedbc37507e408c12ebb48e25a6",
+      "mode": "demo_review",
+      "training_authorized": false,
+      "readback_matches": true,
+      "idempotent_replay": true,
+      "quality_report": {
+        "plot_id": "00000000-0000-4000-8000-000000000002",
+        "start_at": "2026-10-21T07:00:00Z",
+        "end_at": "2026-10-22T07:00:00Z",
+        "coverage_basis": "hourly contextual availability; not independent observation count",
+        "drift_assessment": "not_assessable_without_calibrated_colocated_reference",
+        "parameters": [
+          {
+            "dataset_key": "cmems_currents_6h",
+            "parameter_code": "current_eastward",
+            "native_cadence_seconds": 21600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "carried_context": 1,
+              "coarse_regional_grid": 2,
+              "demo_mapping_not_surveyed": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "sensor_depth_unknown": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 2,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 1,
+              "issuance_unknown_receipt_cutoff": 2,
+              "native_step_expired": 1,
+              "upstream_unreviewed": 2
+            },
+            "available_source_records_at_final_cutoff": 2,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "cmems_currents_6h",
+            "parameter_code": "current_northward",
+            "native_cadence_seconds": 21600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "carried_context": 1,
+              "coarse_regional_grid": 2,
+              "demo_mapping_not_surveyed": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "sensor_depth_unknown": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 2,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 1,
+              "issuance_unknown_receipt_cutoff": 2,
+              "native_step_expired": 1,
+              "upstream_unreviewed": 2
+            },
+            "available_source_records_at_final_cutoff": 2,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "cmems_nutrients_daily",
+            "parameter_code": "nitrate",
+            "native_cadence_seconds": 86400,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "coarse_regional_grid": 2,
+              "daily_context_reused": 2,
+              "demo_mapping_not_surveyed": 2,
+              "interval_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "sensor_depth_unknown": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 1,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "daily_context_reused": 1,
+              "interval_unknown": 1,
+              "issuance_unknown_receipt_cutoff": 1,
+              "upstream_unreviewed": 1
+            },
+            "available_source_records_at_final_cutoff": 1,
+            "unique_selected_source_records": 1,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "cmems_nutrients_daily",
+            "parameter_code": "phosphate",
+            "native_cadence_seconds": 86400,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "coarse_regional_grid": 2,
+              "daily_context_reused": 2,
+              "demo_mapping_not_surveyed": 2,
+              "interval_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "sensor_depth_unknown": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 1,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "daily_context_reused": 1,
+              "interval_unknown": 1,
+              "issuance_unknown_receipt_cutoff": 1,
+              "upstream_unreviewed": 1
+            },
+            "available_source_records_at_final_cutoff": 1,
+            "unique_selected_source_records": 1,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "cmems_salinity_6h",
+            "parameter_code": "salinity",
+            "native_cadence_seconds": 21600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 0,
+            "usable_contexts": 0,
+            "value_status_counts": {
+              "not_available": 24
+            },
+            "flag_counts": {
+              "no_mapping_available_at_cutoff": 24,
+              "not_available": 24
+            },
+            "source_records_including_lookback": 2,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {},
+            "available_source_records_at_final_cutoff": 0,
+            "unique_selected_source_records": 0,
+            "coverage_fraction": 0.0
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "air_temperature_2m",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "cloud_cover",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "modeled_zero": 1,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "modeled_zero": 1,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "precipitation",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "modeled_zero": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "accumulation_not_aligned": 6,
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "modeled_zero": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "uv_index",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "wind_direction_10m",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "open_meteo_gfs",
+            "parameter_code": "wind_speed_10m",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 2,
+            "usable_contexts": 2,
+            "value_status_counts": {
+              "not_available": 22,
+              "present": 2
+            },
+            "flag_counts": {
+              "demo_mapping_not_surveyed": 2,
+              "grid_resolution_unknown": 2,
+              "issuance_unknown_receipt_cutoff": 2,
+              "no_mapping_available_at_cutoff": 22,
+              "not_available": 22,
+              "plot_size_unknown": 2,
+              "regional_context_only": 2,
+              "representativeness_unverified": 2,
+              "upstream_unreviewed": 2
+            },
+            "source_records_including_lookback": 7,
+            "out_of_order_records": 0,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_context": 6,
+              "issuance_unknown_receipt_cutoff": 7,
+              "native_step_expired": 6,
+              "upstream_unreviewed": 7
+            },
+            "available_source_records_at_final_cutoff": 7,
+            "unique_selected_source_records": 2,
+            "coverage_fraction": 0.08333333333333333
+          },
+          {
+            "dataset_key": "sensor_temperature_v1",
+            "parameter_code": "water_temperature",
+            "native_cadence_seconds": 3600,
+            "expected_hourly_contexts": 24,
+            "selected_contexts": 3,
+            "usable_contexts": 0,
+            "value_status_counts": {
+              "not_available": 21,
+              "present": 3
+            },
+            "flag_counts": {
+              "carried_sensor_context": 3,
+              "delayed_packet": 3,
+              "missing_hour": 3,
+              "not_available": 21,
+              "stale_sensor": 3,
+              "upstream:delayed_packet": 3,
+              "upstream_suspect": 3
+            },
+            "source_records_including_lookback": 68,
+            "out_of_order_records": 1,
+            "input_qc_flag_counts_at_final_cutoff": {
+              "carried_sensor_context": 68,
+              "delayed_packet": 68,
+              "missing": 1,
+              "missing_hour": 68,
+              "out_of_order": 1,
+              "outside_pilot_envelope": 1,
+              "stale_sensor": 68,
+              "upstream:delayed_packet": 68,
+              "upstream:gap_before": 5,
+              "upstream:out_of_order": 1,
+              "upstream:outside_pilot_envelope": 1,
+              "upstream:rapid_change": 3,
+              "upstream:sensor_missing": 1,
+              "upstream_rejected": 1,
+              "upstream_suspect": 67
+            },
+            "available_source_records_at_final_cutoff": 68,
+            "unique_selected_source_records": 1,
+            "coverage_fraction": 0.0
+          }
+        ]
+      }
+    }
+  ],
+  "database_counts": {
+    "iot_observations": 136,
+    "real_iot_observations": 0,
+    "regional_values": 479,
+    "regional_vintages": 4,
+    "alignment_snapshots": 4,
+    "alignment_input_links": 48
+  },
+  "datasets": [
+    {
+      "dataset_key": "cmems_currents_6h",
+      "last_error_code": null,
+      "last_success_at": "2026-10-22 04:09:17.701352+00"
+    },
+    {
+      "dataset_key": "cmems_nutrients_daily",
+      "last_error_code": null,
+      "last_success_at": "2026-10-22 04:09:44.327687+00"
+    },
+    {
+      "dataset_key": "cmems_salinity_6h",
+      "last_error_code": null,
+      "last_success_at": "2026-10-22 06:09:08.710949+00"
+    },
+    {
+      "dataset_key": "open_meteo_gfs",
+      "last_error_code": null,
+      "last_success_at": "2026-10-22 04:40:49.49994+00"
+    }
+  ],
+  "tables": [
+    {
+      "table_schema": "seagis_quality",
+      "table_name": "alignment_snapshot"
+    },
+    {
+      "table_schema": "seagis_quality",
+      "table_name": "policy"
+    },
+    {
+      "table_schema": "seagis_quality",
+      "table_name": "snapshot_input"
+    }
+  ],
+  "registered_policies": [
+    {
+      "version": "pilot-quality-1",
+      "policy_sha256": "b419a7e4f22d90b2b74fbf12202689f6beb03d9234c54fe6f50022654d18a287",
+      "code_sha256": "dae2efb0861ea5395a79d8deed91c1626141f1de31b93247d3db2b6b733a6ac4"
+    },
+    {
+      "version": "pilot-quality-2",
+      "policy_sha256": "86ef47d8acdb962a1f4de19d5548a79b4914a851e958a0c4679856d689d26cd0",
+      "code_sha256": "dde4eb5b79edfc3fff1e0ed62befdeea58b162541d9e53962f5dc0f508384ca6"
+    }
+  ],
+  "post_rotation_iot_status": {
+    "checked_at": "2026-10-22T06:22:58.122165Z",
+    "http_status": 200,
+    "plot_count": 2
+  },
+  "credential_remediation": {
+    "backend_passwords_rotated": 2,
+    "new_logins_verified": true,
+    "old_logins_rejected": true,
+    "edge_secret_updated": true,
+    "no_credential_values_in_report": true
+  },
+  "validation": {
+    "python_tests": 94,
+    "deno_tests": 7,
+    "http_integration_passed": true,
+    "contract_pairs": 5,
+    "offline_cli_passed": true,
+    "lint_passed": true,
+    "github_ci": "not_run_no_push"
+  },
+  "earlier_inspection": {
+    "captured_at": "2026-10-22T04:45:47.333014Z",
+    "window": {
+      "from": "2026-10-21T05:00:00Z",
+      "to": "2026-10-22T05:00:00Z",
+      "cutoff_policy": "each UTC hour, from inclusive / to exclusive"
+    },
+    "policy_version": "pilot-quality-1",
+    "snapshots": [
+      {
+        "snapshot_id": "63f23ad7-9324-472e-9d7d-4bbe0a8d7d98",
+        "plot_id": "00000000-0000-4000-8000-000000000001",
+        "usable_contexts": 0
+      },
+      {
+        "snapshot_id": "655db52a-df6f-4891-888c-e2353a7b59cf",
+        "plot_id": "00000000-0000-4000-8000-000000000002",
+        "usable_contexts": 0
+      }
+    ],
+    "interpretation": "Before 05:00 UTC no mapped regional inputs were available by the last 04:00 UTC cutoff. The two original snapshots remain immutable."
+  }
+}
