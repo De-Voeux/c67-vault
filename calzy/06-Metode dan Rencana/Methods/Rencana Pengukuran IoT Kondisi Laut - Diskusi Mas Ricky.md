@@ -48,3 +48,8 @@ Daftar ini mencatat pekerjaan terbuka dari diskusi; belum dijalankan dalam impor
 ## Navigasi kategori
 
 [[Indeks - Metode dan Rencana]] · [[Peta Catatan - Challenge Final]]
+
+
+## Masukan Professor Roleda — diimpor 20 Oktober 2026
+
+[[Diskusi - Professor Roleda (Ice-Ice, Threshold, dan Validasi Lapangan)]] menambahkan konteks conductivity/cahaya, efek nutrisi, jeda paparan–gejala dan logbook biologis. Ini penuturan dalam ringkasan meeting, bukan pemilihan sensor atau pengesahan cutoff; lihat juga [[Tiga Paper Baru - Implikasi Pengukuran IoT 2026-10-20]].

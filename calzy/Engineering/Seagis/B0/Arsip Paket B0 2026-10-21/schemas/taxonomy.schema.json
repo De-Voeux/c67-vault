@@ -1,0 +1,249 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Seagis controlled vocabulary 0.1.0",
+  "$defs": {
+    "parameter_tags": {
+      "type": "string",
+      "enum": [
+        "water_temperature",
+        "salinity",
+        "nitrate",
+        "phosphate",
+        "ammonium",
+        "total_inorganic_nitrogen",
+        "current_velocity",
+        "precipitation",
+        "wind_speed",
+        "cloud_cover",
+        "solar_irradiance",
+        "par",
+        "uv_exposure",
+        "water_depth",
+        "turbidity",
+        "microbial_exposure"
+      ]
+    },
+    "species": {
+      "type": "string",
+      "enum": [
+        "Kappaphycus alvarezii",
+        "Kappaphycus striatus",
+        "Kappaphycus malesianus",
+        "Eucheuma denticulatum",
+        "other_eucheumatoid",
+        "other_macroalga",
+        "other_organism",
+        "unresolved"
+      ]
+    },
+    "outcome": {
+      "type": "string",
+      "enum": [
+        "growth_rate",
+        "biomass",
+        "photosynthetic_performance",
+        "pigment_concentration",
+        "oxidative_stress",
+        "gene_expression",
+        "nutrient_uptake",
+        "carrageenan_quality",
+        "bleaching",
+        "tissue_damage",
+        "ice_ice_incidence",
+        "ice_ice_prevalence",
+        "ice_ice_severity",
+        "mortality",
+        "other"
+      ]
+    },
+    "evidence_type": {
+      "type": "string",
+      "enum": [
+        "controlled_experiment",
+        "observational_association",
+        "mechanistic_hypothesis",
+        "review_synthesis",
+        "field_observation",
+        "interview_report",
+        "team_interpretation",
+        "engineering_proposal"
+      ]
+    },
+    "experimental_setting": {
+      "type": "string",
+      "enum": [
+        "laboratory",
+        "hatchery",
+        "open_sea_farm",
+        "pond",
+        "mesocosm",
+        "mixed",
+        "not_applicable",
+        "not_reported"
+      ]
+    },
+    "verification_status": {
+      "type": "string",
+      "enum": [
+        "candidate",
+        "extracted",
+        "needs_review",
+        "verified",
+        "rejected",
+        "superseded"
+      ]
+    },
+    "applicability": {
+      "type": "string",
+      "enum": [
+        "unassessed",
+        "same_species_context_limited",
+        "related_eucheumatoid_context_limited",
+        "hypothesis_only",
+        "local_field_evidence",
+        "not_applicable"
+      ]
+    },
+    "limitation_tags": {
+      "type": "string",
+      "enum": [
+        "secondary_source_only",
+        "abstract_only",
+        "full_text_unavailable",
+        "units_unresolved",
+        "exposure_unreported",
+        "strain_unresolved",
+        "species_unresolved",
+        "small_sample",
+        "short_exposure",
+        "confounded_treatments",
+        "interaction_not_isolated",
+        "cross_species",
+        "non_local",
+        "setting_mismatch",
+        "observational_only",
+        "statistical_reporting_conflict",
+        "outcome_mismatch",
+        "no_disease_endpoint",
+        "no_predictive_validation",
+        "reader_inference",
+        "not_independent_evidence",
+        "synthetic_fixture"
+      ]
+    },
+    "relationship_type": {
+      "type": "string",
+      "enum": [
+        "single_parameter",
+        "interaction",
+        "combined_exposure",
+        "context_only"
+      ]
+    },
+    "direction": {
+      "type": "string",
+      "enum": [
+        "increase",
+        "decrease",
+        "no_detected_difference",
+        "mixed",
+        "not_reported",
+        "not_applicable"
+      ]
+    },
+    "significance": {
+      "type": "string",
+      "enum": [
+        "significant",
+        "not_significant",
+        "not_tested",
+        "not_reported",
+        "conflicting_reporting"
+      ]
+    },
+    "interaction_test": {
+      "type": "string",
+      "enum": [
+        "direct_test_reported",
+        "not_isolated",
+        "not_tested",
+        "not_reported",
+        "not_applicable"
+      ]
+    },
+    "life_stage": {
+      "type": "string",
+      "enum": [
+        "vegetative_thallus",
+        "propagule",
+        "spore",
+        "mixed",
+        "other",
+        "not_reported"
+      ]
+    },
+    "source_kind": {
+      "type": "string",
+      "enum": [
+        "primary_study",
+        "review",
+        "internal_synthesis",
+        "interview_note",
+        "engineering_note",
+        "other"
+      ]
+    },
+    "access_status": {
+      "type": "string",
+      "enum": [
+        "not_checked",
+        "metadata_only",
+        "abstract_only",
+        "full_text_available",
+        "local_note_available",
+        "unavailable"
+      ]
+    },
+    "read_scope": {
+      "type": "string",
+      "enum": [
+        "not_read",
+        "metadata_only",
+        "abstract_only",
+        "selected_full_text",
+        "full_text",
+        "local_note"
+      ]
+    },
+    "quantity_basis": {
+      "type": "string",
+      "enum": [
+        "as_ion",
+        "as_N",
+        "as_P",
+        "practical_salinity",
+        "absolute_salinity",
+        "instrument_ppt_unspecified",
+        "not_applicable",
+        "not_reported"
+      ]
+    },
+    "relation_type": {
+      "type": "string",
+      "enum": [
+        "supports",
+        "contradicts",
+        "different_context",
+        "duplicate_evidence",
+        "supersedes"
+      ]
+    },
+    "reviewer_type": {
+      "type": "string",
+      "enum": [
+        "human",
+        "ai"
+      ]
+    }
+  }
+}

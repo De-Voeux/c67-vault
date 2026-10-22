@@ -1,0 +1,112 @@
+{
+  "checked_at": "2026-10-22T03:34:02.871854+00:00",
+  "project_ref": "kibztbeviortyvbedogg",
+  "api_base": "https://kibztbeviortyvbedogg.supabase.co/functions/v1/temperature",
+  "checks": {
+    "health": 200,
+    "unauthenticated_denied": 401,
+    "device_cannot_read": 401,
+    "reader_cannot_ingest": 401,
+    "sensor_binding": 403,
+    "provenance_spoof_rejected": 422,
+    "existing_packet_duplicate": 200,
+    "immutable_packet_conflict": 409,
+    "unknown_plot_denied": 403,
+    "reader_status": 200
+  },
+  "counts": {
+    "observations": 136,
+    "real_observations": 0
+  },
+  "plots": {
+    "A": {
+      "observations": 68,
+      "rejected": 1,
+      "coverage": {
+        "missing_hours": [
+          "2026-10-19T05:00:00.000000Z",
+          "2026-10-19T17:00:00.000000Z",
+          "2026-10-19T18:00:00.000000Z",
+          "2026-10-21T03:00:00.000000Z"
+        ],
+        "expected_hours": 72,
+        "unusable_hours": [
+          "2026-10-19T11:00:00.000000Z",
+          "2026-10-20T06:00:00.000000Z"
+        ],
+        "hours_with_packets": 68,
+        "hours_with_usable_values": 66
+      }
+    },
+    "B": {
+      "observations": 68,
+      "rejected": 1,
+      "coverage": {
+        "missing_hours": [
+          "2026-10-19T07:00:00.000000Z",
+          "2026-10-20T01:00:00.000000Z",
+          "2026-10-20T02:00:00.000000Z",
+          "2026-10-21T15:00:00.000000Z"
+        ],
+        "expected_hours": 72,
+        "unusable_hours": [
+          "2026-10-19T11:00:00.000000Z",
+          "2026-10-20T06:00:00.000000Z"
+        ],
+        "hours_with_packets": 68,
+        "hours_with_usable_values": 66
+      }
+    }
+  },
+  "migrations": [
+    {
+      "version": "0001",
+      "sha256": "f83e16be7d676cd1552266f2648444edbe12c01aac6b6ac94d4c6d32161c9b42"
+    },
+    {
+      "version": "0002",
+      "sha256": "c1547f70b3bf29ea5a54171ff547177713bbd0f4d9bac8e33d47d1c940fd992f"
+    }
+  ],
+  "function": {
+    "slug": "temperature",
+    "status": "ACTIVE",
+    "version": 3,
+    "verify_jwt": false
+  },
+  "gateway_privileges": {
+    "can_read_observation": false
+  },
+  "status": {
+    "code": "ok",
+    "plots": [
+      {
+        "stale": true,
+        "plot_id": "00000000-0000-4000-8000-000000000001",
+        "plot_code": "plot-a",
+        "age_seconds": 16434.264314,
+        "is_synthetic": true,
+        "last_ingested_at": "2026-10-22T03:31:24.985642Z",
+        "rejected_last_24h": 1,
+        "observations_last_24h": 68,
+        "latest_usable_observed_at": "2026-10-21T23:00:00.000000Z"
+      },
+      {
+        "stale": true,
+        "plot_id": "00000000-0000-4000-8000-000000000002",
+        "plot_code": "plot-b",
+        "age_seconds": 16434.264314,
+        "is_synthetic": true,
+        "last_ingested_at": "2026-10-22T03:32:30.877191Z",
+        "rejected_last_24h": 1,
+        "observations_last_24h": 68,
+        "latest_usable_observed_at": "2026-10-21T23:00:00.000000Z"
+      }
+    ],
+    "checked_at": "2026-10-22T03:33:54.264314Z",
+    "request_id": "77070175-5877-4c12-bf90-fe692d4435f1",
+    "stale_after_seconds": 7200
+  },
+  "duplicate_observation_id": "4eba4a5c-de86-4816-9fea-107a3af20c39",
+  "local_validation_reference": "review.md"
+}

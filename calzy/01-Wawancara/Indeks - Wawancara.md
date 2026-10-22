@@ -23,3 +23,5 @@ Navigasi utama: [[Peta Catatan - Challenge Final]] · [[Challenge Final]]. Warna
 - [[Interview - Pak Unin (Rumput Laut dan Akses Pembeli)]]
 
 - [[Diskusi - Mas Ricky (Mentoring IoT dan Pengukuran Kondisi Laut)]]
+
+- [[Diskusi - Professor Roleda (Ice-Ice, Threshold, dan Validasi Lapangan)]] — masukan ahli tentang threshold bersyarat, sensor dan observasi biologis; tanggal meeting belum disebutkan.

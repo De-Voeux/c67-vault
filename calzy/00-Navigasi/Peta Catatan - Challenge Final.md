@@ -1,7 +1,7 @@
 ---
 type: moc
 project: "[[Challenge Final]]"
-updated: 2026-10-14
+updated: 2026-10-21
 tags: [challenge-final, navigation]
 ---
 
@@ -26,6 +26,8 @@ Setiap catatan terhubung melalui indeks kategori dan tautan topik yang sudah ada
 | 08-Sumber dan Arsip | [[Indeks - Sumber dan Arsip]] | #A3A34B |
 
 ## Jalur membaca
+
+- Progres terbaru: [[Konteks Progres Seagis - 21 Oktober 2026]] → [[Seagis_Master_Research_Context_2026-10-21]] → [[Provenance Import Konteks Seagis 2026-10-21]].
 
 - Kasus lokal: [[Rumput Laut Kepulauan Seribu]] → [[Interview - Fauzi (Penyuluh Rumput Laut Pulau Tidung)]] → [[Air Busuk Pulau Tidung - Hipotesis dan Langkah Identifikasi]].
 - Sains: [[Empat Variabel Lingkungan dan Batas Kuantifikasi Ice-Ice]] → [[Sintesis Penyebab Ice-Ice]] → [[Matriks Bukti Ice-Ice]].
