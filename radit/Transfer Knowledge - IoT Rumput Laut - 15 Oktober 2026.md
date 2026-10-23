@@ -209,6 +209,8 @@ Salinitas dapat diturunkan dari konduktivitas listrik (EC) dengan kompensasi suh
 
 Probe DS18B20 waterproof lokal tercantum sekitar **Rp21.000** di [Jogjarobotika](https://jogjarobotika.com/produk/250/sensor-suhu-water-proof-ds18b20/). Itu harga chip/probe generik, bukan bukti bahwa seal dan selubungnya tahan air asin. Gunakan hanya setelah materi probe dan kemasan pada unit aktual diperiksa serta diuji. Pull-up data ke 3,3 V diperlukan untuk ESP32.
 
+**Status keranjang, menurut Radit 20 Oktober 2026:** sensor konduktivitas Depoinovasi pada listing Shopee (harga yang disebut Radit Rp220.000) dan probe DS18B20 waterproof kabel 3 m (foto listing sekitar Rp35–37 ribu) sudah dimasukkan ke keranjang, **belum dikonfirmasi dibeli**. Kedua listing adalah kandidat, bukan bukti uji di air asin. Probe DS18B20 tiga kabel dapat dibaca langsung oleh ESP32 pada 3,3 V, GND, dan satu GPIO, dengan resistor 4,7 kΩ dari data ke 3,3 V; tidak perlu board pembaca tersendiri. Untuk sensor konduktivitas, catu/output harus dipastikan pada unit aktual sebelum menyambung ke ADS1115/ESP32; listing Shopee menyebut catu 3,3/5 V dan belum terkalibrasi, sementara halaman Depoinovasi menyebut 5 V dan keluaran 0–5 V.
+
 Referensi alternatif yang lebih terdokumentasi seperti Atlas EC-KIT berharga jauh di atas porsi wajar dari cap proyek. DFRobot DFR0300-H punya rentang EC yang relevan tetapi produsennya memperingatkan agar elektrodanya tidak direndam lama, sehingga belum dipilih untuk sesi 5 jam. [Panduan produsen](https://wiki.dfrobot.com/dfr0300-h/docs/20395).
 
 ### Anggaran dan batas keputusan
