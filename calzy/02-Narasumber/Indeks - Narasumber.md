@@ -20,3 +20,5 @@ Navigasi utama: [[Peta Catatan - Challenge Final]] · [[Challenge Final]]. Warna
 - [[Pak Madnung]]
 
 - [[Mas Ricky]]
+
+- [[Michael Y. Roleda]] — Professor Roleda / MiRo dalam ringkasan diskusi.

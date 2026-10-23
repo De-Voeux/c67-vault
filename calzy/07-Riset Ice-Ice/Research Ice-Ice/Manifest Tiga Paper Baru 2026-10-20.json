@@ -1,0 +1,61 @@
+{
+  "created": "2026-10-20",
+  "note": "Tiga Paper Baru - Implikasi Pengukuran IoT 2026-10-20",
+  "initial_manifest_unchanged": true,
+  "papers": [
+    {
+      "paper_id": "P22",
+      "authors_short": "Tabonda-Nabor et al.",
+      "year": 2026,
+      "doi": "10.1111/jpy.70148",
+      "file": "P22 (Tabonda-Nabor et al., 2026).pdf",
+      "path": "/Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P22 (Tabonda-Nabor et al., 2026).pdf",
+      "source_path": "/Users/cindyram/Downloads/2026_Tabonda‐Nabor et al. 2026_Journal of Phycology.pdf",
+      "sha256": "1c7d5998cf49e5b48272477ba9a0153e840943d9b636a19ca9211466b60757e9",
+      "pages": 21,
+      "previous_record": null,
+      "read_scope": "abstract, Methods, Results, Discussion/Conclusion relevant to IoT; key numerical pages rendered and inspected",
+      "visually_checked_pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "paper_id": "P23",
+      "authors_short": "Aguilar et al.",
+      "year": 2026,
+      "doi": "10.1093/femsle/fnag080",
+      "file": "P23 (Aguilar et al., 2026).pdf",
+      "path": "/Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P23 (Aguilar et al., 2026).pdf",
+      "source_path": "/Users/cindyram/Downloads/2026_Aguilar et al. 2026_FEMS Microbiology Letters.pdf",
+      "sha256": "446a24373d26166369ce61bed56342448d2b2b28ffc4de70ef67ee64af7cb3f1",
+      "pages": 15,
+      "previous_record": null,
+      "read_scope": "abstract, Methods, Results, Discussion/Conclusion relevant to IoT; key numerical pages rendered and inspected",
+      "visually_checked_pdf_pages": [
+        3,
+        11,
+        12
+      ]
+    },
+    {
+      "paper_id": "P24",
+      "authors_short": "Gacura et al.",
+      "year": 2025,
+      "doi": "10.1111/jpy.70044",
+      "file": "P24 (Gacura et al., 2025).pdf",
+      "path": "/Users/cindyram/Documents/Second Brain/02-Projects/Challenge Final/PDFs/P24 (Gacura et al., 2025).pdf",
+      "source_path": "/Users/cindyram/Downloads/2025_Gacura et al. 2025_Journal of Phycology.pdf",
+      "sha256": "0bf87430ed383baadee67d08f572d8237c8af3607570c36a61776d57f0c5db70",
+      "pages": 15,
+      "previous_record": "W04",
+      "read_scope": "abstract, Methods, Results, Discussion/Conclusion relevant to IoT; key numerical pages rendered and inspected",
+      "visually_checked_pdf_pages": [
+        4,
+        7,
+        9
+      ]
+    }
+  ]
+}

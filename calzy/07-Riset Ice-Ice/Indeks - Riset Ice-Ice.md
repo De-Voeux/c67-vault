@@ -11,6 +11,8 @@ Navigasi utama: [[Peta Catatan - Challenge Final]] · [[Challenge Final]]. Warna
 
 ## Catatan
 
+- [[Tiga Paper Baru - Implikasi Pengukuran IoT 2026-10-20]] — angka eksperimen cahaya/nutrisi/mikroba, keterbatasan cutoff IID dan rancangan pilot temperatur–salinitas untuk cottonii.
+
 - [[Kajian Indikator Warning Ice-Ice - Uji Asumsi Fitur]] — pembandingan indikator lingkungan, kondisi bibit, tanaman, dan biomarker; status threshold serta rancangan uji.
 - [[Literatur Tambahan - Indikator Warning]] — sumber primer tambahan dan cakupan pembacaan.
 - [[Jejak Penelusuran - Indikator Warning]] — query dan batas penelusuran terarah.

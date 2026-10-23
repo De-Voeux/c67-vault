@@ -1,0 +1,91 @@
+{
+  "id": "LEAD-SAL-NUTRIENTS-001",
+  "schema_version": "0.1.0",
+  "species": [
+    "Kappaphycus alvarezii"
+  ],
+  "parameter_tags": [
+    "salinity",
+    "nitrate",
+    "phosphate"
+  ],
+  "relationship_type": "combined_exposure",
+  "interaction_test": "not_isolated",
+  "finding": null,
+  "evidence_type": "team_interpretation",
+  "outcome": null,
+  "outcome_detail": null,
+  "direction": "not_reported",
+  "statistics": {
+    "significance": "not_reported",
+    "p_value": null,
+    "test_reported": null,
+    "uncertainty_reported": null
+  },
+  "experimental_setting": "not_reported",
+  "experimental_conditions": {
+    "species_reported": [
+      "Kappaphycus alvarezii"
+    ],
+    "strain": null,
+    "life_stage": "not_reported",
+    "location_reported": null,
+    "exposures": [],
+    "exposure_duration": null,
+    "acclimation": null,
+    "sample_size_reported": null,
+    "design_and_comparator": null,
+    "unknown_fields": [
+      "primary_source_context",
+      "units",
+      "exposure_duration",
+      "strain",
+      "design_and_comparator"
+    ]
+  },
+  "numerical_results": [],
+  "source_id": "SB-THREE-PAPERS",
+  "source_location": {
+    "locator_type": "section",
+    "value": "3. Gacura: salinitas rendah harus dibaca bersama nutrisi dan spesies",
+    "supporting_excerpt": null
+  },
+  "limitations": [
+    "Lead dari catatan sekunder untuk penelusuran P24/W04; belum ada klaim atau angka yang diekstrak dari sumber primer dalam repo ini.",
+    "Spesies adalah target penelusuran, bukan identifikasi strain farm Tidung.",
+    "Kondisi salinitas, sumber air dan nutrisi perlu dipisahkan; jangan menyebutnya interaksi terisolasi sebelum desain diperiksa."
+  ],
+  "limitation_tags": [
+    "secondary_source_only",
+    "interaction_not_isolated",
+    "strain_unresolved",
+    "no_predictive_validation"
+  ],
+  "applicability": "unassessed",
+  "ice_ice_inference": "Belum boleh menarik inferensi tentang kerentanan, onset atau probabilitas ice-ice.",
+  "related_entries": [],
+  "verification_status": "candidate",
+  "verification": {
+    "verified_by": null,
+    "verified_at": null,
+    "reviewer_type": null,
+    "checks": {
+      "source_checked": false,
+      "units_checked": false,
+      "species_checked": false,
+      "exposure_checked": false,
+      "outcome_checked": false,
+      "interpretation_checked": false
+    },
+    "review_notes": null
+  },
+  "review_history": [
+    {
+      "status": "candidate",
+      "actor": "codex-b0",
+      "actor_type": "ai",
+      "at": "2026-10-21T23:23:40+07:00",
+      "notes": "Mencatat lead penelusuran dari catatan sekunder; tidak mengekstrak atau menyetujui temuan ilmiah."
+    }
+  ]
+}

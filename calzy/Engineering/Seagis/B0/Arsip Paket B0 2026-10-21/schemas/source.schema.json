@@ -1,0 +1,188 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Z][A-Z0-9_-]+$"
+    },
+    "schema_version": {
+      "const": "0.1.0"
+    },
+    "source_kind": {
+      "$ref": "taxonomy.schema.json#/$defs/source_kind"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "minItems": 0
+    },
+    "year": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 1800,
+          "maximum": 2200
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "doi": {
+      "anyOf": [
+        {
+          "type": "string",
+          "pattern": "^10\\.\\d{4,9}/\\S+$"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "url": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "legacy_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "access_status": {
+      "$ref": "taxonomy.schema.json#/$defs/access_status"
+    },
+    "read_scope": {
+      "$ref": "taxonomy.schema.json#/$defs/read_scope"
+    },
+    "bibliography_checked": {
+      "type": "boolean"
+    },
+    "duplicate_of": {
+      "anyOf": [
+        {
+          "type": "string",
+          "pattern": "^[A-Z][A-Z0-9_-]+$"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "provenance": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "base_id": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]+$"
+          },
+          "relative_path": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "git_commit": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[a-f0-9]{40}$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "working_tree_modified": {
+            "type": "boolean"
+          },
+          "captured_at": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "required": [
+          "base_id",
+          "relative_path",
+          "sha256",
+          "git_commit",
+          "working_tree_modified",
+          "captured_at"
+        ]
+      },
+      "minItems": 0
+    },
+    "access_notes": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    }
+  },
+  "required": [
+    "id",
+    "schema_version",
+    "source_kind",
+    "title",
+    "authors",
+    "year",
+    "doi",
+    "url",
+    "legacy_ids",
+    "access_status",
+    "read_scope",
+    "bibliography_checked",
+    "duplicate_of",
+    "provenance",
+    "access_notes"
+  ],
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Seagis source 0.1.0",
+  "allOf": [
+    {
+      "anyOf": [
+        {
+          "properties": {
+            "url": {
+              "type": "string"
+            }
+          }
+        },
+        {
+          "properties": {
+            "provenance": {
+              "minItems": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
