@@ -1,7 +1,7 @@
 ---
 type: moc
 project: "[[Challenge Final]]"
-updated: 2026-10-22
+updated: 2026-10-27
 tags: [challenge-final, seagis, category/engineering]
 ---
 
@@ -15,6 +15,7 @@ Dokumen berikut adalah rencana kerja v0.1, bukan bukti bahwa komponen sudah dite
 
 - [[TRACK_A_DATA_ML_ENGINEERING]] — rencana fondasi data, ingestion lingkungan, kualitas data, dan forecasting suhu.
 - [[TRACK_B_SCIENTIFIC_KNOWLEDGE_VAULT]] — rencana evidence vault, verifikasi klaim ilmiah, retrieval, dan interpretasi on-device.
+- [[Status Track B - Fokus B0.5 dan Review Manual]] — prioritas interpretasi suhu FM dan bacaan untuk review manusia; B1 menunggu arahan.
 
 ## Seagis
 
