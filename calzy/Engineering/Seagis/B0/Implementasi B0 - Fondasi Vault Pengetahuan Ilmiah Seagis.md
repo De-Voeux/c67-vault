@@ -32,3 +32,7 @@ Validator dan 24 tes lulus di repo sumber ketika B0 ditutup. Hasil tersebut meme
 [[Arsip Paket B0 2026-10-21/README|README dan panduan validator]] · [Registry sumber](Arsip Paket B0 2026-10-21/vault/sources.jsonl) · [Registry entri](Arsip Paket B0 2026-10-21/vault/entries.jsonl) · [Contoh candidate](Arsip Paket B0 2026-10-21/examples/candidate_entry.json)
 
 [[Indeks - Engineering]] · [[Konteks Progres Seagis - 21 Oktober 2026]] · [[Challenge Final]]
+
+## Rencana Track B dan scope lanjutan
+
+[[TRACK_B_SCIENTIFIC_KNOWLEDGE_VAULT]] menyimpan rencana lengkap v0.1. [[Status Track B - Fokus B0.5 dan Review Manual]] mencatat prioritas B0.5, kebutuhan interpretasi suhu dan pemeriksaan literatur oleh pengguna sebelum melanjutkan tahap berikutnya.
