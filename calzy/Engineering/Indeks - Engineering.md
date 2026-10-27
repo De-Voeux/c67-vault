@@ -14,6 +14,7 @@ Simpan semua catatan engineering baru proyek di folder ini: arsitektur, implemen
 Dokumen berikut adalah rencana kerja v0.1, bukan bukti bahwa komponen sudah diterapkan atau tervalidasi.
 
 - [[TRACK_A_DATA_ML_ENGINEERING]] — rencana fondasi data, ingestion lingkungan, kualitas data, dan forecasting suhu.
+- [[Rencana Track A v0.2 - Pembaruan A0 sampai A3]] — gap baseline, urutan P0–P5, migrasi kompatibel dan 15 acceptance cases; implementasi pembaruan belum dimulai.
 - [[TRACK_B_SCIENTIFIC_KNOWLEDGE_VAULT]] — rencana evidence vault, verifikasi klaim ilmiah, retrieval, dan interpretasi on-device.
 - [[Status Track B - Fokus B0.5 dan Review Manual]] — prioritas interpretasi suhu FM dan bacaan untuk review manusia; B1 menunggu arahan.
 
