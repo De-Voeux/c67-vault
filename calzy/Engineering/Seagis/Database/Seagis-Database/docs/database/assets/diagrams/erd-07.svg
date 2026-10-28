@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="83" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 83" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="83"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-83)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="10" width="294.2198425196851" height="68" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="0" y="55" width="294.2198425196851" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="6" y="63" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,126) scale(1,-1)">seagis.parameter</text>
+			<text x="6" y="42" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,84) scale(1,-1)">parameter_code : text [PK]</text>
+			<text x="6" y="32" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,64) scale(1,-1)">unit : text</text>
+			<text x="6" y="22" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,44) scale(1,-1)">description : text</text>
+			<text x="312.2198425196851" y="53" style="font-family: Doc; font-size: 7.0px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,106) scale(1,-1)">No outgoing physical FK</text>
+		</g>
+	</g>
+</svg>

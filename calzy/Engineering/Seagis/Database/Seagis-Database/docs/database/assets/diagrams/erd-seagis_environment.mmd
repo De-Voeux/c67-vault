@@ -1,0 +1,111 @@
+erDiagram
+    seagis_dataset["seagis.dataset"] {
+        text dataset_key PK
+        text source_key FK
+        text provider_product_id
+        text provider_dataset_id
+        text dataset_version
+        text scope
+        integer native_cadence_seconds
+        seagis_finite_float resolution_lat_deg
+        seagis_finite_float resolution_lon_deg
+        text source_timezone
+        text licence_url
+        text attribution
+        boolean raw_storage_permitted
+        boolean real_ingestion_enabled
+        timestamp_with_time_zone metadata_checked_at
+    }
+    seagis_forecast_run["seagis.forecast_run"] {
+        uuid id PK
+        text dataset_key FK
+        text scope FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text run_key
+        text run_kind
+        text provider_run_id
+        timestamp_with_time_zone model_initialized_at
+        timestamp_with_time_zone issued_at
+        text issue_time_basis
+        timestamp_with_time_zone ingested_at
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_source_grid["seagis.source_grid"] {
+        uuid id PK
+        text dataset_key FK
+        text scope FK
+        text grid_key
+        text grid_version
+        text identity_basis
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        seagis_finite_float depth_m
+        boolean is_synthetic
+    }
+    seagis_environment_attempt["seagis_environment.attempt"] {
+        uuid id PK
+        text dataset_key FK
+        timestamp_with_time_zone started_at
+        timestamp_with_time_zone completed_at
+        text status
+        text error_code
+        uuid forecast_run_id FK
+    }
+    seagis_environment_demo_grid_mapping["seagis_environment.demo_grid_mapping"] {
+        uuid plot_id PK,FK
+        boolean plot_is_synthetic FK
+        uuid source_grid_id PK,FK
+        text dataset_key FK
+        boolean grid_is_synthetic FK
+        seagis_finite_float example_latitude
+        seagis_finite_float example_longitude
+        text coordinate_status
+        seagis_finite_float distance_m
+        text sampling_method
+        timestamp_with_time_zone created_at
+    }
+    seagis_environment_policy["seagis_environment.policy"] {
+        text dataset_key PK,FK
+        boolean enabled
+        text purpose
+        text licence_url
+        text terms_review
+        text attribution
+        integer update_seconds
+        integer release_offset_seconds
+        integer stale_seconds
+        text retention_mode
+        timestamp_with_time_zone reviewed_at
+    }
+    seagis_environment_schedule_state["seagis_environment.schedule_state"] {
+        text dataset_key PK,FK
+        uuid lease_id
+        timestamp_with_time_zone lease_until
+        timestamp_with_time_zone next_attempt_at
+        timestamp_with_time_zone last_success_at
+        timestamp_with_time_zone last_attempt_at
+        text last_error_code
+        integer failures
+        uuid last_forecast_run_id FK
+    }
+    seagis_dataset ||--o{ seagis_forecast_run : "FK4"
+    seagis_dataset ||--o{ seagis_source_grid : "FK21"
+    seagis_environment_policy ||--o{ seagis_environment_attempt : "FK30"
+    seagis_forecast_run |o--o{ seagis_environment_attempt : "FK31"
+    seagis_environment_policy ||--o{ seagis_environment_demo_grid_mapping : "FK32"
+    seagis_plot ||--o{ seagis_environment_demo_grid_mapping : "FK33"
+    seagis_source_grid ||--o{ seagis_environment_demo_grid_mapping : "FK34"
+    seagis_dataset ||--o| seagis_environment_policy : "FK35"
+    seagis_environment_policy ||--o| seagis_environment_schedule_state : "FK36"
+    seagis_forecast_run |o--o{ seagis_environment_schedule_state : "FK37"

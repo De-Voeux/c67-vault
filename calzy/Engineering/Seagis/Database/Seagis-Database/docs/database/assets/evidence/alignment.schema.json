@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seagis.local/contracts/alignment.schema.json",
+  "title": "A3 quality and hourly alignment snapshot",
+  "type": "object",
+  "required": ["schema_version", "builder_version", "policy_version", "policy_sha256", "code_sha256", "source_sha256", "plot_id", "mode", "use", "training_authorized", "source_registry", "sensor_deployments", "start_at", "end_at", "rows", "quality_report"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"const": "a3-alignment-1"},
+    "builder_version": {"type": "string", "minLength": 1},
+    "policy_version": {"type": "string", "minLength": 1},
+    "policy_sha256": {"$ref": "#/$defs/hash"},
+    "code_sha256": {"$ref": "#/$defs/hash"},
+    "source_sha256": {"$ref": "#/$defs/hash"},
+    "plot_id": {"type": "string", "format": "uuid"},
+    "mode": {"enum": ["demo_review", "operational_review"]},
+    "use": {"const": "quality_alignment_review"},
+    "training_authorized": {"const": false},
+    "source_registry": {"type": "array", "minItems": 1, "items": {"type": "object", "required": ["dataset_key", "parameter_code", "native_unit", "unit", "conversion_code", "native_cadence_seconds", "attribution", "licence_url"]}},
+    "sensor_deployments": {"type": "array", "items": {"type": "object"}},
+    "start_at": {"type": "string", "format": "date-time"},
+    "end_at": {"type": "string", "format": "date-time"},
+    "rows": {
+      "type": "array", "minItems": 1, "maxItems": 168,
+      "items": {
+        "type": "object", "required": ["at", "cells"], "additionalProperties": false,
+        "properties": {
+          "at": {"type": "string", "format": "date-time"},
+          "cells": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/cell"}}
+        }
+      }
+    },
+    "quality_report": {
+      "type": "object", "required": ["plot_id", "start_at", "end_at", "coverage_basis", "drift_assessment", "parameters"],
+      "properties": {
+        "plot_id": {"type": "string", "format": "uuid"},
+        "start_at": {"type": "string", "format": "date-time"},
+        "end_at": {"type": "string", "format": "date-time"},
+        "coverage_basis": {"type": "string"},
+        "drift_assessment": {"const": "not_assessable_without_calibrated_colocated_reference"},
+        "parameters": {"type": "array", "items": {
+          "type": "object", "required": ["dataset_key", "parameter_code", "expected_hourly_contexts", "usable_contexts", "unique_selected_source_records", "native_cadence_seconds", "coverage_fraction", "value_status_counts", "flag_counts", "input_qc_flag_counts_at_final_cutoff"],
+          "properties": {
+            "expected_hourly_contexts": {"type": "integer", "minimum": 1},
+            "usable_contexts": {"type": "integer", "minimum": 0},
+            "unique_selected_source_records": {"type": "integer", "minimum": 0},
+            "coverage_fraction": {"type": "number", "minimum": 0, "maximum": 1}
+          }
+        }}
+      }
+    }
+  },
+  "$defs": {
+    "hash": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "nullableTime": {"type": ["string", "null"], "format": "date-time"},
+    "cell": {
+      "type": "object",
+      "required": ["dataset_key", "parameter_code", "scope", "native_cadence_seconds", "source_id", "value", "value_status", "unit", "source_time", "available_at", "age_seconds", "vintage_age_seconds", "lineage", "spatial", "flags", "blocking_flags", "usable_context"],
+      "properties": {
+        "dataset_key": {"type": "string"},
+        "parameter_code": {"type": "string"},
+        "scope": {"enum": ["local_sensor", "regional_model"]},
+        "native_cadence_seconds": {"type": "integer", "minimum": 1},
+        "source_id": {"type": ["string", "null"], "pattern": "^(observation|forecast_value):[0-9a-f-]{36}$"},
+        "value": {"type": ["number", "null"]},
+        "native_value": {"type": ["number", "null"]},
+        "value_status": {"enum": ["present", "missing", "below_detection_limit", "not_available"]},
+        "unit": {"type": "string"},
+        "source_time": {"$ref": "#/$defs/nullableTime"},
+        "available_at": {"$ref": "#/$defs/nullableTime"},
+        "age_seconds": {"type": ["number", "null"], "minimum": 0},
+        "vintage_age_seconds": {"type": ["number", "null"], "minimum": 0},
+        "lineage": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^(observation|forecast_value):[0-9a-f-]{36}$"}},
+        "spatial": {"type": ["object", "null"]},
+        "flags": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+        "blocking_flags": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+        "usable_context": {"type": "boolean"}
+      }
+    }
+  }
+}

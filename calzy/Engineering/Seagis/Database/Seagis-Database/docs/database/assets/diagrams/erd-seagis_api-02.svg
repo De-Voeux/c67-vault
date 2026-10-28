@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="243" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 243" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="243"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-243)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="10" width="294.2198425196851" height="228" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="0" y="215" width="294.2198425196851" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="6" y="223" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,446) scale(1,-1)">seagis.observation</text>
+			<text x="6" y="202" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,404) scale(1,-1)">id : uuid [PK]</text>
+			<text x="6" y="192" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,384) scale(1,-1)">plot_id : uuid [FK]</text>
+			<text x="6" y="182" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,364) scale(1,-1)">sensor_id : uuid [FK]</text>
+			<text x="6" y="172" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,344) scale(1,-1)">dataset_key : text [FK]</text>
+			<text x="6" y="162" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,324) scale(1,-1)">ingestion_run_id : uuid [FK]</text>
+			<text x="6" y="152" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,304) scale(1,-1)">raw_payload_id : uuid [FK]</text>
+			<text x="6" y="142" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,284) scale(1,-1)">is_synthetic : boolean [FK]</text>
+			<text x="6" y="132" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,264) scale(1,-1)">source_record_key : text</text>
+			<text x="6" y="122" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,244) scale(1,-1)">parameter_code : text [FK]</text>
+			<text x="6" y="112" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,224) scale(1,-1)">native_value : finite_float</text>
+			<text x="6" y="102" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,204) scale(1,-1)">native_unit : text [FK]</text>
+			<text x="6" y="92" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,184) scale(1,-1)">value : finite_float</text>
+			<text x="6" y="82" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,164) scale(1,-1)">unit : text [FK]</text>
+			<text x="6" y="72" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,144) scale(1,-1)">conversion_code : text [FK]</text>
+			<text x="6" y="62" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,124) scale(1,-1)">value_status : text</text>
+			<text x="6" y="52" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,104) scale(1,-1)">detection_limit : finite_float</text>
+			<text x="6" y="42" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,84) scale(1,-1)">observed_at : timestamptz</text>
+			<text x="6" y="32" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,64) scale(1,-1)">ingested_at : timestamptz</text>
+			<text x="6" y="22" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,44) scale(1,-1)">quality_status : text</text>
+			<rect x="324.2198425196851" y="190" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="205" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,410) scale(1,-1)">seagis.dataset_parameter</text>
+			<text x="328.2198425196851" y="195" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">1 parent / 0..N child</text>
+			<path d="M 294.219843,203 L 324.219843,203 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 203, 319.2198 206, 319.2198 200" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<rect x="324.2198425196851" y="156" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="171" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,342) scale(1,-1)">seagis_raw.raw_payload</text>
+			<text x="328.2198425196851" y="161" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,322) scale(1,-1)">1 parent / 0..N child</text>
+			<path d="M 294.219843,169 L 324.219843,169 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 169, 319.2198 172, 319.2198 166" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<rect x="324.2198425196851" y="122" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="137" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,274) scale(1,-1)">seagis.sensor</text>
+			<text x="328.2198425196851" y="127" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,254) scale(1,-1)">1 parent / 0..N child</text>
+			<path d="M 294.219843,135 L 324.219843,135 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 135, 319.2198 138, 319.2198 132" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="109" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 109" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="109"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-109)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="46" width="294.2198425196851" height="58" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="0" y="81" width="294.2198425196851" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="6" y="89" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,178) scale(1,-1)">seagis_api.reader_plot</text>
+			<text x="6" y="68" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,136) scale(1,-1)">credential_id : uuid [PK,FK]</text>
+			<text x="6" y="58" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,116) scale(1,-1)">plot_id : uuid [PK,FK]</text>
+			<rect x="324.2198425196851" y="56" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="71" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,142) scale(1,-1)">seagis_api.credential</text>
+			<text x="328.2198425196851" y="61" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,122) scale(1,-1)">1 parent / 0..N child</text>
+			<path d="M 294.219843,69 L 324.219843,69 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 69, 319.2198 72, 319.2198 66" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<rect x="324.2198425196851" y="22" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="37" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,74) scale(1,-1)">seagis.plot</text>
+			<text x="328.2198425196851" y="27" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,54) scale(1,-1)">1 parent / 0..N child</text>
+			<path d="M 294.219843,35 L 324.219843,35 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 35, 319.2198 38, 319.2198 32" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

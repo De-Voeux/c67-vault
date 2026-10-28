@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-27",
+  "snapshot": "2026-10-22T10:42:58.974431+00:00",
+  "databases": 1,
+  "schemas": 6,
+  "tables": 28,
+  "views": 1,
+  "columns": 268,
+  "table_columns": 259,
+  "view_columns": 9,
+  "physical_relationships": 47,
+  "pipeline_paths": 4,
+  "contracts": 11,
+  "dependencies": 29,
+  "field_origins_verified": 268,
+  "field_origins_unverified": [],
+  "full_runtime_coverage": "UNVERIFIED"
+}

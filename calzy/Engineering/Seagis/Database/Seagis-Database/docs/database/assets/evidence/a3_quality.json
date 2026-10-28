@@ -1,0 +1,33 @@
+{
+  "version": "pilot-quality-2",
+  "schema_version": "a3-alignment-1",
+  "builder_version": "a3-alignment-1.0.1",
+  "max_hours": 168,
+  "history_hours": 72,
+  "sensor_stale_seconds": 7200,
+  "delayed_seconds": 7200,
+  "rapid_change_degc": 3,
+  "rapid_change_window_seconds": 7200,
+  "flatline_window_seconds": 43200,
+  "flatline_min_samples": 12,
+  "flatline_min_span_seconds": 39600,
+  "flatline_epsilon_degc": 0.01,
+  "grid_distance_warning_m": 10000,
+  "grid_resolution_warning_m": 1000,
+  "depth_difference_warning_m": 1,
+  "bounds": {
+    "water_temperature": [-5, 60],
+    "salinity": [0, 60],
+    "current_eastward": [-20, 20],
+    "current_northward": [-20, 20],
+    "nitrate": [0, null],
+    "phosphate": [0, null],
+    "precipitation": [0, null],
+    "wind_speed_10m": [0, null],
+    "wind_direction_10m": [0, 360],
+    "cloud_cover": [0, 100],
+    "uv_index": [0, null],
+    "air_temperature_2m": [-100, 70]
+  },
+  "interpretation": "Engineering QA envelopes for pilot review; not biological safe ranges, disease thresholds, or instrument calibration. Drift requires a co-located calibrated reference."
+}

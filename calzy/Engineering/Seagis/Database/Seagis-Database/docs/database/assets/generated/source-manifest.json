@@ -1,0 +1,1100 @@
+{
+  "date": "2026-10-27",
+  "commits": {
+    "Seagis-Model": "291b6c5fdc7c990660ea98b1dcf676f6c0b58148",
+    "Seagis": "109619ba0cb43035ce102e187158fbce9a7a42c1",
+    "AppPOC": "c68d72ae90457a9e8def40b57dfae9e86607aff8"
+  },
+  "files": [
+    {
+      "path": "Seagis-Model/README.md",
+      "sha256": "4db1d01136db09e662c2bb005264cd7ff657c5fc6b2a2851b2ef9ccb5010354a",
+      "lines": 71
+    },
+    {
+      "path": "Seagis-Model/config/a2_sources.json",
+      "sha256": "a53addfbf7a0b2733bdcedaabf6c85dad2c428d3afd05eeffbdf79af459393b2",
+      "lines": 15
+    },
+    {
+      "path": "Seagis-Model/config/a3_quality.json",
+      "sha256": "0f4e803b19b129edd3d49be6466bcaf0e22eafb293001290c5893e23614bae5e",
+      "lines": 33
+    },
+    {
+      "path": "Seagis-Model/contracts/alignment.schema.json",
+      "sha256": "7cf0f75151aaf3b1e73da9091ad225abaeee979aba5a1a4aa48d3bd5fff91f66",
+      "lines": 81
+    },
+    {
+      "path": "Seagis-Model/contracts/iot-packet.schema.json",
+      "sha256": "1a03ae7fad5b1d3a4f328b879cd68e432544ebeed819f77fa97437aa627581c4",
+      "lines": 19
+    },
+    {
+      "path": "Seagis-Model/contracts/normalized.schema.json",
+      "sha256": "e3d1605ce38afb2c77cee8ca3a669f3dfbb32ebce927155c65429b74d1b13309",
+      "lines": 918
+    },
+    {
+      "path": "Seagis-Model/contracts/source.schema.json",
+      "sha256": "818d451814b97aba7d40d75576d60e5c0a72aea4e110cee900cff795fc7aab08",
+      "lines": 527
+    },
+    {
+      "path": "Seagis-Model/docs/a0_review.md",
+      "sha256": "3de9ffcf90fe3abfece563347e5447dfb7bacb56dbc03c265c0d10120025966e",
+      "lines": 73
+    },
+    {
+      "path": "Seagis-Model/docs/a1/iot_handover.md",
+      "sha256": "7fbd035f3e1b843ca05b69958f7a442515c51e4df5ca33b36bb4c1a6f0914333",
+      "lines": 131
+    },
+    {
+      "path": "Seagis-Model/docs/a1/operations.md",
+      "sha256": "01d9de4516a22f3683b8065a5fd0b3a02941e027bba38e81307b87e821c0c36e",
+      "lines": 111
+    },
+    {
+      "path": "Seagis-Model/docs/a1/review.md",
+      "sha256": "b2d95bdf10bff99cf560b93d0a86c2227525f882412d04b1b031d7e3cbdf705c",
+      "lines": 53
+    },
+    {
+      "path": "Seagis-Model/docs/a1/validation_20261022.json",
+      "sha256": "1ad7b37395480199d2b6b2fa55cab7455862212901b8474c0e4bbc05577dae99",
+      "lines": 112
+    },
+    {
+      "path": "Seagis-Model/docs/a2/architecture.md",
+      "sha256": "530a0c4d72f8d9b05b53b0c09dee3d1c30064a6446a8dba7220fc9bd019f5655",
+      "lines": 74
+    },
+    {
+      "path": "Seagis-Model/docs/a2/ingestion_report_20261022.json",
+      "sha256": "894bb8e96fa756341075c760c2841db21ff3d95e098aa44540e7557a29c34ddd",
+      "lines": 432
+    },
+    {
+      "path": "Seagis-Model/docs/a2/licenses.md",
+      "sha256": "c1551d495c52a5054f7974d2d7397d1e9ea3f841619b77ed4d504b4570d1743a",
+      "lines": 27
+    },
+    {
+      "path": "Seagis-Model/docs/a2/operations.md",
+      "sha256": "d0a4e9894254025cc7514a9fe808dd25bd929c0053c389f8ea05ff4208c2acfa",
+      "lines": 69
+    },
+    {
+      "path": "Seagis-Model/docs/a2/review.md",
+      "sha256": "ea22ff34a20cbf1691ecfcbe1b3269aeeb46d5d4d6bb5f450b8f9571667442a2",
+      "lines": 52
+    },
+    {
+      "path": "Seagis-Model/docs/a2/source_evidence_20261022.json",
+      "sha256": "a80fd90bae4da2694c049feed7b34bde43ff0ace51d5ddbb66389536b797b0e5",
+      "lines": 55
+    },
+    {
+      "path": "Seagis-Model/docs/a3/architecture.md",
+      "sha256": "9e209b5b3840be8dbdeb0948f2faa9c1c479aaa22bcdec70e231c6c0c94dbb24",
+      "lines": 59
+    },
+    {
+      "path": "Seagis-Model/docs/a3/operations.md",
+      "sha256": "a5f17669b2400757e76bd6a3fd27caf29a6c6e6966a2bb3bb21d5fc5a7db676e",
+      "lines": 99
+    },
+    {
+      "path": "Seagis-Model/docs/a3/quality_report_20261022.json",
+      "sha256": "2e67a3b630917bda4d20fe4ef031d393d3ba61292ea90de15f4ce4a8a8500223",
+      "lines": 1002
+    },
+    {
+      "path": "Seagis-Model/docs/a3/review.md",
+      "sha256": "a0d533104fbfbedad18ab435a0a2702364fecd8392e3b7b9983410afbbd5eb33",
+      "lines": 63
+    },
+    {
+      "path": "Seagis-Model/docs/architecture.md",
+      "sha256": "b5a7ff5659e4aad20a726218f1333ae814b60963ae5ae272071621b7c9d7f95f",
+      "lines": 85
+    },
+    {
+      "path": "Seagis-Model/docs/data_contracts.md",
+      "sha256": "836f6ed8879a23efbd67c24fe199246d065c4aae9b73c662b9a8a47ce15a293d",
+      "lines": 103
+    },
+    {
+      "path": "Seagis-Model/docs/data_dictionary.md",
+      "sha256": "175a21dc9d633b89ad0a605c1747296cefa287a9da134b78cac1f0a2d0f4d8c0",
+      "lines": 115
+    },
+    {
+      "path": "Seagis-Model/docs/decisions/ADR-001-data-storage.md",
+      "sha256": "bc2fcffc9170b6034ae9707d56b4382fa54ea7a1dfda6a83acb273e4b55d49d3",
+      "lines": 50
+    },
+    {
+      "path": "Seagis-Model/docs/experiment_csv.md",
+      "sha256": "67c912601b6c228f0140eea4726cfed34481cf3e6eaa9fe850dc33f4ad8f4b7a",
+      "lines": 75
+    },
+    {
+      "path": "Seagis-Model/docs/metadata/source_catalogue_20261021.json",
+      "sha256": "8ef86e2ca4db05315efb5b4cececc23951c55fa63295ffa31460cef4b96f0eee",
+      "lines": 79
+    },
+    {
+      "path": "Seagis-Model/docs/source_registry.md",
+      "sha256": "6310bce3d80e1e7fdea1d2855fd9446febf133902a007af56304254c1a950569",
+      "lines": 54
+    },
+    {
+      "path": "Seagis-Model/fixtures/a1/hourly_synthetic.json",
+      "sha256": "8d833be53dbfe0c2fd5c590830821374f027a5090f8804d2085f686855add22c",
+      "lines": 1970
+    },
+    {
+      "path": "Seagis-Model/fixtures/a3/synthetic_bundle.json",
+      "sha256": "522bd51062e91a1419bf85f0b62e8b206e5e5208df17f3cf5bd81f9606c39d89",
+      "lines": 670
+    },
+    {
+      "path": "Seagis-Model/fixtures/normalized/copernicus_currents.json",
+      "sha256": "c5fb39ed7cccb2dbba94135d3dda19464bf8287b6e082d224f006ab0461c4913",
+      "lines": 79
+    },
+    {
+      "path": "Seagis-Model/fixtures/normalized/copernicus_nutrients.json",
+      "sha256": "a30d3dae6c700faa491662773bcda03efe08d0c93d8d136f68c84264f115fa85",
+      "lines": 79
+    },
+    {
+      "path": "Seagis-Model/fixtures/normalized/copernicus_salinity.json",
+      "sha256": "9c262f0b2922d3f100a8d35ad326b53fc850e688e2d0d9742c4aeb0aa4e4104a",
+      "lines": 60
+    },
+    {
+      "path": "Seagis-Model/fixtures/normalized/open_meteo.json",
+      "sha256": "8b4d8cdd2732ca0b88bcd6db6f920e12b4b6746187bb080aa135dbaadf4e94d3",
+      "lines": 155
+    },
+    {
+      "path": "Seagis-Model/fixtures/normalized/sensor.json",
+      "sha256": "7ab0f72245e724d6ad36c5c65abcbdd24775f7708b3846d4c31a4b3b3c224d8f",
+      "lines": 42
+    },
+    {
+      "path": "Seagis-Model/fixtures/source/copernicus_currents.json",
+      "sha256": "ee2a87156030ab83902eee430ac9ef0cbf9dc508cf2b48a5981a9780ceded27d",
+      "lines": 48
+    },
+    {
+      "path": "Seagis-Model/fixtures/source/copernicus_nutrients.json",
+      "sha256": "5f1424796bf98e90ce129f477d063cbd286a4302f7f53e79869157ba4e342675",
+      "lines": 48
+    },
+    {
+      "path": "Seagis-Model/fixtures/source/copernicus_salinity.json",
+      "sha256": "ba795d27a545d2830c2b05d2ffe3a8e9c4fd7c8d72874edc3493195f94436046",
+      "lines": 41
+    },
+    {
+      "path": "Seagis-Model/fixtures/source/open_meteo.json",
+      "sha256": "fe3c4e57479ee18e2e295b23a6d4240136f89f6a3dc011950056f4f5fa5ea2f2",
+      "lines": 62
+    },
+    {
+      "path": "Seagis-Model/fixtures/source/sensor.json",
+      "sha256": "8c18a6aff2a6b72f77bcce58e8d1a8a4a7cd1d378e2d2d70abea0150a3a9b844",
+      "lines": 20
+    },
+    {
+      "path": "Seagis-Model/pyproject.toml",
+      "sha256": "bc2c936d59d74591a7c3714c70201d9583e5723c7a386b0e33d11954b91b4c91",
+      "lines": 19
+    },
+    {
+      "path": "Seagis-Model/scripts/check_a0.py",
+      "sha256": "27a2ccc2ca016c93bf0436da5884f6ec32598847856fdcc36f5533a9499f728d",
+      "lines": 140
+    },
+    {
+      "path": "Seagis-Model/scripts/check_a1.py",
+      "sha256": "9223b11860bc099ef330c604d51fb6e53afdeec7651d110ab1dcba32ff27b792",
+      "lines": 10
+    },
+    {
+      "path": "Seagis-Model/scripts/check_a1_http.py",
+      "sha256": "19e104cc1cdcd406ef60b1c83a95ef5f9d68460c68dda5b7acc73772bcd773c2",
+      "lines": 161
+    },
+    {
+      "path": "Seagis-Model/scripts/check_a1_live.py",
+      "sha256": "6c5992eb844030de9dd96f255c273b46d1aed6bbb3e9fc43d13f0c8c066dbe6d",
+      "lines": 109
+    },
+    {
+      "path": "Seagis-Model/scripts/curate_environment.py",
+      "sha256": "a16b2cce80ef1bc84d514e616c06609a4ac6ecc3f1a3d40bad1ab5f137018c33",
+      "lines": 63
+    },
+    {
+      "path": "Seagis-Model/scripts/deploy_a1.py",
+      "sha256": "38bb8c515829ddfb81d2698d27d2a197a4ec49f5d82ef670ccd8327fe8f09c0f",
+      "lines": 130
+    },
+    {
+      "path": "Seagis-Model/scripts/deploy_a2.py",
+      "sha256": "70b9e672dc5ab270984998320c329fe7ba24b0f6700989e8033c8ac461bc0ab2",
+      "lines": 36
+    },
+    {
+      "path": "Seagis-Model/scripts/deploy_a3.py",
+      "sha256": "24bd90b43ea4ec355745f335a51520cc693ce249f9c8289e016a335eb876c9fe",
+      "lines": 56
+    },
+    {
+      "path": "Seagis-Model/scripts/environmental/__init__.py",
+      "sha256": "1f689d46a84d43a484eae691eb87eb1c5a18fcde06b197d7a02f80441e5126d1",
+      "lines": 1
+    },
+    {
+      "path": "Seagis-Model/scripts/environmental/common.py",
+      "sha256": "83237385df19e57171552ab6c42551fcd531d156500780f84e838a964e0adae8",
+      "lines": 158
+    },
+    {
+      "path": "Seagis-Model/scripts/environmental/copernicus.py",
+      "sha256": "a55dc9b11c14f9b094e72ffb832844b6cc4f530963270f0f6d98b23801e1ef04",
+      "lines": 133
+    },
+    {
+      "path": "Seagis-Model/scripts/environmental/open_meteo.py",
+      "sha256": "684ab244e25e6eafac81a2f910462fa326444bfdab26a49c06ed450085eae361",
+      "lines": 65
+    },
+    {
+      "path": "Seagis-Model/scripts/environmental/store.py",
+      "sha256": "6e81e722210f5d39f15595e0039f16185ef31d18521c8a206f5de5424ea76708",
+      "lines": 68
+    },
+    {
+      "path": "Seagis-Model/scripts/export_experiment_csv.py",
+      "sha256": "7a3eea3739e9aa8938a32b403599d911515b3d4fefe86fdb065ef12c7072c4fa",
+      "lines": 245
+    },
+    {
+      "path": "Seagis-Model/scripts/ingest_environment.py",
+      "sha256": "10a83e77f4f42ed58095385aedb95aa92e620dd458bc673341de074086952ebb",
+      "lines": 76
+    },
+    {
+      "path": "Seagis-Model/scripts/install_a2_scheduler.py",
+      "sha256": "1d3bfd452f5b1a6adf850b7d5169d698967d8691785bec1aa37006995ef36fb0",
+      "lines": 52
+    },
+    {
+      "path": "Seagis-Model/scripts/provision_a1.py",
+      "sha256": "224bc7a7ce5dcce83e290fd6261c8ddd6349a86d07e4041ac51d0741405503bc",
+      "lines": 111
+    },
+    {
+      "path": "Seagis-Model/scripts/quality/__init__.py",
+      "sha256": "c5b07be1b5223a81fc5ea6a9cf99f794c7a96360a552d23eb3c4300783592ebf",
+      "lines": 1
+    },
+    {
+      "path": "Seagis-Model/scripts/quality/alignment.py",
+      "sha256": "dde4eb5b79edfc3fff1e0ed62befdeea58b162541d9e53962f5dc0f508384ca6",
+      "lines": 387
+    },
+    {
+      "path": "Seagis-Model/scripts/quality/store.py",
+      "sha256": "204f411108496fe63d242a8fdc6c338f7e17f52def9cc909affef4e010115802",
+      "lines": 66
+    },
+    {
+      "path": "Seagis-Model/scripts/rotate_worker_credentials.py",
+      "sha256": "2a8f5cd0606861abb48ffa145bd4a4f2629f244272cfd931f1d1da31edd6aa73",
+      "lines": 105
+    },
+    {
+      "path": "Seagis-Model/scripts/run_a2_worker.py",
+      "sha256": "00fb29d0cb12ef882e729d965bbf788aefdb2f47a2597c5d446cd02c1016e3cb",
+      "lines": 31
+    },
+    {
+      "path": "Seagis-Model/scripts/simulate_temperature.py",
+      "sha256": "1c452139a18e64d91d4292e0d1370fb010988a58a310a2632c253d312240f4fe",
+      "lines": 216
+    },
+    {
+      "path": "Seagis-Model/scripts/supabase_admin.py",
+      "sha256": "ff4f5e9b5d2849a435fb3b8508b11c4e20b255840c4a89c67e10a04b382fa21d",
+      "lines": 81
+    },
+    {
+      "path": "Seagis-Model/scripts/validate_contracts.py",
+      "sha256": "bd0c9589beb03ae16c5c74141c739d73c980599eda46fb078578df07cfad2a0b",
+      "lines": 263
+    },
+    {
+      "path": "Seagis-Model/supabase/config.toml",
+      "sha256": "5e2f8fab3c2bcd9dd70e290b6a739257df5d8e2b5729084bb4314174fe9fcceb",
+      "lines": 420
+    },
+    {
+      "path": "Seagis-Model/supabase/functions/temperature/connection.ts",
+      "sha256": "9eb48afaba8117353276eabfdfc76a37b24c3d1eaac576049c233fc564b27f1a",
+      "lines": 27
+    },
+    {
+      "path": "Seagis-Model/supabase/functions/temperature/deno.json",
+      "sha256": "a16b21ff8a72b6d280187e532a40636be001322c6c86fda1df87485160b8feec",
+      "lines": 15
+    },
+    {
+      "path": "Seagis-Model/supabase/functions/temperature/handler.test.ts",
+      "sha256": "7f231639b4160931ce21e2f32bdf8f420ba83a6bb5ab1c219c46f865bf7067e7",
+      "lines": 88
+    },
+    {
+      "path": "Seagis-Model/supabase/functions/temperature/handler.ts",
+      "sha256": "e8391e427cab3979b1076a4aba695da63072a770923d6f7716ef6d4776d08bd7",
+      "lines": 113
+    },
+    {
+      "path": "Seagis-Model/supabase/functions/temperature/index.ts",
+      "sha256": "1e74cd3a0eadd83a8145b352603fd9ef3c116057c7663d7183327c5c09fa1b44",
+      "lines": 31
+    },
+    {
+      "path": "Seagis-Model/supabase/migrations/0001_initial_schema.sql",
+      "sha256": "f83e16be7d676cd1552266f2648444edbe12c01aac6b6ac94d4c6d32161c9b42",
+      "lines": 544
+    },
+    {
+      "path": "Seagis-Model/supabase/migrations/0002_temperature_api.sql",
+      "sha256": "c1547f70b3bf29ea5a54171ff547177713bbd0f4d9bac8e33d47d1c940fd992f",
+      "lines": 297
+    },
+    {
+      "path": "Seagis-Model/supabase/migrations/0003_environment_ingestion.sql",
+      "sha256": "d49a5897bca967b33e3ab79745bb4f1bb9e76babc318544bfc7c024c8993d1f5",
+      "lines": 261
+    },
+    {
+      "path": "Seagis-Model/supabase/migrations/0004_provider_update_status.sql",
+      "sha256": "bf92788ed13dd0ffd60a8f21b25f84627976f5e9b46e27f98b00f4062a4cbe0a",
+      "lines": 15
+    },
+    {
+      "path": "Seagis-Model/supabase/migrations/0005_quality_alignment.sql",
+      "sha256": "afc5d564ed54adf9cf353865f0859f414469016b02823707f3d872453608da65",
+      "lines": 249
+    },
+    {
+      "path": "Seagis-Model/supabase/seed.sql",
+      "sha256": "4809f15911388f46d0b94fcc09d413e341f7aadf4eb67fb88dadf6e6f0748f79",
+      "lines": 10
+    },
+    {
+      "path": "Seagis-Model/tests/bootstrap_roles.sql",
+      "sha256": "4fe6ea493501b15e67aa693fce29a08f24096f1c95d5f6f52af79e3943338f08",
+      "lines": 8
+    },
+    {
+      "path": "Seagis-Model/tests/test_a1.py",
+      "sha256": "49ffb98dbf091d5343be35d7f0ef532e27beccdef5af9b2a343bc30b1e8e758b",
+      "lines": 268
+    },
+    {
+      "path": "Seagis-Model/tests/test_a1_tools.py",
+      "sha256": "e9a79d56845040e695774e8205a2aa5ef9ea85bc3dd6448f07479ffc5e0a0bb9",
+      "lines": 85
+    },
+    {
+      "path": "Seagis-Model/tests/test_a3.py",
+      "sha256": "607f4ec2cf2bb737a93d4412294da99b49d5bfea04ff1ae886d677f23a2f1df1",
+      "lines": 418
+    },
+    {
+      "path": "Seagis-Model/tests/test_contracts.py",
+      "sha256": "af73d14cd7b5d49e91555b1040a9520d2ca2eb2ccc7def15f40e59ab31296ea9",
+      "lines": 108
+    },
+    {
+      "path": "Seagis-Model/tests/test_database.py",
+      "sha256": "19be7574738537be1358ed6b36ca1cf586be5affd9e9b846f92032e755d56e44",
+      "lines": 489
+    },
+    {
+      "path": "Seagis/AGENTS.md",
+      "sha256": "9aeaecda1a0926efa09176c2adbb543b06c4c7041d7fed671cb7a43177fee1e2",
+      "lines": 28
+    },
+    {
+      "path": "Seagis/README.md",
+      "sha256": "c40fef74d33539a20f283c742175e2f1fd4a747e4d909a9aa6cc152ef29682ba",
+      "lines": 124
+    },
+    {
+      "path": "Seagis/SPEC_REFERENCE.md",
+      "sha256": "dc29fa4fcf7879059b83c255fd604ab0a6d8eb7376deb2a0114ca544db329c8a",
+      "lines": 25
+    },
+    {
+      "path": "Seagis/Seagis/App/AppContainer.swift",
+      "sha256": "30f78023407d3e3f85dd4f1f3de7be9e8c0db823843ac2435f3134ebc0f85421",
+      "lines": 20
+    },
+    {
+      "path": "Seagis/Seagis/App/SeagisApp.swift",
+      "sha256": "d6f0f8373869116965c49bbf404a64a1138cc939fd2a6703cdf4ee71ab99797a",
+      "lines": 10
+    },
+    {
+      "path": "Seagis/Seagis/Models/FarmMap/FarmPlotDisplayStatus.swift",
+      "sha256": "30863de6a7400f137297a0668d175b3c5814f7db7720ad3699325b56ee07a43e",
+      "lines": 25
+    },
+    {
+      "path": "Seagis/Seagis/Models/PlotCapture/CaptureMapArea.swift",
+      "sha256": "c58772b18a16045b75b00f60e86a56a2f034e3da4ba0cb80d4b3c47b030f169f",
+      "lines": 20
+    },
+    {
+      "path": "Seagis/Seagis/Models/PlotDetail/ConditionDay.swift",
+      "sha256": "10924ce38ee6f243f009d260ca0e099bc7cdd05f12b07c02ffce73009f78fd9e",
+      "lines": 16
+    },
+    {
+      "path": "Seagis/Seagis/Models/PlotDetail/ConditionPoint.swift",
+      "sha256": "916c2b770f0bf4311257d690d03b3fe2091fa8e9e54f7b41428bae9ade438249",
+      "lines": 23
+    },
+    {
+      "path": "Seagis/Seagis/Models/PlotDetail/ParameterColorScale.swift",
+      "sha256": "182ab73e68f99e7b1af35d363bffd616a8b810401e54a4df75c43f45148ddcb8",
+      "lines": 64
+    },
+    {
+      "path": "Seagis/Seagis/Models/PlotDetail/PlotDetailStatus.swift",
+      "sha256": "1701f9fca3172013ffdc396ee32f5b55cc10db9c12a1c7e8976b0602bffbf50e",
+      "lines": 30
+    },
+    {
+      "path": "Seagis/Seagis/Models/PlotDetail/WaterParameter.swift",
+      "sha256": "1b1c583b79a385e9b1327ba5466dc0c1fb7eea2e2ae3d00e3f58d7f6a2256137",
+      "lines": 55
+    },
+    {
+      "path": "Seagis/Seagis/Models/PlotDetail/WaterParameterInfo.swift",
+      "sha256": "10782cf6ba9b090cc5e8acd5c0614f2b76813b650dd44462a1f49207e7b744f8",
+      "lines": 32
+    },
+    {
+      "path": "Seagis/Seagis/Models/Shared/Assessment.swift",
+      "sha256": "349be21ee4ddaf9dec672875837b2876893658b53c5343ac9a67dc4dda07a70e",
+      "lines": 25
+    },
+    {
+      "path": "Seagis/Seagis/Models/Shared/ConditionWindow.swift",
+      "sha256": "22019f46b70b9ef012f97407e7df3dba338baa6dcd4f79419a2ecba3e2478a54",
+      "lines": 37
+    },
+    {
+      "path": "Seagis/Seagis/Models/Shared/MetricSummaryItem.swift",
+      "sha256": "9705a185e0d121695da2018450df2f49662e68834a7c9d752b5968e5dee46d2d",
+      "lines": 56
+    },
+    {
+      "path": "Seagis/Seagis/Repositories/Shared/AssessmentRepository.swift",
+      "sha256": "37c4c063a83327523bb7d3ab186cddf6c780d8c651e498f8fe6165425e52df2f",
+      "lines": 17
+    },
+    {
+      "path": "Seagis/Seagis/Repositories/Shared/MockAssessmentRepository.swift",
+      "sha256": "41618019f73ba0774b04dd43fb2b1643f9b11e17ba7caaff41811907bee4effc",
+      "lines": 21
+    },
+    {
+      "path": "Seagis/Seagis/Services/Intelligence/InsightGenerator.swift",
+      "sha256": "5cde5f99c69be2fd73e14f8984928dbb930a732e308429542cb22d673bdafcdc",
+      "lines": 6
+    },
+    {
+      "path": "Seagis/Seagis/Services/Intelligence/TemplateInsightGenerator.swift",
+      "sha256": "945cfd6d3ef1e12ed8d3eef12d58e8a7157618a969d2c7485a0ad9eeae2eae17",
+      "lines": 13
+    },
+    {
+      "path": "Seagis/Seagis/UseCases/Bootstrap/LoadDemoAssessment.swift",
+      "sha256": "657ae092c4e13b79772fd05be04606b860cc3897574068535738ac3f6652b9f9",
+      "lines": 13
+    },
+    {
+      "path": "Seagis/Seagis/Utilities/PlotDetail/ConditionDayFormatter.swift",
+      "sha256": "7ad2a51263fee6b90eaf933a6ebf0457a776214011e47f93d76c57ab64e44f1f",
+      "lines": 26
+    },
+    {
+      "path": "Seagis/Seagis/Utilities/PlotDetail/DailyConditionSummaryFormatter.swift",
+      "sha256": "98775dad31d7afa55b4bb62b076b0ddcd5e11a167daeaad56fb15f254c37bd52",
+      "lines": 29
+    },
+    {
+      "path": "Seagis/Seagis/ViewModels/Bootstrap/BootstrapViewModel.swift",
+      "sha256": "bc8f0d8ee67ae582bddfefe68043892be053d75e8083226d19423f871998d142",
+      "lines": 33
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/BootstrapView.swift",
+      "sha256": "55d25cf1d0f7a6a8786a918c46ed9b989b11b649c19eee9425fbb757ba747b75",
+      "lines": 75
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/ComponentGalleryPreview.swift",
+      "sha256": "c3a459bc889713e0201bbe669012e5244f5c6c41a719a15419bd56e9ce566a07",
+      "lines": 92
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/FarmMap/FarmMapSheetHeader.swift",
+      "sha256": "4ed2fca1dbaaf83fcf9a41ff4e2c41fe5c72b38b487e54774a145f61a0c7ff7d",
+      "lines": 165
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/FarmMap/FarmerRow.swift",
+      "sha256": "4e21e4e2b7620a06a04132d07af57f3c55e523b1892c02dd995b667526cdbb92",
+      "lines": 95
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/FarmMap/PlotMapLabels.swift",
+      "sha256": "5c87d86f283db0fc7e590dbc69da2f0d346b2923d36b86c52ec09efc90c77fbb",
+      "lines": 102
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/FarmMap/PlotRow.swift",
+      "sha256": "6c1dec4c8355c3f7df0787275d46d54723b93115fc7d70c955b6b9d3ae47388d",
+      "lines": 60
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotCapture/ARSceneView.swift",
+      "sha256": "34785ca13eecd86ab33b063f8e4dcf6c2035409b4b09c0e898270dacf9532a8e",
+      "lines": 56
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotCapture/CaptureChrome.swift",
+      "sha256": "bb7a4f5b14b98aef0fdb7a02985255be9d494dae2cea391c5840d1c291a5e60f",
+      "lines": 223
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotCapture/CaptureControls.swift",
+      "sha256": "d7cb9b0d0c169567c1e21788cd04bea0da420f5e24a4e533c58e8a1a68c44761",
+      "lines": 141
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotCapture/CaptureMapView.swift",
+      "sha256": "de0facdb408e2cda3cbe8701783863accd8417558486de75780324cdfa304d54",
+      "lines": 364
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotCapture/CaptureStepsOverlay.swift",
+      "sha256": "e643bea1cbd3373a5a22cac83cf7b93846f4a1332a001c0007093d643824fb84",
+      "lines": 80
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotCapture/HatchedOutline.swift",
+      "sha256": "4fdacc0fd4b5ff87139787b8020605536ea141107e294923bca595a71ac67bc0",
+      "lines": 61
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotCapture/OutlinePreview.swift",
+      "sha256": "98724e172d88169bcf13fb11453d5cdbea88c1a67f8ed2e64faee8da72184195",
+      "lines": 110
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/ConditionWidget.swift",
+      "sha256": "732c4cb26477995528a12f41f4728ffa77d18a7ab3206abc2e28c561d8bfe31d",
+      "lines": 91
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/CurrentWidget.swift",
+      "sha256": "48d87c6ff150c26d8e27bafad217c6114a1d616fe9bfac6d035c1450bd7c4122",
+      "lines": 85
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/GaugeWidget.swift",
+      "sha256": "7655e21e12000acbc45586fd5e7a349c4f132be1fe51663e743be0e14ec5e302",
+      "lines": 48
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/HourlyConditionChart.swift",
+      "sha256": "c0ebef731591ac7c84c634950e0ca0352ce52a1454b2cecbb8d45f3fa49b1cf0",
+      "lines": 96
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/ParameterDayCarousel.swift",
+      "sha256": "525e536ecda2a4dfddc2d7940a27bef59f18f6f798b97dad78ad35a507ab5c21",
+      "lines": 73
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/PlotDetailPreviewData.swift",
+      "sha256": "d2d0b94eee2d321b75d4f0ebc338032172a423e54bce95272f1783920e4b441e",
+      "lines": 29
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/PlotOutlineShape.swift",
+      "sha256": "d9f42846399d4c218fa4efabf55943c4bd5e46e31ff520dcf910d9daaa3b9f52",
+      "lines": 30
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/PlotStatusCard.swift",
+      "sha256": "4b9e3437150e8013e5154079f647c97e24d3d6344f3fe6b60cb259f2fc51b4ff",
+      "lines": 88
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/PlotDetail/TemperatureWidget.swift",
+      "sha256": "401025ba3aa721025753419da186b8fcbda7ee3bcd23e91c45d12e4a218b6935",
+      "lines": 95
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/Shared/AdaptiveGlassModifier.swift",
+      "sha256": "070be23bb434650845804f3227749464f01283aec5e22c9083f68b2d9b0122c2",
+      "lines": 43
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/Shared/CircleIconButton.swift",
+      "sha256": "9f8458edcff549fd16c0df7d9fccdca5f28990e7de4fe71cb2a252cd2069d276",
+      "lines": 125
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/Shared/StatusBadge.swift",
+      "sha256": "0f7de149618bfe6c82e7ed946f70de7a8d09c18269da97307f917d8cb60a9348",
+      "lines": 115
+    },
+    {
+      "path": "Seagis/Seagis/Views/Components/Shared/StatusBanner.swift",
+      "sha256": "7eab25a99e8c8c006c060ebd8e6ac33ea262cc6ae67f1e5bc135691dff7360f1",
+      "lines": 93
+    },
+    {
+      "path": "Seagis/SeagisTests/Services/Intelligence/TemplateInsightGeneratorTests.swift",
+      "sha256": "1a23b61f6a886ec61810f3e60725321fec4b4f29dba2ed93355f4bd839488e99",
+      "lines": 15
+    },
+    {
+      "path": "Seagis/SeagisTests/UseCases/Bootstrap/LoadDemoAssessmentTests.swift",
+      "sha256": "f12da530e126fbd6e0eabcb87b1706b5de3b9bd1b26f252d769f680ef5259ae2",
+      "lines": 17
+    },
+    {
+      "path": "Seagis/SeagisTests/ViewModels/Bootstrap/BootstrapViewModelTests.swift",
+      "sha256": "29c0ee996c8aba71f50e15936b01affa343ed2c4abc989851b7c1dee389c4368",
+      "lines": 47
+    },
+    {
+      "path": "Seagis/docs/architecture.md",
+      "sha256": "9a3a73e6763f42c40d2609e8ff35f9e1680894340a9fc560ab5855662bd1b1a2",
+      "lines": 67
+    },
+    {
+      "path": "Seagis/docs/decisions/ADR-001-engine-placement.md",
+      "sha256": "0292e6f7fbc53ea13e987c619e862f4a58d3429a4bdf4c4ba27621d3480b7b0f",
+      "lines": 27
+    },
+    {
+      "path": "Seagis/docs/development-workflow.md",
+      "sha256": "b6202666a9d68357b8d07f8aef9762410319be76d3eecb1d8fe8addbd28e4e73",
+      "lines": 27
+    },
+    {
+      "path": "Seagis/docs/integration-boundaries.md",
+      "sha256": "a214c3e3b6432fcbc27afed03009e95d854cbf3b03dee4c013f8dddab5242a61",
+      "lines": 29
+    },
+    {
+      "path": "Seagis/docs/ios2-scaffold.md",
+      "sha256": "377a42d94241f06d4b5adb8588c746a6992c4cdc1e6024026c28941c4c47e34b",
+      "lines": 85
+    },
+    {
+      "path": "Seagis/docs/ios3-reusable-components.md",
+      "sha256": "c866cb9afc1d1c7a30501c015a90f4410a4f6e2f5262cbf0f48c63d0384dbab4",
+      "lines": 1347
+    },
+    {
+      "path": "Seagis/docs/iot-dataml-architecture-mapping.md",
+      "sha256": "200129d604a399f5da6e0f15928c2bc5f7583484b48f2adcb0e992c24d0ab088",
+      "lines": 149
+    },
+    {
+      "path": "Seagis/docs/open-decisions.md",
+      "sha256": "3a1c1673c8337da046d48935f57b97c0347c7fc01501eab9b02b1cf85196fcd1",
+      "lines": 17
+    },
+    {
+      "path": "AppPOC/AGENTS.md",
+      "sha256": "39ac4b865dfefe8101538df5c7703e9dc039e7da7ca2c0b7ca873ec0470c8919",
+      "lines": 9
+    },
+    {
+      "path": "AppPOC/Documentation/MODEL_CARD.md",
+      "sha256": "86ce30190d9d267bb6757d57e857f6120411178ab0ef96ca063a40427aa07e5d",
+      "lines": 29
+    },
+    {
+      "path": "AppPOC/Documentation/SOURCE_REQUIREMENTS.md",
+      "sha256": "3c130872b1e857653e8ff47af3f9d82e571e7ad0e1655860f69d7d263d3896ed",
+      "lines": 150
+    },
+    {
+      "path": "AppPOC/Documentation/UI_REDESIGN.md",
+      "sha256": "52013450c9b0e04a263a452cfba15f8553272dc07a353356a57734c991342b4d",
+      "lines": 34
+    },
+    {
+      "path": "AppPOC/Documentation/VERIFICATION.md",
+      "sha256": "5237b4ff2b43b40fc98cf68647c485e79787d75dbc8e9c884f43e3c75494f494",
+      "lines": 25
+    },
+    {
+      "path": "AppPOC/POCApp/App/POCApp.swift",
+      "sha256": "8e14c4b8dde5c3b11de73ed22dddf1861cf2d69bd382e8dc9b51e065ad388ab2",
+      "lines": 9
+    },
+    {
+      "path": "AppPOC/POCApp/Features/FarmMap/ViewModels/FarmMapViewModel.swift",
+      "sha256": "e6eb210fc07dfec6f38df729129707343905498d8c30e23485eefc0636e11881",
+      "lines": 151
+    },
+    {
+      "path": "AppPOC/POCApp/Features/FarmMap/Views/FarmMapSheetHeader.swift",
+      "sha256": "296dc9226891ad521b2df0c18e8d1190d57782be1d800d442a91f5ee9a6c60be",
+      "lines": 53
+    },
+    {
+      "path": "AppPOC/POCApp/Features/FarmMap/Views/FarmMapView.swift",
+      "sha256": "06f85b64f137a63b64cd839fc39fead1b1f5824e1258cb9582f00cba08e9b134",
+      "lines": 127
+    },
+    {
+      "path": "AppPOC/POCApp/Features/FarmMap/Views/FarmerListView.swift",
+      "sha256": "ee5b06f9d4aa1d1e3ed1eab2aecd0925f5c01480abdf0f692a49e0e38e25e77d",
+      "lines": 22
+    },
+    {
+      "path": "AppPOC/POCApp/Features/FarmMap/Views/FarmerRow.swift",
+      "sha256": "2bb17c91bd9ee33de4929f1070a7d544415068fe75035d9c919598f044537285",
+      "lines": 29
+    },
+    {
+      "path": "AppPOC/POCApp/Features/FarmMap/Views/PlotListView.swift",
+      "sha256": "47f3db3934b6aded271d696420487ae58b58a081512e2fceee9a746f698ec578",
+      "lines": 47
+    },
+    {
+      "path": "AppPOC/POCApp/Features/FarmMap/Views/PlotMapLabels.swift",
+      "sha256": "9c00ca470f4921b0f440573f9f54b26b3b518f0654adca72db7f5b991aef7389",
+      "lines": 46
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Models/ARSite.swift",
+      "sha256": "c68a4dcff8c56b8094e70deb68ee43821040e8b8383caab967d97a74c340a57b",
+      "lines": 110
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Models/CaptureArea.swift",
+      "sha256": "f6709a92b1898e1fddb15e31c73224830af42342444bb95fe81f60c16b7514e0",
+      "lines": 44
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/ViewModels/ARCaptureViewModel.swift",
+      "sha256": "673b9744f7e416d9bea503f09caf54d848d49468a59d24a8000ec94ac301362b",
+      "lines": 445
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/ViewModels/CaptureNudge.swift",
+      "sha256": "b3987dab6afbc02080a2450f0297ec5c028f9c3cf2b6c35688b1a3d09f3f8625",
+      "lines": 20
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/ViewModels/GPSCaptureViewModel.swift",
+      "sha256": "885bef577472ce779e1e296f98659ce30b9be3d086d13d29bb8686608e47a2fa",
+      "lines": 122
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/ARCaptureView.swift",
+      "sha256": "3dd05c13eea600040c88d516c1224af4533fdf6bbff8b4ec003315f3ab19eaf9",
+      "lines": 71
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/ARSceneView.swift",
+      "sha256": "16c02fd37f704d0840992a1a34f3beb27b03c37a5a77d732f2558a45edf2c667",
+      "lines": 19
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/CaptureMapView.swift",
+      "sha256": "c60881ad2bd06fbd2e603a07bfdc1e783d5a13baf86e74a02a88b38d2b190ecb",
+      "lines": 201
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/Components/CaptureChrome.swift",
+      "sha256": "5d311360e4bcbd2d5750b02d513fe5e9c3129398c3e9fb705f7a4f6f80cccb77",
+      "lines": 56
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/Components/CaptureStepsOverlay.swift",
+      "sha256": "ed7dfe27275a27e141a7783eb8cf4130922c673f1de10a78e7dbda9000528438",
+      "lines": 45
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/Components/GlassControls.swift",
+      "sha256": "59cb3693cf0192152574e8baba54d830909890dfb3a5cf44ea04499c8c483af7",
+      "lines": 82
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/GPSCaptureView.swift",
+      "sha256": "94cc2cff9e9c98e7ef305be4002e2260e97fe9fa784c38e7d3e4cfb07f089da8",
+      "lines": 125
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/PlotCaptureFlow.swift",
+      "sha256": "2e36716eba568cb10ce43f290824045c4da81731835581c1c030cb124c91aa91",
+      "lines": 49
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotCapture/Views/SavePlotSheet.swift",
+      "sha256": "f3c02cba58ab38c054d254de7bdd2a10d972a1941489cebe5f3511f168eecdbc",
+      "lines": 191
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Models/DailySummary.swift",
+      "sha256": "893581a30491604589955e6902042ff015b465c235cdb73c984ffd9f87af441b",
+      "lines": 44
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Models/ParameterColorScale.swift",
+      "sha256": "8ef76246dead359265e5c94ce1105a757c271c8183b4632ae785c1baed4e1848",
+      "lines": 60
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Models/PlotConditions.swift",
+      "sha256": "680e31bb9aab5efad8d867b0e02255adad2247979b225837377fa6b34d26df1f",
+      "lines": 53
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Models/PlotStatus.swift",
+      "sha256": "8f70f34713993f4392eb319f854bbe7817c6872ead25547bf4e6f5f1d06174ec",
+      "lines": 40
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Models/WaterParameter.swift",
+      "sha256": "78a6dca94962d9e271c77fc2ddf3ef6692eb9987e796b46e8bd43a4207735564",
+      "lines": 61
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Models/WaterParameterInfo.swift",
+      "sha256": "3b4582d97e9394fc28c73491127d5cbbb8eea446e03b8aa7c2ce145e4a452e5b",
+      "lines": 34
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Services/WaterConditionProvider.swift",
+      "sha256": "e4db4bc86a9737e1ae041b1e8a89eb0f5b02d91d7ae7e3602cdf3028d4beb125",
+      "lines": 52
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/ViewModels/PlotDetailViewModel.swift",
+      "sha256": "cd36ed23c519d7e076cc32e77061febcd37396a624928dc38373cff1ebdc7ba1",
+      "lines": 41
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/ConditionDayFormat.swift",
+      "sha256": "2557c452929fb3da14a8b4a044b526245b3af87bbc1ab81b11cb69456c176ef5",
+      "lines": 31
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/Detail/HourlyConditionChart.swift",
+      "sha256": "4258f8d2bc53cf3fb7b9cc2b2ba4f7df73390f8ea920e16a9822cd91afb0a3d3",
+      "lines": 115
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/Detail/ParameterDayCarousel.swift",
+      "sha256": "ff39a72b4e7b4a287c311f243836cbac1a0be3742eb860da13e753f6b0cdfd51",
+      "lines": 59
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/Detail/ParameterDetailView.swift",
+      "sha256": "b3cbd2b5bd967678b6c863a89d9275d7553ddc80f864e93fd0cedd944e5e3fc2",
+      "lines": 126
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/Detail/PlotOutlineShape.swift",
+      "sha256": "e59eb2b7041c030193659355a9f8f65604b54fec564ff6097cd85296fb8a4dbe",
+      "lines": 19
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/PlotDetailView.swift",
+      "sha256": "8d076b7b181e40108086fe24a57d9ff04cb84dce3fdba2d07b167600065980c7",
+      "lines": 57
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/StatusCard.swift",
+      "sha256": "4a6fe7b331dcb0accd4ccd1cb784e47ae1243a78e45a0b7a62d0a6409d845b52",
+      "lines": 83
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/Widgets/ConditionWidget.swift",
+      "sha256": "7b8865207bb5d336feb7dd3ac4b93e596723863833d563647aeb01a79ebeae88",
+      "lines": 76
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/Widgets/CurrentWidget.swift",
+      "sha256": "3334408a2ecc5d412aaf2cb6f297fc0f940c3e58428f5f5b0b38c87e582c65c9",
+      "lines": 74
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/Widgets/GaugeWidget.swift",
+      "sha256": "498490bb259c057497df3f47bd7a108447b14111efef2a932f71c8e340d9cf7d",
+      "lines": 30
+    },
+    {
+      "path": "AppPOC/POCApp/Features/PlotDetail/Views/Widgets/TemperatureWidget.swift",
+      "sha256": "59c03a89512341b8f2fd2c7c9852a7943fcce45de6c142c5d674d9cfd126633d",
+      "lines": 100
+    },
+    {
+      "path": "AppPOC/POCApp/Shared/Data/FarmStore.swift",
+      "sha256": "35e892e5fa3bc5c8e7a6bcc6b50d03e2fa02712366099d48b0416597b1d3b78f",
+      "lines": 56
+    },
+    {
+      "path": "AppPOC/POCApp/Shared/DesignSystem/CircleButton.swift",
+      "sha256": "b5032491bff7586d8b555e4e3e1a741592e357304a699b650026cc6b7bff13b2",
+      "lines": 25
+    },
+    {
+      "path": "AppPOC/POCApp/Shared/DesignSystem/Glass.swift",
+      "sha256": "e53326f3fdd43b3043bedfe64dde78791469d0060e8407b99f022646fb4e43d9",
+      "lines": 13
+    },
+    {
+      "path": "AppPOC/POCApp/Shared/DesignSystem/Marine.swift",
+      "sha256": "09771fbfbbb29f7c24fb72c2f85c496d43ea3523c6729c3cefbeee8b6f171061",
+      "lines": 17
+    },
+    {
+      "path": "AppPOC/POCApp/Shared/Geo/Geo.swift",
+      "sha256": "5a98921b657536f8ad0e25f24e9deda3655415d0fcba80dc185538145f364928",
+      "lines": 102
+    },
+    {
+      "path": "AppPOC/POCApp/Shared/Location/LocationManager.swift",
+      "sha256": "e907be2920f002826f63db9988e95b67521888a9f75e304c088137226fe116b1",
+      "lines": 77
+    },
+    {
+      "path": "AppPOC/POCApp/Shared/Models/CultivationPlot.swift",
+      "sha256": "beb25cbb8ab28def3e2529dcae63974825b4767a31a51633358f3723cde23df6",
+      "lines": 134
+    },
+    {
+      "path": "AppPOC/POCApp/Shared/Models/Farmer.swift",
+      "sha256": "4497a6d1e7caf1af6344e1700d4b52b6dfe05a16432b038054509b1fad589a5d",
+      "lines": 27
+    },
+    {
+      "path": "AppPOC/Packages/TidungCore/Package.swift",
+      "sha256": "44dfbfd9d7b80fb3c3995154378836659ea002a57425bb7006c2cb79405a484b",
+      "lines": 3
+    },
+    {
+      "path": "AppPOC/Packages/TidungCore/Sources/TidungCore/Models.swift",
+      "sha256": "163620afbf41029cc36b880fdde51076991c69adeeecf8899347bb0c7700f8a5",
+      "lines": 112
+    },
+    {
+      "path": "AppPOC/Packages/TidungCore/Sources/TidungCore/NASAPowerClient.swift",
+      "sha256": "166aaf4d7e9a79f0ce49b077b3c93961210c1bab2af08c4535737e19a8aaef48",
+      "lines": 85
+    },
+    {
+      "path": "AppPOC/Packages/TidungCore/Sources/TidungCore/SeriesAnalysis.swift",
+      "sha256": "577b6b80d785724744f6c26c4cec939e36363067613b464c8228a4cbbf779342",
+      "lines": 25
+    },
+    {
+      "path": "AppPOC/Packages/TidungCore/Sources/TidungCore/SolarModel.swift",
+      "sha256": "2b5c297043fd37d50c141b8edcafaf2a381596c6f452b80ccd87de824b15e41a",
+      "lines": 44
+    },
+    {
+      "path": "AppPOC/Packages/TidungCore/Tests/TidungCoreTests/TidungCoreTests.swift",
+      "sha256": "7cd85a87fd93510f3e9e8dc73547a762313fe40eed8e7e12411dc478bddfc72d",
+      "lines": 92
+    },
+    {
+      "path": "AppPOC/README.md",
+      "sha256": "7b87e44385e144ae3332357b22ceadb26f89295bcdccaca1444b5e1b4396afc8",
+      "lines": 114
+    },
+    {
+      "path": "AppPOC/TidungMonitor/App/Farms.swift",
+      "sha256": "41f88166cc3201e029873c9aa866c685231e70ae2aea25eb1dd4e5cf9b3d5c75",
+      "lines": 63
+    },
+    {
+      "path": "AppPOC/TidungMonitor/App/MonitorViewModel.swift",
+      "sha256": "8527556638d36d5ebc6d1710aa0df3192e24c212a76bec4fe6761fecb9d32341",
+      "lines": 58
+    },
+    {
+      "path": "AppPOC/TidungMonitor/App/TidungMonitorApp.swift",
+      "sha256": "21d94c9480a177df12654b298ae605a2a69ec8d483af263c052a2d6eb68a9aea",
+      "lines": 89
+    },
+    {
+      "path": "AppPOC/TidungMonitor/App/WaterConditions.swift",
+      "sha256": "6cf2c87e96e463862a1558fa813bb747332531a669257e6f5a5407a3f59f697f",
+      "lines": 114
+    },
+    {
+      "path": "AppPOC/TidungMonitor/Views/ConditionCards.swift",
+      "sha256": "0bd541537b7b04aa4023ee6da43eb87572060737fe0e266e7aa51e99450fe17b",
+      "lines": 250
+    },
+    {
+      "path": "AppPOC/TidungMonitor/Views/DataSourcesView.swift",
+      "sha256": "8673864e9e44548b37d752ca53b468164bc78ae12adae8688a90484392103942",
+      "lines": 35
+    },
+    {
+      "path": "AppPOC/TidungMonitor/Views/HistoryView.swift",
+      "sha256": "9ef084f459060ab27f7b8764e144dfbcc0e6e25047d63f7e9ac92f5a40f0aa2f",
+      "lines": 127
+    },
+    {
+      "path": "AppPOC/TidungMonitor/Views/ModelView.swift",
+      "sha256": "1ba7dcf9e3286a29b40f5cc82e0808587dcaa634ab06b3015f7ea24297f4abd2",
+      "lines": 32
+    },
+    {
+      "path": "AppPOC/TidungMonitor/Views/OverviewView.swift",
+      "sha256": "402c6ffb87943bed0d7775ab10b62cd9c062c44ed7de857a5dcc987cd8b79787",
+      "lines": 266
+    },
+    {
+      "path": "AppPOC/TidungMonitor/Views/PlotDetailView.swift",
+      "sha256": "5c9a4650ca71eccd92be843424225b448d5d6731757124d058d82ae309b982ac",
+      "lines": 76
+    },
+    {
+      "path": "AppPOC/UITests/TidungMonitorUITests.swift",
+      "sha256": "70b60d71083ec127a51ddff7482f006d12985c66efbbd5ff4e7487e1574c3f7e",
+      "lines": 73
+    }
+  ]
+}

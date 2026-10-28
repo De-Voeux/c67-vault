@@ -1,0 +1,15 @@
+{
+  "schema_version": "a2-1",
+  "purpose": "noncommercial_educational_prototype",
+  "mapping_kind": "demo_preview_only",
+  "plots": [
+    {"plot_id": "00000000-0000-4000-8000-000000000001", "latitude": -5.795, "longitude": 106.488, "coordinate_status": "example_not_surveyed"},
+    {"plot_id": "00000000-0000-4000-8000-000000000002", "latitude": -5.798, "longitude": 106.494, "coordinate_status": "example_not_surveyed"}
+  ],
+  "datasets": {
+    "cmems_salinity_6h": {"provider": "copernicus", "product": "GLOBAL_ANALYSISFORECAST_PHY_001_024", "dataset": "cmems_mod_glo_phy-so_anfc_0.083deg_PT6H-i", "version": "202406", "depth_m": 0.49402499198913574, "cadence_seconds": 21600, "variables": {"so": ["salinity", "1e-3", "1e-3", "identity", "instantaneous"]}},
+    "cmems_currents_6h": {"provider": "copernicus", "product": "GLOBAL_ANALYSISFORECAST_PHY_001_024", "dataset": "cmems_mod_glo_phy-cur_anfc_0.083deg_PT6H-i", "version": "202406", "depth_m": 0.49402499198913574, "cadence_seconds": 21600, "variables": {"uo": ["current_eastward", "m s-1", "m/s", "unit_notation", "instantaneous"], "vo": ["current_northward", "m s-1", "m/s", "unit_notation", "instantaneous"]}},
+    "cmems_nutrients_daily": {"provider": "copernicus", "product": "GLOBAL_ANALYSISFORECAST_BGC_001_028", "dataset": "cmems_mod_glo_bgc-nut_anfc_0.25deg_P1D-m", "version": "202311", "depth_m": 0.4940253794193268, "cadence_seconds": 86400, "variables": {"no3": ["nitrate", "mmol m-3", "mmol/m3", "unit_notation", "mean"], "po4": ["phosphate", "mmol m-3", "mmol/m3", "unit_notation", "mean"]}},
+    "open_meteo_gfs": {"provider": "open_meteo", "dataset": "gfs_global", "version": "runtime_metadata_required", "depth_m": 0, "cadence_seconds": 3600, "variables": {"precipitation": ["precipitation", "mm", "mm", "identity", "sum"], "wind_speed_10m": ["wind_speed_10m", "m/s", "m/s", "identity", "instantaneous"], "wind_direction_10m": ["wind_direction_10m", "°", "degree", "unit_notation", "instantaneous"], "cloud_cover": ["cloud_cover", "%", "percent", "unit_notation", "instantaneous"], "uv_index": ["uv_index", "", "1", "unit_notation", "instantaneous"], "temperature_2m": ["air_temperature_2m", "°C", "degC", "unit_notation", "instantaneous"]}}
+  }
+}

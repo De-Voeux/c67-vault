@@ -1,0 +1,86 @@
+erDiagram
+    seagis_forecast_value["seagis.forecast_value"] {
+        uuid id PK
+        uuid forecast_run_id FK
+        uuid source_grid_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone valid_at
+        timestamp_with_time_zone ingested_at
+        text temporal_support
+        text interval_status
+        timestamp_with_time_zone period_start_at
+        timestamp_with_time_zone period_end_at
+        text quality_status
+    }
+    seagis_observation["seagis.observation"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid sensor_id FK
+        text dataset_key FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text source_record_key
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone observed_at
+        timestamp_with_time_zone ingested_at
+        text quality_status
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_quality_alignment_snapshot["seagis_quality.alignment_snapshot"] {
+        uuid id PK
+        uuid plot_id FK
+        text mode
+        timestamp_with_time_zone start_at
+        timestamp_with_time_zone end_at
+        text policy_version FK
+        text source_sha256
+        text input_manifest_sha256
+        jsonb body
+        text body_sha256
+        timestamp_with_time_zone created_at
+    }
+    seagis_quality_policy["seagis_quality.policy"] {
+        text version PK
+        jsonb definition
+        text policy_sha256
+        text code_sha256
+        timestamp_with_time_zone registered_at
+    }
+    seagis_quality_snapshot_input["seagis_quality.snapshot_input"] {
+        uuid snapshot_id PK,FK
+        timestamp_with_time_zone aligned_at PK
+        text source_ref PK
+        uuid observation_id FK
+        uuid forecast_value_id FK
+    }
+    seagis_plot ||--o{ seagis_quality_alignment_snapshot : "FK42"
+    seagis_quality_policy ||--o{ seagis_quality_alignment_snapshot : "FK43"
+    seagis_forecast_value |o--o{ seagis_quality_snapshot_input : "FK44"
+    seagis_observation |o--o{ seagis_quality_snapshot_input : "FK45"
+    seagis_quality_alignment_snapshot ||--o{ seagis_quality_snapshot_input : "FK46"

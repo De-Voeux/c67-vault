@@ -1,0 +1,45 @@
+test_all_examples_validate (tests.test_contracts.ContractTests.test_all_examples_validate) ... ok
+test_copernicus_wrong_dataset_variable (tests.test_contracts.ContractTests.test_copernicus_wrong_dataset_variable) ... ok
+test_duplicate_normalized_record_rejected (tests.test_contracts.ContractTests.test_duplicate_normalized_record_rejected) ... ok
+test_fixture_timestamp_requires_explicit_utc (tests.test_contracts.ContractTests.test_fixture_timestamp_requires_explicit_utc) ... ok
+test_grid_depth_cannot_be_silently_changed (tests.test_contracts.ContractTests.test_grid_depth_cannot_be_silently_changed) ... ok
+test_missing_is_not_a_measured_zero (tests.test_contracts.ContractTests.test_missing_is_not_a_measured_zero) ... ok
+test_nonfinite_values_rejected (tests.test_contracts.ContractTests.test_nonfinite_values_rejected) ... ok
+test_open_meteo_array_alignment (tests.test_contracts.ContractTests.test_open_meteo_array_alignment) ... ok
+test_precipitation_interval_not_arbitrary (tests.test_contracts.ContractTests.test_precipitation_interval_not_arbitrary) ... ok
+test_raw_tampering_detected (tests.test_contracts.ContractTests.test_raw_tampering_detected) ... ok
+test_salinity_is_not_silently_relabelled_psu_or_ppt (tests.test_contracts.ContractTests.test_salinity_is_not_silently_relabelled_psu_or_ppt) ... ok
+test_synthetic_provenance_cannot_be_lost (tests.test_contracts.ContractTests.test_synthetic_provenance_cannot_be_lost) ... ok
+test_test_runner_refuses_cloud_or_existing_database_names (tests.test_contracts.ContractTests.test_test_runner_refuses_cloud_or_existing_database_names) ... ok
+test_unknown_issuance_cannot_be_response_duration_or_fetch_time (tests.test_contracts.ContractTests.test_unknown_issuance_cannot_be_response_duration_or_fetch_time) ... ok
+test_bad_unit_or_conflicting_reference_cannot_create_false_outlier (tests.test_a3.AlignmentTests.test_bad_unit_or_conflicting_reference_cannot_create_false_outlier) ... ok
+test_daily_context_reuses_one_source_without_hourly_observation_fabrication (tests.test_a3.AlignmentTests.test_daily_context_reuses_one_source_without_hourly_observation_fabrication) ... ok
+test_deterministic_with_input_order_changes (tests.test_a3.AlignmentTests.test_deterministic_with_input_order_changes) ... ok
+test_duplicate_reading_and_conflicting_duplicate (tests.test_a3.AlignmentTests.test_duplicate_reading_and_conflicting_duplicate) ... ok
+test_flatline_candidate_requires_twelve_distinct_hours (tests.test_a3.AlignmentTests.test_flatline_candidate_requires_twelve_distinct_hours) ... ok
+test_future_issued_or_future_ingested_vintage_never_enters_earlier_rows (tests.test_a3.AlignmentTests.test_future_issued_or_future_ingested_vintage_never_enters_earlier_rows) ... ok
+test_future_valid_time_is_not_current_environment (tests.test_a3.AlignmentTests.test_future_valid_time_is_not_current_environment) ... ok
+test_late_arrival_not_backfilled_into_earlier_hour (tests.test_a3.AlignmentTests.test_late_arrival_not_backfilled_into_earlier_hour) ... ok
+test_mapping_must_be_known_by_cutoff_and_depths_remain_explicit (tests.test_a3.AlignmentTests.test_mapping_must_be_known_by_cutoff_and_depths_remain_explicit) ... ok
+test_measured_and_modeled_zero_missing_and_detection_limit (tests.test_a3.AlignmentTests.test_measured_and_modeled_zero_missing_and_detection_limit) ... ok
+test_missing_hour_and_stale_sensor_are_explicit (tests.test_a3.AlignmentTests.test_missing_hour_and_stale_sensor_are_explicit) ... ok
+test_missing_status_contradiction_and_invalid_detection_limit (tests.test_a3.AlignmentTests.test_missing_status_contradiction_and_invalid_detection_limit) ... ok
+test_no_historical_quality_events_from_future (tests.test_a3.AlignmentTests.test_no_historical_quality_events_from_future) ... ok
+test_null_nonfinite_and_unit_conversion_failures (tests.test_a3.AlignmentTests.test_null_nonfinite_and_unit_conversion_failures) ... ok
+test_out_of_order_report_retains_nonselected_record (tests.test_a3.AlignmentTests.test_out_of_order_report_retains_nonselected_record) ... ok
+test_plausibility_and_rapid_change_with_asof_reference (tests.test_a3.AlignmentTests.test_plausibility_and_rapid_change_with_asof_reference) ... ok
+test_precipitation_accumulation_is_not_carried_as_new_hourly_rain (tests.test_a3.AlignmentTests.test_precipitation_accumulation_is_not_carried_as_new_hourly_rain) ... ok
+test_snapshot_contract (tests.test_a3.AlignmentTests.test_snapshot_contract) ... ok
+test_stale_vintage_and_expired_native_step_are_blocked (tests.test_a3.AlignmentTests.test_stale_vintage_and_expired_native_step_are_blocked) ... ok
+test_window_mode_and_duplicate_source_id_guards (tests.test_a3.AlignmentTests.test_window_mode_and_duplicate_source_id_guards) ... ok
+test_http_4xx_are_not_retried (tests.test_a1_tools.A1ToolTests.test_http_4xx_are_not_retried) ... ok
+test_http_transient_failure_retries_are_bounded_even_for_non_json (tests.test_a1_tools.A1ToolTests.test_http_transient_failure_retries_are_bounded_even_for_non_json) ... ok
+test_remote_http_never_receives_credentials (tests.test_a1_tools.A1ToolTests.test_remote_http_never_receives_credentials) ... ok
+test_reproducible_fixture_matches_schema_and_provenance (tests.test_a1_tools.A1ToolTests.test_reproducible_fixture_matches_schema_and_provenance) ... ok
+test_secret_file_owner_only_and_cannot_overwrite (tests.test_a1_tools.A1ToolTests.test_secret_file_owner_only_and_cannot_overwrite) ... ok
+test_sql_literal_keeps_quotes_data (tests.test_a1_tools.A1ToolTests.test_sql_literal_keeps_quotes_data) ... ok
+
+----------------------------------------------------------------------
+Ran 40 tests in 0.365s
+
+OK

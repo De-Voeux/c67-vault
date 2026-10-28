@@ -1,0 +1,12 @@
+flowchart TD
+    bundle["source_bundle / <=7 days"]
+    cutoff["source_time + available_at cutoff"]
+    qc["QC + spatial metadata"]
+    hour["hourly cells + lineage"]
+    seal["save_snapshot + policy/source hash"]
+    review["review only / training false"]
+    bundle --> cutoff
+    cutoff --> qc
+    qc --> hour
+    hour --> seal
+    seal --> review

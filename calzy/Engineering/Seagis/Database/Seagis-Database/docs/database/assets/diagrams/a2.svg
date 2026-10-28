@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="236" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 236" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="236"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-236)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="8.0" y="172" width="228.63779527559058" height="44" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="8.0" y="193" width="228.63779527559058" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="14.0" y="201" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,402) scale(1,-1)">claim / 20 min lease</text>
+			<rect x="261.6377952755906" y="172" width="228.63779527559058" height="44" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="261.6377952755906" y="193" width="228.63779527559058" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="267.6377952755906" y="201" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,402) scale(1,-1)">bounded provider fetch</text>
+			<rect x="8.0" y="100" width="228.63779527559058" height="44" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="8.0" y="121" width="228.63779527559058" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="14.0" y="129" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,258) scale(1,-1)">units + coordinates + cadence</text>
+			<rect x="261.6377952755906" y="100" width="228.63779527559058" height="44" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="261.6377952755906" y="121" width="228.63779527559058" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="267.6377952755906" y="129" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,258) scale(1,-1)">dedupe + semantic run_key</text>
+			<rect x="8.0" y="28" width="228.63779527559058" height="44" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="8.0" y="49" width="228.63779527559058" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="14.0" y="57" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,114) scale(1,-1)">atomic persist / metadata_only</text>
+			<rect x="261.6377952755906" y="28" width="228.63779527559058" height="44" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="261.6377952755906" y="49" width="228.63779527559058" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="267.6377952755906" y="57" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,114) scale(1,-1)">schedule due / failure backoff</text>
+			<path d="M 236.637795,194 L 261.637795,194 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261.6378 194, 256.6378 197, 256.6378 191" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<path d="M 375.956693,172 L 122.318898,144 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="122.3189 144, 119.3189 149, 125.3189 149" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<path d="M 236.637795,122 L 261.637795,122 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261.6378 122, 256.6378 125, 256.6378 119" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<path d="M 375.956693,100 L 122.318898,72 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="122.3189 72, 119.3189 77, 125.3189 77" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<path d="M 236.637795,50 L 261.637795,50 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261.6378 50, 256.6378 53, 256.6378 47" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

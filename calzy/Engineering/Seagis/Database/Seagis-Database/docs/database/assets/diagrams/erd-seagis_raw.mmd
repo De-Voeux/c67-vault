@@ -1,0 +1,29 @@
+erDiagram
+    seagis_ingestion_run["seagis.ingestion_run"] {
+        uuid id PK
+        text dataset_key FK
+        text request_key
+        text adapter_version
+        timestamp_with_time_zone started_at
+        timestamp_with_time_zone completed_at
+        text status
+        boolean is_synthetic
+        text error_code
+    }
+    seagis_raw_raw_payload["seagis_raw.raw_payload"] {
+        uuid id PK
+        uuid ingestion_run_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text sha256
+        text hash_basis
+        timestamp_with_time_zone received_at
+        text storage_mode
+        jsonb payload
+        text object_uri
+        bigint byte_size
+        text format
+        text licence_snapshot
+        jsonb provider_metadata
+    }
+    seagis_ingestion_run ||--o{ seagis_raw_raw_payload : "FK47"

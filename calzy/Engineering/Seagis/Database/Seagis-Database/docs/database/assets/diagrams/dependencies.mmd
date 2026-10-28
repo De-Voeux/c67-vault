@@ -1,0 +1,15 @@
+flowchart TD
+    obs["observation"]
+    fc["forecast_value"]
+    hist["temperature history/status"]
+    preview["regional preview/current_speed"]
+    quality["A3 alignment"]
+    export["CSV export"]
+    mock["MockAssessmentRepository"]
+    ui["SwiftUI / MapKit"]
+    obs --> hist
+    fc --> preview
+    obs --> quality
+    fc --> quality
+    quality --> export
+    mock --> ui

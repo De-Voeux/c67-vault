@@ -1,0 +1,15 @@
+flowchart TD
+    registry["source + dataset_parameter"]
+    raw["ingestion_run + raw_payload"]
+    obs["observation"]
+    run["forecast_run + forecast_value"]
+    map["source_grid + mappings"]
+    bundle["source_bundle"]
+    align["alignment_snapshot + snapshot_input"]
+    registry --> raw
+    raw --> obs
+    raw --> run
+    map --> run
+    obs --> bundle
+    run --> bundle
+    bundle --> align

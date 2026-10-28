@@ -1,0 +1,78 @@
+erDiagram
+    seagis_forecast_value["seagis.forecast_value"] {
+        uuid id PK
+        uuid forecast_run_id FK
+        uuid source_grid_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone valid_at
+        timestamp_with_time_zone ingested_at
+        text temporal_support
+        text interval_status
+        timestamp_with_time_zone period_start_at
+        timestamp_with_time_zone period_end_at
+        text quality_status
+    }
+    seagis_observation["seagis.observation"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid sensor_id FK
+        text dataset_key FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text source_record_key
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone observed_at
+        timestamp_with_time_zone ingested_at
+        text quality_status
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_features_feature_input["seagis_features.feature_input"] {
+        uuid id PK
+        uuid snapshot_id FK
+        uuid observation_id FK
+        uuid forecast_value_id FK
+    }
+    seagis_features_feature_snapshot["seagis_features.feature_snapshot"] {
+        uuid id PK
+        uuid plot_id FK
+        boolean is_synthetic FK
+        timestamp_with_time_zone as_of
+        timestamp_with_time_zone generated_at
+        text feature_version
+        text feature_schema_version
+        jsonb features
+        text__ missing_context
+        text status
+        text input_manifest_sha256
+        text features_sha256
+    }
+    seagis_forecast_value |o--o{ seagis_features_feature_input : "FK38"
+    seagis_observation |o--o{ seagis_features_feature_input : "FK39"
+    seagis_features_feature_snapshot ||--o{ seagis_features_feature_input : "FK40"
+    seagis_plot ||--o{ seagis_features_feature_snapshot : "FK41"

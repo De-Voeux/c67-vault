@@ -1,0 +1,20 @@
+{
+  "id": {
+    "pdf_pages": 320,
+    "pdf_bytes": 874421,
+    "rendered_diagram_panels": 78,
+    "outline_entries": 19,
+    "pdf_sha256": "6a99c37848f51603c1bae9e779ed08293a2698ee77d460509143ad74d7a01d91",
+    "chapters": 13,
+    "extractable_text_characters": 691736
+  },
+  "en": {
+    "pdf_pages": 319,
+    "pdf_bytes": 868265,
+    "rendered_diagram_panels": 78,
+    "outline_entries": 19,
+    "pdf_sha256": "78af3c2adf0c565894876ccf5d3dd6bf6d1604389cbab688ea7df438a88489f0",
+    "chapters": 13,
+    "extractable_text_characters": 697798
+  }
+}
