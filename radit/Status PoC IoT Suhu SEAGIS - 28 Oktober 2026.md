@@ -1,13 +1,17 @@
 ---
 type: project-status
 created: 2026-10-28
-updated: 2026-10-28
-status: current-working-context
+updated: 2026-10-29
+status: superseded
+superseded_by: "[[Status PoC IoT Suhu SEAGIS - 29 Oktober 2026]]"
 supersedes: "[[Status PoC IoT Suhu SEAGIS - 23 Oktober 2026]]"
 tags: [radit, iot, lora, suhu, poc]
 ---
 
 # Status PoC IoT Suhu SEAGIS — 28 Oktober 2026
+
+> [!warning] Riwayat
+> Catatan ini sudah digantikan oleh [[Status PoC IoT Suhu SEAGIS - 29 Oktober 2026]] (part mulai tiba, firmware v2 dalam simulasi, pin baru, jadwal unggah 06:00 WIB). Daftar crosscheck firmware dan checklist di bawah tidak lagi mutakhir.
 
 Catatan keputusan percakapan 27–28 Oktober 2026, menggantikan [[Status PoC IoT Suhu SEAGIS - 23 Oktober 2026]]. Ini status rancangan, pembelian, dan draf firmware, **bukan bukti perangkat telah lulus uji meja atau uji laut**. Firmware `node/` dan `hub/` belum pernah dikompilasi ke papan fisik.
 
