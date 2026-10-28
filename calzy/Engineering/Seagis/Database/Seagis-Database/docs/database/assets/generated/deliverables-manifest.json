@@ -1,0 +1,1328 @@
+[
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/README.md",
+    "relative_path": "docs/database/README.md",
+    "sha256": "4c217f9a68c903e9358c703b7ec5accd88aa9071c5122a0749b07710e5c49c66",
+    "bytes": 3140
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a1.mmd",
+    "relative_path": "docs/database/assets/diagrams/a1.mmd",
+    "sha256": "ef4482cec943a99dd58f7026207ab5f0f0ae394a2d18abe1e625dc183465311b",
+    "bytes": 298
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a1.pdf",
+    "relative_path": "docs/database/assets/diagrams/a1.pdf",
+    "sha256": "afa244ad75acd826ca3358ca482f72a5db0f4ab25e666d9249dd05c3790de612",
+    "bytes": 31731
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a1.svg",
+    "relative_path": "docs/database/assets/diagrams/a1.svg",
+    "sha256": "1713a22b4a424f726e3b507e1e10539e5d05d25610866c005b082e27055c66c8",
+    "bytes": 4593
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a2.mmd",
+    "relative_path": "docs/database/assets/diagrams/a2.mmd",
+    "sha256": "700fc1e7fc9f083829ee49b85edc141266f9b39d5db3791a66c77747e56d330f",
+    "bytes": 360
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a2.pdf",
+    "relative_path": "docs/database/assets/diagrams/a2.pdf",
+    "sha256": "bcbd8e49c2221bec959b2cb55874ab73676ca1c6c4793da8eda3a53511c86438",
+    "bytes": 31789
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a2.svg",
+    "relative_path": "docs/database/assets/diagrams/a2.svg",
+    "sha256": "2d5abe14c67ba4b2b6c5f4abc756e7f00ebd63442dbc1385007928a7a3a7e36d",
+    "bytes": 5447
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a3.mmd",
+    "relative_path": "docs/database/assets/diagrams/a3.mmd",
+    "sha256": "a114287c2cf46620eed8d7d7c544c1e88ce1dd63f268976f7cf23c5d7014ca71",
+    "bytes": 351
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a3.pdf",
+    "relative_path": "docs/database/assets/diagrams/a3.pdf",
+    "sha256": "54a313ebabd0e67508166cbd94940276e2874a4b628dc713e6f0d8238d3bfc8b",
+    "bytes": 31793
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/a3.svg",
+    "relative_path": "docs/database/assets/diagrams/a3.svg",
+    "sha256": "0bbb4de1c7652ab68fc89a1e30e7d661616f290c858bc4b64d8299a3cd1d90de",
+    "bytes": 5456
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/architecture.mmd",
+    "relative_path": "docs/database/assets/diagrams/architecture.mmd",
+    "sha256": "b3430c617d6c8b701a19f80808e1d3a77e88e4677fabf207d905fbef7f093b30",
+    "bytes": 374
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/architecture.pdf",
+    "relative_path": "docs/database/assets/diagrams/architecture.pdf",
+    "sha256": "12cd6b47335a0655f2b704c65c095639a78366eaf83f57313becb8925f41a288",
+    "bytes": 31841
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/architecture.svg",
+    "relative_path": "docs/database/assets/diagrams/architecture.svg",
+    "sha256": "185cb1c3b4722a8d07c1b88ee1c7b7a53472538c6256be583bfcb82cbb22f46e",
+    "bytes": 6814
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/dependencies.mmd",
+    "relative_path": "docs/database/assets/diagrams/dependencies.mmd",
+    "sha256": "b733619fe9cad3029872fde15387949c6d9cb139af790527ea84b4ecfe173edd",
+    "bytes": 377
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/dependencies.pdf",
+    "relative_path": "docs/database/assets/diagrams/dependencies.pdf",
+    "sha256": "b1872ab966fc1696c756c8c93ee6cbfa58c02667a20f7dda436ea8741d6c54ba",
+    "bytes": 31833
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/dependencies.svg",
+    "relative_path": "docs/database/assets/diagrams/dependencies.svg",
+    "sha256": "31a44bb0926b76bfbc89aad1f7823b48657ae299a8bb76bb3c3a3fa7199246e1",
+    "bytes": 6802
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-01.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-01.pdf",
+    "sha256": "4870f93da1f917f047778a48ca35c605e8981d7c1b7cbb8549055a320df56865",
+    "bytes": 64193
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-01.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-01.svg",
+    "sha256": "62230cea8798f6536408cdf68fcee4c5c68d7db2a703fb8ec2d3cf6bb8016b37",
+    "bytes": 4643
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-02.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-02.pdf",
+    "sha256": "2ad80c32c6afb4fda322008b027ca5fea77cb542ac7562eb00f2df2f39acfc98",
+    "bytes": 64094
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-02.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-02.svg",
+    "sha256": "d4ae10e4480d1efad3204fc3e46e1e187f2ac40c814427500f34f9b10feaa654",
+    "bytes": 4436
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-03.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-03.pdf",
+    "sha256": "75dba616d639a14f86fb1b7fd7197e074eedc08e3fe47444e7381070fae9acad",
+    "bytes": 64168
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-03.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-03.svg",
+    "sha256": "350167428a325b9079e5d89dccb5ec258a0fba69ad58ac382603f5fb2b4732f9",
+    "bytes": 5121
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-04.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-04.pdf",
+    "sha256": "0c1271ba064b1b4ec6d5b843d77b19738dff8552923b363f3435503d4b0c0543",
+    "bytes": 64327
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-04.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-04.svg",
+    "sha256": "32cf2bd451cb89972edd2353a9f88edc2574f86f6ba07d0719db8bef0ad3a9ab",
+    "bytes": 7234
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-05.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-05.pdf",
+    "sha256": "5e846b7e09f2baf416445657e042a484b683f0ffafdd90494cb25eeade9231d5",
+    "bytes": 64046
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-05.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-05.svg",
+    "sha256": "f6872cc4aa8702ed29797f56d23df92b61b35a682af46cf2e22bacbca66bf0b0",
+    "bytes": 3538
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-06.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-06.pdf",
+    "sha256": "20ac5d6ae71f8cbb42d8716196007fded3ce1e581139f8967f75de7df0e9d37e",
+    "bytes": 64319
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-06.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-06.svg",
+    "sha256": "921430531ba79de0376c36c1a656e411f203351398b36cc51d1127e61a8850fb",
+    "bytes": 7045
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-07.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-07.pdf",
+    "sha256": "1e7a104b9f841bc1edab434ee5b6c002ea3fbe49ac480d9cf318b142300265c8",
+    "bytes": 63778
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-07.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-07.svg",
+    "sha256": "5d361791db399a5e50666000e035ba340248537ab68bf4aac4551238323f2713",
+    "bytes": 1832
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-08.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-08.pdf",
+    "sha256": "921f336e790c035057bcb522f05a4e9505ddac2d3f2b6e000ce6549b98186528",
+    "bytes": 63876
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-08.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-08.svg",
+    "sha256": "1d393a11da4c0766ce1e1074cb1feb5268dd1e2f765826bced235197eaa59fd7",
+    "bytes": 2686
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-09.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-09.pdf",
+    "sha256": "040e738b946afabf9ba1b1b6fe1c2fd1a5a9ee3bbc4c1301ca9110fff8aaa042",
+    "bytes": 64134
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-09.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-09.svg",
+    "sha256": "66bb02fef7aa2eeca6460c9e5855970cbc5977da55e3bd973c0d75052b5848e0",
+    "bytes": 4608
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-10.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-10.pdf",
+    "sha256": "fb96f5740315e98984a65b9233d3d10bdfaacee292471c25c3ee33a6c6b7cdc9",
+    "bytes": 64196
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-10.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-10.svg",
+    "sha256": "2976f9a58135d87ce36bc314eb494068a4158aa761d46e41c341836c3e17b4cd",
+    "bytes": 5621
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-11.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-11.pdf",
+    "sha256": "8f1e3e7f7b9493bd0b81e7f0b6f87dd0adb056155e1e11168ac81aaadd5d09b1",
+    "bytes": 64148
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-11.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-11.svg",
+    "sha256": "738877ab70535acc01e25eca6c6a34ca4bf40466340430c3f49129ec86e8be17",
+    "bytes": 5413
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-12.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-12.pdf",
+    "sha256": "d2f06f903f8387be0330d4e4615dfd820d7ef6b58479056d73097aa708cd36a9",
+    "bytes": 63786
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-12.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-12.svg",
+    "sha256": "df31d48dd7cd36012906598fe02492c51f1eea190aafe4b4b0312c8a6642dd00",
+    "bytes": 1835
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-13.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-13.pdf",
+    "sha256": "b9b833e0f47d82cea9e48fbc362f107012b429e541d2686e9c0f132d49639295",
+    "bytes": 64049
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-13.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-13.svg",
+    "sha256": "693954d54d372cf8383ca9bf6d56f15d086c0209761b81fbfcbfceadda407721",
+    "bytes": 3710
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-14.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-14.pdf",
+    "sha256": "4a9f695a39b43b1800b7edaafa50ec2eb4d7f183144c879ee5e241a70020c16b",
+    "bytes": 64014
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-14.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-14.svg",
+    "sha256": "80c4eba9493f07e42c5047be7fc58d353389f72b6c6d3610d6ab64e24114ea99",
+    "bytes": 3354
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-15.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-15.pdf",
+    "sha256": "fcc48ee0269b4e4d15d26f748d8563657c27ca82fdd4ca3c4aa4a0f166b3a0b4",
+    "bytes": 64114
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-15.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-15.svg",
+    "sha256": "e0c2aac4d389f181a556d6e40ede64ce67305733e593432cdf1415c9f5d27d8c",
+    "bytes": 4768
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-16.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-16.pdf",
+    "sha256": "cb0b9c64008ef311f8bae119351b0da73057562c8cfde142f3a6a0be00f9e7d9",
+    "bytes": 63961
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-16.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-16.svg",
+    "sha256": "05259b392e5cd793ec726460db8dfe7c4ff401aaec72a05b1a6af6342df0db76",
+    "bytes": 3207
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-17.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-17.pdf",
+    "sha256": "c9f43bb4f7d49926b249709f9fee9323eaab9428091ef61403689dd6438712d3",
+    "bytes": 64051
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-17.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-17.svg",
+    "sha256": "aa709e60ed0183f2a95932da906bd2a424a63e9d249f10ec8b0b2676e3cd55d8",
+    "bytes": 3877
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-18.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-18.pdf",
+    "sha256": "138a3a8e921b43c459584052a1b16272eb7f5bf44566692aae0106b5a7157c96",
+    "bytes": 63901
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-18.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-18.svg",
+    "sha256": "4c4d43875acea9d5c8600c67db9aabadc0c8f554fc05b0887727b0f3d8ba34ef",
+    "bytes": 2727
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-19.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-19.pdf",
+    "sha256": "ad3282cad91a22e0f8d476a4b13875e6fd4274d29c282d5905c3b9d48c3347e6",
+    "bytes": 64078
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-19.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-19.svg",
+    "sha256": "4b2d152bbb22b1187925d3ea34f5a909fde7a58b370695d5e58299e62607c7af",
+    "bytes": 4070
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-20.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-20.pdf",
+    "sha256": "15247050639e10542dcf0fbb0c725dbf739ae6963e5721eda708d1c508b35ba0",
+    "bytes": 64233
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-20.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-20.svg",
+    "sha256": "d4245aaf65efad3f29bd4c96790ef089405ca9b4f5fc4fe1e69571af4b8381a4",
+    "bytes": 5688
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-21.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-21.pdf",
+    "sha256": "b69b994393170d47b465a335875659da2ae5ddac7c6718344695f5b5e2796019",
+    "bytes": 64103
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-21.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-21.svg",
+    "sha256": "af414d03d8fc1546c0547bc937208f609d92fb84d3163c41977a7da575841385",
+    "bytes": 3905
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-22.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-22.pdf",
+    "sha256": "908a0ccead73cd0c1b7d15c2995b857911cbf1466d167e4773b4fb4edc6df60a",
+    "bytes": 64132
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-22.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-22.svg",
+    "sha256": "37e52d80aeaf57808fdae1aa35f68a80bc9aaffa7354ff30395b6a2065f39165",
+    "bytes": 4467
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-23.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-23.pdf",
+    "sha256": "e1127cb1872ee0157a67388ae2a2657ca1ba4d009ff60b0e45a293e8f089ee11",
+    "bytes": 64061
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-23.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-23.svg",
+    "sha256": "6144ad981094a4711553273ced3c2b967c5184824fa438c09e529bebbaa3508e",
+    "bytes": 4447
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-24.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-24.pdf",
+    "sha256": "73e095f01f1779084620e0d3a5db521a99a9f3b0d37900c83376ce63266df413",
+    "bytes": 64104
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-24.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-24.svg",
+    "sha256": "4b0503c8f5be4b263ce4a0fa7dc398e75a65dcde7c7aad7b359937d9c8b82424",
+    "bytes": 4082
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-25.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-25.pdf",
+    "sha256": "6fd0c62865d6640d055f1deb8b5baaecf958f07fe7d18264c5c7a17145c29cb4",
+    "bytes": 64128
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-25.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-25.svg",
+    "sha256": "4f064439ae2204d424fdccb40ed48787dd7f2700eee107210ba694b3ee89a416",
+    "bytes": 4745
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-26.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-26.pdf",
+    "sha256": "02526cbd137348c09f7c2138e691087375eb14618fb17c31c73f979fce1dc4b8",
+    "bytes": 63837
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-26.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-26.svg",
+    "sha256": "b89ba1d104a71b9dd94ee7009b94950bae0a0bb0493ed9d66d69ad2977161547",
+    "bytes": 2188
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-27.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-27.pdf",
+    "sha256": "ae67edb8b5a4f129f7a6ae8f87afbad2a1eab8a28910d82648bc2cbc2f0203d7",
+    "bytes": 64118
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-27.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-27.svg",
+    "sha256": "2ad901feaaaed511c496791e8e48321231c466907f20798ca77f0fa5e4dd41e3",
+    "bytes": 4638
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-28.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-28.pdf",
+    "sha256": "b8b1349527dd4050745fae7fa2e565313759d24ec79b58f8a6bddb05210eefbe",
+    "bytes": 64152
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-28.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-28.svg",
+    "sha256": "14dcad65a8760ead0479e68e683a0a993fdc7460edfdcfdb71ce5828e4302c57",
+    "bytes": 4401
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-01.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-01.pdf",
+    "sha256": "f8e49fe29a5bf44cb80b8f122f91962cf50bff35496c703647e1e21c47aa88c2",
+    "bytes": 64193
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-01.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-01.svg",
+    "sha256": "62230cea8798f6536408cdf68fcee4c5c68d7db2a703fb8ec2d3cf6bb8016b37",
+    "bytes": 4643
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-02.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-02.pdf",
+    "sha256": "484f60b19c74bd8eb2b672071f1ef556d150c35a64d6da5a7fa260a3c17459a7",
+    "bytes": 64094
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-02.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-02.svg",
+    "sha256": "d4ae10e4480d1efad3204fc3e46e1e187f2ac40c814427500f34f9b10feaa654",
+    "bytes": 4436
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-03.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-03.pdf",
+    "sha256": "28630614f55985d802a68572ca8713b1eb3298b87ffa3ac5513ccd404e1dd9ce",
+    "bytes": 64168
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-03.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-03.svg",
+    "sha256": "350167428a325b9079e5d89dccb5ec258a0fba69ad58ac382603f5fb2b4732f9",
+    "bytes": 5121
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-04.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-04.pdf",
+    "sha256": "ae68128a2697e15be8ec4abc21945484663c217dcb633d748e2dedb26e095f12",
+    "bytes": 64327
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-04.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-04.svg",
+    "sha256": "32cf2bd451cb89972edd2353a9f88edc2574f86f6ba07d0719db8bef0ad3a9ab",
+    "bytes": 7234
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-05.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-05.pdf",
+    "sha256": "483ab33d5f70a87506089d8bb189423c7c6e5686b8c3f4ab71060d7d68625cc3",
+    "bytes": 64046
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-05.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-05.svg",
+    "sha256": "f6872cc4aa8702ed29797f56d23df92b61b35a682af46cf2e22bacbca66bf0b0",
+    "bytes": 3538
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-06.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-06.pdf",
+    "sha256": "3388398cd4ffc5050e7c13bdf1fd82e9eccfdb2917d16c93188ee04247a4ab0e",
+    "bytes": 64319
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-06.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-06.svg",
+    "sha256": "921430531ba79de0376c36c1a656e411f203351398b36cc51d1127e61a8850fb",
+    "bytes": 7045
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-07.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-07.pdf",
+    "sha256": "c1b1b4775d70412b71e24119075c225fd291dba11350b8d8ff79188eb34b214f",
+    "bytes": 63778
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-07.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-07.svg",
+    "sha256": "5d361791db399a5e50666000e035ba340248537ab68bf4aac4551238323f2713",
+    "bytes": 1832
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-08.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-08.pdf",
+    "sha256": "1dae2ccd7fe74e3d79f6dca0ac12ebe779a9f722913d50a9cf0dc1df84e5f5db",
+    "bytes": 63876
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-08.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-08.svg",
+    "sha256": "1d393a11da4c0766ce1e1074cb1feb5268dd1e2f765826bced235197eaa59fd7",
+    "bytes": 2686
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-09.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-09.pdf",
+    "sha256": "7ccdf29b4701de177eacbca9c25f7f4b511aeb47ea1055582f1eb165ae440dbe",
+    "bytes": 64134
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-09.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-09.svg",
+    "sha256": "66bb02fef7aa2eeca6460c9e5855970cbc5977da55e3bd973c0d75052b5848e0",
+    "bytes": 4608
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-10.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-10.pdf",
+    "sha256": "67308d6acf42f374339c7afcbd04243e4348991f64a22738da7bb01f38ef08dd",
+    "bytes": 64196
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-10.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-10.svg",
+    "sha256": "2976f9a58135d87ce36bc314eb494068a4158aa761d46e41c341836c3e17b4cd",
+    "bytes": 5621
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-11.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-11.pdf",
+    "sha256": "d26492e2df4a2698f6382c9c9317b88c1390463ae8dcd27355fa7b435c928505",
+    "bytes": 64148
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-11.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-11.svg",
+    "sha256": "738877ab70535acc01e25eca6c6a34ca4bf40466340430c3f49129ec86e8be17",
+    "bytes": 5413
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-12.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-12.pdf",
+    "sha256": "41f73a13a947c8e42e51f55cb3143acb66d40e1ed30a5e411acac99a773de062",
+    "bytes": 63786
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-12.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-12.svg",
+    "sha256": "df31d48dd7cd36012906598fe02492c51f1eea190aafe4b4b0312c8a6642dd00",
+    "bytes": 1835
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-13.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-13.pdf",
+    "sha256": "054eb43f7520f4f9d88d3564edaa10d1e9d129999dbd7bde75a14dd85510df79",
+    "bytes": 64049
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-13.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-13.svg",
+    "sha256": "693954d54d372cf8383ca9bf6d56f15d086c0209761b81fbfcbfceadda407721",
+    "bytes": 3710
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-14.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-14.pdf",
+    "sha256": "2bf4cc77f0f5ea1523dee02617138d8155135ead00a2fa1787cbed40de762ad5",
+    "bytes": 64152
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis-14.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis-14.svg",
+    "sha256": "14dcad65a8760ead0479e68e683a0a993fdc7460edfdcfdb71ce5828e4302c57",
+    "bytes": 4401
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis.mmd",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis.mmd",
+    "sha256": "2764f3e964ef8e66b3c4ca1877974905b63affc0dce21323187050d1e73190b7",
+    "bytes": 6768
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-01.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-01.pdf",
+    "sha256": "60b65e147ca42ad8505cbdadaaf6aafdfe53313154fefdf78a763ebc423a18a5",
+    "bytes": 64046
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-01.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-01.svg",
+    "sha256": "f6872cc4aa8702ed29797f56d23df92b61b35a682af46cf2e22bacbca66bf0b0",
+    "bytes": 3538
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-02.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-02.pdf",
+    "sha256": "27947a39ecb5821577fa4ed9cad07f4af09906eed7d97fd75c573fc75e0133c5",
+    "bytes": 64319
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-02.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-02.svg",
+    "sha256": "921430531ba79de0376c36c1a656e411f203351398b36cc51d1127e61a8850fb",
+    "bytes": 7045
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-03.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-03.pdf",
+    "sha256": "cfe257b5be1024e003a9d6ae9c5f0b4da335518b6f87df1ada853b2856de5889",
+    "bytes": 63876
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-03.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-03.svg",
+    "sha256": "1d393a11da4c0766ce1e1074cb1feb5268dd1e2f765826bced235197eaa59fd7",
+    "bytes": 2686
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-04.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-04.pdf",
+    "sha256": "24dceb9417c0c82d80b8f5526a36725a45c3beb752453653b3dde44a94d0019e",
+    "bytes": 64148
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-04.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-04.svg",
+    "sha256": "738877ab70535acc01e25eca6c6a34ca4bf40466340430c3f49129ec86e8be17",
+    "bytes": 5413
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-05.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-05.pdf",
+    "sha256": "899b466ca7e56e901771dc1896639f4b571266db082457d1ab2ec0519b57afc5",
+    "bytes": 64014
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-05.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-05.svg",
+    "sha256": "80c4eba9493f07e42c5047be7fc58d353389f72b6c6d3610d6ab64e24114ea99",
+    "bytes": 3354
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-06.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-06.pdf",
+    "sha256": "e280684714b5fdabd29dc51cdae0b759c94b371b5be5cae7fc956be4f16d9b6c",
+    "bytes": 64114
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-06.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-06.svg",
+    "sha256": "e0c2aac4d389f181a556d6e40ede64ce67305733e593432cdf1415c9f5d27d8c",
+    "bytes": 4768
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-07.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-07.pdf",
+    "sha256": "0a7d73b5aba2a3365662461421f416af578e09279102b83c3b30425e7d58d942",
+    "bytes": 63961
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-07.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-07.svg",
+    "sha256": "05259b392e5cd793ec726460db8dfe7c4ff401aaec72a05b1a6af6342df0db76",
+    "bytes": 3207
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-08.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-08.pdf",
+    "sha256": "c8b2695cefa819fb736f8f2ca6bf81e473867fd8dd2cbbeb0fc20ed4734480b6",
+    "bytes": 64051
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-08.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-08.svg",
+    "sha256": "aa709e60ed0183f2a95932da906bd2a424a63e9d249f10ec8b0b2676e3cd55d8",
+    "bytes": 3877
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-09.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-09.pdf",
+    "sha256": "16af58fbdbbcbda6f845a2c242a60c24e23ac108648c41de8def834e3bde8869",
+    "bytes": 63901
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api-09.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api-09.svg",
+    "sha256": "4c4d43875acea9d5c8600c67db9aabadc0c8f554fc05b0887727b0f3d8ba34ef",
+    "bytes": 2727
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_api.mmd",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_api.mmd",
+    "sha256": "0103ab21fda57d36f5f1052be4112dd6ba74593886052d02fdada4ae05c213a6",
+    "bytes": 3405
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-01.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-01.pdf",
+    "sha256": "a76e5b9ca8280931b2121466523bfe1dc7b879f0b74e880de55126c46738524b",
+    "bytes": 64193
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-01.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-01.svg",
+    "sha256": "62230cea8798f6536408cdf68fcee4c5c68d7db2a703fb8ec2d3cf6bb8016b37",
+    "bytes": 4643
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-02.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-02.pdf",
+    "sha256": "5e1a42ceb0f1c3d2dbdaf51f91eec636d9e323614c2774b5519bffa8ba667674",
+    "bytes": 64168
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-02.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-02.svg",
+    "sha256": "350167428a325b9079e5d89dccb5ec258a0fba69ad58ac382603f5fb2b4732f9",
+    "bytes": 5121
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-03.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-03.pdf",
+    "sha256": "a3439de42dd75a040f59148132568cd42100c61b27d8d36f589ca5e5e97ad83b",
+    "bytes": 63876
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-03.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-03.svg",
+    "sha256": "1d393a11da4c0766ce1e1074cb1feb5268dd1e2f765826bced235197eaa59fd7",
+    "bytes": 2686
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-04.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-04.pdf",
+    "sha256": "eeb8cb5ecb217eb406ade081da1a89542be71a605f7cb32451c134124a2ce5dc",
+    "bytes": 64049
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-04.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-04.svg",
+    "sha256": "693954d54d372cf8383ca9bf6d56f15d086c0209761b81fbfcbfceadda407721",
+    "bytes": 3710
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-05.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-05.pdf",
+    "sha256": "c3d1c2d2c2219acbeb2f3a5f9eacea94cf6e28af8835011b1c0d0fbf65a87f77",
+    "bytes": 64078
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-05.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-05.svg",
+    "sha256": "4b2d152bbb22b1187925d3ea34f5a909fde7a58b370695d5e58299e62607c7af",
+    "bytes": 4070
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-06.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-06.pdf",
+    "sha256": "bed61e17b46f0e9122f300f259ee54227a6d8a27ba1aa82840e3ce2ec5010383",
+    "bytes": 64233
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-06.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-06.svg",
+    "sha256": "d4245aaf65efad3f29bd4c96790ef089405ca9b4f5fc4fe1e69571af4b8381a4",
+    "bytes": 5688
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-07.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-07.pdf",
+    "sha256": "ef911cca364ed8426233b19f7b8795fb21c9f23bc20895b6a83aecefb989664a",
+    "bytes": 64103
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-07.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-07.svg",
+    "sha256": "af414d03d8fc1546c0547bc937208f609d92fb84d3163c41977a7da575841385",
+    "bytes": 3905
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-08.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-08.pdf",
+    "sha256": "7081884eca05e6ed3e8a692e180fba995fb353aa2a0db7f4e19fa37e21d3ab9e",
+    "bytes": 64132
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment-08.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment-08.svg",
+    "sha256": "37e52d80aeaf57808fdae1aa35f68a80bc9aaffa7354ff30395b6a2065f39165",
+    "bytes": 4467
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_environment.mmd",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_environment.mmd",
+    "sha256": "3a459ff89ac852f1bd86d328a620371b41be5496fc9791645d2b8103f02da5a5",
+    "bytes": 3917
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-01.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-01.pdf",
+    "sha256": "8f57215d6620a9318ae31abd710245643f27e64d398167b29dd1ce9a641cb9f7",
+    "bytes": 64327
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-01.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-01.svg",
+    "sha256": "32cf2bd451cb89972edd2353a9f88edc2574f86f6ba07d0719db8bef0ad3a9ab",
+    "bytes": 7234
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-02.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-02.pdf",
+    "sha256": "5a713db6e5dbe2fa522311c5d49af2974a3b063ca301a58a85346a14725959f6",
+    "bytes": 64319
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-02.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-02.svg",
+    "sha256": "921430531ba79de0376c36c1a656e411f203351398b36cc51d1127e61a8850fb",
+    "bytes": 7045
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-03.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-03.pdf",
+    "sha256": "00b049ad732fdfd7a93ee63b4a726d7fca3c9887b83eab4d05ef4867ef120759",
+    "bytes": 63876
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-03.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-03.svg",
+    "sha256": "1d393a11da4c0766ce1e1074cb1feb5268dd1e2f765826bced235197eaa59fd7",
+    "bytes": 2686
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-04.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-04.pdf",
+    "sha256": "3c14da147ed11d606df7d9b108db82aa30d2358d186e4efc1dace24d6b4205fd",
+    "bytes": 64061
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-04.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-04.svg",
+    "sha256": "6144ad981094a4711553273ced3c2b967c5184824fa438c09e529bebbaa3508e",
+    "bytes": 4447
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-05.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-05.pdf",
+    "sha256": "b5235778e09d2f58793203636233d8f4c53b62aa4fa054843c0e5ecdaa366b20",
+    "bytes": 64104
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features-05.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features-05.svg",
+    "sha256": "4b0503c8f5be4b263ce4a0fa7dc398e75a65dcde7c7aad7b359937d9c8b82424",
+    "bytes": 4082
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_features.mmd",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_features.mmd",
+    "sha256": "3f28d25f0f2402e4ddcc6534e444bbb60034fee6b3c432bae6971075a062d9d8",
+    "bytes": 2589
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-01.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-01.pdf",
+    "sha256": "f43acf7f6012ca8a190fb810e09971623320fa2742b3a9d50fc01340d95c4e34",
+    "bytes": 64327
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-01.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-01.svg",
+    "sha256": "32cf2bd451cb89972edd2353a9f88edc2574f86f6ba07d0719db8bef0ad3a9ab",
+    "bytes": 7234
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-02.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-02.pdf",
+    "sha256": "a12257c54d51b825093db7db18f29e9f6d27a5c65b2cd6befccd290a77253fed",
+    "bytes": 64319
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-02.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-02.svg",
+    "sha256": "921430531ba79de0376c36c1a656e411f203351398b36cc51d1127e61a8850fb",
+    "bytes": 7045
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-03.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-03.pdf",
+    "sha256": "f61956c33f7e1dbbf62cb2a1642e498296e1fdc10adcbd557e0fc5aaaeb3d015",
+    "bytes": 63876
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-03.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-03.svg",
+    "sha256": "1d393a11da4c0766ce1e1074cb1feb5268dd1e2f765826bced235197eaa59fd7",
+    "bytes": 2686
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-04.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-04.pdf",
+    "sha256": "870566947e3102664aa4eb33be5c92ebe580a23e6047e3520e77fd4fbdac38ef",
+    "bytes": 64128
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-04.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-04.svg",
+    "sha256": "4f064439ae2204d424fdccb40ed48787dd7f2700eee107210ba694b3ee89a416",
+    "bytes": 4745
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-05.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-05.pdf",
+    "sha256": "96d6f287221b14cf7eeb885b2d092479143bdc906a4a0fe538bb8be0bf975202",
+    "bytes": 63837
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-05.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-05.svg",
+    "sha256": "b89ba1d104a71b9dd94ee7009b94950bae0a0bb0493ed9d66d69ad2977161547",
+    "bytes": 2188
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-06.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-06.pdf",
+    "sha256": "3e159806508c573da93fdd4382a6bcd7ff1da79110f138218d960f28047da899",
+    "bytes": 64118
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality-06.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality-06.svg",
+    "sha256": "2ad901feaaaed511c496791e8e48321231c466907f20798ca77f0fa5e4dd41e3",
+    "bytes": 4638
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_quality.mmd",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_quality.mmd",
+    "sha256": "83128cdefd0b6c6f2b7b93893d12822b1f7f4a9a0da75b803ca8178898967764",
+    "bytes": 2895
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_raw-01.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_raw-01.pdf",
+    "sha256": "93de9bc8393d21cd2ae3b20f455bfa590aa1bb188dcbc74e3245f87a535ec5e8",
+    "bytes": 64046
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_raw-01.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_raw-01.svg",
+    "sha256": "f6872cc4aa8702ed29797f56d23df92b61b35a682af46cf2e22bacbca66bf0b0",
+    "bytes": 3538
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_raw-02.pdf",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_raw-02.pdf",
+    "sha256": "ab1ab5b4b69d774b9589a73b3119d93af1c266f4b65141e60f3b287e7152b7bf",
+    "bytes": 64152
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_raw-02.svg",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_raw-02.svg",
+    "sha256": "14dcad65a8760ead0479e68e683a0a993fdc7460edfdcfdb71ce5828e4302c57",
+    "bytes": 4401
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd-seagis_raw.mmd",
+    "relative_path": "docs/database/assets/diagrams/erd-seagis_raw.mmd",
+    "sha256": "80462298cc0b783f7797d1d730da765f8e870da2aadbae018a8b8f9c48a6a8d3",
+    "bytes": 836
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/erd.mmd",
+    "relative_path": "docs/database/assets/diagrams/erd.mmd",
+    "sha256": "ac3ed1a969958bc3d06b08da987587bbeba07c5d31f0f2ee997cfc1a657600e9",
+    "bytes": 12808
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/lineage.mmd",
+    "relative_path": "docs/database/assets/diagrams/lineage.mmd",
+    "sha256": "556c479ee4503b722b7a70bf6e084b2a5176061dc00249bfb0387b1ffd60e931",
+    "bytes": 398
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/lineage.pdf",
+    "relative_path": "docs/database/assets/diagrams/lineage.pdf",
+    "sha256": "9d6c13d3d08749c9866493ff2099b501d2e604b7193a51d50520de517ace3f5a",
+    "bytes": 31833
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/diagrams/lineage.svg",
+    "relative_path": "docs/database/assets/diagrams/lineage.svg",
+    "sha256": "386d3d20527f803fd91989a58bf6fb80cb39b95dac19f597779b01453d6c78c6",
+    "bytes": 6563
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/0001_initial_schema.sql",
+    "relative_path": "docs/database/assets/evidence/0001_initial_schema.sql",
+    "sha256": "f83e16be7d676cd1552266f2648444edbe12c01aac6b6ac94d4c6d32161c9b42",
+    "bytes": 31891
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/0002_temperature_api.sql",
+    "relative_path": "docs/database/assets/evidence/0002_temperature_api.sql",
+    "sha256": "c1547f70b3bf29ea5a54171ff547177713bbd0f4d9bac8e33d47d1c940fd992f",
+    "bytes": 19693
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/0003_environment_ingestion.sql",
+    "relative_path": "docs/database/assets/evidence/0003_environment_ingestion.sql",
+    "sha256": "d49a5897bca967b33e3ab79745bb4f1bb9e76babc318544bfc7c024c8993d1f5",
+    "bytes": 18471
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/0004_provider_update_status.sql",
+    "relative_path": "docs/database/assets/evidence/0004_provider_update_status.sql",
+    "sha256": "bf92788ed13dd0ffd60a8f21b25f84627976f5e9b46e27f98b00f4062a4cbe0a",
+    "bytes": 1041
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/0005_quality_alignment.sql",
+    "relative_path": "docs/database/assets/evidence/0005_quality_alignment.sql",
+    "sha256": "afc5d564ed54adf9cf353865f0859f414469016b02823707f3d872453608da65",
+    "bytes": 17214
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/a2_sources.json",
+    "relative_path": "docs/database/assets/evidence/a2_sources.json",
+    "sha256": "a53addfbf7a0b2733bdcedaabf6c85dad2c428d3afd05eeffbdf79af459393b2",
+    "bytes": 2224
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/a3_quality.json",
+    "relative_path": "docs/database/assets/evidence/a3_quality.json",
+    "sha256": "0f4e803b19b129edd3d49be6466bcaf0e22eafb293001290c5893e23614bae5e",
+    "bytes": 1117
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/alignment.schema.json",
+    "relative_path": "docs/database/assets/evidence/alignment.schema.json",
+    "sha256": "7cf0f75151aaf3b1e73da9091ad225abaeee979aba5a1a4aa48d3bd5fff91f66",
+    "bytes": 4755
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/iot-packet.schema.json",
+    "relative_path": "docs/database/assets/evidence/iot-packet.schema.json",
+    "sha256": "1a03ae7fad5b1d3a4f328b879cd68e432544ebeed819f77fa97437aa627581c4",
+    "bytes": 1118
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/normalized.schema.json",
+    "relative_path": "docs/database/assets/evidence/normalized.schema.json",
+    "sha256": "e3d1605ce38afb2c77cee8ca3a669f3dfbb32ebce927155c65429b74d1b13309",
+    "bytes": 24251
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/schema-metadata-20261022.json",
+    "relative_path": "docs/database/assets/evidence/schema-metadata-20261022.json",
+    "sha256": "a3820e14e23a4d4c06e5eda52fb955b57da494656874601dbd82d04868c935e4",
+    "bytes": 180874
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/evidence/source.schema.json",
+    "relative_path": "docs/database/assets/evidence/source.schema.json",
+    "sha256": "818d451814b97aba7d40d75576d60e5c0a72aea4e110cee900cff795fc7aab08",
+    "bytes": 14772
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/ACCEPTANCE.md",
+    "relative_path": "docs/database/assets/generated/ACCEPTANCE.md",
+    "sha256": "6d61b558a0012419762d04023a677bc3463f8e817279433f76ceff48ab6eceb5",
+    "bytes": 2585
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/build_docs.py",
+    "relative_path": "docs/database/assets/generated/build_docs.py",
+    "sha256": "4dc3c4e3bf005e2900cd44f1b558998097ff006b5b685d050a0c56119f0e4a90",
+    "bytes": 126452
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/coverage.json",
+    "relative_path": "docs/database/assets/generated/coverage.json",
+    "sha256": "e1d149719f7049255e69bb5e8f6ea96ba0195027b4f5c8ca49173eba0ebb7b1a",
+    "bytes": 408
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/local-dataset-inventory.json",
+    "relative_path": "docs/database/assets/generated/local-dataset-inventory.json",
+    "sha256": "9102087242e7387721b098cfd0d19adacf686f3e2470b8c6e566e12a1e83e198",
+    "bytes": 13001
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/offline-tests.txt",
+    "relative_path": "docs/database/assets/generated/offline-tests.txt",
+    "sha256": "5647cc551e3b5a79220b79d679b867503ee6fbbad57a38b08d5e00bd1190247d",
+    "bytes": 5623
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/pdf-contact-sheet.png",
+    "relative_path": "docs/database/assets/generated/pdf-contact-sheet.png",
+    "sha256": "80aa04cffd77181d1e1dbaa689c87bc930520fe6d6e06f59d33d9d5c57ff2352",
+    "bytes": 728001
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/pdf-validation.json",
+    "relative_path": "docs/database/assets/generated/pdf-validation.json",
+    "sha256": "22e88e4713685faf36d521eada2a8e821092482fc6c2f8fd8bed68a62b3a6f91",
+    "bytes": 547
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/render_pdf.py",
+    "relative_path": "docs/database/assets/generated/render_pdf.py",
+    "sha256": "032ed8e759bb73ce9117959f4553480e5a37168a0793b9a3debcfdd47226f47f",
+    "bytes": 12898
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/source-manifest.json",
+    "relative_path": "docs/database/assets/generated/source-manifest.json",
+    "sha256": "f26db7f3069e3f5226315ec66f7d34a38127935dea3d2e33ab46e254623f8f95",
+    "bytes": 40135
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/validate.py",
+    "relative_path": "docs/database/assets/generated/validate.py",
+    "sha256": "f55973712d1516eb1d8b7340e82fa7478f9836f7f8f2dd5532ec30b01c1cc374",
+    "bytes": 5302
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/assets/generated/validation.json",
+    "relative_path": "docs/database/assets/generated/validation.json",
+    "sha256": "2151d008dac6875552c0f6e1be82af9bc3083f93714b47b38b8c7aa3977c51af",
+    "bytes": 1815
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/DATABASE_DOCUMENTATION.md",
+    "relative_path": "docs/database/en/DATABASE_DOCUMENTATION.md",
+    "sha256": "94076339f6dc2c4bea26d34ae741d75551c8f548d16f4ca56e04454a2c2b2acd",
+    "bytes": 644977
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/DATABASE_DOCUMENTATION.pdf",
+    "relative_path": "docs/database/en/DATABASE_DOCUMENTATION.pdf",
+    "sha256": "78af3c2adf0c565894876ccf5d3dd6bf6d1604389cbab688ea7df438a88489f0",
+    "bytes": 868265
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/architecture/DATA_DEPENDENCIES.md",
+    "relative_path": "docs/database/en/architecture/DATA_DEPENDENCIES.md",
+    "sha256": "ad53ebf6c1b4a262851dab94230037eeb962d399ad17d5f512b8add7844ba147",
+    "bytes": 9374
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/architecture/DATA_FLOW.md",
+    "relative_path": "docs/database/en/architecture/DATA_FLOW.md",
+    "sha256": "46cdb8e694fead1f6f671aead4fedc591abe9f763fa2d46c57b8f65183992326",
+    "bytes": 2268
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/architecture/DATA_LIFECYCLE.md",
+    "relative_path": "docs/database/en/architecture/DATA_LIFECYCLE.md",
+    "sha256": "27efb046a68087b74cf2e9dfe0bab94d7e67068cc04a09dab70134fc661b5f28",
+    "bytes": 3520
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/architecture/ERD.md",
+    "relative_path": "docs/database/en/architecture/ERD.md",
+    "sha256": "62fdbb8a37b7c4f1f87af23633f1964a9b889edb510da33fc6123d6b7b8462ab",
+    "bytes": 33843
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/audit/DATA_QUALITY_AUDIT.md",
+    "relative_path": "docs/database/en/audit/DATA_QUALITY_AUDIT.md",
+    "sha256": "d4d86affad3c8087ffc7fe389ba87875fa11adc964638134aa6f70a478769ef4",
+    "bytes": 6382
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/contracts/DATA_CONTRACTS.md",
+    "relative_path": "docs/database/en/contracts/DATA_CONTRACTS.md",
+    "sha256": "2081c6c63a1e31b2c8e977e63d2cd0ffdb4b196e27be61460d7945e476afc25b",
+    "bytes": 110173
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/pipelines/DATA_LINEAGE.md",
+    "relative_path": "docs/database/en/pipelines/DATA_LINEAGE.md",
+    "sha256": "2fba9a61ea69ff787215522391bf5fe93ccb95d91fd12977c68de291b47306fd",
+    "bytes": 4551
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/pipelines/INGESTION_PIPELINES.md",
+    "relative_path": "docs/database/en/pipelines/INGESTION_PIPELINES.md",
+    "sha256": "bf6d3ba813665379a811c9b04b4d0488d9bf6c8e29d9409949de173ae1803791",
+    "bytes": 4940
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/pipelines/SOURCE_TO_TARGET_MAPPING.md",
+    "relative_path": "docs/database/en/pipelines/SOURCE_TO_TARGET_MAPPING.md",
+    "sha256": "97a9769fc828b9e9d1108e055d491058dcc06b16963a100ce850fde045b3153d",
+    "bytes": 66517
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/schemas/DATABASE_INVENTORY.md",
+    "relative_path": "docs/database/en/schemas/DATABASE_INVENTORY.md",
+    "sha256": "3dbd65a12b606fe66161c9636ec0ae189bd8e310738aa92c65eca4a769b9c013",
+    "bytes": 9419
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/schemas/DATA_DICTIONARY.md",
+    "relative_path": "docs/database/en/schemas/DATA_DICTIONARY.md",
+    "sha256": "7047d4b6e54c0566eee71775cefec23c5029f1e8af9cc38e4fef857603a541a8",
+    "bytes": 313001
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/en/schemas/ENTITY_RELATIONSHIPS.md",
+    "relative_path": "docs/database/en/schemas/ENTITY_RELATIONSHIPS.md",
+    "sha256": "6db857eef724adb90d7199a03f8370c88e2d80857f2d9026cc687d7e920ecba0",
+    "bytes": 35507
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/DOKUMENTASI_DATABASE.md",
+    "relative_path": "docs/database/id/DOKUMENTASI_DATABASE.md",
+    "sha256": "537dd129ff98b5f15140fe168741e905c7dc648d15f332accb327c01762865b3",
+    "bytes": 640197
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/DOKUMENTASI_DATABASE.pdf",
+    "relative_path": "docs/database/id/DOKUMENTASI_DATABASE.pdf",
+    "sha256": "6a99c37848f51603c1bae9e779ed08293a2698ee77d460509143ad74d7a01d91",
+    "bytes": 874421
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/architecture/ALIRAN_DATA.md",
+    "relative_path": "docs/database/id/architecture/ALIRAN_DATA.md",
+    "sha256": "67654fb29a70cdb88ceaeb7010fd730b3709b268d60d453f3c523c040e2045a1",
+    "bytes": 2276
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/architecture/DEPENDENSI_DATA.md",
+    "relative_path": "docs/database/id/architecture/DEPENDENSI_DATA.md",
+    "sha256": "20873e0c3f409fa2acbac562b61d487abd49ee04650c003bc7ba648d6975452f",
+    "bytes": 9406
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/architecture/ERD.md",
+    "relative_path": "docs/database/id/architecture/ERD.md",
+    "sha256": "5a3cc4f3157acbf0537d80b1afed448f98949e3f703cb3c1150b9001d10a4e80",
+    "bytes": 33849
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/architecture/SIKLUS_HIDUP_DATA.md",
+    "relative_path": "docs/database/id/architecture/SIKLUS_HIDUP_DATA.md",
+    "sha256": "8ee5f34c87d37f46634d9bb41457d271fd24c52d2444d272fc11adfcbb09dc60",
+    "bytes": 3393
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/audit/AUDIT_KUALITAS_DATA.md",
+    "relative_path": "docs/database/id/audit/AUDIT_KUALITAS_DATA.md",
+    "sha256": "e9bf7fd3b738d30bc5e0de62ba857796a5797341cacd574160111e0487a8cd99",
+    "bytes": 6387
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/contracts/KONTRAK_DATA.md",
+    "relative_path": "docs/database/id/contracts/KONTRAK_DATA.md",
+    "sha256": "67d14acc397eac8024ba0c40bb026fe5d18b0b7dccad765b9942c5eed3be2eed",
+    "bytes": 110251
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/pipelines/ALUR_ASAL_DATA.md",
+    "relative_path": "docs/database/id/pipelines/ALUR_ASAL_DATA.md",
+    "sha256": "47134cb3556b8b695ff9e224fca1354c343bdc403cd540a02752b23c0651d5c2",
+    "bytes": 4525
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/pipelines/PEMETAAN_SUMBER_TUJUAN.md",
+    "relative_path": "docs/database/id/pipelines/PEMETAAN_SUMBER_TUJUAN.md",
+    "sha256": "c15138a4312a41726923d9a58d586d21984ff49a582609347df55b163c0a2f56",
+    "bytes": 66502
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/pipelines/PIPELINE_INGESTI.md",
+    "relative_path": "docs/database/id/pipelines/PIPELINE_INGESTI.md",
+    "sha256": "db4976aafd5695c48a69098b4fbf35dd04dba72908914664d410a13ff7772b1f",
+    "bytes": 4875
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/schemas/INVENTARIS_DATABASE.md",
+    "relative_path": "docs/database/id/schemas/INVENTARIS_DATABASE.md",
+    "sha256": "b3b2aa873ac6c971574b4401c02cbb758a658137328dae2feeff556f01751503",
+    "bytes": 9344
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/schemas/KAMUS_DATA.md",
+    "relative_path": "docs/database/id/schemas/KAMUS_DATA.md",
+    "sha256": "7d310b6999675defbf0e6fc1d861e0e717b09bf3f9e186cc9c38b19760c321c6",
+    "bytes": 308257
+  },
+  {
+    "path": "/Users/cindyram/Documents/Apple/Seagis-Database/docs/database/id/schemas/RELASI_ENTITAS.md",
+    "relative_path": "docs/database/id/schemas/RELASI_ENTITAS.md",
+    "sha256": "713352e47269df4cb23a8d2de78d9ab84c204b304b501168bfb09c0b56cad505",
+    "bytes": 35593
+  }
+]

@@ -1,0 +1,12 @@
+flowchart TD
+    claim["claim / 20 min lease"]
+    fetch["bounded provider fetch"]
+    parse["units + coordinates + cadence"]
+    normal["dedupe + semantic run_key"]
+    persist["atomic persist / metadata_only"]
+    next["schedule due / failure backoff"]
+    claim --> fetch
+    fetch --> parse
+    parse --> normal
+    normal --> persist
+    persist --> next

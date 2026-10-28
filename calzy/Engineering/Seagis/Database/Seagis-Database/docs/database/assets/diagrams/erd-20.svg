@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="163" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 163" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="163"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-163)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="10" width="294.2198425196851" height="148" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="0" y="135" width="294.2198425196851" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="6" y="143" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,286) scale(1,-1)">seagis_environment.demo_grid_mapping</text>
+			<text x="6" y="122" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,244) scale(1,-1)">plot_id : uuid [PK,FK]</text>
+			<text x="6" y="112" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,224) scale(1,-1)">plot_is_synthetic : boolean [FK]</text>
+			<text x="6" y="102" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,204) scale(1,-1)">source_grid_id : uuid [PK,FK]</text>
+			<text x="6" y="92" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,184) scale(1,-1)">dataset_key : text [FK]</text>
+			<text x="6" y="82" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,164) scale(1,-1)">grid_is_synthetic : boolean [FK]</text>
+			<text x="6" y="72" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,144) scale(1,-1)">example_latitude : finite_float</text>
+			<text x="6" y="62" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,124) scale(1,-1)">example_longitude : finite_float</text>
+			<text x="6" y="52" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,104) scale(1,-1)">coordinate_status : text</text>
+			<text x="6" y="42" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,84) scale(1,-1)">distance_m : finite_float</text>
+			<text x="6" y="32" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,64) scale(1,-1)">sampling_method : text</text>
+			<text x="6" y="22" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,44) scale(1,-1)">created_at : timestamptz</text>
+			<rect x="324.2198425196851" y="110" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="125" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,250) scale(1,-1)">seagis_environment.policy</text>
+			<text x="328.2198425196851" y="115" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,230) scale(1,-1)">1 parent / 0..N child</text>
+			<path d="M 294.219843,123 L 324.219843,123 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 123, 319.2198 126, 319.2198 120" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<rect x="324.2198425196851" y="76" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="91" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,182) scale(1,-1)">seagis.plot</text>
+			<text x="328.2198425196851" y="81" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">1 parent / 0..N child</text>
+			<path d="M 294.219843,89 L 324.219843,89 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 89, 319.2198 92, 319.2198 86" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<rect x="324.2198425196851" y="42" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="57" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,114) scale(1,-1)">seagis.source_grid</text>
+			<text x="328.2198425196851" y="47" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,94) scale(1,-1)">1 parent / 0..N child</text>
+			<path d="M 294.219843,55 L 324.219843,55 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 55, 319.2198 58, 319.2198 52" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

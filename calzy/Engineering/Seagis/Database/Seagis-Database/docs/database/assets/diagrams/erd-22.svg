@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="143" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 143" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="143"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-143)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="10" width="294.2198425196851" height="128" style="stroke: rgb(47%,58%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,98%); fill-rule: evenodd;"/>
+			<rect x="0" y="115" width="294.2198425196851" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,30%,40%); fill-rule: evenodd;"/>
+			<text x="6" y="123" style="font-family: DocBold; font-size: 8.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,246) scale(1,-1)">seagis_environment.schedule_state</text>
+			<text x="6" y="102" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,204) scale(1,-1)">dataset_key : text [PK,FK]</text>
+			<text x="6" y="92" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,184) scale(1,-1)">lease_id : uuid</text>
+			<text x="6" y="82" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,164) scale(1,-1)">lease_until : timestamptz</text>
+			<text x="6" y="72" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,144) scale(1,-1)">next_attempt_at : timestamptz</text>
+			<text x="6" y="62" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,124) scale(1,-1)">last_success_at : timestamptz</text>
+			<text x="6" y="52" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,104) scale(1,-1)">last_attempt_at : timestamptz</text>
+			<text x="6" y="42" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,84) scale(1,-1)">last_error_code : text</text>
+			<text x="6" y="32" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,64) scale(1,-1)">failures : integer</text>
+			<text x="6" y="22" style="font-family: Doc; font-size: 7.2px;fill: rgb(9%,20%,28%); stroke:none;" transform="translate(0,44) scale(1,-1)">last_forecast_run_id : uuid [FK]</text>
+			<rect x="324.2198425196851" y="90" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="105" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,210) scale(1,-1)">seagis_environment.policy</text>
+			<text x="328.2198425196851" y="95" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,190) scale(1,-1)">1 parent / 0..1 child</text>
+			<path d="M 294.219843,103 L 324.219843,103 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 103, 319.2198 106, 319.2198 100" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+			<rect x="324.2198425196851" y="56" width="181.05574803149608" height="27" style="stroke: rgb(76%,67%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,95%,90%); fill-rule: evenodd;"/>
+			<text x="328.2198425196851" y="71" style="font-family: DocBold; font-size: 7.1px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,142) scale(1,-1)">seagis.forecast_run</text>
+			<text x="328.2198425196851" y="61" style="font-family: Doc; font-size: 6.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,122) scale(1,-1)">0..1 parent / 0..N child</text>
+			<path d="M 294.219843,69 L 324.219843,69 Z" style="stroke: rgb(34%,53%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="324.2198 69, 319.2198 72, 319.2198 66" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,53%,60%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

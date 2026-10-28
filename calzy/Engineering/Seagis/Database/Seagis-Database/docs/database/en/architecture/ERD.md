@@ -1,0 +1,1025 @@
+# ERD
+
+Version: 1.0.0 | Date: 2026-10-27
+
+[Complete document](../DATABASE_DOCUMENTATION.md) | [README](../../README.md)
+
+The complete ERD contains every physical-table column; PK/FK/UK retain physical names. FK1–FK47 are explained in Chapter 5. Node IDs use underscores for Mermaid syntax only; labels retain schema.table. current_speed is documented separately because it has no physical FKs.
+
+
+```mermaid
+erDiagram
+    seagis_dataset["seagis.dataset"] {
+        text dataset_key PK
+        text source_key FK
+        text provider_product_id
+        text provider_dataset_id
+        text dataset_version
+        text scope
+        integer native_cadence_seconds
+        seagis_finite_float resolution_lat_deg
+        seagis_finite_float resolution_lon_deg
+        text source_timezone
+        text licence_url
+        text attribution
+        boolean raw_storage_permitted
+        boolean real_ingestion_enabled
+        timestamp_with_time_zone metadata_checked_at
+    }
+    seagis_dataset_parameter["seagis.dataset_parameter"] {
+        text dataset_key PK,FK
+        text parameter_code PK,FK
+        text source_variable
+        text native_unit
+        text unit FK
+        text conversion_code
+        seagis_finite_float conversion_factor
+        seagis_finite_float conversion_offset
+        text temporal_support
+    }
+    seagis_forecast_run["seagis.forecast_run"] {
+        uuid id PK
+        text dataset_key FK
+        text scope FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text run_key
+        text run_kind
+        text provider_run_id
+        timestamp_with_time_zone model_initialized_at
+        timestamp_with_time_zone issued_at
+        text issue_time_basis
+        timestamp_with_time_zone ingested_at
+    }
+    seagis_forecast_value["seagis.forecast_value"] {
+        uuid id PK
+        uuid forecast_run_id FK
+        uuid source_grid_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone valid_at
+        timestamp_with_time_zone ingested_at
+        text temporal_support
+        text interval_status
+        timestamp_with_time_zone period_start_at
+        timestamp_with_time_zone period_end_at
+        text quality_status
+    }
+    seagis_ingestion_run["seagis.ingestion_run"] {
+        uuid id PK
+        text dataset_key FK
+        text request_key
+        text adapter_version
+        timestamp_with_time_zone started_at
+        timestamp_with_time_zone completed_at
+        text status
+        boolean is_synthetic
+        text error_code
+    }
+    seagis_observation["seagis.observation"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid sensor_id FK
+        text dataset_key FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text source_record_key
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone observed_at
+        timestamp_with_time_zone ingested_at
+        text quality_status
+    }
+    seagis_parameter["seagis.parameter"] {
+        text parameter_code PK
+        text unit
+        text description
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_plot_grid_mapping["seagis.plot_grid_mapping"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid source_grid_id FK
+        boolean is_synthetic FK
+        text sampling_method
+        seagis_finite_float distance_m
+        text representativeness
+        timestamp_with_time_zone effective_from
+        timestamp_with_time_zone effective_until
+        timestamp_with_time_zone recorded_at
+    }
+    seagis_quality_event["seagis.quality_event"] {
+        uuid id PK
+        uuid ingestion_run_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text event_key
+        uuid observation_id FK
+        uuid forecast_value_id FK
+        text event_code
+        text severity
+        jsonb details
+        timestamp_with_time_zone created_at
+    }
+    seagis_sensor["seagis.sensor"] {
+        uuid id PK
+        text sensor_code UK
+        uuid plot_id FK
+        text dataset_key FK
+        text scope FK
+        text parameter_code FK
+        seagis_finite_float depth_m
+        text depth_status
+        boolean is_synthetic FK
+        boolean active
+    }
+    seagis_source["seagis.source"] {
+        text source_key PK
+        text provider
+        text documentation_url
+    }
+    seagis_source_grid["seagis.source_grid"] {
+        uuid id PK
+        text dataset_key FK
+        text scope FK
+        text grid_key
+        text grid_version
+        text identity_basis
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        seagis_finite_float depth_m
+        boolean is_synthetic
+    }
+    seagis_api_credential["seagis_api.credential"] {
+        uuid id PK
+        text label
+        text token_sha256 UK
+        text kind
+        uuid sensor_id FK
+        timestamp_with_time_zone created_at
+        timestamp_with_time_zone expires_at
+        timestamp_with_time_zone revoked_at
+    }
+    seagis_api_packet_receipt["seagis_api.packet_receipt"] {
+        uuid sensor_id PK,FK
+        text source_record_key PK
+        text semantic_sha256
+        uuid observation_id FK,UK
+        uuid ingestion_run_id FK
+        text__ flags
+    }
+    seagis_api_reader_plot["seagis_api.reader_plot"] {
+        uuid credential_id PK,FK
+        uuid plot_id PK,FK
+    }
+    seagis_api_request_event["seagis_api.request_event"] {
+        uuid id PK
+        uuid credential_id FK
+        uuid sensor_id FK
+        integer http_status
+        text code
+        timestamp_with_time_zone created_at
+    }
+    seagis_api_temperature_policy["seagis_api.temperature_policy"] {
+        boolean id PK
+        text version
+        double_precision min_degc
+        double_precision max_degc
+        double_precision max_step_degc
+        integer future_tolerance_seconds
+        integer stale_after_seconds
+        integer requests_per_minute
+    }
+    seagis_environment_attempt["seagis_environment.attempt"] {
+        uuid id PK
+        text dataset_key FK
+        timestamp_with_time_zone started_at
+        timestamp_with_time_zone completed_at
+        text status
+        text error_code
+        uuid forecast_run_id FK
+    }
+    seagis_environment_demo_grid_mapping["seagis_environment.demo_grid_mapping"] {
+        uuid plot_id PK,FK
+        boolean plot_is_synthetic FK
+        uuid source_grid_id PK,FK
+        text dataset_key FK
+        boolean grid_is_synthetic FK
+        seagis_finite_float example_latitude
+        seagis_finite_float example_longitude
+        text coordinate_status
+        seagis_finite_float distance_m
+        text sampling_method
+        timestamp_with_time_zone created_at
+    }
+    seagis_environment_policy["seagis_environment.policy"] {
+        text dataset_key PK,FK
+        boolean enabled
+        text purpose
+        text licence_url
+        text terms_review
+        text attribution
+        integer update_seconds
+        integer release_offset_seconds
+        integer stale_seconds
+        text retention_mode
+        timestamp_with_time_zone reviewed_at
+    }
+    seagis_environment_schedule_state["seagis_environment.schedule_state"] {
+        text dataset_key PK,FK
+        uuid lease_id
+        timestamp_with_time_zone lease_until
+        timestamp_with_time_zone next_attempt_at
+        timestamp_with_time_zone last_success_at
+        timestamp_with_time_zone last_attempt_at
+        text last_error_code
+        integer failures
+        uuid last_forecast_run_id FK
+    }
+    seagis_features_feature_input["seagis_features.feature_input"] {
+        uuid id PK
+        uuid snapshot_id FK
+        uuid observation_id FK
+        uuid forecast_value_id FK
+    }
+    seagis_features_feature_snapshot["seagis_features.feature_snapshot"] {
+        uuid id PK
+        uuid plot_id FK
+        boolean is_synthetic FK
+        timestamp_with_time_zone as_of
+        timestamp_with_time_zone generated_at
+        text feature_version
+        text feature_schema_version
+        jsonb features
+        text__ missing_context
+        text status
+        text input_manifest_sha256
+        text features_sha256
+    }
+    seagis_quality_alignment_snapshot["seagis_quality.alignment_snapshot"] {
+        uuid id PK
+        uuid plot_id FK
+        text mode
+        timestamp_with_time_zone start_at
+        timestamp_with_time_zone end_at
+        text policy_version FK
+        text source_sha256
+        text input_manifest_sha256
+        jsonb body
+        text body_sha256
+        timestamp_with_time_zone created_at
+    }
+    seagis_quality_policy["seagis_quality.policy"] {
+        text version PK
+        jsonb definition
+        text policy_sha256
+        text code_sha256
+        timestamp_with_time_zone registered_at
+    }
+    seagis_quality_snapshot_input["seagis_quality.snapshot_input"] {
+        uuid snapshot_id PK,FK
+        timestamp_with_time_zone aligned_at PK
+        text source_ref PK
+        uuid observation_id FK
+        uuid forecast_value_id FK
+    }
+    seagis_raw_raw_payload["seagis_raw.raw_payload"] {
+        uuid id PK
+        uuid ingestion_run_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text sha256
+        text hash_basis
+        timestamp_with_time_zone received_at
+        text storage_mode
+        jsonb payload
+        text object_uri
+        bigint byte_size
+        text format
+        text licence_snapshot
+        jsonb provider_metadata
+    }
+    seagis_source ||--o{ seagis_dataset : "FK1"
+    seagis_dataset ||--o{ seagis_dataset_parameter : "FK2"
+    seagis_parameter ||--o{ seagis_dataset_parameter : "FK3"
+    seagis_dataset ||--o{ seagis_forecast_run : "FK4"
+    seagis_raw_raw_payload ||--o{ seagis_forecast_run : "FK5"
+    seagis_dataset_parameter ||--o{ seagis_forecast_value : "FK6"
+    seagis_forecast_run ||--o{ seagis_forecast_value : "FK7"
+    seagis_source_grid ||--o{ seagis_forecast_value : "FK8"
+    seagis_dataset ||--o{ seagis_ingestion_run : "FK9"
+    seagis_dataset_parameter ||--o{ seagis_observation : "FK10"
+    seagis_raw_raw_payload ||--o{ seagis_observation : "FK11"
+    seagis_sensor ||--o{ seagis_observation : "FK12"
+    seagis_plot ||--o{ seagis_plot_grid_mapping : "FK13"
+    seagis_source_grid ||--o{ seagis_plot_grid_mapping : "FK14"
+    seagis_forecast_value |o--o{ seagis_quality_event : "FK15"
+    seagis_ingestion_run ||--o{ seagis_quality_event : "FK16"
+    seagis_observation |o--o{ seagis_quality_event : "FK17"
+    seagis_dataset_parameter ||--o{ seagis_sensor : "FK18"
+    seagis_dataset ||--o{ seagis_sensor : "FK19"
+    seagis_plot ||--o{ seagis_sensor : "FK20"
+    seagis_dataset ||--o{ seagis_source_grid : "FK21"
+    seagis_sensor |o--o{ seagis_api_credential : "FK22"
+    seagis_ingestion_run ||--o{ seagis_api_packet_receipt : "FK23"
+    seagis_observation ||--o| seagis_api_packet_receipt : "FK24"
+    seagis_sensor ||--o{ seagis_api_packet_receipt : "FK25"
+    seagis_api_credential ||--o{ seagis_api_reader_plot : "FK26"
+    seagis_plot ||--o{ seagis_api_reader_plot : "FK27"
+    seagis_api_credential ||--o{ seagis_api_request_event : "FK28"
+    seagis_sensor |o--o{ seagis_api_request_event : "FK29"
+    seagis_environment_policy ||--o{ seagis_environment_attempt : "FK30"
+    seagis_forecast_run |o--o{ seagis_environment_attempt : "FK31"
+    seagis_environment_policy ||--o{ seagis_environment_demo_grid_mapping : "FK32"
+    seagis_plot ||--o{ seagis_environment_demo_grid_mapping : "FK33"
+    seagis_source_grid ||--o{ seagis_environment_demo_grid_mapping : "FK34"
+    seagis_dataset ||--o| seagis_environment_policy : "FK35"
+    seagis_environment_policy ||--o| seagis_environment_schedule_state : "FK36"
+    seagis_forecast_run |o--o{ seagis_environment_schedule_state : "FK37"
+    seagis_forecast_value |o--o{ seagis_features_feature_input : "FK38"
+    seagis_observation |o--o{ seagis_features_feature_input : "FK39"
+    seagis_features_feature_snapshot ||--o{ seagis_features_feature_input : "FK40"
+    seagis_plot ||--o{ seagis_features_feature_snapshot : "FK41"
+    seagis_plot ||--o{ seagis_quality_alignment_snapshot : "FK42"
+    seagis_quality_policy ||--o{ seagis_quality_alignment_snapshot : "FK43"
+    seagis_forecast_value |o--o{ seagis_quality_snapshot_input : "FK44"
+    seagis_observation |o--o{ seagis_quality_snapshot_input : "FK45"
+    seagis_quality_alignment_snapshot ||--o{ seagis_quality_snapshot_input : "FK46"
+    seagis_ingestion_run ||--o{ seagis_raw_raw_payload : "FK47"
+```
+
+### seagis
+
+
+```mermaid
+erDiagram
+    seagis_dataset["seagis.dataset"] {
+        text dataset_key PK
+        text source_key FK
+        text provider_product_id
+        text provider_dataset_id
+        text dataset_version
+        text scope
+        integer native_cadence_seconds
+        seagis_finite_float resolution_lat_deg
+        seagis_finite_float resolution_lon_deg
+        text source_timezone
+        text licence_url
+        text attribution
+        boolean raw_storage_permitted
+        boolean real_ingestion_enabled
+        timestamp_with_time_zone metadata_checked_at
+    }
+    seagis_dataset_parameter["seagis.dataset_parameter"] {
+        text dataset_key PK,FK
+        text parameter_code PK,FK
+        text source_variable
+        text native_unit
+        text unit FK
+        text conversion_code
+        seagis_finite_float conversion_factor
+        seagis_finite_float conversion_offset
+        text temporal_support
+    }
+    seagis_forecast_run["seagis.forecast_run"] {
+        uuid id PK
+        text dataset_key FK
+        text scope FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text run_key
+        text run_kind
+        text provider_run_id
+        timestamp_with_time_zone model_initialized_at
+        timestamp_with_time_zone issued_at
+        text issue_time_basis
+        timestamp_with_time_zone ingested_at
+    }
+    seagis_forecast_value["seagis.forecast_value"] {
+        uuid id PK
+        uuid forecast_run_id FK
+        uuid source_grid_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone valid_at
+        timestamp_with_time_zone ingested_at
+        text temporal_support
+        text interval_status
+        timestamp_with_time_zone period_start_at
+        timestamp_with_time_zone period_end_at
+        text quality_status
+    }
+    seagis_ingestion_run["seagis.ingestion_run"] {
+        uuid id PK
+        text dataset_key FK
+        text request_key
+        text adapter_version
+        timestamp_with_time_zone started_at
+        timestamp_with_time_zone completed_at
+        text status
+        boolean is_synthetic
+        text error_code
+    }
+    seagis_observation["seagis.observation"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid sensor_id FK
+        text dataset_key FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text source_record_key
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone observed_at
+        timestamp_with_time_zone ingested_at
+        text quality_status
+    }
+    seagis_parameter["seagis.parameter"] {
+        text parameter_code PK
+        text unit
+        text description
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_plot_grid_mapping["seagis.plot_grid_mapping"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid source_grid_id FK
+        boolean is_synthetic FK
+        text sampling_method
+        seagis_finite_float distance_m
+        text representativeness
+        timestamp_with_time_zone effective_from
+        timestamp_with_time_zone effective_until
+        timestamp_with_time_zone recorded_at
+    }
+    seagis_quality_event["seagis.quality_event"] {
+        uuid id PK
+        uuid ingestion_run_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text event_key
+        uuid observation_id FK
+        uuid forecast_value_id FK
+        text event_code
+        text severity
+        jsonb details
+        timestamp_with_time_zone created_at
+    }
+    seagis_sensor["seagis.sensor"] {
+        uuid id PK
+        text sensor_code UK
+        uuid plot_id FK
+        text dataset_key FK
+        text scope FK
+        text parameter_code FK
+        seagis_finite_float depth_m
+        text depth_status
+        boolean is_synthetic FK
+        boolean active
+    }
+    seagis_source["seagis.source"] {
+        text source_key PK
+        text provider
+        text documentation_url
+    }
+    seagis_source_grid["seagis.source_grid"] {
+        uuid id PK
+        text dataset_key FK
+        text scope FK
+        text grid_key
+        text grid_version
+        text identity_basis
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        seagis_finite_float depth_m
+        boolean is_synthetic
+    }
+    seagis_raw_raw_payload["seagis_raw.raw_payload"] {
+        uuid id PK
+        uuid ingestion_run_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text sha256
+        text hash_basis
+        timestamp_with_time_zone received_at
+        text storage_mode
+        jsonb payload
+        text object_uri
+        bigint byte_size
+        text format
+        text licence_snapshot
+        jsonb provider_metadata
+    }
+    seagis_source ||--o{ seagis_dataset : "FK1"
+    seagis_dataset ||--o{ seagis_dataset_parameter : "FK2"
+    seagis_parameter ||--o{ seagis_dataset_parameter : "FK3"
+    seagis_dataset ||--o{ seagis_forecast_run : "FK4"
+    seagis_raw_raw_payload ||--o{ seagis_forecast_run : "FK5"
+    seagis_dataset_parameter ||--o{ seagis_forecast_value : "FK6"
+    seagis_forecast_run ||--o{ seagis_forecast_value : "FK7"
+    seagis_source_grid ||--o{ seagis_forecast_value : "FK8"
+    seagis_dataset ||--o{ seagis_ingestion_run : "FK9"
+    seagis_dataset_parameter ||--o{ seagis_observation : "FK10"
+    seagis_raw_raw_payload ||--o{ seagis_observation : "FK11"
+    seagis_sensor ||--o{ seagis_observation : "FK12"
+    seagis_plot ||--o{ seagis_plot_grid_mapping : "FK13"
+    seagis_source_grid ||--o{ seagis_plot_grid_mapping : "FK14"
+    seagis_forecast_value |o--o{ seagis_quality_event : "FK15"
+    seagis_ingestion_run ||--o{ seagis_quality_event : "FK16"
+    seagis_observation |o--o{ seagis_quality_event : "FK17"
+    seagis_dataset_parameter ||--o{ seagis_sensor : "FK18"
+    seagis_dataset ||--o{ seagis_sensor : "FK19"
+    seagis_plot ||--o{ seagis_sensor : "FK20"
+    seagis_dataset ||--o{ seagis_source_grid : "FK21"
+    seagis_ingestion_run ||--o{ seagis_raw_raw_payload : "FK47"
+```
+
+### seagis_api
+
+
+```mermaid
+erDiagram
+    seagis_ingestion_run["seagis.ingestion_run"] {
+        uuid id PK
+        text dataset_key FK
+        text request_key
+        text adapter_version
+        timestamp_with_time_zone started_at
+        timestamp_with_time_zone completed_at
+        text status
+        boolean is_synthetic
+        text error_code
+    }
+    seagis_observation["seagis.observation"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid sensor_id FK
+        text dataset_key FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text source_record_key
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone observed_at
+        timestamp_with_time_zone ingested_at
+        text quality_status
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_sensor["seagis.sensor"] {
+        uuid id PK
+        text sensor_code UK
+        uuid plot_id FK
+        text dataset_key FK
+        text scope FK
+        text parameter_code FK
+        seagis_finite_float depth_m
+        text depth_status
+        boolean is_synthetic FK
+        boolean active
+    }
+    seagis_api_credential["seagis_api.credential"] {
+        uuid id PK
+        text label
+        text token_sha256 UK
+        text kind
+        uuid sensor_id FK
+        timestamp_with_time_zone created_at
+        timestamp_with_time_zone expires_at
+        timestamp_with_time_zone revoked_at
+    }
+    seagis_api_packet_receipt["seagis_api.packet_receipt"] {
+        uuid sensor_id PK,FK
+        text source_record_key PK
+        text semantic_sha256
+        uuid observation_id FK,UK
+        uuid ingestion_run_id FK
+        text__ flags
+    }
+    seagis_api_reader_plot["seagis_api.reader_plot"] {
+        uuid credential_id PK,FK
+        uuid plot_id PK,FK
+    }
+    seagis_api_request_event["seagis_api.request_event"] {
+        uuid id PK
+        uuid credential_id FK
+        uuid sensor_id FK
+        integer http_status
+        text code
+        timestamp_with_time_zone created_at
+    }
+    seagis_api_temperature_policy["seagis_api.temperature_policy"] {
+        boolean id PK
+        text version
+        double_precision min_degc
+        double_precision max_degc
+        double_precision max_step_degc
+        integer future_tolerance_seconds
+        integer stale_after_seconds
+        integer requests_per_minute
+    }
+    seagis_sensor ||--o{ seagis_observation : "FK12"
+    seagis_plot ||--o{ seagis_sensor : "FK20"
+    seagis_sensor |o--o{ seagis_api_credential : "FK22"
+    seagis_ingestion_run ||--o{ seagis_api_packet_receipt : "FK23"
+    seagis_observation ||--o| seagis_api_packet_receipt : "FK24"
+    seagis_sensor ||--o{ seagis_api_packet_receipt : "FK25"
+    seagis_api_credential ||--o{ seagis_api_reader_plot : "FK26"
+    seagis_plot ||--o{ seagis_api_reader_plot : "FK27"
+    seagis_api_credential ||--o{ seagis_api_request_event : "FK28"
+    seagis_sensor |o--o{ seagis_api_request_event : "FK29"
+```
+
+### seagis_environment
+
+
+```mermaid
+erDiagram
+    seagis_dataset["seagis.dataset"] {
+        text dataset_key PK
+        text source_key FK
+        text provider_product_id
+        text provider_dataset_id
+        text dataset_version
+        text scope
+        integer native_cadence_seconds
+        seagis_finite_float resolution_lat_deg
+        seagis_finite_float resolution_lon_deg
+        text source_timezone
+        text licence_url
+        text attribution
+        boolean raw_storage_permitted
+        boolean real_ingestion_enabled
+        timestamp_with_time_zone metadata_checked_at
+    }
+    seagis_forecast_run["seagis.forecast_run"] {
+        uuid id PK
+        text dataset_key FK
+        text scope FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text run_key
+        text run_kind
+        text provider_run_id
+        timestamp_with_time_zone model_initialized_at
+        timestamp_with_time_zone issued_at
+        text issue_time_basis
+        timestamp_with_time_zone ingested_at
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_source_grid["seagis.source_grid"] {
+        uuid id PK
+        text dataset_key FK
+        text scope FK
+        text grid_key
+        text grid_version
+        text identity_basis
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        seagis_finite_float depth_m
+        boolean is_synthetic
+    }
+    seagis_environment_attempt["seagis_environment.attempt"] {
+        uuid id PK
+        text dataset_key FK
+        timestamp_with_time_zone started_at
+        timestamp_with_time_zone completed_at
+        text status
+        text error_code
+        uuid forecast_run_id FK
+    }
+    seagis_environment_demo_grid_mapping["seagis_environment.demo_grid_mapping"] {
+        uuid plot_id PK,FK
+        boolean plot_is_synthetic FK
+        uuid source_grid_id PK,FK
+        text dataset_key FK
+        boolean grid_is_synthetic FK
+        seagis_finite_float example_latitude
+        seagis_finite_float example_longitude
+        text coordinate_status
+        seagis_finite_float distance_m
+        text sampling_method
+        timestamp_with_time_zone created_at
+    }
+    seagis_environment_policy["seagis_environment.policy"] {
+        text dataset_key PK,FK
+        boolean enabled
+        text purpose
+        text licence_url
+        text terms_review
+        text attribution
+        integer update_seconds
+        integer release_offset_seconds
+        integer stale_seconds
+        text retention_mode
+        timestamp_with_time_zone reviewed_at
+    }
+    seagis_environment_schedule_state["seagis_environment.schedule_state"] {
+        text dataset_key PK,FK
+        uuid lease_id
+        timestamp_with_time_zone lease_until
+        timestamp_with_time_zone next_attempt_at
+        timestamp_with_time_zone last_success_at
+        timestamp_with_time_zone last_attempt_at
+        text last_error_code
+        integer failures
+        uuid last_forecast_run_id FK
+    }
+    seagis_dataset ||--o{ seagis_forecast_run : "FK4"
+    seagis_dataset ||--o{ seagis_source_grid : "FK21"
+    seagis_environment_policy ||--o{ seagis_environment_attempt : "FK30"
+    seagis_forecast_run |o--o{ seagis_environment_attempt : "FK31"
+    seagis_environment_policy ||--o{ seagis_environment_demo_grid_mapping : "FK32"
+    seagis_plot ||--o{ seagis_environment_demo_grid_mapping : "FK33"
+    seagis_source_grid ||--o{ seagis_environment_demo_grid_mapping : "FK34"
+    seagis_dataset ||--o| seagis_environment_policy : "FK35"
+    seagis_environment_policy ||--o| seagis_environment_schedule_state : "FK36"
+    seagis_forecast_run |o--o{ seagis_environment_schedule_state : "FK37"
+```
+
+### seagis_features
+
+
+```mermaid
+erDiagram
+    seagis_forecast_value["seagis.forecast_value"] {
+        uuid id PK
+        uuid forecast_run_id FK
+        uuid source_grid_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone valid_at
+        timestamp_with_time_zone ingested_at
+        text temporal_support
+        text interval_status
+        timestamp_with_time_zone period_start_at
+        timestamp_with_time_zone period_end_at
+        text quality_status
+    }
+    seagis_observation["seagis.observation"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid sensor_id FK
+        text dataset_key FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text source_record_key
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone observed_at
+        timestamp_with_time_zone ingested_at
+        text quality_status
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_features_feature_input["seagis_features.feature_input"] {
+        uuid id PK
+        uuid snapshot_id FK
+        uuid observation_id FK
+        uuid forecast_value_id FK
+    }
+    seagis_features_feature_snapshot["seagis_features.feature_snapshot"] {
+        uuid id PK
+        uuid plot_id FK
+        boolean is_synthetic FK
+        timestamp_with_time_zone as_of
+        timestamp_with_time_zone generated_at
+        text feature_version
+        text feature_schema_version
+        jsonb features
+        text__ missing_context
+        text status
+        text input_manifest_sha256
+        text features_sha256
+    }
+    seagis_forecast_value |o--o{ seagis_features_feature_input : "FK38"
+    seagis_observation |o--o{ seagis_features_feature_input : "FK39"
+    seagis_features_feature_snapshot ||--o{ seagis_features_feature_input : "FK40"
+    seagis_plot ||--o{ seagis_features_feature_snapshot : "FK41"
+```
+
+### seagis_quality
+
+
+```mermaid
+erDiagram
+    seagis_forecast_value["seagis.forecast_value"] {
+        uuid id PK
+        uuid forecast_run_id FK
+        uuid source_grid_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone valid_at
+        timestamp_with_time_zone ingested_at
+        text temporal_support
+        text interval_status
+        timestamp_with_time_zone period_start_at
+        timestamp_with_time_zone period_end_at
+        text quality_status
+    }
+    seagis_observation["seagis.observation"] {
+        uuid id PK
+        uuid plot_id FK
+        uuid sensor_id FK
+        text dataset_key FK
+        uuid ingestion_run_id FK
+        uuid raw_payload_id FK
+        boolean is_synthetic FK
+        text source_record_key
+        text parameter_code FK
+        seagis_finite_float native_value
+        text native_unit FK
+        seagis_finite_float value
+        text unit FK
+        text conversion_code FK
+        text value_status
+        seagis_finite_float detection_limit
+        timestamp_with_time_zone observed_at
+        timestamp_with_time_zone ingested_at
+        text quality_status
+    }
+    seagis_plot["seagis.plot"] {
+        uuid id PK
+        text plot_code UK
+        text name
+        seagis_finite_float latitude
+        seagis_finite_float longitude
+        boolean is_synthetic
+        text location_status
+        timestamp_with_time_zone created_at
+    }
+    seagis_quality_alignment_snapshot["seagis_quality.alignment_snapshot"] {
+        uuid id PK
+        uuid plot_id FK
+        text mode
+        timestamp_with_time_zone start_at
+        timestamp_with_time_zone end_at
+        text policy_version FK
+        text source_sha256
+        text input_manifest_sha256
+        jsonb body
+        text body_sha256
+        timestamp_with_time_zone created_at
+    }
+    seagis_quality_policy["seagis_quality.policy"] {
+        text version PK
+        jsonb definition
+        text policy_sha256
+        text code_sha256
+        timestamp_with_time_zone registered_at
+    }
+    seagis_quality_snapshot_input["seagis_quality.snapshot_input"] {
+        uuid snapshot_id PK,FK
+        timestamp_with_time_zone aligned_at PK
+        text source_ref PK
+        uuid observation_id FK
+        uuid forecast_value_id FK
+    }
+    seagis_plot ||--o{ seagis_quality_alignment_snapshot : "FK42"
+    seagis_quality_policy ||--o{ seagis_quality_alignment_snapshot : "FK43"
+    seagis_forecast_value |o--o{ seagis_quality_snapshot_input : "FK44"
+    seagis_observation |o--o{ seagis_quality_snapshot_input : "FK45"
+    seagis_quality_alignment_snapshot ||--o{ seagis_quality_snapshot_input : "FK46"
+```
+
+### seagis_raw
+
+
+```mermaid
+erDiagram
+    seagis_ingestion_run["seagis.ingestion_run"] {
+        uuid id PK
+        text dataset_key FK
+        text request_key
+        text adapter_version
+        timestamp_with_time_zone started_at
+        timestamp_with_time_zone completed_at
+        text status
+        boolean is_synthetic
+        text error_code
+    }
+    seagis_raw_raw_payload["seagis_raw.raw_payload"] {
+        uuid id PK
+        uuid ingestion_run_id FK
+        text dataset_key FK
+        boolean is_synthetic FK
+        text sha256
+        text hash_basis
+        timestamp_with_time_zone received_at
+        text storage_mode
+        jsonb payload
+        text object_uri
+        bigint byte_size
+        text format
+        text licence_snapshot
+        jsonb provider_metadata
+    }
+    seagis_ingestion_run ||--o{ seagis_raw_raw_payload : "FK47"
+```
+

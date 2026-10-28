@@ -1,0 +1,918 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "0.1.0"
+    },
+    "dataset_key": {
+      "enum": [
+        "sensor_temperature_v1",
+        "cmems_salinity_6h",
+        "cmems_currents_6h",
+        "cmems_nutrients_daily",
+        "open_meteo_gfs"
+      ]
+    },
+    "ingestion_run": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "request_key": {
+          "type": "string",
+          "minLength": 1
+        },
+        "adapter_version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "started_at": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "Z$"
+        },
+        "completed_at": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "Z$"
+        },
+        "status": {
+          "const": "succeeded"
+        },
+        "is_synthetic": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "id",
+        "request_key",
+        "adapter_version",
+        "started_at",
+        "completed_at",
+        "status",
+        "is_synthetic"
+      ]
+    },
+    "raw_payload": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "received_at": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "Z$"
+        },
+        "format": {
+          "type": "string",
+          "minLength": 1
+        },
+        "licence_snapshot": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "sha256",
+        "received_at",
+        "format",
+        "licence_snapshot"
+      ]
+    },
+    "forecast_run": {
+      "anyOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "run_key": {
+              "type": "string",
+              "minLength": 1
+            },
+            "run_kind": {
+              "enum": [
+                "forecast",
+                "analysis"
+              ]
+            },
+            "provider_run_id": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "model_initialized_at": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "date-time",
+                  "pattern": "Z$"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "issued_at": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "date-time",
+                  "pattern": "Z$"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "issue_time_basis": {
+              "enum": [
+                "provider_verified",
+                "unknown"
+              ]
+            },
+            "ingested_at": {
+              "type": "string",
+              "format": "date-time",
+              "pattern": "Z$"
+            }
+          },
+          "required": [
+            "id",
+            "run_key",
+            "run_kind",
+            "provider_run_id",
+            "model_initialized_at",
+            "issued_at",
+            "issue_time_basis",
+            "ingested_at"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "source_grid": {
+      "anyOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "grid_key": {
+              "type": "string",
+              "minLength": 1
+            },
+            "grid_version": {
+              "type": "string",
+              "minLength": 1
+            },
+            "identity_basis": {
+              "enum": [
+                "provider_cell",
+                "provider_returned_coordinate",
+                "synthetic"
+              ]
+            },
+            "latitude": {
+              "type": "number",
+              "minimum": -90,
+              "maximum": 90
+            },
+            "longitude": {
+              "type": "number",
+              "minimum": -180,
+              "maximum": 180
+            },
+            "depth_m": {
+              "type": "number",
+              "minimum": 0
+            }
+          },
+          "required": [
+            "id",
+            "grid_key",
+            "grid_version",
+            "identity_basis",
+            "latitude",
+            "longitude",
+            "depth_m"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "measurements": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "parameter_code": {
+                "enum": [
+                  "water_temperature",
+                  "salinity",
+                  "current_eastward",
+                  "current_northward",
+                  "nitrate",
+                  "phosphate",
+                  "precipitation",
+                  "wind_speed_10m",
+                  "wind_direction_10m",
+                  "cloud_cover",
+                  "uv_index",
+                  "air_temperature_2m"
+                ]
+              },
+              "native_value": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "native_unit": {
+                "type": "string"
+              },
+              "value": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "unit": {
+                "type": "string",
+                "minLength": 1
+              },
+              "conversion_code": {
+                "enum": [
+                  "identity",
+                  "unit_notation"
+                ]
+              },
+              "value_status": {
+                "enum": [
+                  "present",
+                  "missing",
+                  "below_detection_limit",
+                  "not_available"
+                ]
+              },
+              "detection_limit": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "ingested_at": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "Z$"
+              },
+              "quality_status": {
+                "enum": [
+                  "unreviewed",
+                  "accepted",
+                  "suspect",
+                  "rejected"
+                ]
+              },
+              "kind": {
+                "const": "observation"
+              },
+              "plot_id": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "sensor_id": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "source_record_key": {
+                "type": "string",
+                "minLength": 1
+              },
+              "observed_at": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "Z$"
+              }
+            },
+            "required": [
+              "id",
+              "parameter_code",
+              "native_value",
+              "native_unit",
+              "value",
+              "unit",
+              "conversion_code",
+              "value_status",
+              "detection_limit",
+              "ingested_at",
+              "quality_status",
+              "kind",
+              "plot_id",
+              "sensor_id",
+              "source_record_key",
+              "observed_at"
+            ]
+          },
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "parameter_code": {
+                "enum": [
+                  "water_temperature",
+                  "salinity",
+                  "current_eastward",
+                  "current_northward",
+                  "nitrate",
+                  "phosphate",
+                  "precipitation",
+                  "wind_speed_10m",
+                  "wind_direction_10m",
+                  "cloud_cover",
+                  "uv_index",
+                  "air_temperature_2m"
+                ]
+              },
+              "native_value": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "native_unit": {
+                "type": "string"
+              },
+              "value": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "unit": {
+                "type": "string",
+                "minLength": 1
+              },
+              "conversion_code": {
+                "enum": [
+                  "identity",
+                  "unit_notation"
+                ]
+              },
+              "value_status": {
+                "enum": [
+                  "present",
+                  "missing",
+                  "below_detection_limit",
+                  "not_available"
+                ]
+              },
+              "detection_limit": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "ingested_at": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "Z$"
+              },
+              "quality_status": {
+                "enum": [
+                  "unreviewed",
+                  "accepted",
+                  "suspect",
+                  "rejected"
+                ]
+              },
+              "kind": {
+                "const": "forecast_value"
+              },
+              "valid_at": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "Z$"
+              },
+              "temporal_support": {
+                "enum": [
+                  "instantaneous",
+                  "mean",
+                  "sum"
+                ]
+              },
+              "interval_status": {
+                "enum": [
+                  "not_applicable",
+                  "known",
+                  "unknown"
+                ]
+              },
+              "period_start_at": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "format": "date-time",
+                    "pattern": "Z$"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "period_end_at": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "format": "date-time",
+                    "pattern": "Z$"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "id",
+              "parameter_code",
+              "native_value",
+              "native_unit",
+              "value",
+              "unit",
+              "conversion_code",
+              "value_status",
+              "detection_limit",
+              "ingested_at",
+              "quality_status",
+              "kind",
+              "valid_at",
+              "temporal_support",
+              "interval_status",
+              "period_start_at",
+              "period_end_at"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "dataset_key",
+    "ingestion_run",
+    "raw_payload",
+    "forecast_run",
+    "source_grid",
+    "measurements"
+  ],
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seagis.local/contracts/normalized.schema.json",
+  "title": "SEAGIS normalized envelope v0.1.0",
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "dataset_key": {
+            "const": "sensor_temperature_v1"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "forecast_run": {
+            "type": "null"
+          },
+          "source_grid": {
+            "type": "null"
+          },
+          "measurements": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "format": "uuid"
+                },
+                "parameter_code": {
+                  "enum": [
+                    "water_temperature",
+                    "salinity",
+                    "current_eastward",
+                    "current_northward",
+                    "nitrate",
+                    "phosphate",
+                    "precipitation",
+                    "wind_speed_10m",
+                    "wind_direction_10m",
+                    "cloud_cover",
+                    "uv_index",
+                    "air_temperature_2m"
+                  ]
+                },
+                "native_value": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "native_unit": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "unit": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "conversion_code": {
+                  "enum": [
+                    "identity",
+                    "unit_notation"
+                  ]
+                },
+                "value_status": {
+                  "enum": [
+                    "present",
+                    "missing",
+                    "below_detection_limit",
+                    "not_available"
+                  ]
+                },
+                "detection_limit": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ingested_at": {
+                  "type": "string",
+                  "format": "date-time",
+                  "pattern": "Z$"
+                },
+                "quality_status": {
+                  "enum": [
+                    "unreviewed",
+                    "accepted",
+                    "suspect",
+                    "rejected"
+                  ]
+                },
+                "kind": {
+                  "const": "observation"
+                },
+                "plot_id": {
+                  "type": "string",
+                  "format": "uuid"
+                },
+                "sensor_id": {
+                  "type": "string",
+                  "format": "uuid"
+                },
+                "source_record_key": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "observed_at": {
+                  "type": "string",
+                  "format": "date-time",
+                  "pattern": "Z$"
+                }
+              },
+              "required": [
+                "id",
+                "parameter_code",
+                "native_value",
+                "native_unit",
+                "value",
+                "unit",
+                "conversion_code",
+                "value_status",
+                "detection_limit",
+                "ingested_at",
+                "quality_status",
+                "kind",
+                "plot_id",
+                "sensor_id",
+                "source_record_key",
+                "observed_at"
+              ]
+            }
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "forecast_run": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "run_key": {
+                "type": "string",
+                "minLength": 1
+              },
+              "run_kind": {
+                "enum": [
+                  "forecast",
+                  "analysis"
+                ]
+              },
+              "provider_run_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "model_initialized_at": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "format": "date-time",
+                    "pattern": "Z$"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "format": "date-time",
+                    "pattern": "Z$"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "issue_time_basis": {
+                "enum": [
+                  "provider_verified",
+                  "unknown"
+                ]
+              },
+              "ingested_at": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "Z$"
+              }
+            },
+            "required": [
+              "id",
+              "run_key",
+              "run_kind",
+              "provider_run_id",
+              "model_initialized_at",
+              "issued_at",
+              "issue_time_basis",
+              "ingested_at"
+            ]
+          },
+          "source_grid": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "grid_key": {
+                "type": "string",
+                "minLength": 1
+              },
+              "grid_version": {
+                "type": "string",
+                "minLength": 1
+              },
+              "identity_basis": {
+                "enum": [
+                  "provider_cell",
+                  "provider_returned_coordinate",
+                  "synthetic"
+                ]
+              },
+              "latitude": {
+                "type": "number",
+                "minimum": -90,
+                "maximum": 90
+              },
+              "longitude": {
+                "type": "number",
+                "minimum": -180,
+                "maximum": 180
+              },
+              "depth_m": {
+                "type": "number",
+                "minimum": 0
+              }
+            },
+            "required": [
+              "id",
+              "grid_key",
+              "grid_version",
+              "identity_basis",
+              "latitude",
+              "longitude",
+              "depth_m"
+            ]
+          },
+          "measurements": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "format": "uuid"
+                },
+                "parameter_code": {
+                  "enum": [
+                    "water_temperature",
+                    "salinity",
+                    "current_eastward",
+                    "current_northward",
+                    "nitrate",
+                    "phosphate",
+                    "precipitation",
+                    "wind_speed_10m",
+                    "wind_direction_10m",
+                    "cloud_cover",
+                    "uv_index",
+                    "air_temperature_2m"
+                  ]
+                },
+                "native_value": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "native_unit": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "unit": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "conversion_code": {
+                  "enum": [
+                    "identity",
+                    "unit_notation"
+                  ]
+                },
+                "value_status": {
+                  "enum": [
+                    "present",
+                    "missing",
+                    "below_detection_limit",
+                    "not_available"
+                  ]
+                },
+                "detection_limit": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ingested_at": {
+                  "type": "string",
+                  "format": "date-time",
+                  "pattern": "Z$"
+                },
+                "quality_status": {
+                  "enum": [
+                    "unreviewed",
+                    "accepted",
+                    "suspect",
+                    "rejected"
+                  ]
+                },
+                "kind": {
+                  "const": "forecast_value"
+                },
+                "valid_at": {
+                  "type": "string",
+                  "format": "date-time",
+                  "pattern": "Z$"
+                },
+                "temporal_support": {
+                  "enum": [
+                    "instantaneous",
+                    "mean",
+                    "sum"
+                  ]
+                },
+                "interval_status": {
+                  "enum": [
+                    "not_applicable",
+                    "known",
+                    "unknown"
+                  ]
+                },
+                "period_start_at": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date-time",
+                      "pattern": "Z$"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "period_end_at": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date-time",
+                      "pattern": "Z$"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "id",
+                "parameter_code",
+                "native_value",
+                "native_unit",
+                "value",
+                "unit",
+                "conversion_code",
+                "value_status",
+                "detection_limit",
+                "ingested_at",
+                "quality_status",
+                "kind",
+                "valid_at",
+                "temporal_support",
+                "interval_status",
+                "period_start_at",
+                "period_end_at"
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

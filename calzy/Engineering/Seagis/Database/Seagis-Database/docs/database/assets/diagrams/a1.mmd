@@ -1,0 +1,10 @@
+flowchart TD
+    wire["JSON bytes <=8192"]
+    auth["Bearer + actor + sensor"]
+    check["schema + semantic hash + QC"]
+    write["raw + observation + QC + receipt"]
+    reply["201 stored / 200 duplicate / 409 conflict"]
+    wire --> auth
+    auth --> check
+    check --> write
+    write --> reply
