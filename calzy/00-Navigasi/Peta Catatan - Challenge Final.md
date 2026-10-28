@@ -1,7 +1,7 @@
 ---
 type: moc
 project: "[[Challenge Final]]"
-updated: 2026-10-23
+updated: 2026-10-28
 tags: [challenge-final, navigation]
 ---
 
@@ -27,7 +27,7 @@ Setiap catatan terhubung melalui indeks kategori dan tautan topik yang sudah ada
 
 ## Jalur membaca
 
-- PoC IoT terkini: [[Status PoC IoT Suhu SEAGIS - 23 Oktober 2026]] — radio 433 MHz, status belanja, QoS, dan batas cakupan data probe.
+- PoC IoT terkini: [[Status PoC IoT Suhu SEAGIS - 28 Oktober 2026]] — keputusan 4G, rancangan daya XL6009/AA, pembelian 28 Okt, dan temuan firmware. Riwayat: [[Status PoC IoT Suhu SEAGIS - 23 Oktober 2026]].
 - Progres terbaru: [[Konteks Progres Seagis - 21 Oktober 2026]] → [[Seagis_Master_Research_Context_2026-10-21]] → [[Provenance Import Konteks Seagis 2026-10-21]].
 
 - Kasus lokal: [[Rumput Laut Kepulauan Seribu]] → [[Interview - Fauzi (Penyuluh Rumput Laut Pulau Tidung)]] → [[Air Busuk Pulau Tidung - Hipotesis dan Langkah Identifikasi]].
