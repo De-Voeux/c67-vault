@@ -1,7 +1,7 @@
 ---
 type: project-status
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-31
 status: current-working-context
 supersedes: "[[Status PoC IoT Suhu SEAGIS - 28 Oktober 2026]]"
 tags: [radit, iot, lora, suhu, poc]
@@ -11,7 +11,22 @@ tags: [radit, iot, lora, suhu, poc]
 
 Catatan status dari sesi kerja 28–29 Oktober 2026, menggantikan [[Status PoC IoT Suhu SEAGIS - 28 Oktober 2026]]. Ini status rancangan, firmware **dalam simulasi**, dan part yang mulai tiba, **bukan bukti perangkat lulus uji meja atau uji laut**. Radio LoRa antar board, DS18B20 asli, microSD asli, modem 4G, dan HTTPS ke server **belum pernah dijalankan**.
 
-Dokumen kerja aktif ada di repo `De-Voeux/wokwiPOC`: `README.md`, `WIRING.md`, `firmware/depok_fw/`, empat diagram Wokwi, dan `tools/`. README ada di `main` (commit `b4fa29a`); firmware v2, diagram, dan `WIRING.md` baru ada di cabang `wokwi-firmware-v2-diagrams` (commit `4f26c6b`) dan **belum digabung ke `main`**.
+Dokumen kerja aktif ada di repo `De-Voeux/wokwiPOC`: `README.md`, `WIRING.md`, `firmware/depok_fw/`, empat diagram Wokwi, dan `tools/`. Semuanya sudah di `main` lewat PR #8 (`5e74082`).
+
+## Pembaruan 29 Oktober siang–malam (uji meja pertama)
+
+Klaim agent dari sesi kerja, kecuali yang ditandai pernyataan pengguna. Belum diukur dengan alat ukur.
+
+- **Probe DS18B20 asli terbaca** di DevKit dan merespons panas/dingin (13 °C di air dingin, naik saat digenggam). Akurasinya belum dibandingkan dengan termometer lain. Probe kedua belum dites.
+- **Satu DevKit rusak.** Menurut pengguna, 4×AA (±6 V) tersambung langsung ke rel breadboard yang terhubung ke pin 3V3. Hasilnya chip flash tidak terbaca dan board tidak bisa di-flash lagi. Probe yang ikut tersambung selamat.
+  - **Aturan daya:** baterai hanya lewat XL6009 yang sudah disetel 5,0 V ke pin VIN. Rel breadboard hanya dari 3V3 board. Baterai dan USB tidak dipakai bersamaan.
+- **Dua modul Ra-02 belum pernah menjawab** (register versi tidak terbaca) setelah header disolder sendiri, baik di DevKit maupun di XIAO. Pemindaian semua kombinasi pin hasilnya nol. Daya sampai ke header (tes buzzer) dan kabel tersambung. Dugaan: sambungan daya ke kaki modul atau chip rusak saat penyolderan. Saran: Ra-02 baru dengan header tersolder pabrik dan multimeter. **Radio antar board belum pernah jalan.**
+- **Backend:** tim backend mengaktifkan `POST /v1/hub/ingest` di Supabase **development** untuk data sintetis dan menyiapkan hub serta sensor uji.
+  - Firmware disesuaikan dengan kontrak resmi: `simulated=true`, chunk ≤7000 byte, penanganan 429/413/4xx.
+  - Chunk keluaran firmware diterima (201 `stored`, replay terhitung duplikat) saat dikirim **dari laptop**. HTTPS dari ESP32/Air780E belum ada.
+- **Board:** saran agent, hub memakai DevKit (butuh pin tambahan untuk pemutus daya modem) dan XIAO menjadi node. Tersisa 1 DevKit sehat dan 1 XIAO, jadi perlu DevKit pengganti.
+- **Modul seluler terbuka lagi.** Pengguna menulis ingin modul 3G. Agent menyebut jaringan 3G operator besar di Indonesia sudah dimatikan; **klaim ini belum diverifikasi**. Keputusan 4G (Air780E) belum diubah atau dikonfirmasi ulang.
+- **Usulan belanja tambahan:** DevKit pengganti, breadboard half size ×4, kabel jumper termasuk female-female, multimeter, dioda 1N5819 untuk proteksi input baterai, dan Ra-02 baru.
 
 ## Yang berubah sejak 28 Oktober
 
@@ -63,13 +78,13 @@ Tercentang berarti pengguna menyatakan barang sudah **tiba** (bukan sekadar chec
 
 1. Konfirmasi kedatangan barang; pastikan jumlah Ra-02 dan WROOM vs WROVER dari label modul.
 2. Breadboard + solder header Ra-02, lalu uji LoRa node ↔ hub dan DS18B20 asli; flash ulang papan dengan pin baru.
-3. Putuskan cara menggabungkan cabang `wokwi-firmware-v2-diagrams` ke `main` (langsung atau PR).
+3. Ganti Ra-02 (atau ukur dengan multimeter) dan beli DevKit pengganti sebelum uji radio.
 4. Putuskan SKU Air780E, antena, SIM/operator; uji band dan jam jaringan di Tidung.
 5. Sepakati lebar jendela dengar hub (usulan pengguna ±20 menit/jam vs perhitungan agent 10 menit/jam) dan ukur arus tidur.
 6. Menunggu backend: endpoint `/v1/hub/ingest`, kredensial hub, plot/sensor nyata, retensi payload mentah, dan kebijakan data basi yang tidak bentrok dengan unggah harian.
 
 ## Sumber dan batas bukti
 
-- Repo `wokwiPOC` @ `4f26c6b` (cabang `wokwi-firmware-v2-diagrams`) dan @ `b4fa29a` (`main`); dicek langsung di git.
+- Repo `wokwiPOC` @ `5e74082` (`main`, termasuk PR #8); dicek langsung di git.
 - Catatan sesi di second-brain pribadi (tidak ada di repo ini). Hasil uji, pin baru, dan ukuran PCB adalah klaim agent dari sesi tersebut; kedatangan part adalah pernyataan pengguna. Tidak satu pun diukur atau diuji pada rakitan lengkap.
 - Angka daya, ESR, ambang label, dan perilaku jaringan seluler tetap estimasi/placeholder (lihat catatan 28 Okt).
