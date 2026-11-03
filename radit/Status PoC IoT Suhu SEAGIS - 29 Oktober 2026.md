@@ -1,7 +1,7 @@
 ---
 type: project-status
 created: 2026-10-29
-updated: 2026-10-31
+updated: 2026-11-03
 status: current-working-context
 supersedes: "[[Status PoC IoT Suhu SEAGIS - 28 Oktober 2026]]"
 tags: [radit, iot, lora, suhu, poc]
@@ -12,6 +12,17 @@ tags: [radit, iot, lora, suhu, poc]
 Catatan status dari sesi kerja 28–29 Oktober 2026, menggantikan [[Status PoC IoT Suhu SEAGIS - 28 Oktober 2026]]. Ini status rancangan, firmware **dalam simulasi**, dan part yang mulai tiba, **bukan bukti perangkat lulus uji meja atau uji laut**. Radio LoRa antar board, DS18B20 asli, microSD asli, modem 4G, dan HTTPS ke server **belum pernah dijalankan**.
 
 Dokumen kerja aktif ada di repo `De-Voeux/wokwiPOC`: `README.md`, `WIRING.md`, `firmware/depok_fw/`, empat diagram Wokwi, dan `tools/`. Semuanya sudah di `main` lewat PR #8 (`5e74082`).
+
+## Pembaruan 2 November (uji meja kedua)
+
+Klaim agent dari sesi kerja, kecuali yang ditandai pernyataan atau hasil ukur pengguna.
+
+- **Barang:** menurut pengguna semua barang sudah ada, kecuali Ra-02 yang masih rusak. DevKit pengganti terbaca sehat (flash 4 MB, upload lancar).
+- **Tata letak meja (keputusan pengguna):** tiga breadboard half size berjajar. DevKit melintasi sambungan breadboard 1 dan 2 (USB di bawah), sehingga sisi pin SPI menghadap Ra-02. Pengguna menetapkan **Ra-02 harus ditancap di breadboard**, bukan digantung atau ditempel, karena nantinya masuk housing. Posisi akhirnya melintasi sambungan breadboard 2 dan 3, dan kabel SPI Ra-02 sudah dipasang.
+- **Ra-02 masih modul lama yang rusak.** Pemindai SPI di DevKit baru hasilnya nol, jadi kebenaran kabel belum terbukti. Radio antar board masih belum pernah jalan.
+- **XL6009 (hasil ukur pengguna, tanpa beban):** disetel ke 4,94 V dengan 4×AA, dan tetap sekitar 4,95 V saat input diturunkan ke 3 sel dan 2 sel. Modul berperilaku buck-boost, sehingga cutoff baterai firmware (node 4,0 V, hub 4,4 V) dinilai masuk akal. Uji dengan beban ESP32 atau lonjakan modem belum dilakukan.
+- **Dioda 1N5819** baru dipasang sementara dengan lilitan, dan arahnya belum dipastikan. Untuk rakitan akhir sambungan ini perlu disolder.
+- **Masih terbuka:** Ra-02 baru, uji DS18B20 di DevKit baru, sambungan XL6009 ke VIN, jenis modem, dan tegangan kerja modul microSD.
 
 ## Pembaruan 29 Oktober siang–malam (uji meja pertama)
 
