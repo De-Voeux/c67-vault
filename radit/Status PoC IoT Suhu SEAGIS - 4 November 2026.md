@@ -39,6 +39,25 @@ Rakitan sementara di tiga breadboard half size, gabungan bagian node dan hub.
 - Tegangan XL6009 dan rel diukur tanpa beban E32 maupun modem.
 - Sempat terjadi salah pasang resistor sehingga pin ADC terbaca 3,92 V, di board yang sudah rusak. Sudah dibetulkan.
 
+## Pembaruan 4 November malam (backend pindah, upload pertama dari ESP32)
+
+Klaim agent dari sesi kerja, kecuali yang ditandai diverifikasi atau pernyataan pengguna.
+
+- **Backend pindah ke proyek baru.** Host lama tidak lagi resolve. Pengguna menyatakan proyek baru "tertanda main prod". Firmware dan dokumen kontrak sudah menunjuk ke host baru dan `/health`-nya menjawab 200 (diverifikasi).
+- **Upload pertama dari ESP32 ke server.** Lewat hotspot telepon, dengan sketsa uji (bukan firmware `depok_fw`):
+  - TLS dengan root CA tersimpan di board berhasil.
+  - `POST /v1/hub/ingest` dengan token hub uji diterima (201).
+  - Kirim ulang record yang sama terhitung duplikat.
+  - Satu bacaan asli dari DS18B20 tersimpan.
+- **Data uji ada di proyek tersebut.** Sekitar 60 record sintetis bertanda `simulated=true`, dari uji upload dan uji skenario. Tidak bisa dihapus dari sisi alat; operator backend perlu membersihkannya.
+- **Uji skenario:**
+  - Server: 22/22 skenario sesuai kontrak (dari laptop).
+  - Hub: 38/38 perilaku sesuai rancangan (di board, simulasi).
+  - Node: 14/14.
+  - Belum terbukti: radio, modem, deep sleep, daya 72 jam, QC dan history di server.
+- **Driver E32 dan SIM800L ditulis di firmware**, hanya lolos kompilasi. E32 dan SIM800L belum tiba, dan kartu SIM belum dibeli. `MODEM_APN` tetap placeholder.
+- **Dari backend masih dibutuhkan:** pembersihan record uji, reader token, perpanjangan token hub (kedaluwarsa akhir November), plot dan sensor nyata, dan jadwal commissioning.
+
 ## Pekerjaan berikutnya
 
 1. Tunggu E32, lalu tulis ulang driver radio dari SPI ke UART dan uji kirim antar board.
