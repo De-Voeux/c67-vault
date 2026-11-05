@@ -1,8 +1,9 @@
 ---
 type: project-status
 created: 2026-11-04
-updated: 2026-11-04
-status: current-working-context
+updated: 2026-11-05
+status: superseded
+superseded_by: "[[Status PoC IoT Suhu SEAGIS - 5 November 2026]]"
 supersedes: "[[Status PoC IoT Suhu SEAGIS - 29 Oktober 2026]]"
 tags: [radit, iot, lora, suhu, poc]
 ---
