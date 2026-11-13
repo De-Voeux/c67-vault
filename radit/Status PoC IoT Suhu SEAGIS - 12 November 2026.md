@@ -1,13 +1,17 @@
 ---
 type: project-status
 created: 2026-11-12
-updated: 2026-11-12
-status: current-working-context
+updated: 2026-11-13
+status: superseded
+superseded_by: "[[Status PoC IoT Suhu SEAGIS - 13 November 2026]]"
 supersedes: "[[Status PoC IoT Suhu SEAGIS - 8 November 2026]]"
 tags: [radit, iot, lora, suhu, poc]
 ---
 
 # Status PoC IoT Suhu SEAGIS — 12 November 2026
+
+> [!warning] Riwayat
+> Catatan ini sudah digantikan oleh [[Status PoC IoT Suhu SEAGIS - 13 November 2026]] (alat ditempatkan di laut, Node A tidak terdengar, Node B mengirim data lama, belum ada jalur perbaikan jarak jauh).
 
 Catatan status dari sesi kerja 9 sampai 12 November 2026 (sampai sekitar pukul 21:45 WIB), menggantikan [[Status PoC IoT Suhu SEAGIS - 8 November 2026]]. Ini status **tes akhir di meja dan di dalam housing, bukan bukti uji laut**. Firmware, radio, modem, dan server sudah terbukti bekerja; yang belum siap adalah sambungan fisik.
 
