@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="499" height="264" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 264" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Seagis A0-A3 / 05-alignment</title>
+	<desc>Diagram engineering berdasarkan implementasi e93a005. Biru: proses Mac. Hijau: sumber atau layanan/data cloud. Amber putus-putus: jalur kelak atau kegagalan.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="264"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-264)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="499" height="264" rx="7" ry="7" style="stroke: rgb(80%,86%,85%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(98%,99%,98%); fill-rule: evenodd;"/>
+			<text x="63.037109375" y="245" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,48%,45%); stroke:none;" transform="translate(0,490) scale(1,-1)">SUPABASE | fungsi privat</text>
+			<text x="313.43603515625" y="245" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(23%,40%,63%); stroke:none;" transform="translate(0,490) scale(1,-1)">MAC | Python on demand</text>
+			<rect x="14" y="184" width="222" height="48" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="210.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,420) scale(1,-1)">source_bundle()</text>
+			<text x="22" y="198.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,396) scale(1,-1)">Observasi, model, mapping, registry; hash</text>
+			<path d="M 236,208 L 263,208 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="263 208, 258 210.5, 258 205.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="263" y="184" width="222" height="48" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="271" y="210.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,420) scale(1,-1)">Builder QC + alignment</text>
+			<text x="271" y="198.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,396) scale(1,-1)">Jam UTC; cutoff; policy + code hash</text>
+			<path d="M 374,184 L 374,161 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="374 161, 376.5 166, 371.5 166" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="263" y="113" width="222" height="48" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="271" y="139.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,278) scale(1,-1)">Dokumen + quality report</text>
+			<text x="271" y="127.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,254) scale(1,-1)">Output lokal; review per plot/jam</text>
+			<path d="M 263,137 L 236,137 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="236 137, 241 134.5, 241 139.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<text x="234.5546875" y="168" style="font-family: Arial, Helvetica, sans-serif; font-size: 8px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,336) scale(1,-1)">--persist</text>
+			<rect x="14" y="113" width="222" height="48" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="139.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,278) scale(1,-1)">save_snapshot()</text>
+			<text x="22" y="127.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,254) scale(1,-1)">Re-read source; guard nilai / waktu / FK</text>
+			<path d="M 125,113 L 125,83 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="125 83, 127.5 88, 122.5 88" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="35" width="222" height="48" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="61.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,122) scale(1,-1)">Snapshot + snapshot_input</text>
+			<text x="22" y="49.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,98) scale(1,-1)">Append-only; hash body/manifest</text>
+			<path d="M 236,59 L 263,59 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="263 59, 258 61.5, 258 56.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="263" y="35" width="222" height="48" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="271" y="61.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,122) scale(1,-1)">snapshot() / readback</text>
+			<text x="271" y="49.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,98) scale(1,-1)">ID sama pada replay identik</text>
+			<text x="112.8028564453125" y="15" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,30) scale(1,-1)">Semua hasil: training_authorized=false. Offline tidak dapat persist cloud.</text>
+		</g>
+	</g>
+</svg>

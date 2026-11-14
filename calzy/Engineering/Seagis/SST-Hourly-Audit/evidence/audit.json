@@ -1,0 +1,55 @@
+{
+  "started_at": "2026-11-10T06:07:41Z",
+  "finished_at": "2026-11-10T06:08:29Z",
+  "toolbox_version": "2.5.0",
+  "subset_seconds_per_plot": [
+    15.294,
+    14.975,
+    15.221
+  ],
+  "expected_slots_per_plot": 96,
+  "content_changed": true,
+  "content_revision": "0399211a332a0e921894e65268d1893c1a3f3caa792c50e7f3b5a76c65340ae3",
+  "catalog_stable_during_fetch": true,
+  "plots": [
+    {
+      "plot_id": "tidung-besar-reference",
+      "cell": {
+        "latitude": -5.8333282470703125,
+        "longitude": 106.58334350585938,
+        "depth_m": 0.49402499198913574
+      },
+      "distance_km": 3.703730969077973,
+      "slots": 96,
+      "valid": 96,
+      "min_degC": 30.28322410583496,
+      "max_degC": 31.334535598754883
+    },
+    {
+      "plot_id": "00000000-0000-4000-8000-000000000001",
+      "cell": {
+        "latitude": -5.8333282470703125,
+        "longitude": 106.5,
+        "depth_m": 0.49402499198913574
+      },
+      "distance_km": 5.026509909580044,
+      "slots": 96,
+      "valid": 96,
+      "min_degC": 30.418424606323242,
+      "max_degC": 31.419679641723633
+    },
+    {
+      "plot_id": "00000000-0000-4000-8000-000000000002",
+      "cell": {
+        "latitude": -5.8333282470703125,
+        "longitude": 106.5,
+        "depth_m": 0.49402499198913574
+      },
+      "distance_km": 3.9840056926787004,
+      "slots": 96,
+      "valid": 96,
+      "min_degC": 30.418424606323242,
+      "max_degC": 31.419679641723633
+    }
+  ]
+}

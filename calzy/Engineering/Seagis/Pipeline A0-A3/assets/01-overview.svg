@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="499" height="279" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 279" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Seagis A0-A3 / 01-overview</title>
+	<desc>Diagram engineering berdasarkan implementasi e93a005. Biru: proses Mac. Hijau: sumber atau layanan/data cloud. Amber putus-putus: jalur kelak atau kegagalan.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="279"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-279)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="499" height="279" rx="7" ry="7" style="stroke: rgb(80%,86%,85%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(98%,99%,98%); fill-rule: evenodd;"/>
+			<path d="M 125,229 L 125,216 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="125 216, 127.5 221, 122.5 221" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 125,174 L 125,161 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="125 161, 127.5 166, 122.5 166" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 374,229 L 374,216 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="374 216, 376.5 221, 371.5 221" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 374,174 L 374,161 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="374 161, 376.5 166, 371.5 166" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 125,119 L 125,110 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 125,110 L 249,110 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 249,110 L 249,100 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="249 100, 251.5 105, 246.5 105" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 374,119 L 374,110 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 374,110 L 249,110 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="249 110, 254 107.5, 254 112.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 249,60 L 249,48 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="249 48, 251.5 53, 246.5 53" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="229" width="222" height="40" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="22" y="251.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,502) scale(1,-1)">Simulator / IoT</text>
+			<text x="22" y="239.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,478) scale(1,-1)">A1: suhu per sensor; hardware kelak</text>
+			<rect x="263" y="229" width="222" height="40" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="251.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,502) scale(1,-1)">Copernicus / Open-Meteo</text>
+			<text x="271" y="239.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,478) scale(1,-1)">A2: keluaran model regional asli</text>
+			<rect x="14" y="174" width="222" height="42" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="197.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,394) scale(1,-1)">Edge + SQL API | Supabase</text>
+			<text x="22" y="185.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,370) scale(1,-1)">HTTPS, auth, dedup, QC awal</text>
+			<rect x="263" y="174" width="222" height="42" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="271" y="197.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,394) scale(1,-1)">Python A2 | Mac</text>
+			<text x="271" y="185.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,370) scale(1,-1)">LaunchAgent 15 menit; fetch bila due</text>
+			<rect x="14" y="119" width="222" height="42" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="142.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,284) scale(1,-1)">seagis.observation</text>
+			<text x="22" y="130.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,260) scale(1,-1)">Sensor/plot + ingestion/raw/quality</text>
+			<rect x="263" y="119" width="222" height="42" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="142.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,284) scale(1,-1)">forecast_run / forecast_value</text>
+			<text x="271" y="130.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,260) scale(1,-1)">Grid + vintage + manifest regional</text>
+			<rect x="106" y="60" width="286" height="40" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="114" y="82.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,164) scale(1,-1)">Python A3 | Mac, on demand</text>
+			<text x="114" y="70.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,140) scale(1,-1)">Cutoff per jam, QA, mapping dan cadence</text>
+			<rect x="106" y="10" width="286" height="38" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="114" y="31.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,62) scale(1,-1)">seagis_quality | Supabase</text>
+			<text x="114" y="19.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,38) scale(1,-1)">Snapshot + report + lineage; review only</text>
+		</g>
+	</g>
+</svg>

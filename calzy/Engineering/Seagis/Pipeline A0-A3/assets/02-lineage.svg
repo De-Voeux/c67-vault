@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="499" height="288" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 288" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Seagis A0-A3 / 02-lineage</title>
+	<desc>Diagram engineering berdasarkan implementasi e93a005. Biru: proses Mac. Hijau: sumber atau layanan/data cloud. Amber putus-putus: jalur kelak atau kegagalan.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="288"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-288)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="499" height="288" rx="7" ry="7" style="stroke: rgb(80%,86%,85%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(98%,99%,98%); fill-rule: evenodd;"/>
+			<rect x="14" y="240" width="471" height="38" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="261.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,522) scale(1,-1)">Registry A0: source / dataset / parameter / dataset_parameter</text>
+			<text x="22" y="249.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,498) scale(1,-1)">Kontrak identitas, versi, cadence, unit dan konversi</text>
+			<path d="M 125,240 L 125,227 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="125 227, 127.5 232, 122.5 232" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 374,240 L 374,227 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="374 227, 376.5 232, 371.5 232" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="189" width="222" height="38" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="210.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,420) scale(1,-1)">ingestion_run</text>
+			<text x="22" y="198.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,396) scale(1,-1)">Request / adapter / status / waktu</text>
+			<rect x="263" y="189" width="222" height="38" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="210.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,420) scale(1,-1)">source_grid + mapping</text>
+			<text x="271" y="198.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,396) scale(1,-1)">Sel dataset/depth; plot ke grid</text>
+			<path d="M 125,189 L 125,176 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="125 176, 127.5 181, 122.5 181" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 485,208 L 493,208 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 493,208 L 493,103 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 493,103 L 485,103 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="485 103, 490 100.5, 490 105.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="136" width="222" height="40" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="158.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,316) scale(1,-1)">seagis_raw.raw_payload</text>
+			<text x="22" y="146.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,292) scale(1,-1)">Manifest, receipt, digest dan lisensi</text>
+			<path d="M 236,156 L 263,156 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="263 156, 258 158.5, 258 153.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="263" y="136" width="222" height="40" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="158.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,316) scale(1,-1)">forecast_run</text>
+			<text x="271" y="146.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,292) scale(1,-1)">Capture/vintage regional</text>
+			<path d="M 125,136 L 125,123 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="125 123, 127.5 128, 122.5 128" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 374,136 L 374,123 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="374 123, 376.5 128, 371.5 128" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="83" width="222" height="40" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="105.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,210) scale(1,-1)">observation + plot / sensor</text>
+			<text x="22" y="93.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,186) scale(1,-1)">Nilai lokal, observed_at, quality</text>
+			<rect x="263" y="83" width="222" height="40" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="105.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,210) scale(1,-1)">forecast_value + source_grid</text>
+			<text x="271" y="93.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,186) scale(1,-1)">Nilai model per valid_at</text>
+			<path d="M 125,83 L 125,72 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 125,72 L 249,72 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 249,72 L 249,60 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="249 60, 251.5 65, 246.5 65" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 374,83 L 374,72 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 374,72 L 249,72 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="249 72, 254 69.5, 254 74.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="73" y="19" width="353" height="41" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="81" y="41.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,83) scale(1,-1)">alignment_snapshot + snapshot_input | A3</text>
+			<text x="81" y="29.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,59) scale(1,-1)">FK input + hash; quality_event tetap sebagai audit sumber</text>
+			<text x="140.486328125" y="7" style="font-family: Arial, Helvetica, sans-serif; font-size: 8px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,14) scale(1,-1)">Ringkasan lineage; seluruh FK tersedia pada Peta Database.</text>
+		</g>
+	</g>
+</svg>

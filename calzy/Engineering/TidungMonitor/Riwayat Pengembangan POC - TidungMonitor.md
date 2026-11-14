@@ -9,6 +9,8 @@ tags: [challenge-final, tidungmonitor, poc, ios, nasa, development]
 
 # Riwayat Pengembangan POC - TidungMonitor
 
+> **Pembaruan 28 Oktober:** ini riwayat POC, bukan aplikasi utama saat ini. Aplikasi Seagis berada di `/Users/cindyram/Documents/Apple/Seagis`; lihat [[Status Integrasi Seagis - 28 Oktober 2026]].
+
 **Posisi per 19 Oktober 2026:** aplikasi native iOS sudah menampilkan observasi/analisis ocean NASA yang dapat ditelusuri. Peta, bottom sheet, inspeksi dan tren tetap sederhana. Ada pipeline Python satu command untuk mengambil dan memperbarui data. Belum ada model ice-ice, probabilitas penyakit, keputusan tanam otomatis, atau validasi kondisi farm.
 
 Cara menjalankan fetch: [[Panduan Fetch Data Ocean - TidungMonitor]]. Sumber brief dan wireframe: [[Arsip Pengembangan TidungMonitor - 19 Oktober 2026]]. Catatan ini merekam perkembangan implementasi POC; riset dan wawancara proyek tetap berada pada catatan masing-masing.

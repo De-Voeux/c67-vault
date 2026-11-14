@@ -9,6 +9,8 @@ tags: [challenge-final, tidungmonitor, python, nasa, pipeline]
 
 # Panduan Fetch Data Ocean - TidungMonitor
 
+> **Pembaruan 28 Oktober:** panduan ini historis dan command berikut khusus POC lama, bukan runbook aplikasi utama. Aplikasi Seagis berada di `/Users/cindyram/Documents/Apple/Seagis`; lihat [[Status Integrasi Seagis - 28 Oktober 2026]].
+
 Satu command untuk menyiapkan Python, mengambil data NASA ocean, memeriksa kualitas, lalu memperbarui bundle TidungMonitor. Panduan ini merupakan snapshot implementasi **19 Oktober 2026**. Kode berada di proyek terpisah; vault menyimpan dokumentasi, bukan salinan aplikasi.
 
 Riwayat dan keputusan proyek: [[Riwayat Pengembangan POC - TidungMonitor]]. Brief sumber: [[Arsip Pengembangan TidungMonitor - 19 Oktober 2026]].

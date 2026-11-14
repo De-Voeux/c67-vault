@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="499" height="274" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 274" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Seagis A0-A3 / 04-regional</title>
+	<desc>Diagram engineering berdasarkan implementasi e93a005. Biru: proses Mac. Hijau: sumber atau layanan/data cloud. Amber putus-putus: jalur kelak atau kegagalan.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="274"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-274)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="499" height="274" rx="7" ry="7" style="stroke: rgb(80%,86%,85%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(98%,99%,98%); fill-rule: evenodd;"/>
+			<rect x="14" y="222" width="222" height="42" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="22" y="245.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,490) scale(1,-1)">Dispatcher Python | Mac</text>
+			<text x="22" y="233.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,466) scale(1,-1)">Tick 15 menit; cek due</text>
+			<path d="M 236,243 L 263,243 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="263 243, 258 245.5, 258 240.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="263" y="222" width="222" height="42" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="245.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,490) scale(1,-1)">claim() | Supabase</text>
+			<text x="271" y="233.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,466) scale(1,-1)">State per dataset; lease 20 menit</text>
+			<path d="M 374,222 L 374,212 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 374,212 L 125,212 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 125,212 L 125,197 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="125 197, 127.5 202, 122.5 202" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="154" width="222" height="43" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="22" y="177.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,355) scale(1,-1)">Provider / adapter | Mac</text>
+			<text x="22" y="165.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,331) scale(1,-1)">Copernicus Toolbox / GFS JSON</text>
+			<path d="M 236,176 L 263,176 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="263 176, 258 178.5, 258 173.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="263" y="154" width="222" height="43" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="271" y="177.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,355) scale(1,-1)">Parse / normalize / validate</text>
+			<text x="271" y="165.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,331) scale(1,-1)">Identitas, unit, time, depth, mask</text>
+			<path d="M 374,154 L 374,136 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="374 136, 376.5 141, 371.5 141" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="263" y="93" width="222" height="43" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="116.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,233) scale(1,-1)">persist() | Supabase</text>
+			<text x="271" y="104.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,209) scale(1,-1)">Atomic; digest sama = vintage sama</text>
+			<path d="M 263,115 L 236,115 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="236 115, 241 112.5, 241 117.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="93" width="222" height="43" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="116.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,233) scale(1,-1)">Manifest + run + grid + values</text>
+			<text x="22" y="104.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,209) scale(1,-1)">Metadata only; normalized retained</text>
+			<path d="M 125,93 L 125,70 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="125 70, 127.5 75, 122.5 75" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="27" width="222" height="43" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="50.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,101) scale(1,-1)">preview() + demo mapping</text>
+			<text x="22" y="38.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,77) scale(1,-1)">As-of, attribution, cache age</text>
+			<rect x="263" y="27" width="222" height="43" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="50.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,101) scale(1,-1)">Failure -&gt; finish_failure()</text>
+			<text x="271" y="38.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,77) scale(1,-1)">Backoff / status; data lama tetap</text>
+			<path d="M 485,176 L 493,176 Z" style="stroke: rgb(58%,38%,13%); stroke-linecap: butt; stroke-width: 0.95; stroke-dasharray: 3, 3;"/>
+			<path d="M 493,176 L 493,49 Z" style="stroke: rgb(58%,38%,13%); stroke-linecap: butt; stroke-width: 0.95; stroke-dasharray: 3, 3;"/>
+			<path d="M 493,49 L 485,49 Z" style="stroke: rgb(58%,38%,13%); stroke-linecap: butt; stroke-width: 0.95; stroke-dasharray: 3, 3;"/>
+			<polygon points="485 49, 490 46.5, 490 51.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(58%,38%,13%); fill-rule: evenodd;"/>
+			<text x="103.44807128906251" y="11" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.3px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,22) scale(1,-1)">DB menyimpan state; Mac yang mengeksekusi fetch. Tick bukan cadence nilai.</text>
+		</g>
+	</g>
+</svg>

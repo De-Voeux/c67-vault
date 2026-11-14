@@ -1,0 +1,654 @@
+{
+  "id": "cmems_mod_glo_phy_anfc_0.083deg_PT1H-m_202406",
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/datacube/v2.1.0/schema.json"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180,
+          -80
+        ],
+        [
+          -180,
+          90
+        ],
+        [
+          179.91668701171875,
+          90
+        ],
+        [
+          179.91668701171875,
+          -80
+        ],
+        [
+          -180,
+          -80
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180,
+    -80,
+    179.91668701171875,
+    90
+  ],
+  "properties": {
+    "datetime": null,
+    "start_datetime": "2022-06-01T00:00:00Z",
+    "end_datetime": "2026-11-19T23:00:00Z",
+    "Conventions": "CF-1.8",
+    "area": "Global",
+    "contact": "https://marine.copernicus.eu/contact",
+    "credit": "E.U. Copernicus Marine Service Information (CMEMS)",
+    "institution": "Mercator Ocean International",
+    "licence": "http://marine.copernicus.eu/services-portfolio/service-commitments-and-licence/",
+    "producer": "CMEMS - Global Monitoring and Forecasting Centre",
+    "references": "http://marine.copernicus.eu",
+    "source": "MOI GLO12",
+    "title": "hourly mean fields from Global Ocean Physics Analysis and Forecast updated Daily",
+    "cube:dimensions": {
+      "elevation": {
+        "type": "spatial",
+        "axis": "z",
+        "extent": [
+          -0.49402499198913574,
+          -0.49402499198913574
+        ],
+        "values": [
+          -0.49402499198913574
+        ],
+        "unit": "m"
+      },
+      "latitude": {
+        "type": "spatial",
+        "axis": "y",
+        "extent": [
+          -80,
+          90
+        ],
+        "step": 0.08333333333333333,
+        "reference_system": 4326
+      },
+      "longitude": {
+        "type": "spatial",
+        "axis": "x",
+        "extent": [
+          -180,
+          179.91668701171875
+        ],
+        "step": 0.08333333804392655,
+        "reference_system": 4326
+      },
+      "time": {
+        "type": "temporal",
+        "extent": [
+          "2022-06-01T00:00:00Z",
+          "2026-11-19T23:00:00Z"
+        ],
+        "step": "PT1H"
+      }
+    },
+    "cube:variables": {
+      "so": {
+        "id": "so",
+        "dimensions": [
+          "time",
+          "elevation",
+          "latitude",
+          "longitude"
+        ],
+        "type": "data",
+        "unit": "1e-3",
+        "standardName": "sea_water_salinity",
+        "abbreviation": "so",
+        "name": {
+          "en": "Sea surface salinity"
+        },
+        "unitConversion": null,
+        "missingValue": 9.969209968386869e+36,
+        "offset": null,
+        "scale": null,
+        "valueMin": 29.083649291992188,
+        "valueMax": 37.00143051147461,
+        "valueDiffMax": 3.9588906097412107,
+        "valueDiffRelMax": 25,
+        "valueClamp": true,
+        "hasLogScale": true,
+        "logScale": false,
+        "colormapId": "haline",
+        "colormapInvert": false,
+        "colormapDiffId": "balance",
+        "colormapDiffInvert": false,
+        "valueColor": false
+      },
+      "thetao": {
+        "id": "thetao",
+        "dimensions": [
+          "time",
+          "elevation",
+          "latitude",
+          "longitude"
+        ],
+        "type": "data",
+        "unit": "degrees_C",
+        "standardName": "sea_water_potential_temperature",
+        "abbreviation": "thetao",
+        "name": {
+          "en": "Sea surface temperature"
+        },
+        "unitConversion": null,
+        "missingValue": 9.969209968386869e+36,
+        "offset": null,
+        "scale": null,
+        "valueMin": -1.8091871380805968,
+        "valueMax": 30.61998748779297,
+        "valueDiffMax": 16.214587312936782,
+        "valueDiffRelMax": 25,
+        "valueClamp": true,
+        "hasLogScale": false,
+        "logScale": false,
+        "colormapId": "thermal",
+        "colormapInvert": false,
+        "colormapDiffId": "balance",
+        "colormapDiffInvert": false,
+        "valueColor": false
+      },
+      "uo": {
+        "id": "uo",
+        "dimensions": [
+          "time",
+          "elevation",
+          "latitude",
+          "longitude"
+        ],
+        "type": "data",
+        "unit": "m s-1",
+        "standardName": "eastward_sea_water_velocity",
+        "abbreviation": "uo",
+        "name": {
+          "en": "Eastward surface velocity"
+        },
+        "unitConversion": null,
+        "missingValue": 9.969209968386869e+36,
+        "offset": null,
+        "scale": null,
+        "valueMin": -1.5637902617454529,
+        "valueMax": 1.5637902617454529,
+        "valueDiffMax": 1.5637902617454529,
+        "valueDiffRelMax": 25,
+        "valueClamp": true,
+        "hasLogScale": false,
+        "logScale": false,
+        "colormapId": "balance",
+        "colormapInvert": false,
+        "colormapDiffId": "balance",
+        "colormapDiffInvert": false,
+        "valueColor": false
+      },
+      "vo": {
+        "id": "vo",
+        "dimensions": [
+          "time",
+          "elevation",
+          "latitude",
+          "longitude"
+        ],
+        "type": "data",
+        "unit": "m s-1",
+        "standardName": "northward_sea_water_velocity",
+        "abbreviation": "vo",
+        "name": {
+          "en": "Northward surface velocity"
+        },
+        "unitConversion": null,
+        "missingValue": 9.969209968386869e+36,
+        "offset": null,
+        "scale": null,
+        "valueMin": -1.5637902617454529,
+        "valueMax": 1.5637902617454529,
+        "valueDiffMax": 1.5637902617454529,
+        "valueDiffRelMax": 25,
+        "valueClamp": true,
+        "hasLogScale": false,
+        "logScale": false,
+        "colormapId": "balance",
+        "colormapInvert": false,
+        "colormapDiffId": "balance",
+        "colormapDiffInvert": false,
+        "valueColor": false
+      },
+      "zos": {
+        "id": "zos",
+        "dimensions": [
+          "time",
+          "elevation",
+          "latitude",
+          "longitude"
+        ],
+        "type": "data",
+        "unit": "m",
+        "standardName": "sea_surface_height_above_geoid",
+        "abbreviation": "zos",
+        "name": {
+          "en": "Sea surface height"
+        },
+        "unitConversion": null,
+        "missingValue": 9.969209968386869e+36,
+        "offset": null,
+        "scale": null,
+        "valueMin": -1.829446039199829,
+        "valueMax": 0.828102787733078,
+        "valueDiffMax": 1.3287744134664536,
+        "valueDiffRelMax": 25,
+        "valueClamp": true,
+        "hasLogScale": false,
+        "logScale": false,
+        "colormapId": "viridis",
+        "colormapInvert": false,
+        "colormapDiffId": "balance",
+        "colormapDiffInvert": false,
+        "valueColor": false
+      }
+    },
+    "admp_in_preparation": false,
+    "admp_released_date": "2024-06-18T13:00:00.000Z",
+    "admp_retired_date": null,
+    "admp_updated": "2026-11-10T03:20:25.867680Z",
+    "admp_sample_period": "hour",
+    "admp_updating_start_date": null,
+    "admp_updated_data": "2026-11-10T03:20:24.873Z",
+    "admp_title": "Hourly"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.stac.json",
+      "title": "Copernicus Marine Data Store",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../product.stac.json",
+      "title": "GLOBAL_ANALYSISFORECAST_PHY_001_024",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "../product.stac.json",
+      "title": "GLOBAL_ANALYSISFORECAST_PHY_001_024",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "native": {
+      "id": "native",
+      "href": "https://s3.waw3-1.cloudferro.com/mdl-native-14/native/GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_PT1H-m_202406",
+      "type": "application/x-netcdf",
+      "roles": [
+        "data"
+      ],
+      "title": "Native dataset",
+      "description": "The original, non-ARCO version of this dataset, as published by the data provider."
+    },
+    "wmts": {
+      "id": "wmts",
+      "href": "https://wmts.marine.copernicus.eu/teroWmts/GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_PT1H-m_202406?service=WMTS&request=GetCapabilities",
+      "type": "application/xml",
+      "roles": [
+        "visual"
+      ],
+      "title": "OGC Web Map Tile Service (WMTS)",
+      "description": "Georeferenced map tiles using the OGC WMTS standard."
+    },
+    "timeChunked": {
+      "id": "timeChunked",
+      "href": "https://s3.waw3-1.cloudferro.com/mdl-arco-time-014/arco/GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_PT1H-m_202406/timeChunked.zarr",
+      "type": "application/vnd+zarr",
+      "roles": [
+        "data"
+      ],
+      "title": "Time-chunked dataset in Zarr",
+      "description": "An ARCO version of this dataset with a small chunk size in the temporal dimension.\n    \nNote that the link (`href`) associated to this asset is the base directory\nof this dataset, but it cannot be accessed directly.\n\nTo download this dataset or part of it, \nuse a library such as [xarray](https://docs.xarray.dev/).",
+      "xarray:open_kwargs": {
+        "consolidated": true
+      },
+      "viewDims": {
+        "elevation": {
+          "chunkLen": {
+            "so": 1,
+            "thetao": 1,
+            "uo": 1,
+            "vo": 1,
+            "zos": 1
+          },
+          "len": 1,
+          "units": "m",
+          "coords": {
+            "type": "explicit",
+            "values": [
+              -0.49402499198913574
+            ]
+          }
+        },
+        "latitude": {
+          "chunkLen": {
+            "so": 512,
+            "thetao": 512,
+            "uo": 512,
+            "vo": 512,
+            "zos": 512
+          },
+          "len": 2041,
+          "units": "degrees_north",
+          "coords": {
+            "type": "minMaxStep",
+            "min": -80,
+            "max": 90,
+            "step": 0.08333333333333333,
+            "len": 2041
+          }
+        },
+        "longitude": {
+          "chunkLen": {
+            "so": 2048,
+            "thetao": 2048,
+            "uo": 2048,
+            "vo": 2048,
+            "zos": 2048
+          },
+          "len": 4320,
+          "units": "degrees_east",
+          "coords": {
+            "type": "minMaxStep",
+            "min": -180,
+            "max": 179.91668701171875,
+            "step": 0.08333333804392655,
+            "len": 4320
+          }
+        },
+        "time": {
+          "chunkLen": {
+            "so": 1,
+            "thetao": 1,
+            "uo": 1,
+            "vo": 1,
+            "zos": 1
+          },
+          "len": 39192,
+          "units": "milliseconds since 1970-01-01 00:00:00Z (no leap seconds)",
+          "coords": {
+            "type": "minMaxStep",
+            "min": 1654041600000,
+            "max": 1795129200000,
+            "step": 3600000,
+            "len": 39192
+          }
+        }
+      },
+      "viewVariables": {
+        "so": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        },
+        "thetao": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        },
+        "uo": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        },
+        "vo": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        },
+        "zos": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        }
+      },
+      "isAggregated": false
+    },
+    "downsampled4": {
+      "id": "downsampled4",
+      "href": "https://s3.waw3-1.cloudferro.com/mdl-arco-time-014/arco/GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_PT1H-m_202406/downsampled4.zarr",
+      "type": "application/vnd+zarr",
+      "roles": [
+        "data",
+        "downsampled"
+      ],
+      "title": "Downsampled dataset (by 4) in Zarr",
+      "description": "An ARCO version of this dataset, downsampled in the spatial dimensions by 4.\n    \nNote that the link (`href`) associated to this asset is the base directory\nof this dataset, but it cannot be accessed directly.\n\nTo download this dataset or part of it, \nuse a library such as [xarray](https://docs.xarray.dev/).",
+      "xarray:open_kwargs": {
+        "consolidated": true
+      },
+      "viewDims": {
+        "elevation": {
+          "chunkLen": {
+            "so": 1,
+            "thetao": 1,
+            "uo": 1,
+            "vo": 1,
+            "zos": 1
+          },
+          "len": 1,
+          "units": "m",
+          "coords": {
+            "type": "explicit",
+            "values": [
+              -0.49402499198913574
+            ]
+          }
+        },
+        "latitude": {
+          "chunkLen": {
+            "so": 511,
+            "thetao": 511,
+            "uo": 511,
+            "vo": 511,
+            "zos": 511
+          },
+          "len": 511,
+          "units": "degrees_north",
+          "coords": {
+            "type": "minMaxStep",
+            "min": -80,
+            "max": 90,
+            "step": 0.3333333333333333,
+            "len": 511
+          }
+        },
+        "longitude": {
+          "chunkLen": {
+            "so": 1080,
+            "thetao": 1080,
+            "uo": 1080,
+            "vo": 1080,
+            "zos": 1080
+          },
+          "len": 1080,
+          "units": "degrees_east",
+          "coords": {
+            "type": "minMaxStep",
+            "min": -180,
+            "max": 179.66668701171875,
+            "step": 0.3333333521888033,
+            "len": 1080
+          }
+        },
+        "time": {
+          "chunkLen": {
+            "so": 1,
+            "thetao": 1,
+            "uo": 1,
+            "vo": 1,
+            "zos": 1
+          },
+          "len": 39192,
+          "units": "milliseconds since 1970-01-01 00:00:00Z (no leap seconds)",
+          "coords": {
+            "type": "minMaxStep",
+            "min": 1654041600000,
+            "max": 1795129200000,
+            "step": 3600000,
+            "len": 39192
+          }
+        }
+      },
+      "viewVariables": {
+        "so": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        },
+        "thetao": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        },
+        "uo": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        },
+        "vo": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        },
+        "zos": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1553445.9259259258
+        }
+      },
+      "isAggregated": true
+    },
+    "geoChunked": {
+      "id": "geoChunked",
+      "href": "https://s3.waw3-1.cloudferro.com/mdl-arco-geo-014/arco/GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_PT1H-m_202406/geoChunked.zarr",
+      "type": "application/vnd+zarr",
+      "roles": [
+        "data"
+      ],
+      "title": "Geo-chunked dataset in Zarr",
+      "description": "An ARCO version of this dataset with a small chunk size in the spatial dimensions.\n    \nNote that the link (`href`) associated to this asset is the base directory\nof this dataset, but it cannot be accessed directly.\n\nTo download this dataset or part of it, \nuse a library such as [xarray](https://docs.xarray.dev/).",
+      "xarray:open_kwargs": {
+        "consolidated": true
+      },
+      "viewDims": {
+        "elevation": {
+          "chunkLen": {
+            "so": 1,
+            "thetao": 1,
+            "uo": 1,
+            "vo": 1,
+            "zos": 1
+          },
+          "len": 1,
+          "units": "m",
+          "coords": {
+            "type": "explicit",
+            "values": [
+              -0.49402499198913574
+            ]
+          }
+        },
+        "latitude": {
+          "chunkLen": {
+            "so": 16,
+            "thetao": 16,
+            "uo": 16,
+            "vo": 16,
+            "zos": 16
+          },
+          "len": 2041,
+          "units": "degrees_north",
+          "coords": {
+            "type": "minMaxStep",
+            "min": -80,
+            "max": 90,
+            "step": 0.08333333333333333,
+            "len": 2041
+          }
+        },
+        "longitude": {
+          "chunkLen": {
+            "so": 16,
+            "thetao": 16,
+            "uo": 16,
+            "vo": 16,
+            "zos": 16
+          },
+          "len": 4320,
+          "units": "degrees_east",
+          "coords": {
+            "type": "minMaxStep",
+            "min": -180,
+            "max": 179.91668701171875,
+            "step": 0.08333333804392655,
+            "len": 4320
+          }
+        },
+        "time": {
+          "chunkLen": {
+            "so": 3216,
+            "thetao": 3216,
+            "uo": 3216,
+            "vo": 3216,
+            "zos": 3216
+          },
+          "len": 39192,
+          "units": "milliseconds since 1970-01-01 00:00:00Z (no leap seconds)",
+          "coords": {
+            "type": "minMaxStep",
+            "min": 1654041600000,
+            "max": 1795129200000,
+            "step": 3600000,
+            "len": 39192
+          }
+        }
+      },
+      "viewVariables": {
+        "so": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1937167.0588235294
+        },
+        "thetao": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1937167.0588235294
+        },
+        "uo": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1937167.0588235294
+        },
+        "vo": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1937167.0588235294
+        },
+        "zos": {
+          "dtype": "<f4",
+          "itemSize": 4,
+          "chunkSize": 1937167.0588235294
+        }
+      },
+      "isAggregated": false
+    }
+  },
+  "collection": "GLOBAL_ANALYSISFORECAST_PHY_001_024"
+}
