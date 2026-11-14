@@ -1,0 +1,1513 @@
+{
+  "schema_version": "sst-probe-1",
+  "mode": "feasibility_probe",
+  "training_authorized": false,
+  "scope": "regional_model",
+  "provider": "copernicus",
+  "product": "GLOBAL_ANALYSISFORECAST_PHY_001_024",
+  "dataset": "cmems_mod_glo_phy_anfc_0.083deg_PT1H-m",
+  "dataset_version": "202406",
+  "variable": "thetao",
+  "unit": "degC",
+  "native_unit": "degrees_C",
+  "native_cadence_seconds": 3600,
+  "temporal_statistic": "hourly_mean",
+  "issued_at": null,
+  "provider_updated_at": "2026-11-10T03:20:24.873Z",
+  "last_checked_at": "2026-11-10T06:09:29Z",
+  "content_revision": "0399211a332a0e921894e65268d1893c1a3f3caa792c50e7f3b5a76c65340ae3",
+  "content_first_seen_at": "2026-11-10T06:08:29Z",
+  "content_changed": false,
+  "window_start": "2026-11-09T00:00:00Z",
+  "window_end": "2026-11-12T23:00:00Z",
+  "plots": [
+    {
+      "plot_id": "tidung-besar-reference",
+      "coordinate_status": "user_provided_island_reference_not_farm",
+      "requested_location": {
+        "latitude": -5.8211,
+        "longitude": 106.5522
+      },
+      "cell": {
+        "latitude": -5.8333282470703125,
+        "longitude": 106.58334350585938,
+        "depth_m": 0.49402499198913574
+      },
+      "cell_distance_km": 3.703730969077973,
+      "rows": [
+        {
+          "valid_at": "2026-11-09T00:00:00Z",
+          "value": 30.28322410583496,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T01:00:00Z",
+          "value": 30.308279037475586,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T02:00:00Z",
+          "value": 30.377256393432617,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T03:00:00Z",
+          "value": 30.53363037109375,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T04:00:00Z",
+          "value": 30.747817993164062,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T05:00:00Z",
+          "value": 30.970195770263672,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T06:00:00Z",
+          "value": 31.165546417236328,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T07:00:00Z",
+          "value": 31.294950485229492,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T08:00:00Z",
+          "value": 31.334535598754883,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T09:00:00Z",
+          "value": 31.240928649902344,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T10:00:00Z",
+          "value": 31.044496536254883,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T11:00:00Z",
+          "value": 30.910205841064453,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T12:00:00Z",
+          "value": 30.805179595947266,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T13:00:00Z",
+          "value": 30.710796356201172,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T14:00:00Z",
+          "value": 30.639142990112305,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T15:00:00Z",
+          "value": 30.586130142211914,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T16:00:00Z",
+          "value": 30.546329498291016,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T17:00:00Z",
+          "value": 30.517276763916016,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T18:00:00Z",
+          "value": 30.493600845336914,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T19:00:00Z",
+          "value": 30.47247886657715,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T20:00:00Z",
+          "value": 30.450124740600586,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T21:00:00Z",
+          "value": 30.427141189575195,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T22:00:00Z",
+          "value": 30.40146255493164,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T23:00:00Z",
+          "value": 30.38260841369629,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T00:00:00Z",
+          "value": 30.368867874145508,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T01:00:00Z",
+          "value": 30.369049072265625,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T02:00:00Z",
+          "value": 30.41171646118164,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T03:00:00Z",
+          "value": 30.500648498535156,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T04:00:00Z",
+          "value": 30.617284774780273,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T05:00:00Z",
+          "value": 30.75626564025879,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T06:00:00Z",
+          "value": 30.88264274597168,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T07:00:00Z",
+          "value": 30.948257446289062,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T08:00:00Z",
+          "value": 30.954166412353516,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T09:00:00Z",
+          "value": 30.916120529174805,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T10:00:00Z",
+          "value": 30.84980583190918,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T11:00:00Z",
+          "value": 30.774677276611328,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T12:00:00Z",
+          "value": 30.706880569458008,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T13:00:00Z",
+          "value": 30.657299041748047,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T14:00:00Z",
+          "value": 30.620832443237305,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T15:00:00Z",
+          "value": 30.587928771972656,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T16:00:00Z",
+          "value": 30.55677032470703,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T17:00:00Z",
+          "value": 30.527633666992188,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T18:00:00Z",
+          "value": 30.50244140625,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T19:00:00Z",
+          "value": 30.481584548950195,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T20:00:00Z",
+          "value": 30.456253051757812,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T21:00:00Z",
+          "value": 30.429723739624023,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T22:00:00Z",
+          "value": 30.415218353271484,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T23:00:00Z",
+          "value": 30.396778106689453,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T00:00:00Z",
+          "value": 30.352846145629883,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T01:00:00Z",
+          "value": 30.385021209716797,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T02:00:00Z",
+          "value": 30.509552001953125,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T03:00:00Z",
+          "value": 30.674945831298828,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T04:00:00Z",
+          "value": 30.86405372619629,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T05:00:00Z",
+          "value": 31.037153244018555,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T06:00:00Z",
+          "value": 31.100276947021484,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T07:00:00Z",
+          "value": 31.097139358520508,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T08:00:00Z",
+          "value": 31.134775161743164,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T09:00:00Z",
+          "value": 31.110618591308594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T10:00:00Z",
+          "value": 31.033946990966797,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T11:00:00Z",
+          "value": 30.942472457885742,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T12:00:00Z",
+          "value": 30.865623474121094,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T13:00:00Z",
+          "value": 30.804094314575195,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T14:00:00Z",
+          "value": 30.746326446533203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T15:00:00Z",
+          "value": 30.694887161254883,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T16:00:00Z",
+          "value": 30.652145385742188,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T17:00:00Z",
+          "value": 30.614830017089844,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T18:00:00Z",
+          "value": 30.57571792602539,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T19:00:00Z",
+          "value": 30.540616989135742,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T20:00:00Z",
+          "value": 30.521224975585938,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T21:00:00Z",
+          "value": 30.502866744995117,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T22:00:00Z",
+          "value": 30.47852325439453,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T23:00:00Z",
+          "value": 30.45814323425293,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T00:00:00Z",
+          "value": 30.458189010620117,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T01:00:00Z",
+          "value": 30.493289947509766,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T02:00:00Z",
+          "value": 30.576824188232422,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T03:00:00Z",
+          "value": 30.685190200805664,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T04:00:00Z",
+          "value": 30.80255699157715,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T05:00:00Z",
+          "value": 30.928983688354492,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T06:00:00Z",
+          "value": 31.025278091430664,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T07:00:00Z",
+          "value": 31.044668197631836,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T08:00:00Z",
+          "value": 30.998065948486328,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T09:00:00Z",
+          "value": 30.924577713012695,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T10:00:00Z",
+          "value": 30.845909118652344,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T11:00:00Z",
+          "value": 30.77911949157715,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T12:00:00Z",
+          "value": 30.728025436401367,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T13:00:00Z",
+          "value": 30.685903549194336,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T14:00:00Z",
+          "value": 30.64763641357422,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T15:00:00Z",
+          "value": 30.61991310119629,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T16:00:00Z",
+          "value": 30.59951400756836,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T17:00:00Z",
+          "value": 30.567407608032227,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T18:00:00Z",
+          "value": 30.5324764251709,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T19:00:00Z",
+          "value": 30.51682472229004,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T20:00:00Z",
+          "value": 30.50287437438965,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T21:00:00Z",
+          "value": 30.485857009887695,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T22:00:00Z",
+          "value": 30.462709426879883,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T23:00:00Z",
+          "value": 30.437904357910156,
+          "value_status": "present"
+        }
+      ]
+    },
+    {
+      "plot_id": "00000000-0000-4000-8000-000000000001",
+      "coordinate_status": "synthetic",
+      "requested_location": {
+        "latitude": -5.79268,
+        "longitude": 106.48012
+      },
+      "cell": {
+        "latitude": -5.8333282470703125,
+        "longitude": 106.5,
+        "depth_m": 0.49402499198913574
+      },
+      "cell_distance_km": 5.026509909580044,
+      "rows": [
+        {
+          "valid_at": "2026-11-09T00:00:00Z",
+          "value": 30.418424606323242,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T01:00:00Z",
+          "value": 30.450681686401367,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T02:00:00Z",
+          "value": 30.522798538208008,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T03:00:00Z",
+          "value": 30.67924690246582,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T04:00:00Z",
+          "value": 30.89174461364746,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T05:00:00Z",
+          "value": 31.110107421875,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T06:00:00Z",
+          "value": 31.29218101501465,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T07:00:00Z",
+          "value": 31.402442932128906,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T08:00:00Z",
+          "value": 31.419679641723633,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T09:00:00Z",
+          "value": 31.30411720275879,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T10:00:00Z",
+          "value": 31.086898803710938,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T11:00:00Z",
+          "value": 30.945446014404297,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T12:00:00Z",
+          "value": 30.832904815673828,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T13:00:00Z",
+          "value": 30.73550796508789,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T14:00:00Z",
+          "value": 30.66448402404785,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T15:00:00Z",
+          "value": 30.614280700683594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T16:00:00Z",
+          "value": 30.579240798950195,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T17:00:00Z",
+          "value": 30.554349899291992,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T18:00:00Z",
+          "value": 30.536840438842773,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T19:00:00Z",
+          "value": 30.526470184326172,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T20:00:00Z",
+          "value": 30.519636154174805,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T21:00:00Z",
+          "value": 30.510305404663086,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T22:00:00Z",
+          "value": 30.498336791992188,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T23:00:00Z",
+          "value": 30.489931106567383,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T00:00:00Z",
+          "value": 30.4849853515625,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T01:00:00Z",
+          "value": 30.496109008789062,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T02:00:00Z",
+          "value": 30.54720115661621,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T03:00:00Z",
+          "value": 30.639009475708008,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T04:00:00Z",
+          "value": 30.749130249023438,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T05:00:00Z",
+          "value": 30.881370544433594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T06:00:00Z",
+          "value": 31.00358772277832,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T07:00:00Z",
+          "value": 31.068788528442383,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T08:00:00Z",
+          "value": 31.062705993652344,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T09:00:00Z",
+          "value": 30.99666404724121,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T10:00:00Z",
+          "value": 30.905948638916016,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T11:00:00Z",
+          "value": 30.816638946533203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T12:00:00Z",
+          "value": 30.74294090270996,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T13:00:00Z",
+          "value": 30.6929874420166,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T14:00:00Z",
+          "value": 30.655899047851562,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T15:00:00Z",
+          "value": 30.62734031677246,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T16:00:00Z",
+          "value": 30.601877212524414,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T17:00:00Z",
+          "value": 30.582050323486328,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T18:00:00Z",
+          "value": 30.570817947387695,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T19:00:00Z",
+          "value": 30.56317710876465,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T20:00:00Z",
+          "value": 30.55217933654785,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T21:00:00Z",
+          "value": 30.54034996032715,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T22:00:00Z",
+          "value": 30.53362274169922,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T23:00:00Z",
+          "value": 30.530000686645508,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T00:00:00Z",
+          "value": 30.517635345458984,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T01:00:00Z",
+          "value": 30.537738800048828,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T02:00:00Z",
+          "value": 30.64266586303711,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T03:00:00Z",
+          "value": 30.801815032958984,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T04:00:00Z",
+          "value": 30.980642318725586,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T05:00:00Z",
+          "value": 31.139636993408203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T06:00:00Z",
+          "value": 31.200122833251953,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T07:00:00Z",
+          "value": 31.20936393737793,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T08:00:00Z",
+          "value": 31.263347625732422,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T09:00:00Z",
+          "value": 31.23217010498047,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T10:00:00Z",
+          "value": 31.133197784423828,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T11:00:00Z",
+          "value": 31.028715133666992,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T12:00:00Z",
+          "value": 30.94959259033203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T13:00:00Z",
+          "value": 30.87702178955078,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T14:00:00Z",
+          "value": 30.8133544921875,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T15:00:00Z",
+          "value": 30.76239013671875,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T16:00:00Z",
+          "value": 30.715606689453125,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T17:00:00Z",
+          "value": 30.67804527282715,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T18:00:00Z",
+          "value": 30.64740562438965,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T19:00:00Z",
+          "value": 30.610918045043945,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T20:00:00Z",
+          "value": 30.59187889099121,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T21:00:00Z",
+          "value": 30.591575622558594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T22:00:00Z",
+          "value": 30.577756881713867,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T23:00:00Z",
+          "value": 30.569684982299805,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T00:00:00Z",
+          "value": 30.57575035095215,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T01:00:00Z",
+          "value": 30.614368438720703,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T02:00:00Z",
+          "value": 30.70376968383789,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T03:00:00Z",
+          "value": 30.809167861938477,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T04:00:00Z",
+          "value": 30.925750732421875,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T05:00:00Z",
+          "value": 31.060258865356445,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T06:00:00Z",
+          "value": 31.169225692749023,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T07:00:00Z",
+          "value": 31.198925018310547,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T08:00:00Z",
+          "value": 31.139039993286133,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T09:00:00Z",
+          "value": 31.035594940185547,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T10:00:00Z",
+          "value": 30.932432174682617,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T11:00:00Z",
+          "value": 30.84813117980957,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T12:00:00Z",
+          "value": 30.784940719604492,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T13:00:00Z",
+          "value": 30.73699378967285,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T14:00:00Z",
+          "value": 30.699771881103516,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T15:00:00Z",
+          "value": 30.678611755371094,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T16:00:00Z",
+          "value": 30.66524314880371,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T17:00:00Z",
+          "value": 30.649681091308594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T18:00:00Z",
+          "value": 30.62931251525879,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T19:00:00Z",
+          "value": 30.616121292114258,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T20:00:00Z",
+          "value": 30.608301162719727,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T21:00:00Z",
+          "value": 30.596912384033203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T22:00:00Z",
+          "value": 30.580276489257812,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T23:00:00Z",
+          "value": 30.563522338867188,
+          "value_status": "present"
+        }
+      ]
+    },
+    {
+      "plot_id": "00000000-0000-4000-8000-000000000002",
+      "coordinate_status": "example_not_surveyed",
+      "requested_location": {
+        "latitude": -5.798,
+        "longitude": 106.494
+      },
+      "cell": {
+        "latitude": -5.8333282470703125,
+        "longitude": 106.5,
+        "depth_m": 0.49402499198913574
+      },
+      "cell_distance_km": 3.9840056926787004,
+      "rows": [
+        {
+          "valid_at": "2026-11-09T00:00:00Z",
+          "value": 30.418424606323242,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T01:00:00Z",
+          "value": 30.450681686401367,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T02:00:00Z",
+          "value": 30.522798538208008,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T03:00:00Z",
+          "value": 30.67924690246582,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T04:00:00Z",
+          "value": 30.89174461364746,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T05:00:00Z",
+          "value": 31.110107421875,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T06:00:00Z",
+          "value": 31.29218101501465,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T07:00:00Z",
+          "value": 31.402442932128906,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T08:00:00Z",
+          "value": 31.419679641723633,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T09:00:00Z",
+          "value": 31.30411720275879,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T10:00:00Z",
+          "value": 31.086898803710938,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T11:00:00Z",
+          "value": 30.945446014404297,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T12:00:00Z",
+          "value": 30.832904815673828,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T13:00:00Z",
+          "value": 30.73550796508789,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T14:00:00Z",
+          "value": 30.66448402404785,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T15:00:00Z",
+          "value": 30.614280700683594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T16:00:00Z",
+          "value": 30.579240798950195,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T17:00:00Z",
+          "value": 30.554349899291992,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T18:00:00Z",
+          "value": 30.536840438842773,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T19:00:00Z",
+          "value": 30.526470184326172,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T20:00:00Z",
+          "value": 30.519636154174805,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T21:00:00Z",
+          "value": 30.510305404663086,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T22:00:00Z",
+          "value": 30.498336791992188,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-09T23:00:00Z",
+          "value": 30.489931106567383,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T00:00:00Z",
+          "value": 30.4849853515625,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T01:00:00Z",
+          "value": 30.496109008789062,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T02:00:00Z",
+          "value": 30.54720115661621,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T03:00:00Z",
+          "value": 30.639009475708008,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T04:00:00Z",
+          "value": 30.749130249023438,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T05:00:00Z",
+          "value": 30.881370544433594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T06:00:00Z",
+          "value": 31.00358772277832,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T07:00:00Z",
+          "value": 31.068788528442383,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T08:00:00Z",
+          "value": 31.062705993652344,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T09:00:00Z",
+          "value": 30.99666404724121,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T10:00:00Z",
+          "value": 30.905948638916016,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T11:00:00Z",
+          "value": 30.816638946533203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T12:00:00Z",
+          "value": 30.74294090270996,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T13:00:00Z",
+          "value": 30.6929874420166,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T14:00:00Z",
+          "value": 30.655899047851562,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T15:00:00Z",
+          "value": 30.62734031677246,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T16:00:00Z",
+          "value": 30.601877212524414,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T17:00:00Z",
+          "value": 30.582050323486328,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T18:00:00Z",
+          "value": 30.570817947387695,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T19:00:00Z",
+          "value": 30.56317710876465,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T20:00:00Z",
+          "value": 30.55217933654785,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T21:00:00Z",
+          "value": 30.54034996032715,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T22:00:00Z",
+          "value": 30.53362274169922,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-10T23:00:00Z",
+          "value": 30.530000686645508,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T00:00:00Z",
+          "value": 30.517635345458984,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T01:00:00Z",
+          "value": 30.537738800048828,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T02:00:00Z",
+          "value": 30.64266586303711,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T03:00:00Z",
+          "value": 30.801815032958984,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T04:00:00Z",
+          "value": 30.980642318725586,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T05:00:00Z",
+          "value": 31.139636993408203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T06:00:00Z",
+          "value": 31.200122833251953,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T07:00:00Z",
+          "value": 31.20936393737793,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T08:00:00Z",
+          "value": 31.263347625732422,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T09:00:00Z",
+          "value": 31.23217010498047,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T10:00:00Z",
+          "value": 31.133197784423828,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T11:00:00Z",
+          "value": 31.028715133666992,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T12:00:00Z",
+          "value": 30.94959259033203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T13:00:00Z",
+          "value": 30.87702178955078,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T14:00:00Z",
+          "value": 30.8133544921875,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T15:00:00Z",
+          "value": 30.76239013671875,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T16:00:00Z",
+          "value": 30.715606689453125,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T17:00:00Z",
+          "value": 30.67804527282715,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T18:00:00Z",
+          "value": 30.64740562438965,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T19:00:00Z",
+          "value": 30.610918045043945,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T20:00:00Z",
+          "value": 30.59187889099121,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T21:00:00Z",
+          "value": 30.591575622558594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T22:00:00Z",
+          "value": 30.577756881713867,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-11T23:00:00Z",
+          "value": 30.569684982299805,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T00:00:00Z",
+          "value": 30.57575035095215,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T01:00:00Z",
+          "value": 30.614368438720703,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T02:00:00Z",
+          "value": 30.70376968383789,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T03:00:00Z",
+          "value": 30.809167861938477,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T04:00:00Z",
+          "value": 30.925750732421875,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T05:00:00Z",
+          "value": 31.060258865356445,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T06:00:00Z",
+          "value": 31.169225692749023,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T07:00:00Z",
+          "value": 31.198925018310547,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T08:00:00Z",
+          "value": 31.139039993286133,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T09:00:00Z",
+          "value": 31.035594940185547,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T10:00:00Z",
+          "value": 30.932432174682617,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T11:00:00Z",
+          "value": 30.84813117980957,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T12:00:00Z",
+          "value": 30.784940719604492,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T13:00:00Z",
+          "value": 30.73699378967285,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T14:00:00Z",
+          "value": 30.699771881103516,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T15:00:00Z",
+          "value": 30.678611755371094,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T16:00:00Z",
+          "value": 30.66524314880371,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T17:00:00Z",
+          "value": 30.649681091308594,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T18:00:00Z",
+          "value": 30.62931251525879,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T19:00:00Z",
+          "value": 30.616121292114258,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T20:00:00Z",
+          "value": 30.608301162719727,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T21:00:00Z",
+          "value": 30.596912384033203,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T22:00:00Z",
+          "value": 30.580276489257812,
+          "value_status": "present"
+        },
+        {
+          "valid_at": "2026-11-12T23:00:00Z",
+          "value": 30.563522338867188,
+          "value_status": "present"
+        }
+      ]
+    }
+  ]
+}

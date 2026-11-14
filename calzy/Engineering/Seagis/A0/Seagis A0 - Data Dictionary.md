@@ -39,6 +39,8 @@ Nilai `0` dengan status `present` adalah **measured zero** pada `observation`, *
 
 ## Unit per field
 
+Pembaruan kebutuhan 5 November 2026: `air_temperature_2m`, `wind_speed_10m` dan `wind_direction_10m` dikeluarkan; `water_temperature` sensor tetap. Tabel mengikuti kebutuhan terbaru, sedangkan SQL A0 yang dirujuk di atas masih baseline historis. Perubahan runtime belum diterapkan; lihat [[Seagis A0 - Data Contracts#Perubahan kebutuhan — 5 November 2026]].
+
 | Parameter | Native pada dataset terpilih | Normalized | Konversi A0 |
 | --- | --- | --- | --- |
 | `water_temperature` | `degC` | `degC` | Identity; suhu air terendam |
@@ -46,11 +48,8 @@ Nilai `0` dengan status `present` adalah **measured zero** pada `observation`, *
 | `current_eastward`, `current_northward` | `m s-1` | `m/s` | Notasi unit; komponen asli tetap disimpan |
 | `nitrate`, `phosphate` | `mmol m-3` | `mmol/m3` | Notasi unit; konversi ke mg/L memerlukan basis spesies kimia yang belum dipilih |
 | `precipitation` | `mm` | `mm` | Total satu jam sebelumnya; bukan intensitas mm/jam tanpa interval |
-| `wind_speed_10m` | `m/s` diminta eksplisit | `m/s` | Identity; jangan menerima default km/h pada kontrak ini |
-| `wind_direction_10m` | `°` | `degree` | Notasi; arah **dari**, searah jarum jam dari utara |
 | `cloud_cover` | `%` | `percent` | Notasi; 60 berarti 60%, bukan 0,60 |
 | `uv_index` | string unit kosong | `1` | Notasi tanpa dimensi |
-| `air_temperature_2m` | `°C` | `degC` | Notasi; suhu udara pada 2 m, tidak disamakan dengan sensor air |
 
 ## Ingestion dan raw
 

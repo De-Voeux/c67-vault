@@ -10,7 +10,7 @@ Diperiksa: **21 Oktober 2026**. Ini inventaris metadata serta keputusan engineer
 | `cmems_salinity_6h` | `GLOBAL_ANALYSISFORECAST_PHY_001_024`; `cmems_mod_glo_phy-so_anfc_0.083deg_PT6H-i`, versi `202406` | `so`, `1e-3` | ~1/12°; instantaneous 6 jam | Produk fisik harian; satu fetch per pembaruan terdeteksi |
 | `cmems_currents_6h` | Product fisik sama; `cmems_mod_glo_phy-cur_anfc_0.083deg_PT6H-i`, versi `202406` | `uo`, `vo`, `m s-1` | ~1/12°; instantaneous 6 jam | Mengikuti publikasi fisik, bukan polling hourly seragam |
 | `cmems_nutrients_daily` | `GLOBAL_ANALYSISFORECAST_BGC_001_028`; `cmems_mod_glo_bgc-nut_anfc_0.25deg_P1D-m`, versi `202311` | `no3`, `po4`, `mmol m-3` | 0,25°; mean harian | Mengikuti pembaruan BGC harian |
-| `open_meteo_gfs` | Forecast API, request model `gfs_global` | Enam field pada tabel di bawah | API hourly; cadence dan grid native dapat berbeda antarfield/horizon | Siklus model sekitar 6 jam; cek metadata availability terlebih dahulu |
+| `open_meteo_gfs` | Forecast API, request model `gfs_global` | Tiga field kebutuhan terbaru pada tabel di bawah | API hourly; cadence dan grid native dapat berbeda antarfield/horizon | Siklus model sekitar 6 jam; cek metadata availability terlebih dahulu |
 
 Katalog [fisik/data access](https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_PHY_001_024/services) dan [nutrien/data access](https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_BGC_001_028/services) memberi dataset ID. Jenis waktu, unit, fill value, versi, dan layer teratas dicek langsung melalui STAC yang URL-nya ada dalam snapshot. [Keterangan produk fisik](https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_PHY_001_024/description) dan [BGC](https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_BGC_001_028/description) menjadi konteks update; waktu update katalog tidak dipakai sebagai `issued_at` forecast.
 
@@ -18,14 +18,13 @@ Layer teratas STAC fisik memiliki elevasi `-0.49402499198913574 m`; usulan depth
 
 ## Field atmosfer
 
+Pembaruan kebutuhan 5 November 2026: suhu udara `temperature_2m` / `air_temperature_2m`, kecepatan angin `wind_speed_10m` dan arah angin `wind_direction_10m` dikeluarkan sesuai keputusan pengguna; belum ada kebutuhan keputusan budidaya untuk ketiga field tersebut. Tabel berikut adalah kebutuhan terbaru, bukan klaim konfigurasi backend sudah berubah. Suhu air sensor tetap dipakai. Detail transisi ada di [[Seagis A0 - Data Contracts#Perubahan kebutuhan — 5 November 2026]].
+
 | Field Open-Meteo | Field normalisasi | Native unit yang diminta | Normalized unit | Dukungan waktu |
 | --- | --- | --- | --- | --- |
 | `precipitation` | `precipitation` | `mm` | `mm` | Jumlah selama satu jam sebelumnya; simpan batas interval |
-| `wind_speed_10m` | `wind_speed_10m` | `m/s` | `m/s` | Instantaneous |
-| `wind_direction_10m` | `wind_direction_10m` | `°` | `degree` | Instantaneous; arah meteorologis **dari** |
 | `cloud_cover` | `cloud_cover` | `%` | `percent` | Instantaneous |
 | `uv_index` | `uv_index` | string kosong dari API | `1` | Instantaneous; tanpa dimensi |
-| `temperature_2m` | `air_temperature_2m` | `°C` | `degC` | Instantaneous; berbeda dari suhu air |
 
 Definisi field dan unit: [dokumentasi GFS](https://open-meteo.com/en/docs/gfs-api). Parameter usulan: `models=gfs_global`, `timezone=UTC`, `wind_speed_unit=ms`, `temperature_unit=celsius`, `precipitation_unit=mm`, `cell_selection=nearest`, `elevation=nan`. Menonaktifkan koreksi elevasi adalah keputusan engineering untuk konteks laut yang akan diuji A2.
 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="499" height="259" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 259" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Seagis A0-A3 / 03-iot</title>
+	<desc>Diagram engineering berdasarkan implementasi e93a005. Biru: proses Mac. Hijau: sumber atau layanan/data cloud. Amber putus-putus: jalur kelak atau kegagalan.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="259"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-259)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="499" height="259" rx="7" ry="7" style="stroke: rgb(80%,86%,85%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(98%,99%,98%); fill-rule: evenodd;"/>
+			<rect x="14" y="207" width="222" height="42" rx="5" ry="5" style="stroke: rgb(23%,40%,63%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(93%,95%,98%); fill-rule: evenodd;"/>
+			<text x="22" y="230.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,460) scale(1,-1)">Simulator A1 | Mac</text>
+			<text x="22" y="218.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,436) scale(1,-1)">Paket sintetis melalui HTTP</text>
+			<rect x="263" y="207" width="222" height="42" rx="5" ry="5" style="stroke: rgb(58%,38%,13%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(98%,95%,90%); fill-rule: evenodd; stroke-dasharray: 4, 3;"/>
+			<text x="271" y="230.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,460) scale(1,-1)">Receiver IoT | kelak</text>
+			<text x="271" y="218.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,436) scale(1,-1)">UTC, queue persisten, boot + sequence</text>
+			<path d="M 125,207 L 125,196 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 125,196 L 249,196 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<path d="M 249,196 L 249,183 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="249 183, 251.5 188, 246.5 188" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 374,207 L 374,196 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95; stroke-dasharray: 3, 3;"/>
+			<path d="M 374,196 L 249,196 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95; stroke-dasharray: 3, 3;"/>
+			<polygon points="249 196, 254 193.5, 254 198.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="53" y="144" width="393" height="39" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="61" y="165.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,331) scale(1,-1)">HTTPS POST /v1/ingest | Edge temperature</text>
+			<text x="61" y="153.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,307) scale(1,-1)">Bearer device token; satu sensor / satu paket</text>
+			<path d="M 249,144 L 249,131 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="249 131, 251.5 136, 246.5 136" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="53" y="91" width="393" height="40" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="61" y="113.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,226) scale(1,-1)">SQL privat | seagis_api.ingest</text>
+			<text x="61" y="101.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,202) scale(1,-1)">Auth + binding + rate limit + digest + QC + lock</text>
+			<path d="M 249,91 L 249,78 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="249 78, 251.5 83, 246.5 83" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<rect x="14" y="38" width="471" height="40" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="22" y="60.0" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,120) scale(1,-1)">Transaksi PostgreSQL | Supabase</text>
+			<text x="22" y="48.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,96) scale(1,-1)">ingestion + raw + observation + quality_event + packet_receipt</text>
+			<text x="122.16723632812499" y="21" style="font-family: Arial, Helvetica, sans-serif; font-size: 9px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,42) scale(1,-1)">201 stored / 200 duplicate: acknowledge; 409: karantina konflik.</text>
+			<text x="124.18652343749999" y="8" style="font-family: Arial, Helvetica, sans-serif; font-size: 9px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,16) scale(1,-1)">GET history / status memakai reader token dengan scope plot.</text>
+		</g>
+	</g>
+</svg>

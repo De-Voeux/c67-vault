@@ -1,7 +1,7 @@
 ---
 type: moc
 project: "[[Challenge Final]]"
-updated: 2026-10-29
+updated: 2026-11-14
 tags: [challenge-final, navigation]
 ---
 
@@ -27,8 +27,9 @@ Setiap catatan terhubung melalui indeks kategori dan tautan topik yang sudah ada
 
 ## Jalur membaca
 
-- PoC IoT terkini: [[Status PoC IoT Suhu SEAGIS - 29 Oktober 2026]] — part mulai tiba, firmware v2 dalam simulasi, pin baru, jadwal unggah 06:00 WIB, dan status backend. Riwayat: [[Status PoC IoT Suhu SEAGIS - 28 Oktober 2026]], [[Status PoC IoT Suhu SEAGIS - 23 Oktober 2026]].
-- Progres terbaru: [[Konteks Progres Seagis - 21 Oktober 2026]] → [[Seagis_Master_Research_Context_2026-10-21]] → [[Provenance Import Konteks Seagis 2026-10-21]].
+- Status engineering terbaru: [[Handover Seagis - Status Pilot Tidung - 14 November 2026]] → [[Handover Seagis - Integrasi dan Kesiapan Rilis - 12 November 2026]] → [[Indeks - Engineering]].
+- PoC IoT terkini: [[Status PoC IoT Suhu SEAGIS - 13 November 2026]] (folder `radit/` di c67-vault) — catatan tim IoT; riwayat sebelumnya ada di folder yang sama.
+- Konteks riset terkonsolidasi: [[Konteks Progres Seagis - 21 Oktober 2026]] → [[Seagis_Master_Research_Context_2026-10-21]] → [[Provenance Import Konteks Seagis 2026-10-21]].
 
 - Kasus lokal: [[Rumput Laut Kepulauan Seribu]] → [[Interview - Fauzi (Penyuluh Rumput Laut Pulau Tidung)]] → [[Air Busuk Pulau Tidung - Hipotesis dan Langkah Identifikasi]].
 - Sains: [[Empat Variabel Lingkungan dan Batas Kuantifikasi Ice-Ice]] → [[Sintesis Penyebab Ice-Ice]] → [[Matriks Bukti Ice-Ice]].
@@ -39,4 +40,4 @@ Setiap catatan terhubung melalui indeks kategori dan tautan topik yang sudah ada
 
 Catatan karhutla dan kandidat challenge NASA lain dihapus dari vault karena tidak masuk fokus riset ini. Referensinya dibersihkan. Wawancara ikan/udang, organisasi, ekonomi dan sumber informasi petani tetap dipertahankan sebagai konteks pembanding. Arsip asli yang berisi campuran topik tidak dipotong agar provenance tidak rusak.
 
-Folder aplikasi/prototipe berada di luar vault: `/Users/cindyram/Documents/Projects/Challenge Final`.
+Aplikasi iOS utama Seagis berada di luar vault: `/Users/cindyram/Documents/Apple/Seagis`. Status integrasi: [[Status Integrasi Seagis - 28 Oktober 2026]]. Repositori data/model dan knowledge tetap terpisah; catatan POC lama adalah riwayat.

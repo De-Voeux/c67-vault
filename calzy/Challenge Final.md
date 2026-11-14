@@ -7,6 +7,14 @@ tags: [type/project, status/active, challenge-final, akuakultur]
 
 # Challenge Final
 
+## Status pilot Tidung — 14 November 2026
+
+Dua probe suhu fisik terpasang di Pulau Tidung sejak 13 November (±13:56 WIB) dan dipetakan ke Dahlan Lahan 1 dan Lahan 2. Data sudah masuk ke backend, tetapi semua observasi masih `suspect` karena basis waktu hub; belum layak untuk forecast atau training. App memakai login akun penyuluh (email/password) dengan penugasan lahan dari backend; Sign in with Apple tidak dipakai. Monitoring menampilkan device live dalam WIB. Rinciannya, termasuk pekerjaan yang belum di-push dan syarat App Store yang belum terpenuhi, ada di [[Handover Seagis - Status Pilot Tidung - 14 November 2026]]. Rencana dashboard admin untuk akun, lokasi dan sensor: [[Rencana Dashboard Admin Monitoring - Akun Lokasi Sensor]] (rencana, belum diimplementasikan).
+
+## Aplikasi dan integrasi — 28 Oktober 2026
+
+Aplikasi iOS utama Seagis berada di `/Users/cindyram/Documents/Apple/Seagis` (project `Seagis.xcodeproj`, scheme `Seagis`). [[Status Integrasi Seagis - 28 Oktober 2026]] merangkum kesiapan, dependency dan batas pemeriksaan; integrasi live belum siap. AppPOC dan TidungMonitor adalah konteks POC historis.
+
 ## Pembaruan arah desain — 21 Oktober 2026
 
 [[Pembaruan Desain - Sensor Suhu Hourly dan Inferensi On-Device]] — keputusan terbaru tim: **sensor suhu saja, satu per tambak dan ditinggalkan untuk pencatatan hourly**. Data mengalir ke receiver ESP32 (konsep sementara) dengan konektivitas seluler/SIM, lalu backend dan aplikasi. Model forecast serta classifier nantinya berada di app untuk inferensi on-device. Perubahan besar ke suhu saja didorong keterbatasan harga dan kualitas pengukuran sensor salinitas yang dapat diperoleh tim. Menggantikan konsep sesi suhu/salinitas yang diambil kembali untuk sinkronisasi; belum implementasi hardware atau prediksi ice-ice tervalidasi.

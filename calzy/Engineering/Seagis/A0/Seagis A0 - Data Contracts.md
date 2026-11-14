@@ -2,6 +2,23 @@
 
 Kontrak A0 memisahkan payload provider dari representasi normalized. JSON Schema Draft 2020-12 berada di [source schema](../contracts/source.schema.json) dan [normalized schema](../contracts/normalized.schema.json). `scripts/validate_contracts.py` menambahkan pemeriksaan lintas field: unit, finite numbers, hash, urutan waktu, dukungan temporal, identitas sumber, grid/kedalaman, dan kesesuaian contoh dengan sumbernya. Ini validator kontrak/fixture, bukan adapter ingestion production.
 
+## Perubahan kebutuhan — 5 November 2026
+
+Sesuai keputusan pengguna, suhu udara (`temperature_2m` Open-Meteo / `air_temperature_2m` normalized), kecepatan angin (`wind_speed_10m`) dan arah angin (`wind_direction_10m`) dikeluarkan dari kebutuhan data dan input keputusan Seagis. Kebutuhan Open-Meteo menjadi tiga field: `precipitation`, `cloud_cover`, dan `uv_index`. `precipitation_probability` tidak ditambahkan. Suhu air `water_temperature` dari sensor tetap dipakai dengan target pengukuran/pengiriman hourly.
+
+Ini perubahan kebutuhan dokumentasi; schema, fixture, allowlist, adapter request/mapping, ekspor/API dan deployment backend belum diubah oleh catatan ini. Implementasi berikutnya perlu menyelaraskan komponen tersebut dan versi kontraknya, tanpa menghapus rekaman historis. Ketiga field yang dikeluarkan bukan field wajib pada kontrak target; ketiadaannya tidak boleh dianggap gap data wajib. Contoh dan versi A0 `0.1.0` di bawah adalah baseline historis. Lihat [[Seagis A0 - Source Registry]] dan [[Seagis A0 - Data Dictionary]].
+
+Arus air ditampilkan sebagai satu parameter produk: **kecepatan dan arah arus**. Input sumber `uo` dan `vo` tetap disimpan; kecepatan = `sqrt(uo² + vo²)`, arah tujuan = `(degrees(atan2(uo, vo)) + 360) % 360` dengan konvensi fungsi `atan2(y, x)`. Pasangkan run, grid, kedalaman dan waktu yang identik; arah null bila kedua komponen nol atau pasangan tidak lengkap. Nol kecepatan hanya sah bila kedua komponen valid dan nol.
+
+Handoff backend untuk perubahan scope:
+
+- `config/a2_sources.json`: keluarkan `temperature_2m`, `wind_speed_10m`, `wind_direction_10m` dari daftar variabel; adapter Open-Meteo membentuk request dari daftar itu. Rapikan opsi request unit angin/suhu yang tidak diperlukan.
+- `contracts/source.schema.json`, `contracts/normalized.schema.json` dan `scripts/validate_contracts.py`: sesuaikan field wajib, allowlist dan validasi kontrak baru; versi lama tetap dapat dibaca sesuai kebijakan kompatibilitas.
+- Registry database: gunakan migrasi baru untuk menonaktifkan tiga parameter pada konfigurasi ingestion aktif; jangan mengedit migrasi lama atau menghapus referensi parameter yang masih dipakai rekaman historis.
+- `config/a3_quality.json` serta builder alignment: keluarkan tiga field dari kebutuhan aktif, coverage, missingness, QC dan input keputusan. Pastikan ketiadaannya tidak menurunkan kelengkapan data.
+- Ekspor CSV, API/view/RPC dan consumer: audit field terpapar, jumlah parameter dan daftar wajib; tampilkan arus sebagai kecepatan/arah sambil mempertahankan lineage uo/vo. Jangan menjumlahkan atau merata-ratakan sudut secara linear.
+- Fixture dan pengujian: respons Open-Meteo tiga field diterima; field yang dihentikan tidak diminta/tidak membuat gap; data historis tetap terbaca; uji pasangan arus, arah mata angin dan arus nol.
+
 ## Contoh per sumber
 
 Semua contoh di bawah memiliki `is_synthetic=true`. Sensor ID, grid, waktu, dan angka contoh tidak menyatakan deployment/peristiwa nyata di Pulau Tidung.

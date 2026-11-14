@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="499" height="218" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 218" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Seagis A0-A3 / 06-cutoff</title>
+	<desc>Diagram engineering berdasarkan implementasi e93a005. Biru: proses Mac. Hijau: sumber atau layanan/data cloud. Amber putus-putus: jalur kelak atau kegagalan.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="218"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-218)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="499" height="218" rx="7" ry="7" style="stroke: rgb(80%,86%,85%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(98%,99%,98%); fill-rule: evenodd;"/>
+			<text x="16" y="195" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,390) scale(1,-1)">Ilustrasi WIB | jarak gambar tidak menunjukkan durasi proporsional</text>
+			<path d="M 35,152 L 470,152 Z" style="stroke: rgb(32%,41%,43%); stroke-linecap: butt; stroke-width: 0.95;"/>
+			<polygon points="470 152, 465 154.5, 465 149.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,41%,43%); fill-rule: evenodd;"/>
+			<path d="M 65,160 L 65,143 Z" style="stroke: rgb(8%,21%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="52.2119140625" y="170" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,340) scale(1,-1)">09:00</text>
+			<text x="52.718994140625" y="127" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,254) scale(1,-1)">Diukur</text>
+			<path d="M 210,160 L 210,143 Z" style="stroke: rgb(8%,21%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="197.2119140625" y="170" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,340) scale(1,-1)">09:05</text>
+			<text x="181.656982421875" y="127" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,254) scale(1,-1)">Diterima/ingest</text>
+			<path d="M 440,160 L 440,143 Z" style="stroke: rgb(8%,21%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="427.2119140625" y="170" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,340) scale(1,-1)">10:00</text>
+			<text x="414.72412109375" y="127" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,254) scale(1,-1)">Cutoff berikut</text>
+			<rect x="14" y="48" width="222" height="57" rx="5" ry="5" style="stroke: rgb(58%,38%,13%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(98%,95%,90%); fill-rule: evenodd; stroke-dasharray: 4, 3;"/>
+			<text x="22" y="83.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,167) scale(1,-1)">Cutoff 09:00 -&gt; belum tersedia</text>
+			<text x="22" y="71.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,143) scale(1,-1)">Receipt 09:05 melewati cutoff. Baris 09:00 tidak</text>
+			<text x="22" y="61.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,123) scale(1,-1)">memakai paket.</text>
+			<rect x="263" y="48" width="222" height="57" rx="5" ry="5" style="stroke: rgb(8%,48%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,96%,95%); fill-rule: evenodd;"/>
+			<text x="271" y="83.5" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,167) scale(1,-1)">Cutoff 10:00 -&gt; kandidat konteks</text>
+			<text x="271" y="71.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,143) scale(1,-1)">Sudah tersedia, umur 60 menit. Tetap harus lolos</text>
+			<text x="271" y="61.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 8.5px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,123) scale(1,-1)">cadence dan QC.</text>
+			<text x="122.16943359374999" y="24" style="font-family: Arial, Helvetica, sans-serif; font-size: 9px;fill: rgb(8%,21%,24%); stroke:none;" transform="translate(0,48) scale(1,-1)">observed_at berbeda dari ingested_at; histori tidak di-backdate.</text>
+			<text x="122.044921875" y="9" style="font-family: Arial, Helvetica, sans-serif; font-size: 8px;fill: rgb(32%,41%,43%); stroke:none;" transform="translate(0,18) scale(1,-1)">Paket ilustratif; tidak menyatakan hardware sudah mengirim data nyata.</text>
+		</g>
+	</g>
+</svg>

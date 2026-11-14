@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "cell_latitude": -5.8333282470703125,
+      "cell_longitude": 106.58334350585938,
+      "content_revision": "0399211a332a0e921894e65268d1893c1a3f3caa792c50e7f3b5a76c65340ae3",
+      "coordinate_status": "user_provided_island_reference_not_farm",
+      "current_valid_at": "2026-11-10T06:00:00Z",
+      "current_value": 30.88264274597168,
+      "plot_id": "tidung-besar-reference",
+      "production_app_integrated": false,
+      "result": "http_decode_passed",
+      "sample_count": 96,
+      "temporal_status": "current_hour_available",
+      "unit": "degC"
+    },
+    {
+      "cell_latitude": -5.8333282470703125,
+      "cell_longitude": 106.5,
+      "content_revision": "0399211a332a0e921894e65268d1893c1a3f3caa792c50e7f3b5a76c65340ae3",
+      "coordinate_status": "synthetic",
+      "current_valid_at": "2026-11-10T06:00:00Z",
+      "current_value": 31.00358772277832,
+      "plot_id": "00000000-0000-4000-8000-000000000001",
+      "production_app_integrated": false,
+      "result": "http_decode_passed",
+      "sample_count": 96,
+      "temporal_status": "current_hour_available",
+      "unit": "degC"
+    },
+    {
+      "cell_latitude": -5.8333282470703125,
+      "cell_longitude": 106.5,
+      "content_revision": "0399211a332a0e921894e65268d1893c1a3f3caa792c50e7f3b5a76c65340ae3",
+      "coordinate_status": "example_not_surveyed",
+      "current_valid_at": "2026-11-10T06:00:00Z",
+      "current_value": 31.00358772277832,
+      "plot_id": "00000000-0000-4000-8000-000000000002",
+      "production_app_integrated": false,
+      "result": "http_decode_passed",
+      "sample_count": 96,
+      "temporal_status": "current_hour_available",
+      "unit": "degC"
+    }
+  ],
+  "unknown_plot_http_status": 404,
+  "transport": "local_loopback_http",
+  "production_app_integrated": false
+}
